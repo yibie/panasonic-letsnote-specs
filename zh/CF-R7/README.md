@@ -1,0 +1,189 @@
+# 松下 Let's note CF-R7 规格参数
+
+[English](../../en/CF-R7/) · [日本語](../../ja/CF-R7/) · **中文**
+
+**CF-R7** 是松下 Let's note 笔记本电脑，属于 R7 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 6 个型号（2007-10 – 2008-05 发售）的规格参数。每个型号均附官方规格表链接。
+
+![松下 Let's note CF-R7 10.4 英寸笔记本电脑，2007 年](../../images/CF-R7/panasonic-letsnote-cf-r7-cf-r7dw6ajr.jpg "松下 Let's note CF-R7 规格参数")
+
+*松下 Let's note CF-R7（CF-R7DW6AJR, CF-R7DW6NJR, CF-R7CW5AJR, CF-R7CW5NJR …）。图片 © Panasonic*
+
+## 型号列表
+
+| 型号（品番） | 发售 | 停产 | 主要规格 |
+| :-- | :-- | :-- | :-- |
+| [CF-R7DW6AJR](https://panasonic.jp/pc/p-db/CF-R7DW6AJR_spec.html) | 2008-05 | 2009-01 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo U7600（1.20GHz）、メモリー：標準1GB（最大2GB）、HDD：120GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0 |
+| [CF-R7DW6NJR](https://panasonic.jp/pc/p-db/CF-R7DW6NJR_spec.html) | 2008-05 | 2009-01 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo U7600（1.20GHz）、メモリー：標準1GB（最大2GB）、HDD：120GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0、Office Personal ＜台数限定＞ |
+| [CF-R7CW5AJR](https://panasonic.jp/pc/p-db/CF-R7CW5AJR_spec.html) | 2008-02 | 2008-04 | Windows Vista® Business 正規版、CoreTM2 Duo U7600(1.20GHz・ULV)、メモリー：1GB（最大2GB）、HDD：80GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0 |
+| [CF-R7CW5NJR](https://panasonic.jp/pc/p-db/CF-R7CW5NJR_spec.html) | 2008-02 | 2008-04 | Windows Vista® Business 正規版、CoreTM2 U7600(1.20GHz・ULV)、メモリー：1GB（最大2GB）、HDD：80GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0、Office Personal ＜台数限定＞ |
+| [CF-R7BW5AJR](https://panasonic.jp/pc/p-db/CF-R7BW5AJR_spec.html) | 2007-10 | 2008-01 | Windows Vista® Business 正規版、CoreTM2 Duo U7500 (1.06GHz・ULV)、メモリー：1GB（最大2GB)、HDD： 80GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0 |
+| [CF-R7BW5NJR](https://panasonic.jp/pc/p-db/CF-R7BW5NJR_spec.html) | 2007-10 | 2008-01 | Windows Vista® Business 正規版、CoreTM2 Duo U7500 (1.06GHz・ULV)、メモリー：1GB（最大2GB)、HDD： 80GB、LAN、無線LAN 802.11a(J52/W52/W53/W56)/b/g、USB2.0、Office Personal ＜台数限定＞ |
+
+## 通用规格
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 芯片组 | モバイル インテル（R） GM965 Express チップセット |
+| 内存 | 標準1GB DDR2 SDRAM（最大2GB）空きスロット1 |
+| 软驱（选配） | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
+| 显示屏 | XGA (1024×768ドット)10.4型TFTカラー液晶 |
+| 显示屏 / 色彩 | 1024×768ドット：約1677万色 |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1400×1050、1440×900、1600×1200ドット：約1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768ドット：約1677万色 |
+| 无线网络 | インテル（R） Wireless WiFi Link 4965AGN、IEEE802.11a（J52/W52/W53/W56）/b/g準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| 调制解调器 | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| 有线网络 | 1000BASE-T/100BASE-TX / 10BASE-T |
+| 音频 | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
+| 安全芯片 | ＴＰＭ（TCG V1.2準拠） |
+| 内存扩展槽 | DDR2 172ピンマイクロDIMM専用スロット×1 |
+| 键盘 | OADG準拠キーボード（85キー）：キーピッチ17mm（横）/14.3mm（縦）（一部キーを除く） |
+| 指点设备 | ホイールパッド |
+| 电源 | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・5.8 Ah） |
+| 功耗 | 最大約45W |
+| 能效达成率 | — |
+| 尺寸（宽×深×高） | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
+
+## 各型号差异
+
+| 型号（品番） | 处理器 | 内存 | 存储 | 重量 | 续航 |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CF-R7DW6AJR | — | 1GB DDR2 SDRAM | 120GB | 0.94 kg | — |
+| CF-R7DW6NJR | — | 1GB DDR2 SDRAM | 120GB | 0.94 kg | — |
+| CF-R7CW5AJR | — | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+| CF-R7CW5NJR | — | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+| CF-R7BW5AJR | — | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+| CF-R7BW5NJR | — | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+
+<details>
+<summary>CF-R7DW6AJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 プロセッサー / 超低電圧版 U7600 / 2次キャッシュメモリー 2MB、動作周波数 1.20GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大251MB / メモリー増設時最大358MB （メインメモリーと共用） |
+| 硬盘 | 120GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00034 |
+| 重量（含电池） | 約0.94kg |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ |
+| 附件 | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7DW6AJR_spec.html>
+
+</details>
+
+<details>
+<summary>CF-R7DW6NJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 プロセッサー / 超低電圧版 U7600 / 2次キャッシュメモリー 2MB、動作周波数 1.20GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大251MB / メモリー増設時最大358MB （メインメモリーと共用） |
+| 硬盘 | 120GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、 / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00034 |
+| 重量（含电池） | 約0.94kg |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、Microsoft（R）Office Personal 2007withPowerPoint 2007 |
+| 附件 | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7DW6NJR_spec.html>
+
+</details>
+
+<details>
+<summary>CF-R7CW5AJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 Duoプロセッサー / 超低電圧版 U7600 / 2次キャッシュメモリー 2MB、動作周波数 1.20GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大251MB / メモリー増設時最大358MB （メインメモリーと共用） |
+| 硬盘 | 80GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00034 |
+| 重量（含电池） | 約940g |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップユーティリティ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ |
+| 附件 | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7CW5AJR_spec.html>
+
+</details>
+
+<details>
+<summary>CF-R7CW5NJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 Duoプロセッサー / 超低電圧版 U7600 / 2次キャッシュメモリー 2MB、動作周波数 1.20GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大251MB / メモリー増設時最大358MB （メインメモリーと共用） |
+| 硬盘 | 80GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、 / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00034 |
+| 重量（含电池） | 約940g |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップユーティリティ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、Microsoft（R） Office Personal 2007withPowerPoint 2007 |
+| 附件 | プロダクトリカバリーDVD-ROM 2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7CW5NJR_spec.html>
+
+</details>
+
+<details>
+<summary>CF-R7BW5AJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 Duoプロセッサー / 超低電圧版 U7500 / 2次キャッシュメモリー 2MB、動作周波数 1.06GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大358MB （メインメモリーと共用） |
+| 硬盘 | 80GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用。（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00041 |
+| 重量（含电池） | 約940g |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップユーティリティ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP1、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ |
+| 附件 | プロダクトリカバリーDVD-ROM、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7BW5AJR_spec.html>
+
+</details>
+
+<details>
+<summary>CF-R7BW5NJR 的全部差异规格</summary>
+
+| 项目 | 规格 |
+| :-- | :-- |
+| 操作系统 | Windows Vista（R） Business 正規版（Windows（R） XPダウングレード権含む） |
+| 处理器 | インテル（R） CoreTM2 Duoプロセッサー / 超低電圧版 U7500 / 2次キャッシュメモリー 2MB、動作周波数 1.06GHz、フロントサイド・バス 533MHz |
+| 显存 | 最大358MB （メインメモリーと共用） |
+| 硬盘 | 80GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用。（ユーザー使用不可） |
+| 卡槽 / PC 卡 | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
+| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
+| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、 / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
+| 能效 | 2007年度基準Ｉ区分0.00041 |
+| 重量（含电池） | 約940g |
+| 预装软件 | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、DMIビューアー、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップユーティリティ、NumLockお知らせ、Wireless Manager mobile edition4.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP1、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、セットアップユーティリティ、PC-Diagnosticユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、LAN省電力ユーティリティ、ファン制御ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、Microsoft（R） Office Personal 2007withPowerPoint 2007 |
+| 附件 | プロダクトリカバリーDVD-ROM、ACアダプター、バッテリーパック、取扱説明書 等 |
+
+官方规格表: <https://panasonic.jp/pc/p-db/CF-R7BW5NJR_spec.html>
+
+</details>
+
+## 相关机型
+
+- [Let's note 全部机型](../)
+
+---
+
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

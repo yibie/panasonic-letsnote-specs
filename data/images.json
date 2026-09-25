@@ -1,0 +1,3847 @@
+{
+ "CF-A1": [
+  {
+   "file": "images/CF-A1/panasonic-letsnote-cf-a1-cf-a1er.jpg",
+   "sha256": "981a0369a1496382b6db9aa923911e981e056cea0efc11de9864f1bad4c44fd4",
+   "parts": [
+    "CF-A1ER",
+    "CF-A1R"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/p_open2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-A1/panasonic-letsnote-cf-a1-cf-a1ev.jpg",
+   "sha256": "89eead591f127dce2e69546e61de890faaeac4831886eba94a73ff3a7ca0cb46",
+   "parts": [
+    "CF-A1EV",
+    "CF-A1V"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/A1v",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-A2": [
+  {
+   "file": "images/CF-A2/panasonic-letsnote-cf-a2-cf-a2r4h2.jpg",
+   "sha256": "c6581345441a38dad8287282f9948c06723c85248080239ffbb3adeaac5bed51",
+   "parts": [
+    "CF-A2R4H2"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/A2",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-A44": [
+  {
+   "file": "images/CF-A44/panasonic-letsnote-cf-a44-cf-a44ej8.jpg",
+   "sha256": "eaf473aad01f62e2a653449a59dc1ad47c42bc1bdb60a5d466ccb99d0177c5e1",
+   "parts": [
+    "CF-A44EJ8",
+    "CF-A44EJ81"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/a44e",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-A44/panasonic-letsnote-cf-a44-cf-a44j8.jpg",
+   "sha256": "6d1c98a8688fb36574aab21866242e0804c4eae9ab11f9efb71ab6b7fd441e49",
+   "parts": [
+    "CF-A44J8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/a44",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-A77": [
+  {
+   "file": "images/CF-A77/panasonic-letsnote-cf-a77-cf-a77j8.jpg",
+   "sha256": "28b1f344fe548e2a0763ad26023f340e12c55c0be869e70d036cedc5040aedae",
+   "parts": [
+    "CF-A77J8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/frontup",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-AX2": [
+  {
+   "file": "images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2teqbr.jpg",
+   "sha256": "733df88363f4ecb364df062fc253727f142cb527f09778624aaf72f3f837d05b",
+   "parts": [
+    "CF-AX2TEQBR",
+    "CF-AX2AEABR",
+    "CF-AX2AEFBR",
+    "CF-AX2SEBJR",
+    "CF-AX2SEGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX2TEQBR_644011",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2qeqbr.jpg",
+   "sha256": "313155598c6155ff87a9e37502420eb9c7c21b9c8a5eb7a695bb5e247471fd7f",
+   "parts": [
+    "CF-AX2QEQBR",
+    "CF-AX2LEABR",
+    "CF-AX2LEFBR",
+    "CF-AX2QEBJR",
+    "CF-AX2QEGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX2QEQBR_619544",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2tetbr.jpg",
+   "sha256": "6e9658a4ae5bc39c129c4bcb3d626e920d90e404e323dbbf777d8ae84d9db968",
+   "parts": [
+    "CF-AX2TETBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX2TETBR_644046",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2qerbr.jpg",
+   "sha256": "a372cff384cde388382723b801ade61a111ea418124c077786d978fb56c28c18",
+   "parts": [
+    "CF-AX2QERBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX2QERBR_621219",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2terbr.jpg",
+   "sha256": "a9f18edcf9b3e3c55b3bf6b289d575cf69c5608c64faa50fca1e7bc6b6facaec",
+   "parts": [
+    "CF-AX2TERBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX2TERBR_644025",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-AX3": [
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3segjr.jpg",
+   "sha256": "66fb197cfb698a699d6346d4daf0cd3e4f6eff351112e2666e17e13b9387a8e6",
+   "parts": [
+    "CF-AX3SEGJR",
+    "CF-AX3NEABR",
+    "CF-AX3NEFBR",
+    "CF-AX3YEBJR",
+    "CF-AX3YEGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3SEGJR_702504",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3netbr.jpg",
+   "sha256": "4014e621a41b764fbeca1e92015e480c69ab7714e66873aa44b97bd4b89f30e0",
+   "parts": [
+    "CF-AX3NETBR",
+    "CF-AX3NEWBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3NETBR_686347",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3weabr.jpg",
+   "sha256": "823ae2c79b1caeb9c06c6b4bf0d5543bf776b9e438047255cb7a153a0d91a91d",
+   "parts": [
+    "CF-AX3WEABR",
+    "CF-AX3WEFBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3WEABR_669403",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3wetbr.jpg",
+   "sha256": "ba039c2c247f1008d03c9ba77507c6ce4f65e2787fb9e60c8cc37f4a506ec277",
+   "parts": [
+    "CF-AX3WETBR",
+    "CF-AX3WEWBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3WETBR_669445",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3nerbr.jpg",
+   "sha256": "1874e91ad927d6afe055d51bb46dd59a34d47db9326ffa3271572967ee84742a",
+   "parts": [
+    "CF-AX3NERBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3NERBR_686517",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3werbr.jpg",
+   "sha256": "a9f18edcf9b3e3c55b3bf6b289d575cf69c5608c64faa50fca1e7bc6b6facaec",
+   "parts": [
+    "CF-AX3WERBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-AX3WERBR_664752",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-B10": [
+  {
+   "file": "images/CF-B10/panasonic-letsnote-cf-b10-cf-b10cwadr.jpg",
+   "sha256": "1595a5febcacf88106003ce5cb97ae9bb0c677fd17da719e6db41b7c55cae027",
+   "parts": [
+    "CF-B10CWADR",
+    "CF-B10CWHDR",
+    "CF-B10AWADR",
+    "CF-B10AWHDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B10CWADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B10/panasonic-letsnote-cf-b10-cf-b10wwadr.jpg",
+   "sha256": "8b38a0e51ce36da680c111b9f6847b929bbf966fa7448d39a2a8127af8b4c415",
+   "parts": [
+    "CF-B10WWADR",
+    "CF-B10WWHDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B10WWADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B10/panasonic-letsnote-cf-b10-cf-b10ewadr.jpg",
+   "sha256": "670b2e5a6874ff578ed4fbee1e13fea60faedf7edae01cd0a11a5de93af3a7d0",
+   "parts": [
+    "CF-B10EWADR",
+    "CF-B10EWHDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B10EWADR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-B11": [
+  {
+   "file": "images/CF-B11/panasonic-letsnote-cf-b11-cf-b11uwabr.jpg",
+   "sha256": "e1dc453a87b8527d8733c58caeb69e7d1f82302f5972e5b38f121136c5f49de1",
+   "parts": [
+    "CF-B11UWABR",
+    "CF-B11UWHBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B11UWABR_659025",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B11/panasonic-letsnote-cf-b11-cf-b11twabr.jpg",
+   "sha256": "c65ab16b369da978b8aa87629bda910dbb372205002f6486ac6e4898c345cd78",
+   "parts": [
+    "CF-B11TWABR",
+    "CF-B11TWHBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B11TWABR_644060",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B11/panasonic-letsnote-cf-b11-cf-b11qwabr.jpg",
+   "sha256": "65bf425d9852370092ed3615770933642d165997cb84800d5a172850d5622260",
+   "parts": [
+    "CF-B11QWABR",
+    "CF-B11QWHBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B11QWABR_621388",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B11/panasonic-letsnote-cf-b11-cf-b11ywadr.jpg",
+   "sha256": "70d00b6a7ba0fe215d82cc459b15a7aae19fca7de8e40305c060f567d2f2d650",
+   "parts": [
+    "CF-B11YWADR",
+    "CF-B11YWHDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-B11YWADR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-B5": [
+  {
+   "file": "images/CF-B5/panasonic-letsnote-cf-b5-cf-b5fr.jpg",
+   "sha256": "d81ccfc4c31e19c398d4774220b715fce65b8538852a448a45cc41fb237df7e4",
+   "parts": [
+    "CF-B5FR",
+    "CF-B5ER"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/B5er-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-B5/panasonic-letsnote-cf-b5-cf-b5r.jpg",
+   "sha256": "367c7eddba9566c39e9a7dbd63860ff5bb211adbf56ac5aaaeaa9a79b9401e27",
+   "parts": [
+    "CF-B5R",
+    "CF-B5V"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/B5r-1",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-C1": [
+  {
+   "file": "images/CF-C1/panasonic-letsnote-cf-c1-cf-c1beaadr.jpg",
+   "sha256": "3e5905022c3b4aa209ba02412c8005e8b7ee8ee0e4b2d1cef81c3f6e0af3942c",
+   "parts": [
+    "CF-C1BEAADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-C1BEAADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-C1/panasonic-letsnote-cf-c1-cf-c1aeaadr.jpg",
+   "sha256": "724bfb1a812e9a363733ef95fc10e84293a65f567c2958e44d08463c2e1a1649",
+   "parts": [
+    "CF-C1AEAADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-C1AEAADR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-C33": [
+  {
+   "file": "images/CF-C33/panasonic-letsnote-cf-c33-cf-c33eaj8c.jpg",
+   "sha256": "f95e048a10904281208cfa1f891b9b8d3ff4799f9328c4479ce065eb5f3727b9",
+   "parts": [
+    "CF-C33EAJ8C",
+    "CF-C33EJ8C",
+    "CF-C33J8C"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/front",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-C33/panasonic-letsnote-cf-c33-cf-c33ej8k.jpg",
+   "sha256": "a0caa9b53fbb58572e4ef06a312fcf6a88861d56acb8c3c99c1c7c908d99c90d",
+   "parts": [
+    "CF-C33EJ8K",
+    "CF-C33J8K"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/open",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-F10": [
+  {
+   "file": "images/CF-F10/panasonic-letsnote-cf-f10-cf-f10aycdr.jpg",
+   "sha256": "4c3626c9ca22e57733202ec83ca488c23c01162652ffd358cfc8292eb48e3956",
+   "parts": [
+    "CF-F10AYCDR",
+    "CF-F10AYPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F10AYCDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-F8": [
+  {
+   "file": "images/CF-F8/panasonic-letsnote-cf-f8-cf-f8hyrcdr.jpg",
+   "sha256": "0d57b9e229b5a4c29f35c85aa8309dc6017ead423a64620161a786abd22cc21d",
+   "parts": [
+    "CF-F8HYRCDR",
+    "CF-F8HYRNDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F8HYRCDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F8/panasonic-letsnote-cf-f8-cf-f8gwqcjr.jpg",
+   "sha256": "190793f380ac89746c3a6d28cac7f5bf5d6fbe458b6469b16754223ef14a1551",
+   "parts": [
+    "CF-F8GWQCJR",
+    "CF-F8GWQQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F8GWQCJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F8/panasonic-letsnote-cf-f8-cf-f8fwmqjr.jpg",
+   "sha256": "6dbfbdcb84dce1d0c2c67786daadd315ce53d1c6c21f337820258d9748821603",
+   "parts": [
+    "CF-F8FWMQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F8FWMQJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F8/panasonic-letsnote-cf-f8-cf-f8ewjjjr.jpg",
+   "sha256": "2d087155f8784099b5f4818c7aa7d00da1d645dc92e21e07e4f5549aa0958b15",
+   "parts": [
+    "CF-F8EWJJJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F8EWJJJR_322229",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-F9": [
+  {
+   "file": "images/CF-F9/panasonic-letsnote-cf-f9-cf-f9lyfgdr.jpg",
+   "sha256": "d361dea1bba6efbc8316b35490deddc3760545c3845ba285f99d8f843ba3ed44",
+   "parts": [
+    "CF-F9LYFGDR",
+    "CF-F9LYFTDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F9LYFGDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F9/panasonic-letsnote-cf-f9-cf-f9jyfcdr.jpg",
+   "sha256": "930a2e8f8d863b6e5b139074e6f0b94743609610948cd6d13c4c4a97520c3414",
+   "parts": [
+    "CF-F9JYFCDR",
+    "CF-F9JYFNDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F9JYFCDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F9/panasonic-letsnote-cf-f9-cf-f9kyfsdr.jpg",
+   "sha256": "dfb883cfeb24ab60b4d88f8f45e5fb74495af60db6f82a1c10998cfb30d36947",
+   "parts": [
+    "CF-F9KYFSDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F9KYFSDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-F9/panasonic-letsnote-cf-f9-cf-f9kyftdr.jpg",
+   "sha256": "a0f3d78c8a276f90ac28a1d32b83d4b130fd54530fbab7b5ff73ed97e8b9b043",
+   "parts": [
+    "CF-F9KYFTDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-F9KYFTDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-FC6": [
+  {
+   "file": "images/CF-FC6/panasonic-letsnote-cf-fc6-cf-fc6admcr.png",
+   "sha256": "adb1ba49a17bee1485b2ebe7d4f914a7676ba2325e2ebd61df4292b2585fe01e",
+   "parts": [
+    "CF-FC6ADMCR",
+    "CF-FC6ADTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FC6ADMCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FC6/panasonic-letsnote-cf-fc6-cf-fc6bdpcr.png",
+   "sha256": "31729b9af24ca91102ff7c5c5c2f6ff7ac2b072a0c142243093071968ae94bdd",
+   "parts": [
+    "CF-FC6BDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FC6BDPCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-FV1": [
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1jdscr.jpg",
+   "sha256": "cf0e3b5ddd069535312da730438f23fc42dcd3bb18ba9103b8250455a5f71c64",
+   "parts": [
+    "CF-FV1JDSCR",
+    "CF-FV1JDWCR",
+    "CF-FV1FDSQR",
+    "CF-FV1FDWQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1JDSCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1kfncr.jpg",
+   "sha256": "b50f695ab8537c3d4484d94b1a09f1d04d1ab82cb4e7db8679de6591c01c2fe5",
+   "parts": [
+    "CF-FV1KFNCR",
+    "CF-FV1GFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1KFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1jdmcr.jpg",
+   "sha256": "960b58e32b8f315af1c6d0ceddd0c3d567e61361702742f1b290eead5518f11b",
+   "parts": [
+    "CF-FV1JDMCR",
+    "CF-FV1FDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1JDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1mdpcr.jpg",
+   "sha256": "3b29e8fe621495891c7f726ae6fe099958b00b0687390ff919c9996184fc181f",
+   "parts": [
+    "CF-FV1MDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1MDPCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1mfncr.jpg",
+   "sha256": "962da7c824d7878b0784b1a68defe2db5f3b9ae9ab8936383d246e2ebfe94f8c",
+   "parts": [
+    "CF-FV1MFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1MFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1ldmcr.jpg",
+   "sha256": "efebcf3e7f1e8a0bbf9255d75074f862961ff6a09192f25a2e71b32bb3933677",
+   "parts": [
+    "CF-FV1LDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1LDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1ldtcr.jpg",
+   "sha256": "cd1c58d7aa7f10723436957a9e8f0fd24563a55aa712d439cd140854ea798f53",
+   "parts": [
+    "CF-FV1LDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1LDTCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1kdpcr.jpg",
+   "sha256": "de663f46e762f7f0ae1d09ba95625d23890ff264559ad12a26eb6527acc2c55c",
+   "parts": [
+    "CF-FV1KDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1KDPCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1bdmcr.jpg",
+   "sha256": "b61d5363c43e22b88a0566f5f823ddeee2994a7b2f2239e06653cbcca5ed2c8a",
+   "parts": [
+    "CF-FV1BDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1BDMCR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1bdtcr.jpg",
+   "sha256": "18e10141cee40ecd9fa4c77441ee91b6dce8c2fe3080005be02c2f3a2bf3ba55",
+   "parts": [
+    "CF-FV1BDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV1BDTCR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-FV3": [
+  {
+   "file": "images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3kdpcr.jpg",
+   "sha256": "a51e19a11a19baf92b7e0ce396b013ab9144ce5254c3909d0fba8c006a45b530",
+   "parts": [
+    "CF-FV3KDPCR",
+    "CF-FV3HDPCR",
+    "CF-FV3DDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV3KDPCR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3kfncr.jpg",
+   "sha256": "45e649c69f9241425834f0fd6d7a46751dd32252f36e721ff3dc7ba9861f38ed",
+   "parts": [
+    "CF-FV3KFNCR",
+    "CF-FV3HFNCR",
+    "CF-FV3DFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV3KFNCR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3jdmcr.jpg",
+   "sha256": "b61d5363c43e22b88a0566f5f823ddeee2994a7b2f2239e06653cbcca5ed2c8a",
+   "parts": [
+    "CF-FV3JDMCR",
+    "CF-FV3GDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV3JDMCR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3jdtcr.jpg",
+   "sha256": "18e10141cee40ecd9fa4c77441ee91b6dce8c2fe3080005be02c2f3a2bf3ba55",
+   "parts": [
+    "CF-FV3JDTCR",
+    "CF-FV3GDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV3JDTCR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-FV4": [
+  {
+   "file": "images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4ddncr.jpg",
+   "sha256": "45e649c69f9241425834f0fd6d7a46751dd32252f36e721ff3dc7ba9861f38ed",
+   "parts": [
+    "CF-FV4DDNCR",
+    "CF-FV4BFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV4DDNCR_%E6%AD%A3%E9%9D%A2",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4cdmcr.jpg",
+   "sha256": "b61d5363c43e22b88a0566f5f823ddeee2994a7b2f2239e06653cbcca5ed2c8a",
+   "parts": [
+    "CF-FV4CDMCR",
+    "CF-FV4ADMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV4CDMCR_%E6%AD%A3%E9%9D%A2",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4cdtcr.jpg",
+   "sha256": "18e10141cee40ecd9fa4c77441ee91b6dce8c2fe3080005be02c2f3a2bf3ba55",
+   "parts": [
+    "CF-FV4CDTCR",
+    "CF-FV4ADTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV4CDTCR_%E6%AD%A3%E9%9D%A2",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4bdpcr.jpg",
+   "sha256": "a51e19a11a19baf92b7e0ce396b013ab9144ce5254c3909d0fba8c006a45b530",
+   "parts": [
+    "CF-FV4BDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV4BDPCR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-FV5": [
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5hdncr.png",
+   "sha256": "debf068980c81f49bfef729b5fc86f9295a2d5ad1d8cc013268a7c931fe3286e",
+   "parts": [
+    "CF-FV5HDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV5HDNCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5gdmcr.png",
+   "sha256": "293bc02a30daf27c38884387ae455aaa4f65bdc75696e0cdb8ee3c79b1dcd12f",
+   "parts": [
+    "CF-FV5GDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV5GDMCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5gdtcr.png",
+   "sha256": "69c383a284b1b67e85ec165acfe4278c6d8d2117c2250be122719be9e6dbc22a",
+   "parts": [
+    "CF-FV5GDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-FV5GDTCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5fdncr.jpg",
+   "sha256": "da06b0e287333937df9b837a4181005a9276d8b51c2c2eda46c98be3adffa38e",
+   "parts": [
+    "CF-FV5FDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980857892_CF-FV5FDNCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5edmcr.jpg",
+   "sha256": "b5ffbbdad695e5ba5d015adca5acedbfd88fb4376cc84a191f882a70c622449e",
+   "parts": [
+    "CF-FV5EDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980857878_CF-FV5EDMCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5edtcr.jpg",
+   "sha256": "943fb15722c09ff9b7f39b3e6c0ebeb1661d10029f77e9ddf44328746c514130",
+   "parts": [
+    "CF-FV5EDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980857885_CF-FV5EDTCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-J10": [
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10sybhr.jpg",
+   "sha256": "a21d209c09d0522566462c90dfd9d3bf795ca4a86e50dde9044d512bf5a5d112",
+   "parts": [
+    "CF-J10SYBHR",
+    "CF-J10SYNHR",
+    "CF-J10QYBHR",
+    "CF-J10QYNHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10SYBHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10ryahr.jpg",
+   "sha256": "b7515ab84d888f438acaca830b2e7bc7baef81ca3d1fd3f9e64a397163fe7247",
+   "parts": [
+    "CF-J10RYAHR",
+    "CF-J10RYPHR",
+    "CF-J10PYAHR",
+    "CF-J10PYPHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10RYAHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10yynhr.jpg",
+   "sha256": "bb2b66ceddfe38bd398914e956eb521525d99047c0f96fe9db7510d0c1ab3c9f",
+   "parts": [
+    "CF-J10YYNHR",
+    "CF-J10YYBHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10YYNHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10xyahr.jpg",
+   "sha256": "30a3f21ededf1a9f58e769e6f070c931b554ea6fb811c53c7b2864fbfe8f1823",
+   "parts": [
+    "CF-J10XYAHR",
+    "CF-J10XYPHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10XYAHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10wybhr.jpg",
+   "sha256": "58d8b0b04cdf5adca7b2127d0a17eefb6be5a6deb9bc411cb752ada58852648f",
+   "parts": [
+    "CF-J10WYBHR",
+    "CF-J10WYNHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10WYBHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10vyahr.jpg",
+   "sha256": "764675f1f76dad7b349aba78af01a533400ae4bfba326a2aa94d9ef4261d820f",
+   "parts": [
+    "CF-J10VYAHR",
+    "CF-J10VYPHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10VYAHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10uybhr.jpg",
+   "sha256": "b5b5541c52137a88bf751174802e20101efcd6225c863fd0dfe0af1d14a43ee1",
+   "parts": [
+    "CF-J10UYBHR",
+    "CF-J10UYNHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10UYBHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J10/panasonic-letsnote-cf-j10-cf-j10tyahr.jpg",
+   "sha256": "9d13e4d8fe495ca2346b0717173889b780f79e603218a47cfa4dc184d207552e",
+   "parts": [
+    "CF-J10TYAHR",
+    "CF-J10TYPHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J10TYAHR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-J9": [
+  {
+   "file": "images/CF-J9/panasonic-letsnote-cf-j9-cf-j9ly1ahr.jpg",
+   "sha256": "aa5d55dd66706673b932aa386fc4afaf408820b4f37394671677a3eadb6def70",
+   "parts": [
+    "CF-J9LY1AHR",
+    "CF-J9LY1NHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J9LY1AHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-J9/panasonic-letsnote-cf-j9-cf-j9nyabhr.jpg",
+   "sha256": "48eb9a8d31585fb078102ce1a982ad827230f2f9ce5654709d26fbedbc30ed6b",
+   "parts": [
+    "CF-J9NYABHR",
+    "CF-J9NYAPHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-J9NYABHR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-L1": [
+  {
+   "file": "images/CF-L1/panasonic-letsnote-cf-l1-cf-l1ga.jpg",
+   "sha256": "d05cb50736dd496abe1812126554629756edd9c1ce51929563fab84426011f6d",
+   "parts": [
+    "CF-L1GA",
+    "CF-L1XR",
+    "CF-L1XA",
+    "CF-L1XS",
+    "CF-L1ER",
+    "CF-L1EA",
+    "CF-L1A"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/p_cdopen-3",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-L2": [
+  {
+   "file": "images/CF-L2/panasonic-letsnote-cf-l2-cf-l2r4hma.jpg",
+   "sha256": "8f06dc1777140903ffa722b2810cd3f69a60a80d0996132dddd93639aaaca2ce",
+   "parts": [
+    "CF-L2R4HMA"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/L2",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LV7": [
+  {
+   "file": "images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7hdfqr.jpg",
+   "sha256": "1ccff1a607a2a0fde904ea386c32067c9c7c7572e361820748cc7afb0fa9b81a",
+   "parts": [
+    "CF-LV7HDFQR",
+    "CF-LV7HDGQR",
+    "CF-LV72DFQR",
+    "CF-LV72DGQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV7HDFQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7cdfqr.jpg",
+   "sha256": "7ea329338729625074adc016c6490709d631d907c24770349e6083d795dadc92",
+   "parts": [
+    "CF-LV7CDFQR",
+    "CF-LV7CDGQR",
+    "CF-LV7CFBQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV7CDFQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7jdvqr.jpg",
+   "sha256": "712d64938c72803e85a13dcbbfcdde7f4ff34b46a5db910c109556cb0bf1bbd8",
+   "parts": [
+    "CF-LV7JDVQR",
+    "CF-LV73DVQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV7JDVQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7ddvqr.jpg",
+   "sha256": "44fa30bbb2787ae8a7faded32842901adeeca803e6e2d836768486878d8fce60",
+   "parts": [
+    "CF-LV7DDVQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV7DDVQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LV8": [
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8ndsqr.jpg",
+   "sha256": "811eac56b24eafe44c52fc258380d70fb28bd34adc4e3f7eb41f0a07a57740f4",
+   "parts": [
+    "CF-LV8NDSQR",
+    "CF-LV8FDSQR",
+    "CF-LV8FDPQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8NDSQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8pdnqr.jpg",
+   "sha256": "5d42cc1e97ffc9d0e44ee0289e3a9c98828cef57c2a9cb3cdb143ce8f1f86b00",
+   "parts": [
+    "CF-LV8PDNQR",
+    "CF-LV8GDVQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8PDNQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8kdgqr.jpg",
+   "sha256": "671b452d83a23c12cbb659bbe531211f9de82aeff227c45e3172b80d2e03a5de",
+   "parts": [
+    "CF-LV8KDGQR",
+    "CF-LV8KDPQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8KDGQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8ndmqr.jpg",
+   "sha256": "860052fe8463404b64b18a4162928434c8537cea71615f242e69f5a5ba107ea8",
+   "parts": [
+    "CF-LV8NDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8NDMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8fdcqr.jpg",
+   "sha256": "918ec875de5289e3663d0251bffbbc6944a5384dff23a113a290461f318cfb3a",
+   "parts": [
+    "CF-LV8FDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8FDCQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8kdcqr.jpg",
+   "sha256": "5680940a8edee4a9175cb78c3fe6f7c976a06767256dd837402c3968bf163cd8",
+   "parts": [
+    "CF-LV8KDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8KDCQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8ldvqr.jpg",
+   "sha256": "4ae61378877a4c0bdf877fbe973bb1a274aa03912d6b0d2e2614dda9d22cf133",
+   "parts": [
+    "CF-LV8LDVQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV8LDVQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LV9": [
+  {
+   "file": "images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9ddnqr.jpg",
+   "sha256": "026ed8f95f8e19479290927b0959f0588f536f3493807c044e95e64c4351961b",
+   "parts": [
+    "CF-LV9DDNQR",
+    "CF-LV9EDNQR",
+    "CF-LV9KDNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV9DDNQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9cdmqr.jpg",
+   "sha256": "0bbca6e7cdcc153796454b9e8dc39d45eb366112051a7ea85f1d7714d730f054",
+   "parts": [
+    "CF-LV9CDMQR",
+    "CF-LV9ADMQR",
+    "CF-LV9HDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV9CDMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9cdsqr.jpg",
+   "sha256": "19d39973ea4aa0a7ef7b0174f84a8e2ec9bafb82ac49ef8f22bc9590253dd34c",
+   "parts": [
+    "CF-LV9CDSQR",
+    "CF-LV9ADSQR",
+    "CF-LV9HDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LV9CDSQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LX3": [
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3jejjr.jpg",
+   "sha256": "58abdddc8ac79ca4d03dfb16f72992776c9ecd94eca5481da562670002312b62",
+   "parts": [
+    "CF-LX3JEJJR",
+    "CF-LX3JEABR",
+    "CF-LX3JEAWR",
+    "CF-LX3SEJJR",
+    "CF-LX3SEABR",
+    "CF-LX3SEAWR",
+    "CF-LX3NEQBR",
+    "CF-LX3NESBR",
+    "CF-LX3YEABR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3JEJJR_770971",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3vecbr.jpg",
+   "sha256": "bfe6b55e0a55ef15431f89ef9ba3d5f588c8d504794ad8d1c5caa81e44a056cd",
+   "parts": [
+    "CF-LX3VECBR",
+    "CF-LX3TECBR",
+    "CF-LX3NECBR",
+    "CF-LX3NERBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3VECBR_770999",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3ddabr.jpg",
+   "sha256": "802ce4232b3a5b48eeb09be7aa34407153a8608212f6c01cbd1219efe0da618a",
+   "parts": [
+    "CF-LX3DDABR",
+    "CF-LX3DDAWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3DDABR_801902",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3zd9br.jpg",
+   "sha256": "6715b7cb87f2272de44fdc9e3e04dc43759ee38decf6fd8fd549e2f6d7d019b5",
+   "parts": [
+    "CF-LX3ZD9BR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3ZD9BR_802055",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3jhbjr.jpg",
+   "sha256": "b21f98480befd99859c9c417bf24b8299c5a2978b4c7b906bf3b900c33c54ca2",
+   "parts": [
+    "CF-LX3JHBJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3JHBJR_770985",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3yhbjr.jpg",
+   "sha256": "bf70ec7fa8d9078a607778e709d973c2e37ab3a876f1b2007a97e47a5634d35f",
+   "parts": [
+    "CF-LX3YHBJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3YHBJR_686312",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3nexbr.jpg",
+   "sha256": "90b3b1fe73dd508538244a8ce8c286ee5299197fe7f4cb8f23dc104a6848463e",
+   "parts": [
+    "CF-LX3NEXBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX3NEXBR_681025",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LX4": [
+  {
+   "file": "images/CF-LX4/panasonic-letsnote-cf-lx4-cf-lx4ddabr.jpg",
+   "sha256": "21641d292e9f1c17d2e531c3ec90a72b2d082bd5b5ed5708a5e766ddbb2b928d",
+   "parts": [
+    "CF-LX4DDABR",
+    "CF-LX4DDAWR",
+    "CF-LX4HDABR",
+    "CF-LX4HDAWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX4DDABR_839412",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX4/panasonic-letsnote-cf-lx4-cf-lx4kd9br.jpg",
+   "sha256": "bafc635308b3aa5d8b403d15a69ef0e3be6182c8dbcf47368e6d76097b320fee",
+   "parts": [
+    "CF-LX4KD9BR",
+    "CF-LX4JD9BR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX4KD9BR_839458",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LX5": [
+  {
+   "file": "images/CF-LX5/panasonic-letsnote-cf-lx5-cf-lx5hdaqr.jpg",
+   "sha256": "1ec12eeab076b2853d8e7adb1e0a5fc7d7d8b3afcdccb25a042975552dd71d73",
+   "parts": [
+    "CF-LX5HDAQR",
+    "CF-LX5YDAQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX5HDAQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4217%C3%973002)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX5/panasonic-letsnote-cf-lx5-cf-lx5wdaqr.jpg",
+   "sha256": "1e97949e00af7708c6b3f38fbefc5d0184bf3ba99e6b00fe60dff20dd9563acd",
+   "parts": [
+    "CF-LX5WDAQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX5WDAQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4217%C3%973002)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX5/panasonic-letsnote-cf-lx5-cf-lx5xd9qr.jpg",
+   "sha256": "cb7971a671d37a83f1c4eb42a594ca0faec27f69eb772636ef0985cfae91e9f5",
+   "parts": [
+    "CF-LX5XD9QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX5XD9QR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX5/panasonic-letsnote-cf-lx5-cf-lx5jd9qr.jpg",
+   "sha256": "ef8b7e78bd94fae08aa4777a0df04341c2dfee754583461126e9d3010e2c3945",
+   "parts": [
+    "CF-LX5JD9QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX5JD9QR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-LX6": [
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6pdaqr.jpg",
+   "sha256": "5f0d3c3bcd8289e2a91dd33b1ce02d8014c61c1022637684a1836e5bf72767c5",
+   "parts": [
+    "CF-LX6PDAQR",
+    "CF-LX6BDAQR",
+    "CF-LX6HDAQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6PDAQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4217%C3%973002)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6cdyqr.jpg",
+   "sha256": "55d97644c5c805c988786c24b3cd46ab565841c0e38b7be831391d4f51fc5123",
+   "parts": [
+    "CF-LX6CDYQR",
+    "CF-LX6HD9QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6CDYQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6ldaqr.jpg",
+   "sha256": "2f16050634d8e8276b5918af0b50099b1a10bbb4b5465c50f6ae461d0917116d",
+   "parts": [
+    "CF-LX6LDAQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6LDAQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6ldgqr.jpg",
+   "sha256": "3cc21cb300cc31d55e0ecf96c6bdffdae6445bfe7023b99fafa5dd8423030dd0",
+   "parts": [
+    "CF-LX6LDGQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6LDGQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6mdxqr.jpg",
+   "sha256": "4be6456751c990ba30e49c8e0e5e6b7c9139d0d5e5d20d532cf72f4b32ad2dd0",
+   "parts": [
+    "CF-LX6MDXQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6MDXQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6pdgqr.jpg",
+   "sha256": "a1c67a9d095a36b82606f91675dcea3048e2a408597fc04ac75abe5ec7aba261",
+   "parts": [
+    "CF-LX6PDGQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6PDGQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6qdxqr.jpg",
+   "sha256": "a094f38db3955abd191b48eba5107a812ae8c1877caf43cc2c93bdd8fdcf6af8",
+   "parts": [
+    "CF-LX6QDXQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6QDXQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6edaqr.jpg",
+   "sha256": "fa8ca2e3bd047a31d8b8e939f02bba3a90aa90cfd8a586bbfa54c64bcc4b3f12",
+   "parts": [
+    "CF-LX6EDAQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6EDAQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4217%C3%973002)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6ed9qr.jpg",
+   "sha256": "3152630a39e9bb1a6cd35799af669d8bbe336ababec4533672cee3084914702c",
+   "parts": [
+    "CF-LX6ED9QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-LX6ED9QR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4206%C3%972999)",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-M1": [
+  {
+   "file": "images/CF-M1/panasonic-letsnote-cf-m1-cf-m1ev.jpg",
+   "sha256": "bea7737e273acb23a560d6308461548cfca17a9df421bf439373ab1ee7b1eabe",
+   "parts": [
+    "CF-M1EV",
+    "CF-M1ER",
+    "CF-M1R",
+    "CF-M1VA",
+    "CF-M1V"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/m1v-2",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-M2": [
+  {
+   "file": "images/CF-M2/panasonic-letsnote-cf-m2-cf-m2xr2k.jpg",
+   "sha256": "e0b62856010c516051ce19c90cf72d24b1f7eb577b76197d892967ce57d3f170",
+   "parts": [
+    "CF-M2XR2K",
+    "CF-M2XV",
+    "CF-M2XR",
+    "CF-M2EV",
+    "CF-M2R",
+    "CF-M2C"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/m2",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-M32": [
+  {
+   "file": "images/CF-M32/panasonic-letsnote-cf-m32-cf-m32j8.jpg",
+   "sha256": "16bdfae05212149c557b33e44816b1a4994d955a0abe4e0e5f358c48ad52945b",
+   "parts": [
+    "CF-M32J8",
+    "CF-M32J5"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/m32open2",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-MX3": [
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3jebjr.jpg",
+   "sha256": "4126c481a093c9b0f6febda81d3fbf6e5eee38e098a7446e2a8b94020ec99f73",
+   "parts": [
+    "CF-MX3JEBJR",
+    "CF-MX3JEGJR",
+    "CF-MX3SEBJR",
+    "CF-MX3SEGJR",
+    "CF-MX3TEABR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3JEBJR_771013",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3ddfjr.jpg",
+   "sha256": "ec2bb347c18cf11265e3f3ee16b348a5a9cfbbfe36b7516dbdb54d6fb91263d3",
+   "parts": [
+    "CF-MX3DDFJR",
+    "CF-MX3DDGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3DDFJR_802157",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3ddqjr.jpg",
+   "sha256": "e94e0d3249d6632b4e999ca1d102faee0d7d4dccd21fc96a4acd6a37458f7474",
+   "parts": [
+    "CF-MX3DDQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3DDQJR_802342",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3zdybr.jpg",
+   "sha256": "c20598225da43ff264b4f4d2c4d31b48ee3c8b1993a48e992b01e4029783a62b",
+   "parts": [
+    "CF-MX3ZDYBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3ZDYBR_802454",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3jekjr.jpg",
+   "sha256": "a0d23cbee88677c0516ac4f365549f2d25da16d8a45990ce7d948466e3a59380",
+   "parts": [
+    "CF-MX3JEKJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3JEKJR_771070",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3vewbr.jpg",
+   "sha256": "3a7e243504f2c1e5dba155a2d5625ee7ef27b48438103512a23c5bdfd544a0a2",
+   "parts": [
+    "CF-MX3VEWBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX3VEWBR_771095",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-MX4": [
+  {
+   "file": "images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4ddqjr.jpg",
+   "sha256": "3bfe5bd01b3ba44d42870a2fb894111090d37d45b5efc08ca7e57713ae626422",
+   "parts": [
+    "CF-MX4DDQJR",
+    "CF-MX4HDQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX4DDQJR_839541",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4ddfjr.jpg",
+   "sha256": "bef835c2cf7822a14c1c1de431fd21426ee0cc5c78495069c5010948bb5e8a1b",
+   "parts": [
+    "CF-MX4DDFJR",
+    "CF-MX4DDGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX4DDFJR_839481",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4kfybr.jpg",
+   "sha256": "97b2a5b84a36f6ccd88ca5b085e38e6e8df6ded4524d24073fd9fd935642fbaf",
+   "parts": [
+    "CF-MX4KFYBR",
+    "CF-MX4JDYBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX4KFYBR_839571",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4hdfjr.jpg",
+   "sha256": "85fb885300706c97adb03d000b4d3aff1596f72cd0d413cf990c98200ad54958",
+   "parts": [
+    "CF-MX4HDFJR",
+    "CF-MX4HDGJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX4HDFJR_815730",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-MX5": [
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5hdgpr.jpg",
+   "sha256": "556995c9fc4e6a58ee9e6f523337740bd67317f50429cedf0477f60b43724285",
+   "parts": [
+    "CF-MX5HDGPR",
+    "CF-MX5YDGPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5HDGPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4992%C3%973328)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5jfyqr.jpg",
+   "sha256": "36d5d336d8c2a526f19670b8774b523aebcbcd6a4a5645dc2d2b3bb7fa5bb5b6",
+   "parts": [
+    "CF-MX5JFYQR",
+    "CF-MX5ZFYQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5JFYQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4992%C3%973328)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5wd0pr.jpg",
+   "sha256": "c85cd5b1eb9d4ea2d242c65cb2407207d58aa6f4e5cc730f15838fdf57359538",
+   "parts": [
+    "CF-MX5WD0PR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5WD0PR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4134%C3%972756)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5xf8qr.jpg",
+   "sha256": "d3a99382f0b9adbc5668bad296c0d1c061f0f876316eeeae29725293109f76cc",
+   "parts": [
+    "CF-MX5XF8QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5XF8QR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4134%C3%972756)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5wdgpr.jpg",
+   "sha256": "ad795ff312fc212b0304f9e7147540676768a55fec0c7f4c1766ddcf01b77a76",
+   "parts": [
+    "CF-MX5WDGPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5WDGPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4992%C3%973328)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5xfyqr.jpg",
+   "sha256": "17940eeac52c4a49a62e9993e19d57d050de894b9f230c98dc2b4172fbf96fa2",
+   "parts": [
+    "CF-MX5XFYQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-MX5XFYQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4992%C3%973328)",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-N10": [
+  {
+   "file": "images/CF-N10/panasonic-letsnote-cf-n10-cf-n10eyadr.jpg",
+   "sha256": "a04fec74129ac0eb03f47900877a02a6b8d5a0eba754ef908186374a929f75eb",
+   "parts": [
+    "CF-N10EYADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N10EYADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-N10/panasonic-letsnote-cf-n10-cf-n10cyadr.jpg",
+   "sha256": "24ecbd01326155972665c282305d5f97ca42568c3d8c1530f5d1b4799b2adf16",
+   "parts": [
+    "CF-N10CYADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N10CYADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-N10/panasonic-letsnote-cf-n10-cf-n10ayadr.jpg",
+   "sha256": "88064c260662d46c4d65831775e70fe2860145e010fb3de3d9474a831f5f0c20",
+   "parts": [
+    "CF-N10AYADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N10AYADR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-N9": [
+  {
+   "file": "images/CF-N9/panasonic-letsnote-cf-n9-cf-n9lypedr.jpg",
+   "sha256": "6d4631ada03ee94875329a00b79c3ebae0d5107619b726c9158fe0c8c9230df2",
+   "parts": [
+    "CF-N9LYPEDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N9LYPEDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-N9/panasonic-letsnote-cf-n9-cf-n9kydedr.jpg",
+   "sha256": "9d93317dd3287074b8190f2b0430f79f8f5bc43d51f219c18b59c2cb4c213992",
+   "parts": [
+    "CF-N9KYDEDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N9KYDEDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-N9/panasonic-letsnote-cf-n9-cf-n9jycadr.jpg",
+   "sha256": "2f46986426f09669904dd31ebad7706d5be23f38bda4623149d9a1b3fcc62e2e",
+   "parts": [
+    "CF-N9JYCADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-N9JYCADR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-QR4": [
+  {
+   "file": "images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4fdncr.jpg",
+   "sha256": "4994f8ae1738d2b45a72ab07903edd770dcd4084fe15b1f15007c7ed06b1f81f",
+   "parts": [
+    "CF-QR4FDNCR",
+    "CF-QR4BFPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980857984_CF-QR4FDNCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4adtcr.jpg",
+   "sha256": "1c8815aeed4486a4d2afbe336a1915b37c79cbd3ff432e7223de6d042d3ef4b9",
+   "parts": [
+    "CF-QR4ADTCR",
+    "CF-QR4ADMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QR4ADTCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4hdncr.png",
+   "sha256": "5355f30a62cb95e71fecedf4298acd457ab51a2f6bd68a5e9d22100e761511d3",
+   "parts": [
+    "CF-QR4HDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QR4HDNCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4jdtcr.png",
+   "sha256": "d22286f5fed0412fbf565eb5c71bd8e1b9c0d9bd3c3755144484b4cc19ddcc0e",
+   "parts": [
+    "CF-QR4JDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QR4JDTCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4kdncr.png",
+   "sha256": "bac9ea1fb131ff481400ce8037b5345a1d85aa42ef08001c85f6eaba137ca379",
+   "parts": [
+    "CF-QR4KDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QR4KDNCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-QV1": [
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1qfncr.jpg",
+   "sha256": "43b34c610a1f25f4419fb0ffd6c1498ad248136c7a202b46cde5978c4ab68cf1",
+   "parts": [
+    "CF-QV1QFNCR",
+    "CF-QV1CFNCR",
+    "CF-QV1DFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1QFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1ndmcr.jpg",
+   "sha256": "c4fb0fa3f457df830099bdf16e1f32235a67eb2d3fdbaca24a74aaa750bc5276",
+   "parts": [
+    "CF-QV1NDMCR",
+    "CF-QV1ADMCR",
+    "CF-QV1BDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1NDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1kfncr.jpg",
+   "sha256": "a11f9ab91b407c493513921948f565054e43652bad9322780f2baa69cd0ab718",
+   "parts": [
+    "CF-QV1KFNCR",
+    "CF-QV1GFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1KFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1jdmcr.jpg",
+   "sha256": "0d97ab9d04bd657a7375bd6525a447248d3dbee3a205fa7cf980bda2436c2b06",
+   "parts": [
+    "CF-QV1JDMCR",
+    "CF-QV1FDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1JDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1mfncr.jpg",
+   "sha256": "40514e3a364088047e60cc340575e89c9bc1596a3557112422138009b39ff42b",
+   "parts": [
+    "CF-QV1MFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1MFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1ldmcr.jpg",
+   "sha256": "9e7979fcf53d9d9ea2012deea32ef6947bbcbf0b3dbef0fa1ce33b9e5c2738a7",
+   "parts": [
+    "CF-QV1LDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1LDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1p1gqr.jpg",
+   "sha256": "27e5369501ea006418ffb86dfb052f1ea5c29a757f31f4e91af0a557d1940bfc",
+   "parts": [
+    "CF-QV1P1GQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV1P1GQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-QV8": [
+  {
+   "file": "images/CF-QV8/panasonic-letsnote-cf-qv8-cf-qv8ndgqr.jpg",
+   "sha256": "4abf2baf1bf92408dd5fbaad61f7800d3c87c38cbe09cff7f67e834bb90d49bd",
+   "parts": [
+    "CF-QV8NDGQR",
+    "CF-QV8FDGQR",
+    "CF-QV8FDPQR",
+    "CF-QV8GDGQR",
+    "CF-QV8GFRQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV8NDGQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV8/panasonic-letsnote-cf-qv8-cf-qv8ndmqr.jpg",
+   "sha256": "b6ccd6b5a7c8c75b02b0dfd87578721bdba90ec38bda79522407dbe2cef4c838",
+   "parts": [
+    "CF-QV8NDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV8NDMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV8/panasonic-letsnote-cf-qv8-cf-qv8pfnqr.jpg",
+   "sha256": "f488c9467036a4772f29c98dc53c0dc3155cd753a5ac081157e04ee2abcf797d",
+   "parts": [
+    "CF-QV8PFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV8PFNQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-QV9": [
+  {
+   "file": "images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9cdmqr.jpg",
+   "sha256": "1eff18f2ea1ee4da4b91c6b51bedb2da5991d1ef1aa2c3e0161cdccadc452001",
+   "parts": [
+    "CF-QV9CDMQR",
+    "CF-QV9ADMQR",
+    "CF-QV9HDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV9CDMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9dfnqr.jpg",
+   "sha256": "322c6c93b0343d19200db62dba784839b5586493898738168976caedd96f24b8",
+   "parts": [
+    "CF-QV9DFNQR",
+    "CF-QV9EFNQR",
+    "CF-QV9KFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV9DFNQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9adgqr.jpg",
+   "sha256": "5926885403c9c400d0115e6c6fae3ddec85370bc6e631d8a4b5b05778de39f40",
+   "parts": [
+    "CF-QV9ADGQR",
+    "CF-QV9HDGQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV9ADGQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9m1aqr.jpg",
+   "sha256": "581b127b6258468751ef6f4b789695e1c46390ef4cbc05c3b8361a4623ccfd2d",
+   "parts": [
+    "CF-QV9M1AQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-QV9M1AQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R1": [
+  {
+   "file": "images/CF-R1/panasonic-letsnote-cf-r1-cf-r1mcaxr.jpg",
+   "sha256": "972f5e9bd126c61f9e092739860f1fe3f15ac98492d48d06408e29a56f363c00",
+   "parts": [
+    "CF-R1MCAXR",
+    "CF-R1NCAXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/cfr1n",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R1/panasonic-letsnote-cf-r1-cf-r1pcaxr.jpg",
+   "sha256": "15b390904c4d2cb46c7b4adb163a269feada0beb4f11b53ecee2e988569ce7ce",
+   "parts": [
+    "CF-R1PCAXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/cfr1p",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R1/panasonic-letsnote-cf-r1-cf-r1rcxr.jpg",
+   "sha256": "e234e07c4a635074e72ac38d7fea906895045930fa299d017faa58f74ab2c90c",
+   "parts": [
+    "CF-R1RCXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/cfr1r",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R2": [
+  {
+   "file": "images/CF-R2/panasonic-letsnote-cf-r2-cf-r2bw1axr.jpg",
+   "sha256": "d4aa1d62255db55fa2acf0dd6265b63c3d7ea3df783d2a2c52703f4d063cbaa0",
+   "parts": [
+    "CF-R2BW1AXR",
+    "CF-R2AW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/R2B",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R2/panasonic-letsnote-cf-r2-cf-r2cw1axr.jpg",
+   "sha256": "13935f65619be209c8997439408b4275c0ff04b9d28c069c6a7861bd77fff176",
+   "parts": [
+    "CF-R2CW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/R2C",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R3": [
+  {
+   "file": "images/CF-R3/panasonic-letsnote-cf-r3-cf-r3fw1axr.jpg",
+   "sha256": "b38e6f62d999b57c8b4bddda0caf6c1aa993766a25282ee4546ae3ff4b536090",
+   "parts": [
+    "CF-R3FW1AXR",
+    "CF-R3EW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/R3-2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R3/panasonic-letsnote-cf-r3-cf-r3dw1axr.jpg",
+   "sha256": "4ee3a2d7781dc103ce27fbc838a28a9f096b7b6289c3b129f9a4ea3a341661e8",
+   "parts": [
+    "CF-R3DW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/R3-1",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R5": [
+  {
+   "file": "images/CF-R5/panasonic-letsnote-cf-r5-cf-r5lw4axr.jpg",
+   "sha256": "e2c5fb9558c7a4ce544d66f3d4ec8de1db0b415a28604bb25e46854ff611144a",
+   "parts": [
+    "CF-R5LW4AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R5LW4AXR_205358",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R5/panasonic-letsnote-cf-r5-cf-r5kw4axr.jpg",
+   "sha256": "10b24a021ef50ceebd247c99f2571ced82cdb7871b03e46cbf5fee577da7a008",
+   "parts": [
+    "CF-R5KW4AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R5KW4AXR_178747",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R6": [
+  {
+   "file": "images/CF-R6/panasonic-letsnote-cf-r6-cf-r6aw1bjr.jpg",
+   "sha256": "39639d4e6f097f21f0e4435891ee6bb7735210e657e9028bd00f01b2ffd3a3c5",
+   "parts": [
+    "CF-R6AW1BJR",
+    "CF-R6AW1PJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R6AW1BJR_236841",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R6/panasonic-letsnote-cf-r6-cf-r6mw4ajr.jpg",
+   "sha256": "28e192df0af5c6d22521170441846ff977fb26cdd7bd775c55a0b5bc8440c940",
+   "parts": [
+    "CF-R6MW4AJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R6MW4AJR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R7": [
+  {
+   "file": "images/CF-R7/panasonic-letsnote-cf-r7-cf-r7dw6ajr.jpg",
+   "sha256": "318e88b4d8a199a5862732d41a4e514d6f332511feac088c98c220c03b510e35",
+   "parts": [
+    "CF-R7DW6AJR",
+    "CF-R7DW6NJR",
+    "CF-R7CW5AJR",
+    "CF-R7CW5NJR",
+    "CF-R7BW5AJR",
+    "CF-R7BW5NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R7DW6AJR_293174",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R8": [
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8hwkcdr.jpg",
+   "sha256": "670fa58adef26f3287a8c7a03755304f1eb7f4cb0a34943ad6fd61bff654fe96",
+   "parts": [
+    "CF-R8HWKCDR",
+    "CF-R8HWKNDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8HWKCDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8gw1ajr.jpg",
+   "sha256": "8daeb8ab0830ad21247dcf8dc627f3535d5bc301096651bdf166aacb2a5122ba",
+   "parts": [
+    "CF-R8GW1AJR",
+    "CF-R8GW1NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8GW1AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8fw1ajr.jpg",
+   "sha256": "3973504b7bc6cde10e22284f569a3071af9c56359303a44cc4bddb4e218411d3",
+   "parts": [
+    "CF-R8FW1AJR",
+    "CF-R8FW1NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8FW1AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8ew6ajr.jpg",
+   "sha256": "e3c968028aad43645d599afaf3f237a5baea819f6d1646964f0c50c65f8c08f8",
+   "parts": [
+    "CF-R8EW6AJR",
+    "CF-R8EW6NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8EW6AJR_322299",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8gwjcjr.jpg",
+   "sha256": "b81d20e31886a826da23f8b918dd59862fba3babb8d65cbd7001a3673ecc0437",
+   "parts": [
+    "CF-R8GWJCJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8GWJCJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8fwjcjr.jpg",
+   "sha256": "e453aadebce5efb843b71a7411e456903e4b7ea91c7f57fbcb70cf2821bc5f49",
+   "parts": [
+    "CF-R8FWJCJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8FWJCJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8ww1adr.jpg",
+   "sha256": "2dcf86cb5d8745c3c6ee004f171e745050d91c95c1476f8e90bac47679086121",
+   "parts": [
+    "CF-R8WW1ADR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8WW1ADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R8/panasonic-letsnote-cf-r8-cf-r8ww1ajr.jpg",
+   "sha256": "ea4ec0e7b8e2308f26d87e32f41591be34deb5c57ee8465c408cc44c4d633205",
+   "parts": [
+    "CF-R8WW1AJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R8WW1AJR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-R9": [
+  {
+   "file": "images/CF-R9/panasonic-letsnote-cf-r9-cf-r9jwacdr.jpg",
+   "sha256": "dfd300d0295d22518b54ea54fa4ec520a77aa25a3f9196c4d39df7d28582166c",
+   "parts": [
+    "CF-R9JWACDR",
+    "CF-R9JWANDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R9JWACDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R9/panasonic-letsnote-cf-r9-cf-r9kwcedr.jpg",
+   "sha256": "8b3c797f877de793f48e696c09d118ef338d26a64ba3aa1db0a6781a48ca5189",
+   "parts": [
+    "CF-R9KWCEDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R9KWCEDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-R9/panasonic-letsnote-cf-r9-cf-r9kwctdr.jpg",
+   "sha256": "e977d198b09a81af4599ae128dfffa8593688805af84558b6587f151fa2dab2a",
+   "parts": [
+    "CF-R9KWCTDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-R9KWCTDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-RZ4": [
+  {
+   "file": "images/CF-RZ4/panasonic-letsnote-cf-rz4-cf-rz4lddjr.jpg",
+   "sha256": "84a68ab23ded35fed2f1e3944e6f8b8a4f4c7521a4df4463d3ea6f7f26eb5f60",
+   "parts": [
+    "CF-RZ4LDDJR",
+    "CF-RZ4LDFJR",
+    "CF-RZ4LFDJR",
+    "CF-RZ4DDLBR",
+    "CF-RZ4JDDJR",
+    "CF-RZ4JDFJR",
+    "CF-RZ4JDLBR",
+    "CF-RZ4CDDJR",
+    "CF-RZ4CDFJR",
+    "CF-RZ4CDLBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ4LDDJR_839656",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ4/panasonic-letsnote-cf-rz4-cf-rz4ldejr.jpg",
+   "sha256": "0f678499fbf7ad0af16d7b3305fc8631d0cea73b1774975981197d03c904e14b",
+   "parts": [
+    "CF-RZ4LDEJR",
+    "CF-RZ4DFMBR",
+    "CF-RZ4JDEJR",
+    "CF-RZ4JDMBR",
+    "CF-RZ4CDEJR",
+    "CF-RZ4CDMBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ4LDEJR_839684",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-RZ5": [
+  {
+   "file": "images/CF-RZ5/panasonic-letsnote-cf-rz5-cf-rz5gdfpr.jpg",
+   "sha256": "5cf6e910d9cea5c337c3b524f4c26f955c96b2e36fb3dbcf77deb5493af58cf9",
+   "parts": [
+    "CF-RZ5GDFPR",
+    "CF-RZ5HDLQR",
+    "CF-RZ5CDDPR",
+    "CF-RZ5CDFPR",
+    "CF-RZ5YDLQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ5GDFPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ5/panasonic-letsnote-cf-rz5-cf-rz5gfepr.jpg",
+   "sha256": "e1fbce00b5c5c9812f738abe34af19b92b2d4c5636d8efa4b91759c532455626",
+   "parts": [
+    "CF-RZ5GFEPR",
+    "CF-RZ5HFMQR",
+    "CF-RZ5CFEPR",
+    "CF-RZ5YFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ5GFEPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ5/panasonic-letsnote-cf-rz5-cf-rz5vdfpr.jpg",
+   "sha256": "66ba6bd2c0798c897c0193163f1350f10729984c7d9550e682fa2d35b6edce57",
+   "parts": [
+    "CF-RZ5VDFPR",
+    "CF-RZ5WDLQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ5VDFPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ5/panasonic-letsnote-cf-rz5-cf-rz5vfepr.jpg",
+   "sha256": "762d82dd188d653011b6d6d554a95f95f9503600e69a93063bf1f8620d3f3f15",
+   "parts": [
+    "CF-RZ5VFEPR",
+    "CF-RZ5WFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ5VFEPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-RZ6": [
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6ndfqr.jpg",
+   "sha256": "834d936f7be4511de2c7e4b364ee95e271e9ad1bff2e65bea93658cdd503ef48",
+   "parts": [
+    "CF-RZ6NDFQR",
+    "CF-RZ6ADFQR",
+    "CF-RZ6GDFPR",
+    "CF-RZ6HFLPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6NDFQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6ddfpr.jpg",
+   "sha256": "b9b3f66cbb21643c25d9c5757ba6abc497e4241490b2c9d0039617d41864feec",
+   "parts": [
+    "CF-RZ6DDFPR",
+    "CF-RZ6DFFPR",
+    "CF-RZ6EDLQR",
+    "CF-RZ6EFLQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6DDFPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6cdfqr.jpg",
+   "sha256": "20facc21fc4694a5687533f990b9a86730620a90bcfe8306ef14fdf9ad07d3b1",
+   "parts": [
+    "CF-RZ6CDFQR",
+    "CF-RZ61DFQR",
+    "CF-RZ6KDFQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6CDFQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6qfmqr.jpg",
+   "sha256": "bb5075c597ea4bf55fd05225ed24c726a3c2fa5b606057a066378ba752bd8994",
+   "parts": [
+    "CF-RZ6QFMQR",
+    "CF-RZ62FMQR",
+    "CF-RZ6LFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6QFMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6pfmqr.jpg",
+   "sha256": "15ed4c57494d581c62865c885ca9e3163511f924776b50c752995347e9576575",
+   "parts": [
+    "CF-RZ6PFMQR",
+    "CF-RZ6BFMQR",
+    "CF-RZ6HFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6PFMQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A4800%C3%973600)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6cdbpr.jpg",
+   "sha256": "f7abba4592402ac1203fcd92a6e510ba42a173c7c27cb048f54ae21cf43b6f11",
+   "parts": [
+    "CF-RZ6CDBPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ6CDBPR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-RZ8": [
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8qdeqr.jpg",
+   "sha256": "9bc7aa19f8bbd2f39fb349fe398722d2742f9952fb452e54bc9e18bc5291d68e",
+   "parts": [
+    "CF-RZ8QDEQR",
+    "CF-RZ8ADEQR",
+    "CF-RZ8HDEQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8QDEQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8qfmqr.jpg",
+   "sha256": "21948f4931d04f4721ffa0284f0a679cb81b9e3b6ed3585f7b76a874554af56c",
+   "parts": [
+    "CF-RZ8QFMQR",
+    "CF-RZ8AFMQR",
+    "CF-RZ8HFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8QFMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8ndeqr.jpg",
+   "sha256": "d68fa68d2c4fcebef1a6f2c640b9f9f03030d91011c2f073081768553673d5d3",
+   "parts": [
+    "CF-RZ8NDEQR",
+    "CF-RZ8FDEQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8NDEQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8nfmqr.jpg",
+   "sha256": "a897647f3ed6798aaaf1bb2e785b1429f3fe80e40b5f868ea404cd02dd4dc917",
+   "parts": [
+    "CF-RZ8NFMQR",
+    "CF-RZ8FFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8NFMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8kdeqr.jpg",
+   "sha256": "4bc29b0f02a6425f552865e1a0f1472d3051f7552abd81f0d1df34da411c8579",
+   "parts": [
+    "CF-RZ8KDEQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8KDEQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8kfmqr.jpg",
+   "sha256": "1aebd7eb667977ba112b04db10ad10a26d4077146ac4f5f6359370d8a269b3ae",
+   "parts": [
+    "CF-RZ8KFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8KFMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8cfmqr.jpg",
+   "sha256": "4d97812f8cf92266a40e346faaaa660e61567b0f1223debdc002c48eed767e5b",
+   "parts": [
+    "CF-RZ8CFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8CFMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8bdfqr.jpg",
+   "sha256": "810e5d9ac7900ef058defc0d4cd799c9297b2a1b88b5a1467b39b8aa49600055",
+   "parts": [
+    "CF-RZ8BDFQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-RZ8BDFQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S10": [
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10eybdr.jpg",
+   "sha256": "85b320380a3a76a4d11fcd4ded81f20e98c725b30abb5e012e99fc21a399fb42",
+   "parts": [
+    "CF-S10EYBDR",
+    "CF-S10EYQDR",
+    "CF-S10EYTDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10EYBDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10eyadr.jpg",
+   "sha256": "ce1daa747c58027911337313bc3c62e80ee3bd88fe58996959b2af66902a72f2",
+   "parts": [
+    "CF-S10EYADR",
+    "CF-S10EYPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10EYADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10cyadr.jpg",
+   "sha256": "04ec24a45a265a3be579da6a493663af76de4c769f31c8d464ac2737894e0f60",
+   "parts": [
+    "CF-S10CYADR",
+    "CF-S10CYPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10CYADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10ayadr.jpg",
+   "sha256": "9aed113627b01a27c99a8442981bbf39649de4ad27e708d0e0db75eeba09c621",
+   "parts": [
+    "CF-S10AYADR",
+    "CF-S10AYPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10AYADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10cybdr.jpg",
+   "sha256": "aa440727b0d4300dc87e4f919c62682e89f474e1306a6776b836246ecfa191d4",
+   "parts": [
+    "CF-S10CYBDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10CYBDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10cyqdr.jpg",
+   "sha256": "9f023109fcaefd85817a1b05b45afbd2d9197ac42ade79eacbd180bcddebdbdb",
+   "parts": [
+    "CF-S10CYQDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10CYQDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S10/panasonic-letsnote-cf-s10-cf-s10aybdr.jpg",
+   "sha256": "8a91238c5e81e8e31a3dace338e8ee57ccd0f71b35b2be649b109298ca7a7dfc",
+   "parts": [
+    "CF-S10AYBDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S10AYBDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S21": [
+  {
+   "file": "images/CF-S21/panasonic-letsnote-cf-s21-cf-s21ej8.jpg",
+   "sha256": "86b7718ccf1bf90d2c19c6c459525e387f8e1fb432f73621bd14f94ceaa442c5",
+   "parts": [
+    "CF-S21EJ8",
+    "CF-S21EJ81"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/s21eopen2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S21/panasonic-letsnote-cf-s21-cf-s21j8.jpg",
+   "sha256": "0bba7e66d1aa97fcf78a2ee7a754b2f9600af437a275be06bc29ef528fa10900",
+   "parts": [
+    "CF-S21J8",
+    "CF-S21J5"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/s21open2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S21/panasonic-letsnote-cf-s21-cf-s21j8-n.jpg",
+   "sha256": "9bc724a1d3c1e5f829af04ddde5d5a87d4c9ab5f55eddfed0645b4152e28be0c",
+   "parts": [
+    "CF-S21J8-N"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S21J8-N%E6%96%9C%E3%82%81%E3%83%95%E3%83%AA",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S22": [
+  {
+   "file": "images/CF-S22/panasonic-letsnote-cf-s22-cf-s22j8.jpg",
+   "sha256": "68648b38038186edbec91ee9d9c75292635bee3d1df88a0240858dfdeda74051",
+   "parts": [
+    "CF-S22J8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/s22",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S51": [
+  {
+   "file": "images/CF-S51/panasonic-letsnote-cf-s51-cf-s51vxj8.jpg",
+   "sha256": "49f40dab4b1e1293d369804e5f05f8ac967b9ea07edb00248e9d598e5f2cdec8",
+   "parts": [
+    "CF-S51VXJ8",
+    "CF-S51VJ8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/front-4",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S51/panasonic-letsnote-cf-s51-cf-s51exj8.jpg",
+   "sha256": "c2a53c04c88a9a8db768b1c951fd79f3c55213a27bbc0d06710aa2a9730105c1",
+   "parts": [
+    "CF-S51EXJ8",
+    "CF-S51EJ8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/s51e-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S51/panasonic-letsnote-cf-s51-cf-s51j8.jpg",
+   "sha256": "64ffe48330767fc165a5a2535f7c0e71e068aeeaf167334e9c8d4a353e334d53",
+   "parts": [
+    "CF-S51J8"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/s51",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S8": [
+  {
+   "file": "images/CF-S8/panasonic-letsnote-cf-s8-cf-s8hyeadr.jpg",
+   "sha256": "f0fcda713167cbc13d6d62dc5560d982e157a37adc757889af8e39fcc27e06ca",
+   "parts": [
+    "CF-S8HYEADR",
+    "CF-S8HYEPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S8HYEADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S8/panasonic-letsnote-cf-s8-cf-s8hyebdr.jpg",
+   "sha256": "f7586934fe8e9a426db9af412cd6bf4ff0992cd8f8f65014fa76f5a04819f1ad",
+   "parts": [
+    "CF-S8HYEBDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S8HYEBDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-S9": [
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9lyfedr.jpg",
+   "sha256": "608c6c378a8347e0d887e7176ee0e51cb1021d85de12d92189e38c0891269575",
+   "parts": [
+    "CF-S9LYFEDR",
+    "CF-S9LYFSDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9LYFEDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9jyeadr.jpg",
+   "sha256": "a936f59fa039b8dfe134425d28097af3ae7e236d358d622eb6b9d37d914c2b0d",
+   "parts": [
+    "CF-S9JYEADR",
+    "CF-S9JYEPDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9JYEADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9lyffdr.jpg",
+   "sha256": "58f3f816d28c466fe609f0a8d7b3bb6a1264796a1fb582273360e0f11e0efc43",
+   "parts": [
+    "CF-S9LYFFDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9LYFFDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9kyfedr.jpg",
+   "sha256": "7a2298d2f131bc5423025baa46c3c6581c4a83a70b421c668c115de3e19bb8c1",
+   "parts": [
+    "CF-S9KYFEDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9KYFEDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9kyfsdr.jpg",
+   "sha256": "212b9b21233af4f8565319e9a0988d99947b4c63f0f7dbd74154140e44c326c3",
+   "parts": [
+    "CF-S9KYFSDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9KYFSDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9kyffdr.jpg",
+   "sha256": "7457b51f9818bb95c0c3b1ffca4ff73af90002ce5c3e6f2b574eaa86345cadb9",
+   "parts": [
+    "CF-S9KYFFDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9KYFFDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-S9/panasonic-letsnote-cf-s9-cf-s9jyebdr.jpg",
+   "sha256": "94fab95411204050f7f971f76b1c4b00b93c27fa4b3a46d8d79c2b1310c4fe8b",
+   "parts": [
+    "CF-S9JYEBDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-S9JYEBDR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SC6": [
+  {
+   "file": "images/CF-SC6/panasonic-letsnote-cf-sc6-cf-sc6admcr.png",
+   "sha256": "aed6afd2a5c5367676679e4b3c973c1fa16b0c0f50ba9acf17c4155ccbfb647d",
+   "parts": [
+    "CF-SC6ADMCR",
+    "CF-SC6ADTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SC6ADMCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SC6/panasonic-letsnote-cf-sc6-cf-sc6bdpcr.png",
+   "sha256": "2586808cf0e60c55186f555c4ad07afd99dfb996a498750321eb1e9ef6effcc8",
+   "parts": [
+    "CF-SC6BDPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SC6BDPCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SR3": [
+  {
+   "file": "images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3kfpcr.jpg",
+   "sha256": "0a448685d87dca3281e8aac2d6562af3d19fdd20975154cd9610414aa488691b",
+   "parts": [
+    "CF-SR3KFPCR",
+    "CF-SR3HFPCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR3KFPCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3jdmcr.jpg",
+   "sha256": "c53fa6bf484f7577ab55199c22876490b7ff440fb6124f4dcb7949193bb5d67c",
+   "parts": [
+    "CF-SR3JDMCR",
+    "CF-SR3GDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR3JDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3kdncr.jpg",
+   "sha256": "05793fbde1c1e3deb8797d48dac3d03101fd2f38622a9ef7f9fdcc24210f4bae",
+   "parts": [
+    "CF-SR3KDNCR",
+    "CF-SR3HDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR3KDNCR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3jdtcr.jpg",
+   "sha256": "c889780cf048afab1daadf7d40b706078360204cab41a0784ff93566e2cc85af",
+   "parts": [
+    "CF-SR3JDTCR",
+    "CF-SR3GDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR3JDTCR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SR4": [
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4gdmcr.png",
+   "sha256": "ebd83e549dad9442dcea89ac9041b4269bcbf42861cd4d259d36605564412ad7",
+   "parts": [
+    "CF-SR4GDMCR",
+    "CF-SR4GDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR4GDMCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4edmcr.jpg",
+   "sha256": "4a2b2e59c02436c35049b4c144d56f04cd0b0a8e1c7e97f5891547081630b202",
+   "parts": [
+    "CF-SR4EDMCR",
+    "CF-SR4EDTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980858042_CF-SR4EDMCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4hdncr.png",
+   "sha256": "60ffa85f1a74892cdd8e797aa89441ff1b560f3237993c19ea8a8107680454c4",
+   "parts": [
+    "CF-SR4HDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR4HDNCR_%E6%AD%A3%E9%9D%A2?fmt=png-alpha",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4fdncr.jpg",
+   "sha256": "72b1544fae3d84e374c01e091c0478fa11f1fc84a96a1dc69456bd607ea37ba5",
+   "parts": [
+    "CF-SR4FDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/4549980858066_CF-SR4FDNCR_%E6%AD%A3%E9%9D%A2(%E6%A8%99%E6%BA%96%EF%BC%9A1280%C3%97960%EF%BC%89",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4cdmcr.jpg",
+   "sha256": "c889780cf048afab1daadf7d40b706078360204cab41a0784ff93566e2cc85af",
+   "parts": [
+    "CF-SR4CDMCR",
+    "CF-SR4CDTCR",
+    "CF-SR4ADMCR",
+    "CF-SR4ADTCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR4CDMCR_%E6%AD%A3%E9%9D%A2",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4ddncr.jpg",
+   "sha256": "05793fbde1c1e3deb8797d48dac3d03101fd2f38622a9ef7f9fdcc24210f4bae",
+   "parts": [
+    "CF-SR4DDNCR",
+    "CF-SR4BFPCR",
+    "CF-SR4BDNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SR4DDNCR_%E6%AD%A3%E9%9D%A2",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SV1": [
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1kfncr.jpg",
+   "sha256": "47f6ea30ae0171f9a62518bdda73e181af60f2a311b38bd6d9f424e3a09aaad3",
+   "parts": [
+    "CF-SV1KFNCR",
+    "CF-SV1GFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1KFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1kducr.jpg",
+   "sha256": "30dd373e800c9692052ff5ac32000ea01285ab3ec2cd0146b3ef436ac7f80c39",
+   "parts": [
+    "CF-SV1KDUCR",
+    "CF-SV1GDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1KDUCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1jdmcr.jpg",
+   "sha256": "cc3555c55d37d52aaaa553cca29bd14e1fb9796789e183e3245a3f7b73c94ddd",
+   "parts": [
+    "CF-SV1JDMCR",
+    "CF-SV1FDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1JDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1jdscr.jpg",
+   "sha256": "73d120da3c105dd8564dc4591d9d0d64fad6b2f488d67e57cb6c04dd83c83bdc",
+   "parts": [
+    "CF-SV1JDSCR",
+    "CF-SV1FDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1JDSCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1dfnqr.jpg",
+   "sha256": "4b4b1f3386f85bbb04bfa60e54ca1cb31bce57c22025435742eebd24e76ab3e1",
+   "parts": [
+    "CF-SV1DFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1DFNQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1dduqr.jpg",
+   "sha256": "9937d5f1922108a2b49e18a75e179e7f3e82eacba1887f7e0d8971656edbf49b",
+   "parts": [
+    "CF-SV1DDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1DDUQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1cdmqr.jpg",
+   "sha256": "57ae8f04b3548a4abb01e498f9a097a8a534cdf467ccd25f1a7065a6b6b4b8af",
+   "parts": [
+    "CF-SV1CDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1CDMQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1cdsqr.jpg",
+   "sha256": "c5b1af8ca606619a2cfac96bc7853e65c1c33579f6cdf1536e2146470c6af19e",
+   "parts": [
+    "CF-SV1CDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1CDSQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1cdcqr.jpg",
+   "sha256": "7123f78750ac3a33a6635e91c476268d679b9dc516356ab0f448c6de2350b3c5",
+   "parts": [
+    "CF-SV1CDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV1CDCQR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SV2": [
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2kfncr.jpg",
+   "sha256": "583c2bf690689541ac2c18d6a83776e558e1b5b1c62616e6ffc7280b215d8857",
+   "parts": [
+    "CF-SV2KFNCR",
+    "CF-SV2HFNCR",
+    "CF-SV2DFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2KFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2jdccr.jpg",
+   "sha256": "1f51b73ec4e323378a640cf6d111d34fce4118235a6591ddf6488871e03cc643",
+   "parts": [
+    "CF-SV2JDCCR",
+    "CF-SV2GDCCR",
+    "CF-SV2BDCCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2JDCCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2dducr.jpg",
+   "sha256": "e96731637aabf6826dafdd69174b8f3338a825fd26f604c39fc431ac5b2392f6",
+   "parts": [
+    "CF-SV2DDUCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2DDUCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2bdmcr.jpg",
+   "sha256": "17e82f9e46b794208bdbe5b881a53c385f9caa51d7203850a6cca43943509891",
+   "parts": [
+    "CF-SV2BDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2BDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2mfncr.jpg",
+   "sha256": "2780d921c82a99eb91a6f41385622ed82306650df0f185d3b432af781d0eade5",
+   "parts": [
+    "CF-SV2MFNCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2MFNCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2mducr.jpg",
+   "sha256": "613ef2341e2f70684e1d1dec5c3f06f72774bb70592c6d3d24c89206a6a5f0b1",
+   "parts": [
+    "CF-SV2MDUCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2MDUCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2ldmcr.jpg",
+   "sha256": "744618a82d2c96c162e3ca32c92dbeed77ae4d833a32f649ef82abae9e035b16",
+   "parts": [
+    "CF-SV2LDMCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2LDMCR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2ldccr.jpg",
+   "sha256": "28eb0c6f134f05b611c031d7771fe68063a644858a20d54ccc388e1af2e2168e",
+   "parts": [
+    "CF-SV2LDCCR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV2LDCCR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SV7": [
+  {
+   "file": "images/CF-SV7/panasonic-letsnote-cf-sv7-cf-sv7hdfpr.jpg",
+   "sha256": "eabb934acff6a9a156fe54723bd74ce72e7f32e2dcdfd8322d2340fc3c5a7530",
+   "parts": [
+    "CF-SV7HDFPR",
+    "CF-SV7HDGQR",
+    "CF-SV7HFGQR",
+    "CF-SV7HFBQR",
+    "CF-SV72DFPR",
+    "CF-SV72DGQR",
+    "CF-SV72FGQR",
+    "CF-SV73FRQR",
+    "CF-SV7LDGQR",
+    "CF-SV7LFGQR",
+    "CF-SV7MDTQR",
+    "CF-SV7MFRQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV7HDFPR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV7/panasonic-letsnote-cf-sv7-cf-sv7hdwqr.jpg",
+   "sha256": "20d5d0b96d3c84b689b41cf90fa854979168d5e52a0fe6c6bbb6209905f1d0b3",
+   "parts": [
+    "CF-SV7HDWQR",
+    "CF-SV72DDQR",
+    "CF-SV7LDDQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV7HDWQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV7/panasonic-letsnote-cf-sv7-cf-sv7jduqr.jpg",
+   "sha256": "6d797f0d97ebb07df1e8f9b67c684b0f41760e72c2f364edf9a5377f2feaf7b8",
+   "parts": [
+    "CF-SV7JDUQR",
+    "CF-SV7JFQQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV7JDUQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SV8": [
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8cdfpr.jpg",
+   "sha256": "ea8270daf514c6692bc590f8f2b76b0f5f54bc729c6c3b9b45dfeb0f90547193",
+   "parts": [
+    "CF-SV8CDFPR",
+    "CF-SV8CDGQR",
+    "CF-SV8CFGQR",
+    "CF-SV8CFBQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8CDFPR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8kdgqr.jpg",
+   "sha256": "31890e9a8f941424ee56adbede6cdcfb99fd4fc51582665f59659668d097bed1",
+   "parts": [
+    "CF-SV8KDGQR",
+    "CF-SV8KDRQR",
+    "CF-SV8KDPQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8KDGQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8ldsqr.jpg",
+   "sha256": "184f2ecc04c09ade49ba1c3072a5c9a6a616e44de12a4dcf0558f83f49e87622",
+   "parts": [
+    "CF-SV8LDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8LDSQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8kdwqr.jpg",
+   "sha256": "dab72ef177dea57c856ee805a4d462b6f281c0771abe3c701c7f02bcc940a9a8",
+   "parts": [
+    "CF-SV8KDWQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8KDWQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8kdmqr.jpg",
+   "sha256": "870ecf5cd69855e934e7f82943f135580de1bf9fc2c72cc221326945b3b21bf3",
+   "parts": [
+    "CF-SV8KDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8KDMQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8lduqr.jpg",
+   "sha256": "2f465858e96d8727919ebbb06f2130b062b13c22da15c315ddc2703b698660e8",
+   "parts": [
+    "CF-SV8LDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8LDUQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8lfnqr.jpg",
+   "sha256": "59e2660c19c3ef6a6f3bca5ed2c5a14993924e5cf63407411afb14b17e7940ff",
+   "parts": [
+    "CF-SV8LFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8LFNQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8cdwqr.jpg",
+   "sha256": "f8ba2ec005cf99866bf6090beb9608a1f747bfffda2bfb98c8373edbd66d7115",
+   "parts": [
+    "CF-SV8CDWQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8CDWQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8dduqr.jpg",
+   "sha256": "80ef6a89849ca9bff231a962ff910f12750e05f6907ba0792b43c8945ca8c9df",
+   "parts": [
+    "CF-SV8DDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8DDUQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8dfnqr.jpg",
+   "sha256": "ff7d7fda9fc90ba6ef483c31c21f71ae938d26e7b4a1f2ba1ee4351eeebe9ebe",
+   "parts": [
+    "CF-SV8DFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8DFNQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8fdsqr.jpg",
+   "sha256": "9dd04c862ebe7152e6ef12b1267872c938af81271293379e2796943c74a684bd",
+   "parts": [
+    "CF-SV8FDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8FDSQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8fdmqr.jpg",
+   "sha256": "f624c37888b6696dc8ff20899f0301c56b33c7c951658f5a4fd4c0855e4710cb",
+   "parts": [
+    "CF-SV8FDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8FDMQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8gduqr.jpg",
+   "sha256": "e151dbc85910a45fe6d773f23be8fd221f2cda9b0fc42199428131eabad01651",
+   "parts": [
+    "CF-SV8GDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8GDUQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8gfnqr.jpg",
+   "sha256": "20852ab3403eb9eacd96bb00bd310ed9fee671f69b8477a5c7cbb66b2b846571",
+   "parts": [
+    "CF-SV8GFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV8GFNQR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SV9": [
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9hdpqr.jpg",
+   "sha256": "ccb5f37e317ee98383c36335e0d83e72fd02f7c77d9d58d1768c01768af35492",
+   "parts": [
+    "CF-SV9HDPQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9HDPQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9ndcqr.jpg",
+   "sha256": "08e0a7c7ecd4f02085f7c7b57ac5e5cd5af281d2b0544cc92fbdd1c72df660c8",
+   "parts": [
+    "CF-SV9NDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9NDCQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9adsqr.jpg",
+   "sha256": "c5b1af8ca606619a2cfac96bc7853e65c1c33579f6cdf1536e2146470c6af19e",
+   "parts": [
+    "CF-SV9ADSQR",
+    "CF-SV9HDSQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9ADSQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9admqr.jpg",
+   "sha256": "57ae8f04b3548a4abb01e498f9a097a8a534cdf467ccd25f1a7065a6b6b4b8af",
+   "parts": [
+    "CF-SV9ADMQR",
+    "CF-SV9HDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9ADMQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9eduqr.jpg",
+   "sha256": "9937d5f1922108a2b49e18a75e179e7f3e82eacba1887f7e0d8971656edbf49b",
+   "parts": [
+    "CF-SV9EDUQR",
+    "CF-SV9KDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9EDUQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9efnqr.jpg",
+   "sha256": "4b4b1f3386f85bbb04bfa60e54ca1cb31bce57c22025435742eebd24e76ab3e1",
+   "parts": [
+    "CF-SV9EFNQR",
+    "CF-SV9KFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9EFNQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9ndsqr.jpg",
+   "sha256": "9dd04c862ebe7152e6ef12b1267872c938af81271293379e2796943c74a684bd",
+   "parts": [
+    "CF-SV9NDSQR",
+    "CF-SV9NDRQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9NDSQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9adpqr.jpg",
+   "sha256": "7123f78750ac3a33a6635e91c476268d679b9dc516356ab0f448c6de2350b3c5",
+   "parts": [
+    "CF-SV9ADPQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9ADPQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9ndmqr.jpg",
+   "sha256": "f624c37888b6696dc8ff20899f0301c56b33c7c951658f5a4fd4c0855e4710cb",
+   "parts": [
+    "CF-SV9NDMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9NDMQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9pduqr.jpg",
+   "sha256": "e151dbc85910a45fe6d773f23be8fd221f2cda9b0fc42199428131eabad01651",
+   "parts": [
+    "CF-SV9PDUQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9PDUQR",
+   "shared_with_other_models": true
+  },
+  {
+   "file": "images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9pfnqr.jpg",
+   "sha256": "20852ab3403eb9eacd96bb00bd310ed9fee671f69b8477a5c7cbb66b2b846571",
+   "parts": [
+    "CF-SV9PFNQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SV9PFNQR",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SX1": [
+  {
+   "file": "images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1geadr.jpg",
+   "sha256": "5bbac48a49f45b7b8eaee0d1e9cb4de09c340cc524d6d19aacdc5c1700a65b65",
+   "parts": [
+    "CF-SX1GEADR",
+    "CF-SX1GEPDR",
+    "CF-SX1GETDR",
+    "CF-SX1WEUHR",
+    "CF-SX1WEVHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX1GEADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1gebdr.jpg",
+   "sha256": "4a0381e2efb40a00bba543c60fdc9a5a9b5627e88e39f4faa510542473a6a101",
+   "parts": [
+    "CF-SX1GEBDR",
+    "CF-SX1GEQDR",
+    "CF-SX1WEWHR",
+    "CF-SX1WEXHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX1GEBDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1xewhr.jpg",
+   "sha256": "86386e41ec356951525451354e805b868045feb02123b9ca69bde1a8c3e9cd2e",
+   "parts": [
+    "CF-SX1XEWHR",
+    "CF-SX1XEXHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX1XEWHR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1xeuhr.jpg",
+   "sha256": "b26affe04d036a0a9b5cc3ae15f050164bf41d6dcd64f75b88839a4c67453bc3",
+   "parts": [
+    "CF-SX1XEUHR",
+    "CF-SX1XEVHR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX1XEUHR_631548",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SX2": [
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2beabr.jpg",
+   "sha256": "a1365140052cf9aa047ac72838b5b507a1cf1eaff4c55792c907cdd36c74a741",
+   "parts": [
+    "CF-SX2BEABR",
+    "CF-SX2BEPBR",
+    "CF-SX2AETBR",
+    "CF-SX2AEYBR",
+    "CF-SX2AEABR",
+    "CF-SX2AEPBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2BEABR_643931",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2detbr.jpg",
+   "sha256": "7502967dc1eb03f64535f2253bd5f85f0cd25949bd0c47d824cd725020147dde",
+   "parts": [
+    "CF-SX2DETBR",
+    "CF-SX2DEYBR",
+    "CF-SX2CEABR",
+    "CF-SX2CEPBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2DETBR_659185",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2jeadr.jpg",
+   "sha256": "95b37296322b21d9e0fc8928b6fb15b116fec015b08eea4898aee13473c8a9ae",
+   "parts": [
+    "CF-SX2JEADR",
+    "CF-SX2JEPDR",
+    "CF-SX2JETDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2JEADR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2cebbr.jpg",
+   "sha256": "4ef416bde03670ab2b6a6db3a429e92375a02a4b1b9aed4945b8d21a8d87a38a",
+   "parts": [
+    "CF-SX2CEBBR",
+    "CF-SX2CEQBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2CEBBR_659054",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2aebbr.jpg",
+   "sha256": "0adc8a407f4c57c539b318e60a43df6d132b49aba90e51bc9e7418b42b78bf9f",
+   "parts": [
+    "CF-SX2AEBBR",
+    "CF-SX2AEQBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2AEBBR_644088",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2lebbr.jpg",
+   "sha256": "625daa1884da7faed070e4253e46bf2afa5204a4c94300923337a7e0299fda2a",
+   "parts": [
+    "CF-SX2LEBBR",
+    "CF-SX2LEQBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2LEBBR_621425",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2jebdr.jpg",
+   "sha256": "81ba69e07be6a880b94b14d5f8101093f91abd9b60621907f270349c532193e1",
+   "parts": [
+    "CF-SX2JEBDR",
+    "CF-SX2JEQDR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2JEBDR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX2/panasonic-letsnote-cf-sx2-cf-sx2leabr.jpg",
+   "sha256": "b26affe04d036a0a9b5cc3ae15f050164bf41d6dcd64f75b88839a4c67453bc3",
+   "parts": [
+    "CF-SX2LEABR",
+    "CF-SX2LEPBR",
+    "CF-SX2LETBR",
+    "CF-SX2LEYBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX2LEABR_621411",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SX3": [
+  {
+   "file": "images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3jeajr.jpg",
+   "sha256": "188e183ead8b7e0dd3a8e8636093179539be811c5becede6a7511f230660b589",
+   "parts": [
+    "CF-SX3JEAJR",
+    "CF-SX3JEPBR",
+    "CF-SX3JEPWR",
+    "CF-SX3SEABR",
+    "CF-SX3SEPBR",
+    "CF-SX3SEPWR",
+    "CF-SX3NETBR",
+    "CF-SX3NEYBR",
+    "CF-SX3YEABR",
+    "CF-SX3YEPBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX3JEAJR_771116",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3vetbr.jpg",
+   "sha256": "4c8c40e998ecac843667a49022260f64bff3a2367290baa8273bb8712c0aa67c",
+   "parts": [
+    "CF-SX3VETBR",
+    "CF-SX3VEYBR",
+    "CF-SX3VEYWR",
+    "CF-SX3TETBR",
+    "CF-SX3TEYBR",
+    "CF-SX3TEYWR",
+    "CF-SX3YEBBR",
+    "CF-SX3YEQBR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX3VETBR_771158",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3zdtbr.jpg",
+   "sha256": "f7d523ec8cad903189e97bb3d40166031265fbe23e7dfd758848fe093a849be4",
+   "parts": [
+    "CF-SX3ZDTBR",
+    "CF-SX3ZDYBR",
+    "CF-SX3ZDYWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX3ZDTBR_802587",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3ddpbr.jpg",
+   "sha256": "3c827b1b31fc5e16ba4a6e133f4c0669b17df002d6af10c17da775abd2ebf418",
+   "parts": [
+    "CF-SX3DDPBR",
+    "CF-SX3DDPWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX3DDPBR_802566",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SX4": [
+  {
+   "file": "images/CF-SX4/panasonic-letsnote-cf-sx4-cf-sx4kftbr.jpg",
+   "sha256": "28661dafd278e27d72848a2e670708240bbb0e0d431be4446e78dfaee6a7f4d8",
+   "parts": [
+    "CF-SX4KFTBR",
+    "CF-SX4KFYBR",
+    "CF-SX4KDYWR",
+    "CF-SX4JDTBR",
+    "CF-SX4JDYBR",
+    "CF-SX4JDYWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX4KFTBR_839825",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SX4/panasonic-letsnote-cf-sx4-cf-sx4mdpbr.jpg",
+   "sha256": "3a2994ebbfeef9e8ae844a45703f8c99771275432f192fb9cc202a09121983b4",
+   "parts": [
+    "CF-SX4MDPBR",
+    "CF-SX4MDPWR",
+    "CF-SX4HDPBR",
+    "CF-SX4HDPWR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SX4MDPBR_839871",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-SZ5": [
+  {
+   "file": "images/CF-SZ5/panasonic-letsnote-cf-sz5-cf-sz5hdkpr.jpg",
+   "sha256": "6e16411c3ce53a2a309230916c6e8a77b89a2864e168ca526a0c7ae7a9a06bfb",
+   "parts": [
+    "CF-SZ5HDKPR",
+    "CF-SZ5HDLQR",
+    "CF-SZ5HDKRR",
+    "CF-SZ5YDKPR",
+    "CF-SZ5YDLQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/16%E5%B9%B4%E6%98%A5%E3%83%A2%E3%83%87%E3%83%AB-CF-SZ5HDKPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ5/panasonic-letsnote-cf-sz5-cf-sz5jdmqr.jpg",
+   "sha256": "263a3b6b6c368baff24c75ca81522e0a4cb7b61d55445efcbed950d3ab41553d",
+   "parts": [
+    "CF-SZ5JDMQR",
+    "CF-SZ5JFMQR",
+    "CF-SZ5ZDMQR",
+    "CF-SZ5ZFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/16%E5%B9%B4%E6%98%A5%E3%83%A2%E3%83%87%E3%83%AB-CF-SZ5JDMQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ5/panasonic-letsnote-cf-sz5-cf-sz5xdmqr.jpg",
+   "sha256": "24ea5a28475d4d29f2aae35144cab96e7355b85d3a0b6cac78e83bffcdeeecfd",
+   "parts": [
+    "CF-SZ5XDMQR",
+    "CF-SZ5XFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ5XDMQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ5/panasonic-letsnote-cf-sz5-cf-sz5wdkpr.jpg",
+   "sha256": "d6a4dea3af9bee96e791a8c56ea522a2c3bb9e2735241683f60141e9d3922711",
+   "parts": [
+    "CF-SZ5WDKPR",
+    "CF-SZ5WDLQR",
+    "CF-SZ5WDKRR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ5WDKPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-SZ6": [
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6pdkpr.jpg",
+   "sha256": "abc384b973e3fad60c84b86a247edcc2454eb8de890860fe2728910b292db071",
+   "parts": [
+    "CF-SZ6PDKPR",
+    "CF-SZ6PDLQR",
+    "CF-SZ6QDAQR",
+    "CF-SZ6BDKPR",
+    "CF-SZ6BDLQR",
+    "CF-SZ6CDAQR",
+    "CF-SZ6HDKPR",
+    "CF-SZ6HDLQR",
+    "CF-SZ6JD3QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6PDKPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6pdyqr.jpg",
+   "sha256": "dd21024c52535a0d67415f6ebbac20e0287fe235d1a31473b9b9115eb6342879",
+   "parts": [
+    "CF-SZ6PDYQR",
+    "CF-SZ6BDYQR",
+    "CF-SZ6HDYPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6PDYQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6qfmqr.jpg",
+   "sha256": "9a8a51d6d1a078910fe7021afb040c2d819c1bb0503e2db6b5e1993833373492",
+   "parts": [
+    "CF-SZ6QFMQR",
+    "CF-SZ6CFMQR",
+    "CF-SZ6JFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6QFMQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6edlqr.jpg",
+   "sha256": "0484fa566a719478e1e8e25fa51b55208f4dcdfb7d3301a31030eb0c52c797a8",
+   "parts": [
+    "CF-SZ6EDLQR",
+    "CF-SZ6FD3QR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6EDLQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6edypr.jpg",
+   "sha256": "04eb6411822dd067e2e9cdbaf80619f3a850cf8896330592db363490ba74aa2d",
+   "parts": [
+    "CF-SZ6EDYPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6EDYPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6ffmqr.jpg",
+   "sha256": "aa67051d88e652c13460753d7b76073773394e3bcce72f99cf8a93165e5e8afa",
+   "parts": [
+    "CF-SZ6FFMQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6FFMQR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6edkpr.jpg",
+   "sha256": "d6a4dea3af9bee96e791a8c56ea522a2c3bb9e2735241683f60141e9d3922711",
+   "parts": [
+    "CF-SZ6EDKPR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-SZ6EDKPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6000%C3%974500)",
+   "shared_with_other_models": true
+  }
+ ],
+ "CF-T1": [
+  {
+   "file": "images/CF-T1/panasonic-letsnote-cf-t1-cf-t1pcaxr.jpg",
+   "sha256": "051255fbafd74cb31c31e9b7a751c541bb7254a83d74f31fd846118e02a92879",
+   "parts": [
+    "CF-T1PCAXR",
+    "CF-T1PWAXR",
+    "CF-T1PDAXR",
+    "CF-T1RCAXR",
+    "CF-T1RWAXR",
+    "CF-T1RDAXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/cft1-5",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-T2": [
+  {
+   "file": "images/CF-T2/panasonic-letsnote-cf-t2-cf-t2bw1axr.jpg",
+   "sha256": "aacf3348a3646ccca86949506b0d667b729051b4ea46660fb32903f330aca500",
+   "parts": [
+    "CF-T2BW1AXR",
+    "CF-T2AW1AXR",
+    "CF-T2AC2AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/T2AB-2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T2/panasonic-letsnote-cf-t2-cf-t2fw1axr.jpg",
+   "sha256": "df4d57b9a79d5cf4052dca3918995cf46b43862d7ff15e9834a5f5d93b86b1f5",
+   "parts": [
+    "CF-T2FW1AXR",
+    "CF-T2EW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/T2-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T2/panasonic-letsnote-cf-t2-cf-t2dw1axr.jpg",
+   "sha256": "9c7699105606329243d31df553b11a958326d1a3471ed71a75a345e91e1cc735",
+   "parts": [
+    "CF-T2DW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/T2",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T2/panasonic-letsnote-cf-t2-cf-t2cw1axr.jpg",
+   "sha256": "c0340ae4d019dd6f4eff589240e32ab3b78b68c9b32dc6898922f9f0c3af01dd",
+   "parts": [
+    "CF-T2CW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/T2C",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-T4": [
+  {
+   "file": "images/CF-T4/panasonic-letsnote-cf-t4-cf-t4hw4axr.jpg",
+   "sha256": "758322c0463aaaf9400f603bd2dcd23629ac04f906cdb0ddaa816ee97757011a",
+   "parts": [
+    "CF-T4HW4AXR",
+    "CF-T4GW5AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF_T4-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T4/panasonic-letsnote-cf-t4-cf-t4jwsaxr.jpg",
+   "sha256": "9301ae85df7899ffa8dd55a019fce2f0f8302e81dd4469b0141687fa2a512b0a",
+   "parts": [
+    "CF-T4JWSAXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T4JWSAXR_169202",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-T5": [
+  {
+   "file": "images/CF-T5/panasonic-letsnote-cf-t5-cf-t5aw1bjr.jpg",
+   "sha256": "0739527cd148a41f494419921b305e868987cac487f86b54195aea03c09edfe1",
+   "parts": [
+    "CF-T5AW1BJR",
+    "CF-T5AW1PJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T5AW1BJR_236777",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T5/panasonic-letsnote-cf-t5-cf-t5mw4ajr.jpg",
+   "sha256": "16b94817328a274393ab26d5f42d0a942645cf586c74dfadd39712a637eefbcc",
+   "parts": [
+    "CF-T5MW4AJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T5MW4AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T5/panasonic-letsnote-cf-t5-cf-t5lw4axr.jpg",
+   "sha256": "b982bca208e7ebf223df3381105b1edb065efeb0721320d4576f3c5bf652ed8e",
+   "parts": [
+    "CF-T5LW4AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T5LW4AXR_205351",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T5/panasonic-letsnote-cf-t5-cf-t5kw4axr.jpg",
+   "sha256": "9cb28e7bb95c2bc0e0f3ca917c4136a0214007aa5a66fc51ac7ea139f4083f79",
+   "parts": [
+    "CF-T5KW4AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T5KW4AXR_178740",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-T7": [
+  {
+   "file": "images/CF-T7/panasonic-letsnote-cf-t7-cf-t7dw6ajr.jpg",
+   "sha256": "daf5f083e832937059c9b1b6f01961b9977252954402b475c7fdcfcb03309eb4",
+   "parts": [
+    "CF-T7DW6AJR",
+    "CF-T7DW6NJR",
+    "CF-T7CW5AJR",
+    "CF-T7CW5NJR",
+    "CF-T7BW5AJR",
+    "CF-T7BW5NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T7DW6AJR_293206",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-T8": [
+  {
+   "file": "images/CF-T8/panasonic-letsnote-cf-t8-cf-t8fw1ajr.jpg",
+   "sha256": "84c7956289b3e18b83ece844fba9bde47ad7f8135ff8529da018576c0b9ba64a",
+   "parts": [
+    "CF-T8FW1AJR",
+    "CF-T8FW1NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T8FW1AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T8/panasonic-letsnote-cf-t8-cf-t8ew6ajr.jpg",
+   "sha256": "003f448241c90ba66c7b916fe38281f7cc1b9d349e4fb7a241744f3b90e2ea4b",
+   "parts": [
+    "CF-T8EW6AJR",
+    "CF-T8EW6NJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T8EW6AJR_322285",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-T8/panasonic-letsnote-cf-t8-cf-t8gw1ajr.jpg",
+   "sha256": "49e54f967fa4eb6b9845ca96ce8053c19f960fddd664695bc1d88075ee2b335b",
+   "parts": [
+    "CF-T8GW1AJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-T8GW1AJR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-W2": [
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2bw1axr.jpg",
+   "sha256": "399fb567b2b7a4d63c9e9fff44265d1690c7e80247db9a75a91ad6b91f694c04",
+   "parts": [
+    "CF-W2BW1AXR",
+    "CF-W2BW1HXR",
+    "CF-W2AW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/W2B-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2fw6axr.jpg",
+   "sha256": "60e7c919d51c50bdeea9f2a7ed690c97d7f1397e4a77a4ee0c0abd6826035433",
+   "parts": [
+    "CF-W2FW6AXR",
+    "CF-W2EW6AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W2EW6AXR_17306_l",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2dw6axr.jpg",
+   "sha256": "029f5e34ee2c9c6a7d400ca830a2f145d09e5ed76126c89f6fca099aaf0564f4",
+   "parts": [
+    "CF-W2DW6AXR",
+    "CF-W2DW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/W2-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2ew1axr.jpg",
+   "sha256": "d785d2d757acc84fc4626494d376e7db444f223dc6d150897f17e768c8917149",
+   "parts": [
+    "CF-W2EW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W2EW6AXR_17550_l",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2dw6bxr.jpg",
+   "sha256": "89eaaff0fe05bcffd1d3ff6578034d3427bb2c88fc203721ee3f12945abb03ca",
+   "parts": [
+    "CF-W2DW6BXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/bmobile",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W2/panasonic-letsnote-cf-w2-cf-w2cw1axr.jpg",
+   "sha256": "99059419b7a64ea8226c87c72a7c90ff53b487e0d802c1c8b6d5972eed769b82",
+   "parts": [
+    "CF-W2CW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/W2C",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-W4": [
+  {
+   "file": "images/CF-W4/panasonic-letsnote-cf-w4-cf-w4hw8axr.jpg",
+   "sha256": "89b004d6aafb66ec9a98c86809727b2acedf2dfd9a6e4d3fe0d7ce940e02570a",
+   "parts": [
+    "CF-W4HW8AXR",
+    "CF-W4HW8HXR",
+    "CF-W4GW9AXR",
+    "CF-W4GW9HXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF_W4-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W4/panasonic-letsnote-cf-w4-cf-w4jw8axr.jpg",
+   "sha256": "91297b2a0c43de8215c1fb35adb4b78caa653e7253225a44f465e7c690f92ce4",
+   "parts": [
+    "CF-W4JW8AXR",
+    "CF-W4JW8HXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W4JW8AXR_169218",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-W5": [
+  {
+   "file": "images/CF-W5/panasonic-letsnote-cf-w5-cf-w5awdbjr.jpg",
+   "sha256": "73db60edb2b75cdf802fa236bb4fde0ef1c92199a73664132e8f2c65b302c697",
+   "parts": [
+    "CF-W5AWDBJR",
+    "CF-W5AWDPJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W5AWDBJR_236763",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W5/panasonic-letsnote-cf-w5-cf-w5mw8ajr.jpg",
+   "sha256": "3a34082ddf2be2acf55c4cf6248e47bc92d2c520fbf3f6fa4d19edc6736a0191",
+   "parts": [
+    "CF-W5MW8AJR",
+    "CF-W5MW8HJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W5MW8AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W5/panasonic-letsnote-cf-w5-cf-w5lw8axr.jpg",
+   "sha256": "c3a51ca6b3ead10cab5f221bdacacbdaadda48f209487a2f00c5c7709df6da07",
+   "parts": [
+    "CF-W5LW8AXR",
+    "CF-W5LW8HXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W5LW8AXR_205337",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W5/panasonic-letsnote-cf-w5-cf-w5kw8axr.jpg",
+   "sha256": "7ce9addfbcad1dfa17d50fdf7270e9953e39d5a0fa77452d7f7ceaf6f42bf7a2",
+   "parts": [
+    "CF-W5KW8AXR",
+    "CF-W5KW8HXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W5KW8AXR_178726",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-W7": [
+  {
+   "file": "images/CF-W7/panasonic-letsnote-cf-w7-cf-w7dwjajr.jpg",
+   "sha256": "912c1c91bc4211d2bbfad465c8118ca9e8bf8da874e62eb886de2930838f6015",
+   "parts": [
+    "CF-W7DWJAJR",
+    "CF-W7DWJNJR",
+    "CF-W7CWHAJR",
+    "CF-W7CWHNJR",
+    "CF-W7BWHAJR",
+    "CF-W7BWHNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W7DWJAJR_293094",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W7/panasonic-letsnote-cf-w7-cf-w7dwjqjr.jpg",
+   "sha256": "8fad1bed9d240e8289f6791b06a00513eaa1b9f763665914ca348f14b3e4c718",
+   "parts": [
+    "CF-W7DWJQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W7DWJQJR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-W8": [
+  {
+   "file": "images/CF-W8/panasonic-letsnote-cf-w8-cf-w8ewnqjr.jpg",
+   "sha256": "16ff7b065edde62b2556ef9ec1c58c52a048b58200459c2f83f7543d148740bc",
+   "parts": [
+    "CF-W8EWNQJR",
+    "CF-W8EWJAJR",
+    "CF-W8EWJNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W8EWNQJR_322257",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W8/panasonic-letsnote-cf-w8-cf-w8gwdajr.jpg",
+   "sha256": "6f181e350f7fbb4b2e99036b7a17898ee1c95b87109b4b10e362fd2b343f18c2",
+   "parts": [
+    "CF-W8GWDAJR",
+    "CF-W8GWDNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W8GWDAJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W8/panasonic-letsnote-cf-w8-cf-w8fwdajr.jpg",
+   "sha256": "f4b24457c53c176032070fc31906a6574e4dd7727b7d0505e5580b5607981712",
+   "parts": [
+    "CF-W8FWDAJR",
+    "CF-W8FWDNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W8FWDAJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W8/panasonic-letsnote-cf-w8-cf-w8gwjcjr.jpg",
+   "sha256": "a589f8c10d5e9bd7b133859aca5742c0714805c6b60811e00cb887e462ccb3c8",
+   "parts": [
+    "CF-W8GWJCJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W8GWJCJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-W8/panasonic-letsnote-cf-w8-cf-w8ewjqjr.jpg",
+   "sha256": "198e19e8032c1c86667e5f36760846d3f07999cebd1f0f8b5133cec4e7882514",
+   "parts": [
+    "CF-W8EWJQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-W8EWJQJR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-XZ6": [
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6pdapr.jpg",
+   "sha256": "6c5520aebab81cedd1ed66baf4db97c3dbee3b2de080390e2a0104ee88347935",
+   "parts": [
+    "CF-XZ6PDAPR",
+    "CF-XZ6PDCQR",
+    "CF-XZ6PFKQR",
+    "CF-XZ6BDAPR",
+    "CF-XZ6BDBQR",
+    "CF-XZ6BFYQR",
+    "CF-XZ6HDAPR",
+    "CF-XZ6HFAQR",
+    "CF-XZ6HDBQR",
+    "CF-XZ6HFBQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6PDAPR_%E6%AD%A3%E9%9D%A2(%E9%AB%98%E7%94%BB%E8%B3%AA%EF%BC%9A6016%C3%974016)",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6ddapr.jpg",
+   "sha256": "e9c6a52ab4f5d40d67952c6537705c59b95d1544d6b8a5f48270ab4d048452a6",
+   "parts": [
+    "CF-XZ6DDAPR",
+    "CF-XZ62DCQR",
+    "CF-XZ6LDAPR",
+    "CF-XZ6LDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6DDAPR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6dfkqr.jpg",
+   "sha256": "b05131dc7604abca6d193940bd1a5bfd10775014f4c062d523714d51ae28b3cc",
+   "parts": [
+    "CF-XZ6DFKQR",
+    "CF-XZ62FKQR",
+    "CF-XZ6LFKQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6DFKQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6kdcqr.jpg",
+   "sha256": "0dc66b320ae00303276f1856ad02dea586a086557ca7713d97f4b7a8fa307ae6",
+   "parts": [
+    "CF-XZ6KDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6KDCQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6kfkqr.jpg",
+   "sha256": "65c5d06c3fce856c1593d04d220ab5b5cab14b7333b2a004a3277bf8ce5ec1c1",
+   "parts": [
+    "CF-XZ6KFKQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6KFKQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6cfkqr.jpg",
+   "sha256": "13be87ddcb02daa94dae18683d2d5d64c59f9e9e274b1626bd5412c26b4a18d8",
+   "parts": [
+    "CF-XZ6CFKQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6CFKQR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6cdcqr.jpg",
+   "sha256": "29c99d46d57f0261ff725164f02da8059c0f679514ed60025c34ff0e4af2ec13",
+   "parts": [
+    "CF-XZ6CDCQR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-XZ6CDCQR",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-Y2": [
+  {
+   "file": "images/CF-Y2/panasonic-letsnote-cf-y2-cf-y2fw7axr.jpg",
+   "sha256": "1a292604973a43c82cbdd0d5c7d9770ec704cc101a2eb9d9d4b3fe711a968d30",
+   "parts": [
+    "CF-Y2FW7AXR",
+    "CF-Y2FW7HXR",
+    "CF-Y2EW6AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/Y2-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y2/panasonic-letsnote-cf-y2-cf-y2ew1axr.jpg",
+   "sha256": "64761f3b78e6ba544acc4973727be3fd9c6ff89197728f764bac6babd58a7985",
+   "parts": [
+    "CF-Y2EW1AXR",
+    "CF-Y2DW1AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/y2-1",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y2/panasonic-letsnote-cf-y2-cf-y2cw4axr.jpg",
+   "sha256": "d59bd9eefd88fadca1fae29c826bebf7a4ae4fee129e682ca10986f28096b175",
+   "parts": [
+    "CF-Y2CW4AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/Y2_02",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-Y4": [
+  {
+   "file": "images/CF-Y4/panasonic-letsnote-cf-y4-cf-y4jw8axr.jpg",
+   "sha256": "52df40e35bb0528dad33c915a549c015b6816a946d26f2e2b99ba8d25a77d7f5",
+   "parts": [
+    "CF-Y4JW8AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y4JW8AXR_169194",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y4/panasonic-letsnote-cf-y4-cf-y4hw8axr.jpg",
+   "sha256": "38ff5f0fb12597483f798593f3c531e8b675beb449f32cc833102824901e97a1",
+   "parts": [
+    "CF-Y4HW8AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CFY4_%E5%8F%B3",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y4/panasonic-letsnote-cf-y4-cf-y4gw8axr.jpg",
+   "sha256": "6d54177eb43723efcace4b24d4a715003b0802b9e7603941da1f448c3738a698",
+   "parts": [
+    "CF-Y4GW8AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF_Y4",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-Y5": [
+  {
+   "file": "images/CF-Y5/panasonic-letsnote-cf-y5-cf-y5mw8ajr.jpg",
+   "sha256": "a7e731b3f48f1779f27c0e7ce7e120b141fc82f9758d8fbabd35b5190830433b",
+   "parts": [
+    "CF-Y5MW8AJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y5MW8AJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y5/panasonic-letsnote-cf-y5-cf-y5lw8axr.jpg",
+   "sha256": "fc97fc439513a966d436d2e1ec21b2bc5b187b599db27619f4f143e9f61fe539",
+   "parts": [
+    "CF-Y5LW8AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y5LW8AXR_205330",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y5/panasonic-letsnote-cf-y5-cf-y5kw8axr.jpg",
+   "sha256": "e545dcfc9151aa4df104cd3b8340a2ebaab0c8812f5d1d6c3a9e1098f920bbab",
+   "parts": [
+    "CF-Y5KW8AXR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y5KW8AXR_178719",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-Y7": [
+  {
+   "file": "images/CF-Y7/panasonic-letsnote-cf-y7-cf-y7dwjajr.jpg",
+   "sha256": "7f0df0f15eac59ee2c7f8639782fadb5f9b70cd439ea536f296a14faae154be6",
+   "parts": [
+    "CF-Y7DWJAJR",
+    "CF-Y7DWJNJR",
+    "CF-Y7CWHAJR",
+    "CF-Y7CWHNJR",
+    "CF-Y7BWHAJR",
+    "CF-Y7BWHNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y7DWJAJR_292804",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y7/panasonic-letsnote-cf-y7-cf-y7awdbjr.jpg",
+   "sha256": "078a82b09ee4371666d75674d03d723a210da770a6e381e68a7f8846709a8fca",
+   "parts": [
+    "CF-Y7AWDBJR",
+    "CF-Y7AWDPJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y7AWDBJR_236924",
+   "shared_with_other_models": false
+  }
+ ],
+ "CF-Y8": [
+  {
+   "file": "images/CF-Y8/panasonic-letsnote-cf-y8-cf-y8fwmcjr.jpg",
+   "sha256": "bd82c60ea23d63c693de65a79eb507971b333217374a7abdf72a52de4633ee99",
+   "parts": [
+    "CF-Y8FWMCJR",
+    "CF-Y8FWMQJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y8FWMCJR",
+   "shared_with_other_models": false
+  },
+  {
+   "file": "images/CF-Y8/panasonic-letsnote-cf-y8-cf-y8ewjajr.jpg",
+   "sha256": "29c9f18674a1407ab56706b97467fcbf2bc77f3043311a03e1b228291e2f039d",
+   "parts": [
+    "CF-Y8EWJAJR",
+    "CF-Y8EWJNJR"
+   ],
+   "url": "https://panasonicjp.scene7.com/is/image/panasonicjp/CF-Y8EWJAJR_322243",
+   "shared_with_other_models": false
+  }
+ ]
+}
