@@ -12,47 +12,47 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-RZ6CDBPR](https://panasonic.jp/pc/p-db/CF-RZ6CDBPR_spec.html) | 2018-10 | 2019-06 | Windows 10 Home 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-RZ6CDFQR](https://panasonic.jp/pc/p-db/CF-RZ6CDFQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-RZ6QFMQR](https://panasonic.jp/pc/p-db/CF-RZ6QFMQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-RZ61DFQR](https://panasonic.jp/pc/p-db/CF-RZ61DFQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-RZ62FMQR](https://panasonic.jp/pc/p-db/CF-RZ62FMQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-RZ6KDFQR](https://panasonic.jp/pc/p-db/CF-RZ6KDFQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-RZ6LFMQR](https://panasonic.jp/pc/p-db/CF-RZ6LFMQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-RZ6NDFQR](https://panasonic.jp/pc/p-db/CF-RZ6NDFQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ6PFMQR](https://panasonic.jp/pc/p-db/CF-RZ6PFMQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ6ADFQR](https://panasonic.jp/pc/p-db/CF-RZ6ADFQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ6BFMQR](https://panasonic.jp/pc/p-db/CF-RZ6BFMQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ6GDFPR](https://panasonic.jp/pc/p-db/CF-RZ6GDFPR_spec.html) | 2017-01 | 2017-09 | Windows 10 Home 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ6HFLPR](https://panasonic.jp/pc/p-db/CF-RZ6HFLPR_spec.html) | 2017-01 | 2017-09 | Windows 10 Home 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ6HFMQR](https://panasonic.jp/pc/p-db/CF-RZ6HFMQR_spec.html) | 2017-01 | 2017-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ6DDFPR](https://panasonic.jp/pc/p-db/CF-RZ6DDFPR_spec.html) | 2016-10 | 2017-02 | Windows 10 Home 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ6DFFPR](https://panasonic.jp/pc/p-db/CF-RZ6DFFPR_spec.html) | 2016-10 | 2017-02 | Windows 10 Home 64ビット、Intel® CoreTM m3-7Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ6EDLQR](https://panasonic.jp/pc/p-db/CF-RZ6EDLQR_spec.html) | 2016-10 | 2017-02 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ6EFLQR](https://panasonic.jp/pc/p-db/CF-RZ6EFLQR_spec.html) | 2016-10 | 2017-02 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
+| [CF-RZ6CDBPR](https://panasonic.jp/pc/p-db/CF-RZ6CDBPR_spec.html) | 2018-10 | 2019-06 | Windows 10 Home 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business 2016 |
+| [CF-RZ6CDFQR](https://panasonic.jp/pc/p-db/CF-RZ6CDFQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business 2016 |
+| [CF-RZ6QFMQR](https://panasonic.jp/pc/p-db/CF-RZ6QFMQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business 2016 |
+| [CF-RZ61DFQR](https://panasonic.jp/pc/p-db/CF-RZ61DFQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business 2016 |
+| [CF-RZ62FMQR](https://panasonic.jp/pc/p-db/CF-RZ62FMQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business 2016 |
+| [CF-RZ6KDFQR](https://panasonic.jp/pc/p-db/CF-RZ6KDFQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business 2016 |
+| [CF-RZ6LFMQR](https://panasonic.jp/pc/p-db/CF-RZ6LFMQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business 2016 |
+| [CF-RZ6NDFQR](https://panasonic.jp/pc/p-db/CF-RZ6NDFQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ6PFMQR](https://panasonic.jp/pc/p-db/CF-RZ6PFMQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ6ADFQR](https://panasonic.jp/pc/p-db/CF-RZ6ADFQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ6BFMQR](https://panasonic.jp/pc/p-db/CF-RZ6BFMQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ6GDFPR](https://panasonic.jp/pc/p-db/CF-RZ6GDFPR_spec.html) | 2017-01 | 2017-09 | Windows 10 Home 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ6HFLPR](https://panasonic.jp/pc/p-db/CF-RZ6HFLPR_spec.html) | 2017-01 | 2017-09 | Windows 10 Home 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ6HFMQR](https://panasonic.jp/pc/p-db/CF-RZ6HFMQR_spec.html) | 2017-01 | 2017-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ6DDFPR](https://panasonic.jp/pc/p-db/CF-RZ6DDFPR_spec.html) | 2016-10 | 2017-02 | Windows 10 Home 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ6DFFPR](https://panasonic.jp/pc/p-db/CF-RZ6DFFPR_spec.html) | 2016-10 | 2017-02 | Windows 10 Home 64-bit, Intel® CoreTM m3-7Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ6EDLQR](https://panasonic.jp/pc/p-db/CF-RZ6EDLQR_spec.html) | 2016-10 | 2017-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ6EFLQR](https://panasonic.jp/pc/p-db/CF-RZ6EFLQR_spec.html) | 2016-10 | 2017-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-7Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible Wireless WAN, Microsoft® Office Home and Business Premium |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Display / Graphics | インテル HD グラフィックス615（CPUに内蔵） |
-| Display / LCD colors | 1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Wireless communication | インテル Dual Band Wireless-AC 8265 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac準拠 |
+| Chipset | Built into CPU |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Display / Graphics | Intel HD Graphics 615 (integrated in CPU) |
+| Display / LCD colors | 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Dual Band Wireless-AC 8265 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac compliant |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Security chip | TPM（TCG V2.0準拠） |
-| Memory expansion slot | なし |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Microphone | アレイマイク |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Keyboard | OADG準拠86キー、キーピッチ16.8mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power consumption | 最大約45W |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Security chip | TPM (TCG V2.0 compliant) |
+| Memory expansion slot | None |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Microphone | Array microphone |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Keyboard | OADG-compliant 86 keys, key pitch 16.8mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power consumption | Max approx. 45W |
 | Efficiency target achievement (FY2011 standard) | — |
-| Dimensions (W×D×H) | 幅250mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
+| Dimensions (W×D×H) | Width 250mm × Depth 180.8mm × Height 19.5mm (excluding protrusions) |
 
 ## Differences by part number
 
@@ -82,25 +82,25 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電マルチタッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバーｘブルー |
-| Weight (with battery) | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
+| OS | Windows 10 Home 64-bit (Japanese version) / Panasonic recommends Windows 10 Pro |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic multi-touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v4.2 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3, CTIA compliant) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver x Blue |
+| Weight (with battery) | PC body: approx. 0.75kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6CDBPR_spec.html>
 
@@ -111,25 +111,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6CDBPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電マルチタッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic multi-touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v4.2 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3, CTIA compliant) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.75kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6CDFQR_spec.html>
 
@@ -140,26 +140,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6CDFQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電マルチタッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic multi-touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.2 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3, CTIA compliant) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.78kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6QFMQR_spec.html>
 
@@ -170,25 +170,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6QFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3, CTIA compliant) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.75kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ61DFQR_spec.html>
 
@@ -199,26 +199,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ61DFQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3, CTIA compliant) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.78kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ62FMQR_spec.html>
 
@@ -229,25 +229,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ62FMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.75kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6KDFQR_spec.html>
 
@@ -258,26 +258,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6KDFQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・USB3.0 Type-A port ×3 (one of which also serves as a USB charging port) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack M3) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion), rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.78kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business 2016 etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6LFMQR_spec.html>
 
@@ -288,25 +288,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6LFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | なし |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | None |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.75kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6NDFQR_spec.html>
 
@@ -317,26 +317,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6NDFQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (10-finger support) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.78kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Panasonic PC Screen Sharing Assist Utility / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6PFMQR_spec.html>
 
@@ -347,25 +347,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6PFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | なし |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | None |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6ADFQR_spec.html>
 
@@ -376,26 +376,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6ADFQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.775kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.775kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6BFMQR_spec.html>
 
@@ -406,25 +406,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6BFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | なし |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Home 64-bit (Japanese version) / Panasonic recommends Windows 10 Pro |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | None |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6GDFPR_spec.html>
 
@@ -435,26 +435,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6GDFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.775kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Home 64-bit (Japanese version) / Panasonic recommends Windows 10 Pro |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.775kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6HFLPR_spec.html>
 
@@ -465,26 +465,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6HFLPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4170MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0）約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.775kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4170MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (both power ON/OFF) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.775kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I・UHS-II high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6HFMQR_spec.html>
 
@@ -495,25 +495,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6HFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | なし |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Home 64-bit (Japanese version) / Panasonic recommends Windows 10 Pro |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | None |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6DDFPR_spec.html>
 
@@ -524,26 +524,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6DDFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| CPU | インテル Core m3-7Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.00GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.020 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.775kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Home 64-bit (Japanese version) / Panasonic recommends Windows 10 Pro |
+| CPU | Intel Core m3-7Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 1.00GHz (up to 2.60GHz with Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.020 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.775kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | 標準SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | Standard SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6DFFPR_spec.html>
 
@@ -554,25 +554,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6DFFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | なし |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | None |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6EDLQR_spec.html>
 
@@ -583,26 +583,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6EDLQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core i5-7Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / （以下HDMI出力のみ） / 3840× 2160（30 Hz/60 Hz）、4096 × 2160（30 Hz/60 Hz） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Energy efficiency | 2011年度基準 N区分0.016 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.775kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティ / ・手書きツール2 / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core i5-7Y54 processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 3.20GHz when using Intel Turbo Boost Technology 2.0) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / (below, HDMI output only) / 3840× 2160 (30 Hz/60 Hz), 4096 × 2160 (30 Hz/60 Hz) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.016 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.775kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・Network Selector Lite / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Display Helper / ・Wireless Manager mobile edition / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Setting Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・Handwriting Tool 2 / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | 標準SIMカードスロット |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | Standard SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6EFLQR_spec.html>
 
@@ -638,4 +638,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ6EFLQR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

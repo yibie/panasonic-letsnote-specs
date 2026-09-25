@@ -12,24 +12,24 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-N9LYPEDR](https://panasonic.jp/pc/p-db/CF-N9LYPEDR_spec.html) | 2010-09 | 2011-02 | Windows® 7 Professional 正規版 、インテル® CoreTM i5-560M（2.66GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）（最大6GB）、HDD：500GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-N9KYDEDR](https://panasonic.jp/pc/p-db/CF-N9KYDEDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional 正規版 、インテル® CoreTM i5-520M（2.40GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）、HDD：320GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-N9JYCADR](https://panasonic.jp/pc/p-db/CF-N9JYCADR_spec.html) | 2010-02 | 2010-05 | Windows®7 Professional 正規版、インテル® CoreTM i5-520M（2.40GHz）、メモリー：標準2GB（最大4GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-N9LYPEDR](https://panasonic.jp/pc/p-db/CF-N9LYPEDR_spec.html) | 2010-09 | 2011-02 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i5-560M (2.66GHz), Memory: standard 4GB (2GB memory added to expansion memory slot) (max 6GB), HDD: 500GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-N9KYDEDR](https://panasonic.jp/pc/p-db/CF-N9KYDEDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i5-520M (2.40GHz), Memory: standard 4GB (2GB memory added to expansion memory slot), HDD: 320GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-N9JYCADR](https://panasonic.jp/pc/p-db/CF-N9JYCADR_spec.html) | 2010-02 | 2010-05 | Genuine Windows®7 Professional, Intel® CoreTM i5-520M (2.40GHz), Memory: standard 2GB (max 4GB), HDD: 250GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Chipset | モバイル インテル QM57 Express チップセット |
-| Display | 12.1型TFTカラー液晶 WXGA (1280×800ドット) |
-| Display / LCD colors | 1280×800ドット：約1677万色 |
-| Display / External output | 1280×720、800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大20Mbps、送信最大6Mbps） |
+| Chipset | Mobile Intel QM57 Express chipset |
+| Display | 12.1-inch TFT color LCD WXGA (1280×800 dots) |
+| Display / LCD colors | 1280×800 dots: approx. 16.77 million colors |
+| Display / External output | 1280×720, 800×600, 1024×768, 1280×768, 1280×1024, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 20Mbps reception, max. 6Mbps transmission) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約60W |
-| Accessories | プロダクトリカバリーDVD-ROM1枚（Windows7用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 60W |
+| Accessories | 1 Product Recovery DVD-ROM (for Windows 7), AC adapter, battery pack, instruction manual, etc. |
 
 ## Differences by part number
 
@@ -44,28 +44,28 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXPMode搭載)▼インストールOS：Windows7 Professional 64ビット正規版(WindowsXP Mode搭載)※全て日本語版。 |
-| CPU | インテルvProテクノロジー採用 / インテル Core i5-560M vPro プロセッサー / インテル スマートキャッシュ3MB、動作周波数2.66GHz / (インテル ターボ・ブースト・テクノロジー利用時は最大3.20GHz) |
-| Memory | 標準4GB DDR3 SDRAM(拡張メモリースロットに2GBのメモリー増設済み、空きスロット0) ※標準装着済みの2GBのメモリーを取り外して4GBのメモリーを取り付けた場合は最大6GB |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Hard disk | 500GB(Serial ATA、2.5型HDD 5400回転/分)上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用(ユーザー使用不可) |
-| Display / Graphics | インテル HD グラフィックス搭載 / (インテル Core i5-560M vPro プロセッサーに内蔵) |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1280×800ドット：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N + WiMAX 6250 |
-| Audio | PCM音源(24ビットステレオ)、インテル High Definition Audio準拠、モノラルスピーカー |
-| Security chip | TPM(TCG V1.2準拠) |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット(SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応) |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) （2GBのメモリーを増設済み、空きスロット0） |
-| Ports | LANコネクター(RJ-45)、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3）、USBポート×3（USB2.0） |
-| Keyboard | OADG準拠85キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、3.75A、電源コードは100V専用 / ▼バッテリーパック：7.2V リチウムイオン・公称容量12.4Ah、定格容量11.6Ah |
-| Energy efficiency | 2011年度基準 N区分0.13 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXPMode equipped)▼Installed OS: Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) *All Japanese versions. |
+| CPU | Intel vPro Technology adopted / Intel Core i5-560M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.66GHz / (up to 3.20GHz when using Intel Turbo Boost Technology) |
+| Memory | Standard 4GB DDR3 SDRAM (2GB memory already added to expansion memory slot, 0 free slots) ※If the standard-installed 2GB memory is removed and 4GB memory is installed, maximum 6GB |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 12GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Display / Graphics | Intel HD Graphics / (integrated in Intel Core i5-560M vPro processor) |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1280×800 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N + WiMAX 6250 |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) (2GB memory added, 0 free slots) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input (stereo mini jack M3 (plug-in power compatible)), audio output (stereo mini jack M3), USB port x3 (USB2.0) |
+| Keyboard | OADG-compliant 85 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16 V, 3.75A, power cord for 100V only / ▼Battery pack: 7.2V lithium-ion, nominal capacity 12.4Ah, rated capacity 11.6Ah |
+| Energy efficiency | 2011 standards N category 0.13 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | 駆動時間：約14.5時間(別売の軽量バッテリーパック装着時：約7時間)／充電時間：約3.5時間（電源OFF時）、約6.5時間（電源ON時）、別売の軽量バッテリーパック装着時：約3.5時間（電源OFF時）、約6.5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅282.8mm×奥行209.6mm×高さ23.4mm/38.7mm（前部/後部） / ※最厚部は41.4mm |
-| Weight (with battery) | パソコン本体：約1.28kg（付属のバッテリーパック(約0.41kg)装着時）、パソコン本体：約1.12kg（別売の軽量バッテリーパック(約0.25kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player12、Microsoft.NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode、インテル PROSet/Wireless Software、DirectX 11、ATOK for Windows 無償試用版、キングソフト辞書 |
+| Battery life / charge time | Battery life: approx. 14.5 hours (approx. 7 hours when separately sold lightweight battery pack is installed) / Charging time: approx. 3.5 hours (power OFF), approx. 6.5 hours (power ON), when separately sold lightweight battery pack is installed: approx. 3.5 hours (power OFF), approx. 6.5 hours (power ON) |
+| Dimensions (W×D×H) | Width 282.8mm × Depth 209.6mm × Height 23.4mm/38.7mm (front/rear) / *Thickest part is 41.4mm |
+| Weight (with battery) | PC body: approx. 1.28kg (when attached battery pack (approx. 0.41kg)), PC body: approx. 1.12kg (when attached optional lightweight battery pack (approx. 0.25kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player12, Microsoft.NET Framework 3.5.1, WindowsLive Mail, WindowsLive Messenger, WindowsLive Photo Gallery, WindowsLive Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notice, Wireless Manager mobile edition5.5, Wireless Switching Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter5.0 (30-day trial version), Power Plan Extension Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode, Intel PROSet/Wireless Software, DirectX 11, ATOK for Windows Free Trial Version, Kingsoft Dictionary |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9LYPEDR_spec.html>
 
@@ -76,28 +76,28 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9LYPEDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional64ビット正規版(WindowsXPMode搭載)▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版。 |
-| CPU | インテルvProテクノロジー採用 / インテル Core i5-520M vPro プロセッサー / インテル スマートキャッシュ3MB、動作周波数2.40GHz / インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| Memory | 標準4GB DDR3 SDRAM（拡張メモリースロットに2GBのメモリーを増設済み、空きスロット0） |
-| Video memory | 最大1563MB (メインメモリーと共用) |
-| Hard disk | 320GB（Serial ATA、2.5型HDD 5400回転/分）※上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display / Graphics | インテル HD グラフィックス搭載（インテル Core i5-520M vPro プロセッサーに内蔵） |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1280×800ドット / ：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N+WiMAX 6250 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠、モノラルスピーカー |
-| Security chip | TPM（TCG V1.2準拠） |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM)（2GBのメモリーを増設済み、空きスロット0） |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3））、USBポート×3（USB2.0） |
-| Keyboard | OADG準拠85キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く) |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、3.75A、電源コードは100V専用 / ▼バッテリーパック：7.2V リチウムイオン・公称容量12.4Ah、定格容量11.6Ah。 |
-| Energy efficiency | 2011年度基準R区分0.15／2007年度基準I区分0.00015 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional64-bit genuine version (WindowsXPMode equipped)▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions. |
+| CPU | Intel vPro Technology adopted / Intel Core i5-520M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.40GHz / up to 2.93GHz when using Intel Turbo Boost Technology |
+| Memory | Standard 4GB DDR3 SDRAM (2GB memory already added to expansion memory slot, 0 free slots) |
+| Video memory | Maximum 1563MB (shared with main memory) |
+| Hard disk | 320GB (Serial ATA, 2.5-inch HDD 5400 rpm) *Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i5-520M vPro processor) |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1280×800 dots / : approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N+WiMAX 6250 |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) (2GB memory added, 0 free slots) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3)), USB ports ×3 (USB2.0) |
+| Keyboard | OADG-compliant 85 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 3.75A, power cord for 100V only / ▼Battery pack: 7.2V lithium-ion, nominal capacity 12.4Ah, rated capacity 11.6Ah. |
+| Energy efficiency | 2011 standards R category 0.15 / 2007 standards I category 0.00015 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | 駆動時間：約13時間(別売の軽量バッテリーパック装着時：約6.5時間)／充電時間：約3.5時間（電源OFF時）、約6.5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅282.8mm×奥行209.6mm×高さ23.4mm/38.7mm(前部/後部） / ※突起部除く。最厚部は41.4mm |
-| Weight (with battery) | パソコン本体：約1.28kg（付属のバッテリーパック(約0.41kg)装着時）、パソコン本体：約1.12kg（別売の軽量バッテリーパック(約0.25kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版)、電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode、インテル PROSet/Wireless Software |
+| Battery life / charge time | Battery life: approx. 13 hours (approx. 6.5 hours when separately sold lightweight battery pack is installed) / Charging time: approx. 3.5 hours (power OFF), approx. 6.5 hours (power ON) |
+| Dimensions (W×D×H) | Width 282.8mm × Depth 209.6mm × Height 23.4mm/38.7mm (front/rear) / *Excluding protrusions. Thickest part is 41.4mm |
+| Weight (with battery) | PC body: approx. 1.28kg (when attached battery pack (approx. 0.41kg)), PC body: approx. 1.12kg (when attached optional lightweight battery pack (approx. 0.25kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode, Intel PROSet/Wireless Software |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9KYDEDR_spec.html>
 
@@ -108,26 +108,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9KYDEDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版 |
-| CPU | インテルvProテクノロジー採用 / インテル Core i5-520M vPro プロセッサー / インテル スマートキャッシュ3MB、動作周波数2.40GHz / インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| Memory | 標準2GB DDR3 SDRAM（空きスロット1）/最大4GB |
-| Video memory | 最大763MB 2GBメモリーを増設した場合は1563MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA）※左記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1280×800ドット / ：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N+WiMAX 6250 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠、モノラルスピーカー |
-| Security chip | TPM（TCG V1.2準拠） |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400Ma、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3）、USBポート×3（USB2.0） |
-| Keyboard | OADG準拠85キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く) |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、3.75A、電源コードは100V専用 / ▼バッテリーパック：7.2V リチウムイオン・公称容量12.4Ah、定格容量11.6Ah |
-| Energy efficiency | 2007年度基準l区分0.00015 |
-| Dimensions (W×D×H) | 幅282.8mm×奥行209.6mm×高さ23.4mm/38.7mm(前部/後部） / ※突起部除く。最厚部は41.4mm |
-| Weight (with battery) | パソコン本体：約1.26kg（付属のバッテリーパック(約0.41kg)装着時）、パソコン本体：約1.1kg（別売の軽量バッテリーパック(約0.25kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、DirectX 11、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode |
-| Floppy drive (optional) | （別売）USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions |
+| CPU | Intel vPro Technology adopted / Intel Core i5-520M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.40GHz / up to 2.93GHz when using Intel Turbo Boost Technology |
+| Memory | Standard 2GB DDR3 SDRAM (1 free slot) / maximum 4GB |
+| Video memory | Max 763MB, 1563MB when 2GB memory is added (shared with main memory) |
+| Hard disk | 250GB (Serial ATA) *Of the capacity described on the left, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1280×800 dots / : approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N+WiMAX 6250 |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400Ma, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3), USB ports ×3 (USB2.0) |
+| Keyboard | OADG-compliant 85 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 3.75A, power cord for 100V only / ▼Battery pack: 7.2V lithium-ion, nominal capacity 12.4Ah, rated capacity 11.6Ah |
+| Energy efficiency | 2007 fiscal year standard l category 0.00015 |
+| Dimensions (W×D×H) | Width 282.8mm × Depth 209.6mm × Height 23.4mm/38.7mm (front/rear) / *Excluding protrusions. Thickest part is 41.4mm |
+| Weight (with battery) | PC body: approx. 1.26kg (when attached battery pack (approx. 0.41kg)), PC body: approx. 1.1kg (when attached optional lightweight battery pack (approx. 0.25kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, DirectX 11, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Panasonic Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode |
+| Floppy drive (optional) | (Sold separately) USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
 | Efficiency target achievement | — |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9JYCADR_spec.html>
@@ -150,4 +150,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-N9JYCADR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

@@ -12,96 +12,96 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-J10YYNHR](https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html) | 2012-05 | 2013-05 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10YYBHR](https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10XYAHR](https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10XYPHR](https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10WYBHR](https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2435M（2.40GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10WYNHR](https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2435M（2.40GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10VYAHR](https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10VYPHR](https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10UYBHR](https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html) | 2011-09 | 2012-04 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10UYNHR](https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10TYAHR](https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2330M（2.20GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10TYPHR](https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2330M（2.20GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10SYBHR](https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準2GB（空きスロット1、最大6GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10SYNHR](https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準2GB（空きスロット1、最大6GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10RYAHR](https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2310M（2.10GHz） 、メモリー：標準2GB（空きスロット1、最大6GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10RYPHR](https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2310M（2.10GHz） 、メモリー：標準2GB（空きスロット1、最大6GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10QYBHR](https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i5-480M（2.66GHz）、メモリー：標準2GB（最大6GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10QYNHR](https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i5-480M（2.66GHz）、メモリー：標準2GB（最大6GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10PYAHR](https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i3-380M（2.53GHz）、メモリー：標準2GB（最大6GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10PYPHR](https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i3-380M（2.53GHz）、メモリー：標準2GB（最大6GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
+| [CF-J10YYNHR](https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html) | 2012-05 | 2013-05 | Windows 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2450M（2.50GHz）、内存：标配4GB（空闲插槽1个，最大8GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
+| [CF-J10YYBHR](https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2450M（2.50GHz）、内存：标配4GB（空闲插槽1个，最大8GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10XYAHR](https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64位 正版 （已应用 Service Pack 1）、英特尔® CoreTM i3-2350M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：320GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10XYPHR](https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64位 正版 （已应用 Service Pack 1）、英特尔® CoreTM i3-2350M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：320GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
+| [CF-J10WYBHR](https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2435M（2.40GHz）、内存：标准4GB（空闲插槽1、最大8GB）、SSD：128GB、、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10WYNHR](https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2435M（2.40GHz）、内存：标准4GB（空闲插槽1、最大8GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
+| [CF-J10VYAHR](https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2350M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10VYPHR](https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2350M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
+| [CF-J10UYBHR](https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html) | 2011-09 | 2012-04 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2410M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、SSD：128GB、、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10UYNHR](https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2410M（2.30GHz）、内存：标准4GB（空闲插槽1、最大8GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
+| [CF-J10TYAHR](https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2330M（2.20GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10TYPHR](https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2330M（2.20GHz）、内存：标准4GB（空闲插槽1、最大8GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
+| [CF-J10SYBHR](https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2410M（2.30GHz）、内存：标准2GB（空闲插槽1、最大6GB）、SSD：128GB、、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10SYNHR](https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32位 正版（已应用 Service Pack 1）、英特尔® CoreTM i5-2410M（2.30GHz）、内存：标准2GB（空闲插槽1、最大6GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
+| [CF-J10RYAHR](https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2310M（2.10GHz）、内存：标准2GB（空闲插槽1、最大6GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10RYPHR](https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32位 正版（已应用 Service Pack 1）、英特尔® CoreTM i3-2310M（2.10GHz）、内存：标准2GB（空闲插槽1、最大6GB）、HDD：250GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
+| [CF-J10QYBHR](https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正版、英特尔® CoreTM i5-480M（2.66GHz）、内存：标准2GB（最大6GB）、SSD：128GB、、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10QYNHR](https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正版、英特尔® CoreTM i5-480M（2.66GHz）、内存：标准2GB（最大6GB）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
+| [CF-J10PYAHR](https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正版、英特尔® CoreTM i3-380M（2.53GHz）、内存：标准2GB（最大6GB）、HDD：160GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10PYPHR](https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正版、英特尔® CoreTM i3-380M（2.53GHz）、内存：标准2GB（最大6GB）、HDD：160GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜数量限定＞ |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 显示屏 / 色彩 | 1366×768ドット：約1677万色 |
-| 无线通信模块 | インテル Centrino Advanced-N + WiMAX 6250 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| 指点设备 | ホイールパッド |
-| 功耗 | 最大約65W |
+| 显示屏 / 色彩 | 1366×768像素：约1677万色 |
+| 无线通信模块 | 英特尔 Centrino Advanced-N + WiMAX 6250 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n |
+| 指点设备 | 滚轮触控板 |
+| 功耗 | 最大约65W |
 | 能效达成率（2011 年度标准） | — |
 
 ## 各型号差异
 
 | 型号（品番） | 处理器 | 内存 | 存储 | 重量 | 续航 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-J10YYNHR | Core i5-2450M 、スマートキャッシュ3MB、動作周波数2.50GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10YYBHR | Core i5-2450M 、スマートキャッシュ3MB、動作周波数2.50GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10XYAHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | ハードディスクドライブ | 1.185 kg | 7.5 h |
-| CF-J10XYPHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | ハードディスクドライブ | 1.185 kg | 7.5 h |
-| CF-J10WYBHR | Core i5-2435M 、スマートキャッシュ3MB、動作周波数2.40GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10WYNHR | Core i5-2435M 、スマートキャッシュ3MB、動作周波数2.40GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10VYAHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10VYPHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10UYBHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10UYNHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10TYAHR | Core i3-2330M 、スマートキャッシュ3MB、動作周波数2.20GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10TYPHR | Core i3-2330M 、スマートキャッシュ3MB、動作周波数2.20GHz | 4GBPC3-8500 | 250 GB | 1.185 kg | 7.5 h |
-| CF-J10SYBHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
-| CF-J10SYNHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
-| CF-J10RYAHR | Core i3-2310M 、スマートキャッシュ3MB、動作周波数2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
-| CF-J10RYPHR | Core i3-2310M 、スマートキャッシュ3MB、動作周波数2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
-| CF-J10QYBHR | Core i5-480M 、スマートキャッシュ3MB、動作周波数2.66GHz、ターボ・ブースト・テクノロジー利用時は最 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
-| CF-J10QYNHR | Core i5-480M 、スマートキャッシュ3MB、動作周波数2.66GHz、ターボ・ブースト・テクノロジー利用時は最 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
-| CF-J10PYAHR | Core i3-380M 、スマートキャッシュ3MB、動作周波数2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
-| CF-J10PYPHR | Core i3-380M 、スマートキャッシュ3MB、動作周波数2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
+| CF-J10YYNHR | Core i5-2450M，智能缓存3MB，运行频率2.50GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10YYBHR | Core i5-2450M，智能缓存3MB，运行频率2.50GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10XYAHR | Core i3-2350M，智能缓存3MB，运行频率2.30GHz | 4GBPC3-8500 | 硬盘驱动器 | 1.185 kg | 7.5 h |
+| CF-J10XYPHR | Core i3-2350M，智能缓存3MB，运行频率2.30GHz | 4GBPC3-8500 | 硬盘驱动器 | 1.185 kg | 7.5 h |
+| CF-J10WYBHR | Core i5-2435M，智能缓存3MB，运行频率2.40GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10WYNHR | Core i5-2435M，智能缓存3MB，运行频率2.40GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10VYAHR | Core i3-2350M，智能缓存3MB，运行频率2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10VYPHR | Core i3-2350M，智能缓存3MB，运行频率2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10UYBHR | Core i5-2410M，智能缓存3MB，运行频率2.30GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10UYNHR | Core i5-2410M，智能缓存3MB，运行频率2.30GHz，支持睿频加速技术2.0 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10TYAHR | Core i3-2330M，智能缓存3MB，运行频率2.20GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10TYPHR | Core i3-2330M，智能缓存3MB，运行频率2.20GHz | 4GBPC3-8500 | 250 GB | 1.185 kg | 7.5 h |
+| CF-J10SYBHR | Core i5-2410M，智能缓存3MB，运行频率2.30GHz，支持睿频加速技术2.0 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
+| CF-J10SYNHR | Core i5-2410M，智能缓存3MB，运行频率2.30GHz，支持睿频加速技术2.0 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
+| CF-J10RYAHR | Core i3-2310M，智能缓存3MB，运行频率2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
+| CF-J10RYPHR | Core i3-2310M，智能缓存3MB，运行频率2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
+| CF-J10QYBHR | Core i5-480M，智能缓存3MB，运行频率2.66GHz，使用睿频加速技术时最高 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
+| CF-J10QYNHR | Core i5-480M，智能缓存3MB，运行频率2.66GHz，使用睿频加速技术时最高 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
+| CF-J10PYAHR | Core i3-380M，智能缓存3MB，运行频率2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
+| CF-J10PYPHR | Core i3-380M，智能缓存3MB，运行频率2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
 
 <details>
 <summary>CF-J10YYNHR 的全部差异规格</summary>
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| 处理器 | インテル Core i5-2450M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.50GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 卡槽 / PC 卡 | 搭載されていません |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| 键盘 | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| 电源 | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.085 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 颜色 | ブラック |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
+| 操作系统 | ▼基础操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1）/Windows7 Home Premium 32位正版（已应用 Service Pack1） / ▼安装操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1） |
+| 处理器 | 英特尔 Core i5-2450M 处理器，英特尔 智能缓存3MB，运行频率2.50GHz，使用英特尔 睿频加速技术2.0时最高3.10GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约15GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 HD (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于CPU） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万 |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大6Mbps（尽力而为方式）） |
+| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T，未配备调制解调器。 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 卡槽 / PC 卡 | 未配备 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | LAN 接口（RJ-45） / 外接显示器接口（模拟 RGB 迷你 Dsub 15 针） / HDMI 输出端子 / 麦克风输入端子（立体声迷你插孔 M3（支持插入式电源）） / 音频输出端子（立体声迷你插孔 M3） / USB2.0 端口×2（右侧面） / USB3.0 端口×1（右侧面） |
+| 键盘 | 符合OADG标准86键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器※19：输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组：附带电池组（L）（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度标准 0类0.085 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）※25、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | 峰值转移控制实用程序、电源计划扩展实用程序、McAfee PC安全中心、无线切换实用程序、安全设置实用程序、电池剩余电量显示校正实用程序、Fn Ctrl功能互换实用程序、“i-Filter 6.0”（30天免费试用版）、ATOK for Windows 免费试用版、金山词霸、WinZip 14.5 日语版、快速启动管理器、恢复光盘创建实用程序、DirectX 11、Dashboard for Panasonic PC、Windows Live Mail、Windows Live Photo Gallery、Windows Live Messenger、Windows Live Writer、Windows Live Movie Maker、Windows Live Mesh、Aptio设置实用程序、硬盘数据擦除实用程序、PC-Diagnostic实用程序 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2010 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书、Microsoft Office Home and Business 2010 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html>
 
@@ -112,33 +112,33 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| 处理器 | インテル Core i5-2450M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.50GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 卡槽 / PC 卡 | 搭載されていません |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| 键盘 | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| 电源 | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.085 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 颜色 | ブラック |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 |
+| 操作系统 | ▼基础操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1）/Windows7 Home Premium 32位正版（已应用 Service Pack1） / ▼安装操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1） |
+| 处理器 | 英特尔 Core i5-2450M 处理器，英特尔 智能缓存3MB，运行频率2.50GHz，使用英特尔 睿频加速技术2.0时最高3.10GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约15GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 HD (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于CPU） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万 |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大6Mbps（尽力而为方式）） |
+| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T，未配备调制解调器。 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 卡槽 / PC 卡 | 未配备 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | LAN 接口（RJ-45） / 外接显示器接口（模拟 RGB 迷你 Dsub 15 针） / HDMI 输出端子 / 麦克风输入端子（立体声迷你插孔 M3（支持插入式电源）） / 音频输出端子（立体声迷你插孔 M3） / USB2.0 端口×2（右侧面） / USB3.0 端口×1（右侧面） |
+| 键盘 | 符合OADG标准86键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器※19：输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组：附带电池组（L）（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度标准 0类0.085 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）※25、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | 峰值转移控制实用程序、电源计划扩展实用程序、McAfee PC安全中心、无线切换实用程序、安全设置实用程序、电池剩余电量显示校正实用程序、Fn Ctrl功能互换实用程序、“i-Filter 6.0”（30天免费试用版）、ATOK for Windows 免费试用版、金山词霸、WinZip 14.5 日语版、快速启动管理器、恢复光盘创建实用程序、DirectX 11、Dashboard for Panasonic PC、Windows Live Mail、Windows Live Photo Gallery、Windows Live Messenger、Windows Live Writer、Windows Live Movie Maker、Windows Live Mesh、Aptio设置实用程序、硬盘数据擦除实用程序、PC-Diagnostic实用程序 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html>
 
@@ -149,33 +149,33 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| 处理器 | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有) |
-| 光驱 | 搭載されていません |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 卡槽 / PC 卡 | 搭載されていません |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| 键盘 | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| 电源 | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.11 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 颜色 | ブラック |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S) (約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 |
-| 硬盘 | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
+| 操作系统 | ▼基础操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1）/Windows7 Home Premium 32位正版（已应用 Service Pack1） / ▼安装操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1） |
+| 处理器 | 英特尔 Core i3-2350M 处理器、英特尔 智能缓存3MB、工作频率2.30GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用） |
+| 光驱 | 未配备 |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 HD (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于CPU） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万 |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大6Mbps（尽力而为方式）） |
+| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T，未配备调制解调器。 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 卡槽 / PC 卡 | 未配备 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | LAN 接口（RJ-45） / 外接显示器接口（模拟 RGB 迷你 Dsub 15 针） / HDMI 输出端子 / 麦克风输入端子（立体声迷你插孔 M3（支持插入式电源）） / 音频输出端子（立体声迷你插孔 M3） / USB2.0 端口×2（右侧面） / USB3.0 端口×1（右侧面） |
+| 键盘 | 符合OADG标准86键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器※19：输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组：附带电池组（L）（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.11 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）※25、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg（安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | 峰值转移控制实用程序、电源计划扩展实用程序、McAfee PC安全中心、无线切换实用程序、安全设置实用程序、电池剩余电量显示校正实用程序、Fn Ctrl功能互换实用程序、“i-Filter 6.0”（30天免费试用版）、ATOK for Windows 免费试用版、金山词霸、WinZip 14.5 日语版、快速启动管理器、恢复光盘创建实用程序、DirectX 11、Dashboard for Panasonic PC、Windows Live Mail、Windows Live Photo Gallery、Windows Live Messenger、Windows Live Writer、Windows Live Movie Maker、Windows Live Mesh、Aptio设置实用程序、硬盘数据擦除实用程序、PC-Diagnostic实用程序 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 |
+| 硬盘 | 硬盘驱动器（HDD）320GB（Serial ATA、5400rpm）上述容量中约15GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html>
 
@@ -186,34 +186,34 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| 处理器 | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有) |
-| 光驱 | 搭載されていません |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 卡槽 / PC 卡 | 搭載されていません |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| 键盘 | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| 电源 | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.11 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 颜色 | ブラック |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S) (約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
+| 操作系统 | ▼基础操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1）/Windows7 Home Premium 32位正版（已应用 Service Pack1） / ▼安装操作系统：Windows7 Home Premium 64位正版（已应用 Service Pack1） |
+| 处理器 | 英特尔 Core i3-2350M 处理器、英特尔 智能缓存3MB、工作频率2.30GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用） |
+| 光驱 | 未配备 |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 HD (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于CPU） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万 |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大6Mbps（尽力而为方式）） |
+| 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T，未配备调制解调器。 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 卡槽 / PC 卡 | 未配备 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | LAN 接口（RJ-45） / 外接显示器接口（模拟 RGB 迷你 Dsub 15 针） / HDMI 输出端子 / 麦克风输入端子（立体声迷你插孔 M3（支持插入式电源）） / 音频输出端子（立体声迷你插孔 M3） / USB2.0 端口×2（右侧面） / USB3.0 端口×1（右侧面） |
+| 键盘 | 符合OADG标准86键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器※19：输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组：附带电池组（L）（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.11 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）※25、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg（安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | 峰值转移控制实用程序、电源计划扩展实用程序、McAfee PC安全中心、无线切换实用程序、安全设置实用程序、电池剩余电量显示校正实用程序、Fn Ctrl功能互换实用程序、“i-Filter 6.0”（30天免费试用版）、ATOK for Windows 免费试用版、金山词霸、WinZip 14.5 日语版、快速启动管理器、恢复光盘创建实用程序、DirectX 11、Dashboard for Panasonic PC、Windows Live Mail、Windows Live Photo Gallery、Windows Live Messenger、Windows Live Writer、Windows Live Movie Maker、Windows Live Mesh、Aptio设置实用程序、硬盘数据擦除实用程序、PC-Diagnostic实用程序 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2010 |
-| 硬盘 | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书、Microsoft Office Home and Business 2010 |
+| 硬盘 | 硬盘驱动器（HDD）320GB（Serial ATA、5400rpm）上述容量中约15GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html>
 
@@ -224,29 +224,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2435M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.40GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2435M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2435M 处理器，英特尔 智能缓存3MB，运行频率2.40GHz，使用英特尔 睿频加速技术2.0时最高3.00GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用），增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2435M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.086 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(L)（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度基准 N类别0.086 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器3、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player 12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition5.5、英特尔 WiDi软件、缩放查看器、画面分割实用程序、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、Dashboard for Panasonic PC、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔 My WiFi 技术、VIP Access for Desktop（英特尔 IPT 用应用程序）、英特尔身份保护技术、Windows Live邮件、Windows Live照片库、Windows Live Messenger、Windows Live Writer、Silverlight、贴合视图、恢复光盘创建实用程序 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html>
 
@@ -257,30 +257,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2435M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.40GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2435M 处理器，英特尔 智能缓存3MB，运行频率2.40GHz，使用英特尔 睿频加速技术2.0时最高3.00GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用），增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2410M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.087 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(L)（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度基准 N类别0.087 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器3、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player 12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition5.5、英特尔 WiDi软件、缩放查看器、画面分割实用程序、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、Dashboard for Panasonic PC、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔 My WiFi 技术、VIP Access for Desktop（英特尔 IPT 用应用程序）、英特尔身份保护技术、Windows Live邮件、Windows Live照片库、Windows Live Messenger、Windows Live Writer、Silverlight、贴合视图、恢复光盘创建实用程序 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html>
 
@@ -291,29 +291,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i3-2350M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2350M 处理器、英特尔 智能缓存3MB、工作频率2.30GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB，增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i3-2350M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.11 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(S)（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.11 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器3、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player 12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition5.5、英特尔 WiDi软件、缩放查看器、画面分割实用程序、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、Dashboard for Panasonic PC、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔 My WiFi 技术、VIP Access for Desktop（英特尔 IPT 用应用程序）、英特尔身份保护技术、Windows Live邮件、Windows Live照片库、Windows Live Messenger、Windows Live Writer、Silverlight、贴合视图、恢复光盘创建实用程序 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250GB（Serial ATA、2.5英寸 5400转/分）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html>
 
@@ -324,30 +324,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i3-2350M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2350M 处理器、英特尔 智能缓存3MB、工作频率2.30GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB，增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i3-2350M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.11 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(S)（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.11 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器3、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player 12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition5.5、英特尔 WiDi软件、缩放查看器、画面分割实用程序、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、Dashboard for Panasonic PC、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔 My WiFi 技术、VIP Access for Desktop（英特尔 IPT 用应用程序）、英特尔身份保护技术、Windows Live邮件、Windows Live照片库、Windows Live Messenger、Windows Live Writer、Silverlight、贴合视图、恢复光盘创建实用程序 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250GB（Serial ATA、2.5英寸 5400转/分）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html>
 
@@ -358,29 +358,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2410M 处理器，英特尔 智能缓存3MB，运行频率2.30GHz，使用英特尔 睿频加速技术2.0时最高2.90GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用），增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2410M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.087 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(L)（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度基准 N类别0.087 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html>
 
@@ -391,30 +391,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2410M 处理器，英特尔 智能缓存3MB，运行频率2.30GHz，使用英特尔 睿频加速技术2.0时最高2.90GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB（与主内存共用），增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2410M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| 能效 | 2011年度基準 N区分0.087 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(L)（7.2V锂离子・标称容量9.3Ah、额定容量8.7Ah） |
+| 能效 | 2011年度基准 N类别0.087 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12.5小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html>
 
@@ -425,29 +425,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2330M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.20GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i3-2330M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2330M 处理器、英特尔 智能缓存3MB、工作频率2.20GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB，增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i3-2330M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.12 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(S)（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.12 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250GB（Serial ATA、2.5英寸 5400转/分）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html>
 
@@ -458,30 +458,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2330M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.20GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| 显存 | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテルHDグラフィックス3000搭載（インテル Core i3-2330M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 64位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2330M 处理器、英特尔 智能缓存3MB、工作频率2.20GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标配4GBPC3-8500/DDR3 SDRAM（最大8GB） (空闲插槽×1) |
+| 显存 | 最大1696MB，增加2GB或4GB内存时最大1556MB（与主内存共用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 搭载英特尔HD显卡3000（内置于英特尔 Core i3-2330M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.12 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250 GB （Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V / ▼电池组：附带电池组(S)（7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.12 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、峰值转移控制实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250 GB （Serial ATA、2.5英寸 5400转/分）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html>
 
@@ -492,29 +492,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| 显存 | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 32位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2410M 处理器，英特尔 智能缓存3MB，运行频率2.30GHz，使用英特尔 睿频加速技术2.0时最高2.90GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标准2GB PC3-8500/DDR3 SDRAM（最大6GB） (空插槽×1) |
+| 显存 | 最大784MB，增加2GB或4GB内存时最大1556MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2410M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| 能效 | 2011年度基準 N区分0.087 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約13時間、別売のバッテリーパック(S)装着時：約8.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg （電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100 V～240 V、50Hz/60Hz，输出：DC16 V、4.06 A，电源线仅适用于100 V / ▼电池组：附带电池组(L)（7.2 V锂离子・标称容量9.3 Ah、额定容量8.7 Ah） |
+| 能效 | 2011年度基准 N类别0.087 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约13小时、安装另售的电池组(S)时：约8.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg （不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html>
 
@@ -525,30 +525,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| 显存 | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 32位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i5-2410M 处理器，英特尔 智能缓存3MB，运行频率2.30GHz，使用英特尔 睿频加速技术2.0时最高2.90GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标准2GB PC3-8500/DDR3 SDRAM（最大6GB） (空插槽×1) |
+| 显存 | 最大784MB，增加2GB或4GB内存时最大1556MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i5-2410M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| 能效 | 2011年度基準 N区分0.087 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約13時間、別売のバッテリーパック(S)装着時：約8.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg （電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100 V～240 V、50Hz/60Hz，输出：DC16 V、4.06 A，电源线仅适用于100 V / ▼电池组：附带电池组(L)（7.2 V锂离子・标称容量9.3 Ah、额定容量8.7 Ah） |
+| 能效 | 2011年度基准 N类别0.087 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约13小时、安装另售的电池组(S)时：约8.5小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259 mm×深185 mm×高39 mm/48 mm（前部/后部）、未安装护套时：宽251.9 mm×深171.7 mm×高27.3 mm/35.1 mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg （不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html>
 
@@ -559,29 +559,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2310M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.10GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| 显存 | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス3000搭載（インテル Core i3-2310M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 32位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2310M 处理器、英特尔 智能缓存3MB、工作频率2.10GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标准2GB PC3-8500/DDR3 SDRAM（最大6GB） (空插槽×1) |
+| 显存 | 最大784MB，增加2GB或4GB内存时最大1556MB（与主内存共享） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡3000（集成于英特尔 Core i3-2310M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2 Vリチウムイオン・公称容量6.2 Ah、定格容量5.8 Ah） |
-| 能效 | 2011年度基準 N区分0.13 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約8時間、別売のバッテリーパック(L)装着時：約12時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100 V～240 V、50Hz/60Hz，输出：DC16 V、4.06 A，电源线仅适用于100 V / ▼电池组：附带电池组(S)（7.2 V锂离子・标称容量6.2 Ah、额定容量5.8 Ah） |
+| 能效 | 2011年度基准 N类别0.13 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约8小时、安装另售的电池组(L)时：约12小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250GB（Serial ATA）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html>
 
@@ -592,30 +592,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| 处理器 | インテル Core i3-2310M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.10GHz |
-| 芯片组 | モバイルインテル HM65 Express チップセット |
-| 内存 | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| 显存 | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテルHDグラフィックス3000 搭載（インテル Core i3-2310M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows 7 Home Premium 32/64位 正版(已应用Service Pack 1)（日语版） / ▼安装OS：Windows 7 Home Premium 32位 正版(已应用Service Pack 1)（日语版） |
+| 处理器 | 英特尔 Core i3-2310M 处理器、英特尔 智能缓存3MB、工作频率2.10GHz |
+| 芯片组 | 移动 英特尔 HM65 Express 芯片组 |
+| 内存 | 标准2GB PC3-8500/DDR3 SDRAM（最大6GB） (空插槽×1) |
+| 显存 | 最大784MB，增加2GB或4GB内存时最大1556MB（与主内存共享） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 搭载英特尔HD显卡3000（内置于英特尔 Core i3-2310M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| 接口 | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2 Vリチウムイオン・公称容量6.2 Ah、定格容量5.8 Ah） |
-| 能效 | 2011年度基準 N区分0.13 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(S)装着時：約8時間、別売のバッテリーパック(L)装着時：約12時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 250GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准・单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| 接口 | USB2.0端口×2(右侧面)、USB3.0端口×1(左侧面)、LAN接口（RJ-45）、HDMI输出端子、外接显示器接口（模拟RGB 迷你Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100 V～240 V、50Hz/60Hz，输出：DC16 V、4.06 A，电源线仅适用于100 V / ▼电池组：附带电池组(S)（7.2 V锂离子・标称容量6.2 Ah、额定容量5.8 Ah） |
+| 能效 | 2011年度基准 N类别0.13 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(S)时：约8小时、安装另售的电池组(L)时：约12小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg / （安装附带的电池组(S)（约0.23kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 9.0、绿色goo棒、网络选择器2、无线切换实用程序、安全设置实用程序、迈克菲PC安全中心、i-过滤器6.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池余量显示校正实用程序、滚轮触控板实用程序、NumLock通知、Hotkey设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词典、电源计划扩展实用程序、Microsoft Windows Media Player12、投影仪助手、USB键盘助手、显示器助手、Wireless Manager mobile edition 5.5、英特尔 无线显示软件、缩放查看器、贴合视图、快速启动管理器、PC信息弹窗、PC信息查看器、Aptio设置实用程序、PC-Diagnostic实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、DirectX 11、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、英特尔身份保护技术 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 250GB（Serial ATA）在上述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html>
 
@@ -626,29 +626,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| 处理器 | インテル Core i5-480M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.66GHz、インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| 芯片组 | モバイルインテル HM55 Express チップセット |
-| 内存 | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| 显存 | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB （Serial ATA）上記容量のうち約12 GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス搭載（インテル Core i5-480M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows7 Home Premium 32位 正版（日语版）/Windows7 Home Premium 64位正版（日语版） / ▼安装OS：Windows7 Home Premium 32位 正版（日语版） |
+| 处理器 | 英特尔 Core i5-480M 处理器，英特尔 智能缓存3MB，运行频率2.66GHz，使用英特尔 睿频加速技术时最高2.93GHz |
+| 芯片组 | 移动 英特尔 HM55 Express 芯片组 |
+| 内存 | 标准2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空插槽1 |
+| 显存 | 最大763MB，增加2GB或4GB内存时最大1563MB、（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12 GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡（集成于英特尔 Core i5-480M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| 接口 | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| 能效 | 2011年度基準 N区分0.13 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| 接口 | USB端口×3（USB2.0×3）、LAN接口（RJ-45）、HDMI输出端子、外部显示器接口（模拟RGB mini Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V，▼电池组：附带电池组(L)（7.2 V锂离子・标称容量9.3 Ah、额定容量8.7 Ah） |
+| 能效 | 2011年度基准 N类别0.13 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer8.0、绿色 goo 棒、网络选择器 2、无线切换实用程序、安全设置实用程序、McAfee PC 安全中心、i-过滤器5.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池剩余电量显示校正实用程序、滚轮触控板实用程序、NumLock 通知、Hotkey 设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词霸、电源计划扩展实用程序、Microsoft Windows Media Player 12、投影仪助手、USB 键盘助手、USB 鼠标助手、显示助手、Wireless Manager mobile edition 5.5、缩放查看器、贴合视图、快速启动管理器、PC 信息弹窗、PC 信息查看器、Aptio 设置实用程序、PC-Diagnostic 实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、DirectX 10 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术、支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html>
 
@@ -659,30 +659,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| 处理器 | インテル Core i5-480M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.66GHz、インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| 芯片组 | モバイルインテル HM55 Express チップセット |
-| 内存 | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| 显存 | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）：128GB （Serial ATA）上記容量のうち約12 GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス搭載（インテル Core i5-480M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows7 Home Premium 32位 正版（日语版）/Windows7 Home Premium 64位正版（日语版） / ▼安装OS：Windows7 Home Premium 32位 正版（日语版） |
+| 处理器 | 英特尔 Core i5-480M 处理器，英特尔 智能缓存3MB，运行频率2.66GHz，使用英特尔 睿频加速技术时最高2.93GHz |
+| 芯片组 | 移动 英特尔 HM55 Express 芯片组 |
+| 内存 | 标准2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空插槽1 |
+| 显存 | 最大763MB，增加2GB或4GB内存时最大1563MB、（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）：128GB（Serial ATA）上述容量中约12 GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡（集成于英特尔 Core i5-480M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| 接口 | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| 能效 | 2011年度基準 N区分0.13 |
-| 续航 / 充电时间 | ▼駆動時間：付属のバッテリーパック(L)装着時：約12時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| 接口 | USB端口×3（USB2.0×3）、LAN接口（RJ-45）、HDMI输出端子、外部显示器接口（模拟RGB mini Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V，▼电池组：附带电池组(L)（7.2 V锂离子・标称容量9.3 Ah、额定容量8.7 Ah） |
+| 能效 | 2011年度基准 N类别0.13 |
+| 续航 / 充电时间 | ▼续航时间：安装附带的电池组(L)时：约12小时、安装另售的电池组(S)时：约8小时 / ▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.205kg，未安装护套时：约0.99kg（安装附带的电池组(L)（约0.32kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer8.0、绿色 goo 棒、网络选择器 2、无线切换实用程序、安全设置实用程序、McAfee PC 安全中心、i-过滤器5.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池剩余电量显示校正实用程序、滚轮触控板实用程序、NumLock 通知、Hotkey 设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词霸、电源计划扩展实用程序、Microsoft Windows Media Player 12、投影仪助手、USB 键盘助手、USB 鼠标助手、显示助手、Wireless Manager mobile edition 5.5、缩放查看器、贴合视图、快速启动管理器、PC 信息弹窗、PC 信息查看器、Aptio 设置实用程序、PC-Diagnostic 实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、DirectX 10 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（黑豹黑）、AC适配器、电池组、使用说明书 等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术、支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html>
 
@@ -693,29 +693,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| 处理器 | インテル Core i3-380M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.53GHz |
-| 芯片组 | モバイルインテル HM55 Express チップセット |
-| 内存 | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| 显存 | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス搭載（インテル Core i3-380M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows7 Home Premium 32位 正版（日语版）/Windows7 Home Premium 64位正版（日语版） / ▼安装OS：Windows7 Home Premium 32位 正版（日语版） |
+| 处理器 | 英特尔 Core i3-380M 处理器、英特尔 智能缓存3MB、工作频率2.53GHz |
+| 芯片组 | 移动 英特尔 HM55 Express 芯片组 |
+| 内存 | 标准2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空插槽1 |
+| 显存 | 最大763MB，增加2GB或4GB内存时最大1563MB、（与主内存共享） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡（集成于英特尔 Core i3-380M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| 接口 | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(S)付属 / （7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.14 |
-| 续航 / 充电时间 | ▼駆動時間:付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11時間、▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S)(約0.23 kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 160GB HDD（Serial ATA、5400回転/分 2.5型HDD） / 上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| 接口 | USB端口×3（USB2.0×3）、LAN接口（RJ-45）、HDMI输出端子、外部显示器接口（模拟RGB mini Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V，▼电池组：附带电池组(S) / （7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.14 |
+| 续航 / 充电时间 | ▼续航时间:安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11小时，▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg（安装附带的电池组(S)（约0.23 kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer8.0、绿色 goo 棒、网络选择器 2、无线切换实用程序、安全设置实用程序、McAfee PC 安全中心、i-过滤器5.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池剩余电量显示校正实用程序、滚轮触控板实用程序、NumLock 通知、Hotkey 设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词霸、电源计划扩展实用程序、Microsoft Windows Media Player 12、投影仪助手、USB 键盘助手、USB 鼠标助手、显示助手、Wireless Manager mobile edition 5.5、缩放查看器、贴合视图、快速启动管理器、PC 信息弹窗、PC 信息查看器、Aptio 设置实用程序、PC-Diagnostic 实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、DirectX 10 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 160GB HDD（Serial ATA、5400转/分 2.5英寸HDD） / 上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术、支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html>
 
@@ -726,30 +726,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| 处理器 | インテル Core i3-380M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.53GHz |
-| 芯片组 | モバイルインテル HM55 Express チップセット |
-| 内存 | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| 显存 | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| 显示屏 | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| 显示屏 / 显卡 | インテル HDグラフィックス搭載（インテル Core i3-380M プロセッサーに内蔵） |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| 操作系统 | ▼基础OS：Windows7 Home Premium 32位 正版（日语版）/Windows7 Home Premium 64位正版（日语版） / ▼安装OS：Windows7 Home Premium 32位 正版（日语版） |
+| 处理器 | 英特尔 Core i3-380M 处理器、英特尔 智能缓存3MB、工作频率2.53GHz |
+| 芯片组 | 移动 英特尔 HM55 Express 芯片组 |
+| 内存 | 标准2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空插槽1 |
+| 显存 | 最大763MB，增加2GB或4GB内存时最大1563MB、（与主内存共享） |
+| 显示屏 | 10.1英寸宽屏（16：9）TFT彩色液晶 WXGA (1366×768点) |
+| 显示屏 / 显卡 | 英特尔 HD显卡（集成于英特尔 Core i3-380M 处理器） |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1360×768、1366×768点：约1677万色 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 内存扩展槽 | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| 接口 | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| 电源 | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(S)付属 / （7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| 能效 | 2011年度基準 N区分0.14 |
-| 续航 / 充电时间 | ▼駆動時間:付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11時間、▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| 尺寸（宽×深×高） | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| 重量（含电池） | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S)(約0.23 kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| 预装软件 | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| 附件 | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| 硬盘 | 160GB HDD（Serial ATA、5400回転/分 2.5型HDD） / 上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 内存扩展槽 | DDR3 204针SO-DIMM专用插槽×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| 接口 | USB端口×3（USB2.0×3）、LAN接口（RJ-45）、HDMI输出端子、外部显示器接口（模拟RGB mini Dsub 15针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | 符合OADG标准85键、键距17mm（横向）/14.2mm（纵向）（部分键除外） |
+| 电源 | ▼AC适配器：输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线仅适用于100V，▼电池组：附带电池组(S) / （7.2V锂离子・标称容量6.2Ah、额定容量5.8Ah） |
+| 能效 | 2011年度基准 N类别0.14 |
+| 续航 / 充电时间 | ▼续航时间:安装附带的电池组(S)时：约7.5小时、安装另售的电池组(L)时：约11小时，▼充电时间：约3.5小时（电源关闭时）/ 约5小时（电源开启时） |
+| 尺寸（宽×深×高） | 安装护套时：宽259mm×深185mm×高39mm/48mm（前部/后部）、未安装护套时：宽251.9mm×深171.7mm×高27.3mm/35.1mm（前部/后部） |
+| 重量（含电池） | 安装护套时：约1.185kg，未安装护套时：约0.97kg（安装附带的电池组(S)（约0.23 kg）时）、AC适配器：约0.2kg（不含电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer8.0、绿色 goo 棒、网络选择器 2、无线切换实用程序、安全设置实用程序、McAfee PC 安全中心、i-过滤器5.0（30天试用版）、Adobe Reader、WinZip 14.5 日语版、电池剩余电量显示校正实用程序、滚轮触控板实用程序、NumLock 通知、Hotkey 设置、Fn Ctrl 功能互换实用程序、ATOK for Windows 免费试用版、金山词霸、电源计划扩展实用程序、Microsoft Windows Media Player 12、投影仪助手、USB 键盘助手、USB 鼠标助手、显示助手、Wireless Manager mobile edition 5.5、缩放查看器、贴合视图、快速启动管理器、PC 信息弹窗、PC 信息查看器、Aptio 设置实用程序、PC-Diagnostic 实用程序、恢复光盘创建实用程序、硬盘数据擦除实用程序、Microsoft .NET Framework 3.5.1、英特尔 PROSet/Wireless Software、DirectX 10 |
+| Microsoft Office | 搭载 Microsoft Office Home and Business 2010 |
+| 附件 | 护套（雪纺白）、AC适配器、电池组、使用说明书 等 |
+| 硬盘 | 160GB HDD（Serial ATA、5400转/分 2.5英寸HDD） / 上述容量中约12GB用作恢复区域、约300MB用作系统区域（用户不可使用） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术、支持UHS-I高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html>
 
@@ -787,4 +787,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

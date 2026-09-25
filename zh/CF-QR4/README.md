@@ -14,31 +14,31 @@
 | :-- | :-- | :-- | :-- |
 | [CF-QR4JDTCR](https://panasonic.jp/pc/p-db/CF-QR4JDTCR_spec.html) | — | 在售 | — |
 | [CF-QR4KDNCR](https://panasonic.jp/pc/p-db/CF-QR4KDNCR_spec.html) | — | 在售 | — |
-| [CF-QR4HDNCR](https://panasonic.jp/pc/p-db/CF-QR4HDNCR_spec.html) | 2025-01 | 2026-03 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1360Pプロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft 365 Basic ＋ Office Home & Business 2024 |
-| [CF-QR4FDNCR](https://panasonic.jp/pc/p-db/CF-QR4FDNCR_spec.html) | 2024-06 | 2025-08 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1360Pプロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QR4ADTCR](https://panasonic.jp/pc/p-db/CF-QR4ADTCR_spec.html) | 2023-06 | 2025-01 | Windows 11 Pro 64ビット、インテル®、CoreTM i5-1335Uプロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む） |
-| [CF-QR4BFPCR](https://panasonic.jp/pc/p-db/CF-QR4BFPCR_spec.html) | 2023-06 | 2023-10 | Windows 11 Pro 64ビット、インテル®、CoreTM i7-1360Pプロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QR4ADMCR](https://panasonic.jp/pc/p-db/CF-QR4ADMCR_spec.html) | 2023-06 | 2023-10 | Windows 11 Pro 64ビット、インテル®、CoreTM i5-1335Uプロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
+| [CF-QR4HDNCR](https://panasonic.jp/pc/p-db/CF-QR4HDNCR_spec.html) | 2025-01 | 2026-03 | Windows 11 Pro 64位、英特尔® CoreTM i7-1360P处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft 365 Basic + Office Home & Business 2024 |
+| [CF-QR4FDNCR](https://panasonic.jp/pc/p-db/CF-QR4FDNCR_spec.html) | 2024-06 | 2025-08 | Windows 11 Pro 64位、英特尔® CoreTM i7-1360P处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QR4ADTCR](https://panasonic.jp/pc/p-db/CF-QR4ADTCR_spec.html) | 2023-06 | 2025-01 | Windows 11 Pro 64位、英特尔®、CoreTM i5-1335U处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段） |
+| [CF-QR4BFPCR](https://panasonic.jp/pc/p-db/CF-QR4BFPCR_spec.html) | 2023-06 | 2023-10 | Windows 11 Pro 64位、英特尔®、CoreTM i7-1360P处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QR4ADMCR](https://panasonic.jp/pc/p-db/CF-QR4ADMCR_spec.html) | 2023-06 | 2023-10 | Windows 11 Pro 64位、英特尔®、CoreTM i5-1335U处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 芯片组 | CPUに内蔵 |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 色彩 | 1920×1280ドット：約1677万色 |
+| 芯片组 | 内置于CPU |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 色彩 | 1920×1280点：约1677万色 |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 内存扩展槽 | なし |
-| 麦克风 | アレイマイク |
-| 传感器 | 照度(明るさ)、AIセンサー、ジャイロ、加速度 |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm(横)/15.5mm(縦)(一部キーを除く） |
-| 指点设备 | 高精度タッチパッド対応ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 功耗 | 最大約65W |
+| 内存扩展槽 | 无 |
+| 麦克风 | 阵列麦克风 |
+| 传感器 | 照度(亮度)、AI传感器、陀螺仪、加速度 |
+| 键盘 | OADG标准键盘（86键）：键距19mm(横向)/15.5mm(纵向)（部分按键除外） |
+| 指点设备 | 支持高精度触控板的滚轮板・静电触控面板（支持10指） |
+| 功耗 | 最大约65W |
 | 能效达成率 | — |
-| 尺寸（宽×深×高） | 幅273.2mm×奥行208.9mm×高さ19.9mm（突起部除く） |
+| 尺寸（宽×深×高） | 宽273.2mm×深208.9mm×高19.9mm（不含突起部） |
 
 ## 各型号差异
 
@@ -57,25 +57,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i5-1335U プロセッサー / P-core：最大ターボ周波数4.60 GHz / E-core：最大ターボ周波数3.40 GHz / コア数：10コア/キャッシュ：12MB |
-| 内存 | 16GB LPDDR4X SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） / 外部ディスプレイ表示 最大：1920×1200：約1677万色、HDMI出力/USB Type-C（5Gbps）ポート、最大：4096×2160（30 Hz/60 Hz） / 本体＋外部ディスプレイ同時表示 最大：1920×1200：約1677万色、HDMI出力/USB Type-C（5Gbps）ポート、1920×1280ドット：約1677万色 |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6GHz帯含む) 準拠 （5GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.3 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー(ボックス型スピーカー) |
-| 安全 | TPM（TCG V2.0準拠） / 指紋センサー：タッチ式 |
-| 安全（Windows Hello） | Windows Hello Enhanced Sign-in Security 対応 |
-| SD 卡槽 | SDメモリーカードスロット×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 有効画素数：FHD 1920×1080ピクセル（約207万画素）、30fps、 Windows Hello顔認証対応 |
-| 接口 | ・USB Type-Cポート（Thunderbolt™4対応、USB Power Delivery対応）×2 / ・USB Type-A(5Gbps)ポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm (M3))、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V(50Hz/60Hz)、出力：DC5V：最大3A、DC9V：最大3A、DC15V：最大3A、DC20V：最大3.25A、電源コードは100V専用(USB Power Delivery対応) / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7.6時間(動画再生時)、約19.8時間(アイドル時)［付属バッテリーパック(標準)装着時］ / ▼充電時間 / 最大3時間(電源オフ時)／最大3時間(電源オン時) |
-| 颜色 | カームグレイ |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(標準 約270ｇ）装着時） / ACアダプター：約140g（電源コード（約60g）、USB接続ケーブル（約36g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panasonic AIデバイスコントローラー |
-| 附件 | ACアダプター(USB Power Delivery対応)、バッテリーパック(標準)、取扱説明書 等 |
+| 处理器 | 英特尔® Core™ i5-1335U 处理器 / P-core：最大睿频频率4.60 GHz / E-core：最大睿频频率3.40 GHz / 核心数：10核/缓存：12MB |
+| 内存 | 16GB LPDDR4X SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） / 外部显示器显示 最大：1920×1200：约1677万色、HDMI输出/USB Type-C（5Gbps）端口、最大：4096×2160（30 Hz/60 Hz） / 主机＋外部显示器同时显示 最大：1920×1200：约1677万色、HDMI输出/USB Type-C（5Gbps）端口、1920×1280像素：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6GHz频段) （5GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.3 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器(箱型扬声器) |
+| 安全 | TPM（符合TCG V2.0） / 指纹传感器：触摸式 |
+| 安全（Windows Hello） | 支持 Windows Hello Enhanced Sign-in Security |
+| SD 卡槽 | SD存储卡插槽×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 有效像素：FHD 1920×1080像素（约207万像素）、30fps、支持Windows Hello人脸识别 |
+| 接口 | ・USB Type-C端口（支持Thunderbolt™4、支持USB Power Delivery）×2 / ・USB Type-A(5Gbps)端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子 / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm (M3)）、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V(50Hz/60Hz)，输出：DC5V：最大3A、DC9V：最大3A、DC15V：最大3A、DC20V：最大3.25A，电源线为100V专用(支持 USB Power Delivery) / ▼电池组(标准) / 11.55V 锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7.6小时（视频播放时）、约19.8小时（空闲时）［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 静谧灰 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（标准约270g）时） / AC适配器：约140g（不含电源线（约60g）、USB连接线（约36g）） |
+| 预装软件 | ・Microsoft® Edge / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panasonic AI 设备控制器 |
+| 附件 | AC适配器（支持USB Power Delivery）、电池组（标准）、使用说明书 等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4JDTCR_spec.html>
 
@@ -86,25 +86,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i7-1360P プロセッサー / P-core：最大ターボ周波数5.00 GHz / E-core：最大ターボ周波数3.70 GHz / コア数：12コア/キャッシュ：18MB |
-| 内存 | 16GB LPDDR4X SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） / 外部ディスプレイ表示 最大：1920×1200：約1677万色、HDMI出力/USB Type-C（5Gbps）ポート、最大：4096×2160（30 Hz/60 Hz） / 本体＋外部ディスプレイ同時表示 最大：1920×1200：約1677万色、HDMI出力/USB Type-C（5Gbps）ポート、1920×1280ドット：約1677万色 |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6GHz帯含む) 準拠 （5GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.3 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー(ボックス型スピーカー) |
-| 安全 | TPM（TCG V2.0準拠） / 指紋センサー：タッチ式 |
-| 安全（Windows Hello） | Windows Hello Enhanced Sign-in Security 対応 |
-| SD 卡槽 | SDメモリーカードスロット×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 有効画素数：FHD 1920×1080ピクセル（約207万画素）、30fps、 Windows Hello顔認証対応 |
-| 接口 | ・USB Type-Cポート（Thunderbolt™4対応、USB Power Delivery対応）×2 / ・USB Type-A(5Gbps)ポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm (M3))、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V(50Hz/60Hz)、出力：DC5V：最大3A、DC9V：最大3A、DC15V：最大3A、DC20V：最大3.25A、電源コードは100V専用(USB Power Delivery対応) / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7.6時間(動画再生時)、約19.8時間(アイドル時)［付属バッテリーパック(標準)装着時］ / ▼充電時間 / 最大3時間(電源オフ時)／最大3時間(電源オン時) |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(標準 約270ｇ）装着時） / ACアダプター：約140g（電源コード（約60g）、USB接続ケーブル（約36g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panasonic AIデバイスコントローラー |
-| 附件 | ACアダプター(USB Power Delivery対応)、バッテリーパック(標準)、取扱説明書 等 |
+| 处理器 | 英特尔® Core™ i7-1360P 处理器 / P-core：最大睿频频率5.00 GHz / E-core：最大睿频频率3.70 GHz / 核心数：12核/缓存：18MB |
+| 内存 | 16GB LPDDR4X SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） / 外部显示器显示 最大：1920×1200：约1677万色、HDMI输出/USB Type-C（5Gbps）端口、最大：4096×2160（30 Hz/60 Hz） / 主机＋外部显示器同时显示 最大：1920×1200：约1677万色、HDMI输出/USB Type-C（5Gbps）端口、1920×1280像素：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6GHz频段) （5GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.3 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器(箱型扬声器) |
+| 安全 | TPM（符合TCG V2.0） / 指纹传感器：触摸式 |
+| 安全（Windows Hello） | 支持 Windows Hello Enhanced Sign-in Security |
+| SD 卡槽 | SD存储卡插槽×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 有效像素：FHD 1920×1080像素（约207万像素）、30fps、支持Windows Hello人脸识别 |
+| 接口 | ・USB Type-C端口（支持Thunderbolt™4、支持USB Power Delivery）×2 / ・USB Type-A(5Gbps)端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子 / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm (M3)）、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V(50Hz/60Hz)，输出：DC5V：最大3A、DC9V：最大3A、DC15V：最大3A、DC20V：最大3.25A，电源线为100V专用(支持 USB Power Delivery) / ▼电池组(标准) / 11.55V 锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7.6小时（视频播放时）、约19.8小时（空闲时）［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（标准约270g）时） / AC适配器：约140g（不含电源线（约60g）、USB连接线（约36g）） |
+| 预装软件 | ・Microsoft® Edge / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panasonic AI 设备控制器 |
+| 附件 | AC适配器（支持USB Power Delivery）、电池组（标准）、使用说明书 等 |
 | Microsoft Office | Microsoft 365 Basic + Office Home & Business 2024 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4KDNCR_spec.html>
@@ -116,28 +116,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i7-1360P プロセッサー / P-core：最大ターボ周波数5 GHz / E-core：最大ターボ周波数3.70 GHz / コア数：12コア/キャッシュ：18MB |
-| 内存 | 16GB LPDDR4X SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6 GHz帯含む) 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.3 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| SD 卡槽 | SDメモリーカードスロット×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 顔認証対応カメラ（AIセンサー対応）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 | ・USB3.1 Type-Cポート×2（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60Hz出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC20V、3.25A、電源コードは100V専用(USB Power Delivery対応) / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7.6時間(動画再生時)、約19.8時間(アイドル時) / ［付属バッテリーパック(標準)装着時］ / ▼充電時間 / 最大3時間(電源オフ時)／最大3時間(電源オン時) |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(標準 約270ｇ）装着時） / ACアダプター：約140g（電源コード（約60g）、USB接続ケーブル（約36g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panaosnic AIデバイスコントローラー |
-| 附件 | バッテリーパック(標準)、ACアダプター(USB Power Delivery対応)、取扱説明書 等 |
+| 处理器 | 英特尔® Core™ i7-1360P 处理器 / P-core：最大睿频频率5 GHz / E-core：最大睿频频率3.70 GHz / 核心数：12核/缓存：18MB |
+| 内存 | 16GB LPDDR4X SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6 GHz频段) （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.3 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| SD 卡槽 | SD存储卡插槽×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 支持人脸识别的摄像头（支持AI传感器），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 | ・USB3.1 Type-C端口×2（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60Hz输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC20V、3.25A、电源线仅限100V专用（支持USB Power Delivery） / ▼电池组（标准） / 11.55V锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7.6小时（视频播放时）、约19.8小时（空闲时） / ［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（标准约270g）时） / AC适配器：约140g（不含电源线（约60g）、USB连接线（约36g）） |
+| 预装软件 | ・Microsoft® Edge / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panaosnic AI 设备控制器 |
+| 附件 | 电池组(标准)、AC适配器(支持USB Power Delivery)、使用说明书 等 |
 | Microsoft Office | Microsoft 365 Basic + Office Home & Business 2024 |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：1920×1280：約1677万色 |
-| 安全芯片 | TPM（TCG V2.0準拠） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：1920×1280：约1677万色 |
+| 安全芯片 | TPM（符合TCG V2.0） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4HDNCR_spec.html>
 
@@ -148,28 +148,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i7-1360P プロセッサー / P-core：最大ターボ周波数5 GHz / E-core：最大ターボ周波数3.70 GHz / コア数：12コア/キャッシュ：18MB |
-| 内存 | 16GB LPDDR4X SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6 GHz帯含む) 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.3 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| SD 卡槽 | SDメモリーカードスロット×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 顔認証対応カメラ（AIセンサー対応）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 | ・USB3.1 Type-Cポート×2（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60Hz出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC20V、3.25A、電源コードは100V専用(USB Power Delivery対応) / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7.6時間(動画再生時)、約19.8時間(アイドル時) / ［付属バッテリーパック（標準）装着時］ / ▼充電時間 / 最大3時間（電源オフ時）／最大3時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(標準 約270ｇ）装着時） / ACアダプター：約140g（電源コード（約60g）、USB接続ケーブル（約36g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panaosnic AIデバイスコントローラー |
-| 附件 | バッテリーパック(標準)、ACアダプター(USB Power Delivery対応)、取扱説明書 等 |
+| 处理器 | 英特尔® Core™ i7-1360P 处理器 / P-core：最大睿频频率5 GHz / E-core：最大睿频频率3.70 GHz / 核心数：12核/缓存：18MB |
+| 内存 | 16GB LPDDR4X SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6 GHz频段) （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.3 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| SD 卡槽 | SD存储卡插槽×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 支持人脸识别的摄像头（支持AI传感器），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 | ・USB3.1 Type-C端口×2（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60Hz输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC20V、3.25A、电源线仅限100V专用（支持USB Power Delivery） / ▼电池组（标准） / 11.55V锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7.6小时（视频播放时）、约19.8小时（空闲时） / ［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（标准约270g）时） / AC适配器：约140g（不含电源线（约60g）、USB连接线（约36g）） |
+| 预装软件 | ・Microsoft® Edge / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panaosnic AI 设备控制器 |
+| 附件 | 电池组(标准)、AC适配器(支持USB Power Delivery)、使用说明书 等 |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：1920×1280：約1677万色 |
-| 安全芯片 | TPM（TCG V2.0準拠） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：1920×1280：约1677万色 |
+| 安全芯片 | TPM（符合TCG V2.0） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4FDNCR_spec.html>
 
@@ -180,28 +180,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i5-1335U プロセッサー / P-core：最大ターボ周波数4.60 GHz / E-core：最大ターボ周波数3.40 GHz / コア数：10コア/キャッシュ：12MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6 GHz帯含む) 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 顔認証対応カメラ（AIセンサー対応）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 | ・USB3.1 Type-Cポート×2（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7時間(動画再生時)、約15.5時間(アイドル時) / ［付属バッテリーパック（標準）装着時］ / ▼充電時間 / 最大3時間（電源オフ時）／最大3時間（電源オン時） |
-| 颜色 | カームグレイ |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(約270ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panaosnic PC AIデバイスコントローラー |
-| 附件 | バッテリーパック(標準)、ACアダプター、専用布、取扱説明書 |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：1920×1280：約1677万色 |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 显存 | メインメモリーと共用 |
+| 处理器 | 英特尔® Core™ i5-1335U 处理器 / P-core：最大睿频频率4.60 GHz / E-core：最大睿频频率3.40 GHz / 核心数：10核/缓存：12MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6 GHz频段) （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 支持人脸识别的摄像头（支持AI传感器），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 | ・USB3.1 Type-C端口×2（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组（标准） / 11.55V锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7小时（视频播放时）、约15.5小时（空闲时） / ［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 静谧灰 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（约270g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panaosnic PC AI 设备控制器 |
+| 附件 | 电池组(标准)、AC适配器、专用布、使用说明书 |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：1920×1280：约1677万色 |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 显存 | 与主内存共用 |
 | 备注 | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4ADTCR_spec.html>
@@ -213,31 +213,31 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i7-1360P プロセッサー / P-core：最大ターボ周波数5 GHz / E-core：最大ターボ周波数3.70 GHz / コア数：12コア/キャッシュ：18MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6 GHz帯含む) 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | LTE対応 / （デュアルSIM(nano SIMカード＋eSIM)対応） |
-| 蓝牙 | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| 摄像头 | 顔認証対応カメラ（AIセンサー対応）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 | ・USB3.1 Type-Cポート×2（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7時間(動画再生時)、約15.5時間(アイドル時) / ［付属バッテリーパック（標準）装着時］ / ▼充電時間 / 最大3時間（電源オフ時）／最大3時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.049kg（付属バッテリーパック(約270ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panaosnic PC AIデバイスコントローラー |
-| 附件 | バッテリーパック(標準)、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
+| 处理器 | 英特尔® Core™ i7-1360P 处理器 / P-core：最大睿频频率5 GHz / E-core：最大睿频频率3.70 GHz / 核心数：12核/缓存：18MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6 GHz频段) （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 支持LTE / （支持双SIM（nano SIM卡＋eSIM）） |
+| 蓝牙 | Bluetooth v5.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| 摄像头 | 支持人脸识别的摄像头（支持AI传感器），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 | ・USB3.1 Type-C端口×2（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组（标准） / 11.55V锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7小时（视频播放时）、约15.5小时（空闲时） / ［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑本体：约1.049kg（安装附带电池组（约270g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panaosnic PC AI 设备控制器 |
+| 附件 | 电池组(标准)、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：1920×1280：約1677万色 |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 显存 | メインメモリーと共用 |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：1920×1280：约1677万色 |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 显存 | 与主内存共用 |
 | 备注 | — |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4BFPCR_spec.html>
 
@@ -248,29 +248,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ i5-1335U プロセッサー / P-core：最大ターボ周波数4.60 GHz / E-core：最大ターボ周波数3.40 GHz / コア数：10コア/キャッシュ：12MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显示屏 | 12.4型(3:2)FHD+ TFTカラー液晶 （1920 x 1280ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6 GHz帯含む) 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 蓝牙 | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 摄像头 | 顔認証対応カメラ（AIセンサー対応）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 | ・USB3.1 Type-Cポート×2（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック(標準) / 11.55V リチウムイオン・定格容量4300mAh |
-| 能效 | 目標年度2022年度 12区分17.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約7時間(動画再生時)、約15.5時間(アイドル時) / ［付属バッテリーパック（標準）装着時］ / ▼充電時間 / 最大3時間（電源オフ時）／最大3時間（電源オン時） |
-| 颜色 | カームグレイ |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック(約270ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork / ・Panaosnic PC AIデバイスコントローラー |
-| 附件 | バッテリーパック(標準)、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
+| 处理器 | 英特尔® Core™ i5-1335U 处理器 / P-core：最大睿频频率4.60 GHz / E-core：最大睿频频率3.40 GHz / 核心数：10核/缓存：12MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显示屏 | 12.4英寸(3:2)FHD+ TFT彩色液晶（1920 x 1280像素）（电容式多点触控面板、附防反射保护膜） |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6 GHz频段) （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 蓝牙 | Bluetooth v5.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 摄像头 | 支持人脸识别的摄像头（支持AI传感器），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 | ・USB3.1 Type-C端口×2（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组（标准） / 11.55V锂离子・额定容量4300mAh |
+| 能效 | 目标年度2022年度 12区分17.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约7小时（视频播放时）、约15.5小时（空闲时） / ［安装附赠电池组（标准）时］ / ▼充电时间 / 最长3小时（电源关闭时）／最长3小时（电源开启时） |
+| 颜色 | 静谧灰 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（约270g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork / ・Panaosnic PC AI 设备控制器 |
+| 附件 | 电池组(标准)、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：1920×1280：約1677万色 |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 显存 | メインメモリーと共用 |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：1920×1280：约1677万色 |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 显存 | 与主内存共用 |
 | 备注 | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QR4ADMCR_spec.html>
@@ -301,4 +301,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

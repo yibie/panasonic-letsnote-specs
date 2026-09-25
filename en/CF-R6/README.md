@@ -12,57 +12,57 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-R6AW1BJR](https://panasonic.jp/pc/p-db/CF-R6AW1BJR_spec.html) | 2007-05 | 2008-03 | Windows Vista® Business 正規版 、CoreTM2 Duo U7500(1.06GHz・ULV)、メモリー：1GB（最大1.5GB)、HDD：80GB、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
-| [CF-R6AW1PJR](https://panasonic.jp/pc/p-db/CF-R6AW1PJR_spec.html) | 2007-05 | 2008-03 | Windows Vista® Business 正規版 、CoreTM2 Duo U7500(1.06GHz・ULV)、メモリー：1GB（最大1.5GB)、HDD：80GB、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0、Office Personal ＜台数限定＞ |
-| [CF-R6MW4AJR](https://panasonic.jp/pc/p-db/CF-R6MW4AJR_spec.html) | 2007-03 | 2008-03 | Windows Vista® Business 正規版 、CoreTM Duo U2400 (1.06GHz・ULV)、メモリー：512MB（最大1.5GB)、HDD： 60GB、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
+| [CF-R6AW1BJR](https://panasonic.jp/pc/p-db/CF-R6AW1BJR_spec.html) | 2007-05 | 2008-03 | Windows Vista® Business genuine edition, CoreTM2 Duo U7500 (1.06GHz・ULV), Memory: 1GB (max 1.5GB), HDD: 80GB, LAN, Wireless LAN 802.11a(J52/W52/W53)/b/g, USB2.0 |
+| [CF-R6AW1PJR](https://panasonic.jp/pc/p-db/CF-R6AW1PJR_spec.html) | 2007-05 | 2008-03 | Windows Vista® Business genuine edition, CoreTM2 Duo U7500 (1.06GHz・ULV), Memory: 1GB (max 1.5GB), HDD: 80GB, LAN, Wireless LAN 802.11a(J52/W52/W53)/b/g, USB2.0, Office Personal ＜Limited quantity＞ |
+| [CF-R6MW4AJR](https://panasonic.jp/pc/p-db/CF-R6MW4AJR_spec.html) | 2007-03 | 2008-03 | Windows Vista® Business genuine version, CoreTM Duo U2400 (1.06GHz・ULV), Memory: 512MB (max 1.5GB), HDD: 60GB, LAN, Wireless LAN 802.11a(J52/W52/W53)/b/g, USB2.0 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista TM Business 正規版 |
-| Chipset | モバイル インテル(R) 945GMS Express チップセット |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / Simultaneous display | 800×600/1024×768ドット：約1677万色 |
+| OS | Windows Vista TM Business genuine version |
+| Chipset | Mobile Intel(R) 945GMS Express chipset |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600/1024×768 dots: approx. 16.77 million colors |
 | Wired LAN | 100BASE-TX / 10BASE-T |
-| Security chip | ＴＰＭ（TCG V1.2準拠） |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Keyboard | OADG準拠キーボード（85キー）：キーピッチ17mm（横）／14.3mm（縦）（一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power | AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック （7.2 Vリチウムイオン・5.8 Ah） |
-| Power consumption | 最大約40W |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Accessories | プロダクトリカバリーDVD-ROM、ACアダプター、標準バッテリーパック、Windows Anytime Upgrade DVD、取扱説明書 等 |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Keyboard | OADG-compliant keyboard (85 keys): key pitch 17mm (horizontal)/14.3mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power | AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, 5.8 Ah) |
+| Power consumption | Max approx. 40W |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Accessories | Product Recovery DVD-ROM, AC adapter, standard battery pack, Windows Anytime Upgrade DVD, instruction manual, etc. |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-R6AW1BJR | Core 2 Duo 超低電圧版U7500 | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
-| CF-R6AW1PJR | Core 2 Duo 超低電圧版U7500 | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
-| CF-R6MW4AJR | Core Duo超低電圧版U2400 | 512MB DDR2 SDRAM | 60GB | 0.93 kg | — |
+| CF-R6AW1BJR | Core 2 Duo Ultra Low Voltage Edition U7500 | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+| CF-R6AW1PJR | Core 2 Duo Ultra Low Voltage Edition U7500 | 1GB DDR2 SDRAM | 80GB | 0.94 kg | — |
+| CF-R6MW4AJR | Core Duo Ultra Low Voltage Edition U2400 | 512MB DDR2 SDRAM | 60GB | 0.93 kg | — |
 
 <details>
 <summary>CF-R6AW1BJR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) Core TM 2 Duoプロセッサー 超低電圧版U7500 / 2次キャッシュメモリー 2MB、動作周波数 1.06GHz、フロントサイド・バス 533MHz |
-| Memory | 標準1GB DDR2 SDRAM（拡張メモリースロットに512MBメモリー増設済み、空きスロット0。 / 本体に標準装着済みの512MBメモリーを外して、1GBメモリーを増設した場合は、最大1.5GB。） |
-| Video memory | 最大224MB （メインメモリーと共用） |
-| Hard disk | 80GB（Serial ATA）上記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用。（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB /1.2MB /720KB ） |
-| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1440×900/1600×1200/2048×1536ドット（60Ｈｚ）：約1677万色 |
-| Wireless LAN | インテル(R)PRO/Wireless 3945ABGネットワーク・コネクション、IEEE802.11a（J52/W52/W53）/b/g準拠 、 / (WPA-AES/TKIP対応、Wi-Fi準拠) |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
-| Audio | PCM音源（16ビットステレオ）/インテル(R) High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / SD card | SDメモリーカード ×1スロット（SDHCメモリーカード/著作権保護機能対応。Windows Ready Boost機能には対応しておりません） |
-| Memory expansion slot | DDR2 172ピン マイクロDIMM専用スロット×1(1.8V/PC2-4200/DDR2 SDRAM、512MBメモリー増設済み) |
-| Ports | USBポート×2（USB2.0） 、モデムコネクター（RJ-11） 、LANコネクター（RJ-45）、 / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン・R6に搭載） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00027 |
-| Weight (with battery) | 約940g |
-| Software | Microsoft(R) Internet Explorer7.0、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 11、DirectX 10、Microsoft(R) Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework3.0、ホイールパッドユーティリティ、hi-hoオンラインサインアップ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ 、Wireless Manager mobile edition3.0 、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、セットアップユーティリティ、PC-Diagnosticユーティリティ 、マカフィー・インターネットセキュリティスイートベーシックエディション 、gooスティック、ネットセレクター2、Infineon TPM Professional Package V3.0 SP1 |
+| CPU | Intel(R) Core TM 2 Duo processor Ultra Low Voltage U7500 / 2nd-level cache memory 2MB, operating frequency 1.06GHz, front side bus 533MHz |
+| Memory | Standard 1GB DDR2 SDRAM (512MB memory already added to expansion memory slot, 0 free slots. / If the standard-installed 512MB memory is removed and 1GB memory is added, maximum 1.5GB.) |
+| Video memory | Max. 224MB (shared with main memory) |
+| Hard disk | Of the above capacity, approx. 6GB of 80GB (Serial ATA) is used as a recovery area (including the recovery data area). (Not user accessible) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB /1.2MB /720KB ) |
+| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1440×900/1600×1200/2048×1536 dots (60Hz): approx. 16.77 million colors |
+| Wireless LAN | Intel(R)PRO/Wireless 3945ABG Network Connection, IEEE802.11a (J52/W52/W53)/b/g compliant , / (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
+| Audio | PCM sound source (16-bit stereo)/Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection function supported. Windows Ready Boost function is not supported) |
+| Memory expansion slot | DDR2 172-pin microDIMM dedicated slot x1 (1.8V/PC2-4200/DDR2 SDRAM, 512MB memory added) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), / external display connector (analog RGB mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin, equipped on R6) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00027 |
+| Weight (with battery) | Approx. 940g |
+| Software | Microsoft(R) Internet Explorer7.0, Adobe(R) Reader, DMI Viewer, Microsoft(R) Windows(R) MediaTM Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework3.0, WheelPad Utility, hi-ho Online Signup, Zoom Viewer, PC Information Viewer, NumLock Notice, Hard Disk Data Erase Utility, Wireless Manager mobile edition3.0, Wireless Switching Utility, Security Setting Utility, Economy Mode (ECO) Switching Utility, Power Saving Setting Utility, Battery Remaining Display Correction Utility, Hotkey Setting, Setup Utility, PC-Diagnostic Utility, McAfee Internet Security Suite Basic Edition, goo Stick, Net Selector 2, Infineon TPM Professional Package V3.0 SP1 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6AW1BJR_spec.html>
 
@@ -73,21 +73,21 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6AW1BJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) Core TM 2 Duoプロセッサー 超低電圧版U7500 / 2次キャッシュメモリー 2MB、動作周波数 1.06GHz、フロントサイド・バス 533MHz |
-| Memory | 標準1GB DDR2 SDRAM（拡張メモリースロットに512MBメモリー増設済み、空きスロット0。 / 本体に標準装着済みの512MBメモリーを外して、1GBメモリーを増設した場合は、最大1.5GB。） |
-| Video memory | 最大224MB （メインメモリーと共用） |
-| Hard disk | 80GB（Serial ATA）上記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用。（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB /1.2MB /720KB ） |
-| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1440×900/1600×1200/2048×1536ドット（60Ｈｚ）：約1677万色 |
-| Wireless LAN | インテル(R)PRO/Wireless 3945ABGネットワーク・コネクション、IEEE802.11a（J52/W52/W53）/b/g準拠 、 / (WPA-AES/TKIP対応、Wi-Fi準拠) |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
-| Audio | PCM音源（16ビットステレオ）/インテル(R) High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / SD card | SDメモリーカード ×1スロット（SDHCメモリーカード/著作権保護機能対応。Windows Ready Boost機能には対応しておりません） |
-| Memory expansion slot | DDR2 172ピン マイクロDIMM専用スロット×1(1.8V/PC2-4200/DDR2 SDRAM、512MBメモリー増設済み) |
-| Ports | USBポート×2（USB2.0） 、モデムコネクター（RJ-11） 、LANコネクター（RJ-45）、 / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン・R6に搭載） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00027 |
-| Weight (with battery) | 約940g |
-| Software | Microsoft(R) Internet Explorer7.0、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 11、DirectX 10、Microsoft(R) Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework3.0、ホイールパッドユーティリティ、hi-hoオンラインサインアップ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ 、Wireless Manager mobile edition3.0 、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、セットアップユーティリティ、PC-Diagnosticユーティリティ 、マカフィー・インターネットセキュリティスイートベーシックエディション 、gooスティック、ネットセレクター2、Infineon TPM Professional Package V3.0 SP1 / Microsoft(R) Office Personal 2007with PowerPoint 2007 |
+| CPU | Intel(R) Core TM 2 Duo processor Ultra Low Voltage U7500 / 2nd-level cache memory 2MB, operating frequency 1.06GHz, front side bus 533MHz |
+| Memory | Standard 1GB DDR2 SDRAM (512MB memory already added to expansion memory slot, 0 free slots. / If the standard-installed 512MB memory is removed and 1GB memory is added, maximum 1.5GB.) |
+| Video memory | Max. 224MB (shared with main memory) |
+| Hard disk | Of the above capacity, approx. 6GB of 80GB (Serial ATA) is used as a recovery area (including the recovery data area). (Not user accessible) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB /1.2MB /720KB ) |
+| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1440×900/1600×1200/2048×1536 dots (60Hz): approx. 16.77 million colors |
+| Wireless LAN | Intel(R)PRO/Wireless 3945ABG Network Connection, IEEE802.11a (J52/W52/W53)/b/g compliant , / (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
+| Audio | PCM sound source (16-bit stereo)/Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection function supported. Windows Ready Boost function is not supported) |
+| Memory expansion slot | DDR2 172-pin microDIMM dedicated slot x1 (1.8V/PC2-4200/DDR2 SDRAM, 512MB memory added) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), / external display connector (analog RGB mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin, equipped on R6) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00027 |
+| Weight (with battery) | Approx. 940g |
+| Software | Microsoft(R) Internet Explorer7.0, Adobe(R) Reader, DMI Viewer, Microsoft(R) Windows(R) MediaTM Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework3.0, WheelPad Utility, hi-ho Online Signup, Zoom Viewer, PC Information Viewer, NumLock Notice, Hard Disk Data Erase Utility, Wireless Manager mobile edition3.0, Wireless Switching Utility, Security Setting Utility, Economy Mode (ECO) Switching Utility, Power Saving Setting Utility, Battery Remaining Display Correction Utility, Hotkey Setting, Setup Utility, PC-Diagnostic Utility, McAfee Internet Security Suite Basic Edition, goo Stick, Net Selector 2, Infineon TPM Professional Package V3.0 SP1 / Microsoft(R) Office Personal 2007with PowerPoint 2007 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6AW1PJR_spec.html>
 
@@ -98,21 +98,21 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6AW1PJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) Centrino(R) Duo モバイルテクノロジー / インテル(R) Core TM Duoプロセッサー超低電圧版U2400 / 2次キャッシュメモリー2MB、動作周波数 1.06GHz、フロントサイド・バス 533MHz |
-| Memory | 標準512MB DDR2 SDRAM（最大1536MB）空きスロット1 |
-| Video memory | 最大64MB（メインメモリーと共用） |
-| Hard disk | 60GB（Serial ATA）上記容量のうち約6GBは修復用領域として使用。（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1600×1200/2048×1536ドット（60Ｈｚ）：約1677万色 |
-| Wireless LAN | インテル(R)PRO/Wireless 3945ABG ネットワーク・コネクション、IEEE802.11a（J52/W52/W53）/b/g準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
-| Modem | データ：56kbps（V.90）、FAX：14.4kbps /ボイス非対応 |
-| Audio | PCM音源（16ビットステレオ）/インテル(R) High Definition Audio 準拠、ステレオスピーカー |
-| Card slots / SD card | SDメモリーカード×1スロット（著作権保護機能対応）・転送速度 8MB/秒 |
-| Memory expansion slot | DDR2 172ピン マイクロDIMM専用スロット×1(1.8V/PC2-4200/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン・Y5、R6に搭載） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00084 |
-| Weight (with battery) | 約930g |
-| Software | Microsoft(R) Internet Explorer7.0、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 11、DirectX 10、Microsoft(R) Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework3.0、ホイールパッドユーティリティ、hi-hoオンラインサインアップ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition3.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、セットアップユーティリティ、PC-Diagnosticユーティリティ、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ホイールパッドユーティリティ |
+| CPU | Intel(R) Centrino(R) Duo Mobile Technology / Intel(R) Core TM Duo processor Ultra Low Voltage U2400 / 2nd-level cache memory 2MB, operating frequency 1.06GHz, front side bus 533MHz |
+| Memory | Standard 512MB DDR2 SDRAM (max. 1536MB), 1 free slot |
+| Video memory | Max 64MB (shared with main memory) |
+| Hard disk | 60GB (Serial ATA) of the above capacity, approx. 6GB is used as recovery area. (user unavailable) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display / External output | 800×600/1024×768/1280×768/1280×1024/1400×1050/1600×1200/2048×1536 dots (60Hz): approx. 16.77 million colors |
+| Wireless LAN | Intel(R)PRO/Wireless 3945ABG Network Connection, IEEE802.11a (J52/W52/W53)/b/g compliant, (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Modem | Data: 56kbps (V.90), FAX: 14.4kbps /Voice not supported |
+| Audio | PCM sound source (16-bit stereo)/Intel(R) High Definition Audio compliant, stereo speaker |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection support)・transfer speed 8MB/sec |
+| Memory expansion slot | DDR2 172-pin microDIMM dedicated slot x1 (1.8V/PC2-4200/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin, equipped on Y5, R6) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00084 |
+| Weight (with battery) | Approx. 930g |
+| Software | Microsoft(R) Internet Explorer7.0, Adobe(R) Reader, DMI Viewer, Microsoft(R) Windows(R) MediaTM Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework3.0, WheelPad Utility, hi-ho Online Signup, Zoom Viewer, PC Information Viewer, NumLock Notice, Hard Disk Data Erase Utility, Wireless Manager mobile edition3.0, Wireless Switching Utility, Security Setting Utility, Economy Mode (ECO) Switching Utility, Power Saving Setting Utility, Battery Remaining Display Correction Utility, Hotkey Setting, Setup Utility, PC-Diagnostic Utility, McAfee Internet Security Suite Basic Edition, goo Stick, WheelPad Utility |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6MW4AJR_spec.html>
 
@@ -130,4 +130,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R6MW4AJR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

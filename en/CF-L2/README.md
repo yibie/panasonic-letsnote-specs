@@ -18,46 +18,46 @@
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) SpeedStep(TM) テクノロジ対応モバイルPentium(R) III プロセッサ 700MHz (システムバスクロック : 100MHz) |
+| CPU | Intel(R) SpeedStep(TM) Technology-compatible Mobile Pentium(R) III Processor 700MHz (System bus clock : 100MHz) |
 | Chipset | Intel(R) 440MX Chipset |
-| Memory | 標準 64MB SDRAM (最大 192MB) |
+| Memory | Standard 64MB SDRAM (max. 192MB) |
 | L2 cache | 256KB |
 | Video memory | 4MB |
-| Graphics chip | Silicon Motion(R), Inc.製 Lynx 3DM+ |
+| Graphics chip | Silicon Motion(R), Inc. Lynx 3DM+ |
 | Hard disk | 20GB (UltraATA) ※1 |
-| Optical drive | CD-R/RWドライブ・着脱式 / CD-R : 書き込み最大8倍速 / CD-RW : 書き換え最大4倍速 / CD-ROM: 読み出し最大24倍速 |
-| Floppy drive (optional) | 外付け USB接続 3.5型 3モード対応 (1.44MB /1.2MB /720KB) |
-| Multi-bay | CD-R/RWドライブ(標準添付)、ウェイトセーバー(標準添付)、拡張バッテリーパックアダプターセット(オプション)を交換可 |
-| Display | XGA(1024×768ドット) 13.3型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット :約1600万色 ※2 |
-| Display / External output | 640×480、800×600、1024×768、1280×1024ドット :約1600万色 |
-| Display / Simultaneous display | 640×480、800×600、1024×768、1280×1024 ※3 ドット :約1600万色 ※2 |
-| Display / Dual display (example) | 内部LCD 1024×768ドット :65536色 － 外部ディスプレイ 1024×768ドット :約1600万色 |
-| Modem | 本体内蔵 データ :56kbps (V.90/K56flex自動対応) FAX :14.4kbps /ボイス非対応 (RJ-11) ※4 |
-| Wired LAN | 本体内蔵 100BASE-TX /10BASE-T (RJ-45) ※5 |
-| Audio | PCM音源 (16ビットステレオ)、スピーカー内蔵(ステレオ) |
-| PC Card slot | PCカード(Type II×1スロット) CardBus対応 |
-| Memory expansion slot | 144ピンDIMM専用スロット×1 (64MB /128MB) |
-| インターフェース / H" INモジュール | 本体内蔵 ※6（音声、ＦＡＸ等は非対応） |
-| Wireless com port / Mobile phone | PDC :データ/FAX 9600bps、パケット 9600bps/28.8kbps / cdmaOne :データ/FAX 14.4kbps、パケット 64kbps |
+| Optical drive | CD-R/RW drive・removable / CD-R: max. 8x write / CD-RW: max. 4x rewrite / CD-ROM: max. 24x read |
+| Floppy drive (optional) | External USB connection 3.5-inch 3-mode support (1.44MB /1.2MB /720KB) |
+| Multi-bay | CD-R/RW drive (standard), weight saver (standard), extended battery pack adapter set (optional) interchangeable |
+| Display | XGA (1024×768 dots) 13.3-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16 million colors ※2 |
+| Display / External output | 640×480, 800×600, 1024×768, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 640×480, 800×600, 1024×768, 1280×1024 *3 dots: approx. 16 million colors *2 |
+| Display / Dual display (example) | Internal LCD 1024×768 dots: 65536 colors - External display 1024×768 dots: approx. 16 million colors |
+| Modem | Built-in Data: 56kbps (V.90/K56flex auto-supported) FAX: 14.4kbps / voice not supported (RJ-11) *4 |
+| Wired LAN | Built-in 100BASE-TX /10BASE-T (RJ-45) *5 |
+| Audio | PCM sound source (16-bit stereo), built-in speaker (stereo) |
+| PC Card slot | PC card (Type II ×1 slot) CardBus compatible |
+| Memory expansion slot | 144-pin DIMM dedicated slot ×1 (64MB /128MB) |
+| Interface / H" IN module | Built-in *6 (voice, FAX, etc. not supported) |
+| Wireless com port / Mobile phone | PDC : data/FAX 9600bps, packet 9600bps/28.8kbps / cdmaOne : data/FAX 14.4kbps, packet 64kbps |
 | Wireless com port / PHS | PIAFS 64K / PIAFS 32K |
-| Audio port | マイク入力(モノラルミニジャック)、オーディオ出力(ステレオミニジャック) |
-| USB | 4ピン ×2 |
-| Serial port | Dsub 9ピン |
-| Parallel port | Dsub 25ピン |
-| External display port | アナログRGB ミニDsub 15ピン |
-| マウス／外部キーボード | ミニDin 6ピン |
-| Keyboard | OADG準拠キーボード (86キー) :キーピッチ 19mm |
-| Pointing device | フラットパッド |
-| Power | AC 100V-240V (50Hz/60Hz)(ACコードは100V専用)、 / 標準バッテリーパック／拡張バッテリーパックアダプターセット<別売>(リチウムイオン) |
-| Power consumption | 最大約60W ※7 |
-| Energy efficiency | S区分 0.00092 ※8 |
-| Battery | 標準バッテリーパック / 駆動:約4.0時間 ※9 充電:約3時間(電源OFF時)、約3.5時間(電源ON時)※10 / 標準＋拡張バッテリーパックアダプターセット<別売> / 駆動:約8.0時間 ※9 充電:約6時間(電源OFF時)、約7時間(電源ON時)※10 |
-| Dimensions (W×D×H) | 297mm × 238.5mm × 25.6mm(前部)・29.7mm(後部) (突起部除く) |
-| Weight (with battery) | 約1.7kg (ウェイトセーバー装着時) / 約2.0kg (CD-R/RWドライブ装着時) / 約2.1kg（拡張バッテリー<別売>装着時） |
-| Software | Microsoft(R) Windows(R) Millennium Edition、 / Microsoft(R) Internet Explorer 5.5、 / Microsoft(R) IME 2002◆、 / Microsoft(R) Office XP Personal ◆(Word、Excel、Outlook、Bookshelf Basic）、 / Adobe(R) Acrobat(R) Reader◆、 / インターネットスターター、 / Panasonic PC オンライン メンバー登録、 / オンラインサインアップ (@nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL) ◆、 / 電波状況モニターII、 / 画面切換ユーティリティ、 / B's Recorder GOLD／B's CLiP ◆、 / Mobile Editor 2000 ◆※11、 / DMIビューアー、 / H"INサインアップ 、 / H"INユーティリティ |
-| Accessories | プロダクトリカバリーCD-ROM(2枚)、USB接続FDD、ACアダプター、モジュラーケーブル、標準バッテリーパック、ウェイトセーバー、アプリケーションCD-ROM(1枚)、Microsoft(R) Office XP Personal アプリケーションパック、取扱説明書等 |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 内部LCDについては、グラフィックアクセラレーターのディザリング機能により実現。 / ※3 内部LCDには、全体画面の一部(1024×768ドット)が表示されます。カーソルを画面の端に移動すると、画面全体がスクロールされます。 / ※4 日本国内NTTアナログ一般回線専用です。V.90とK56flexを自動判別して切り換わります。また、56kbpsはデータ受信時の理論値です。データ送信時は33.6kbpsが最大速度です。 / ※5 コネクターの形状によっては使用できないものがあります。 / ※6 通話相手先限定サービス（Two LINK DATA）には対応しておりません。 / ※7 (社)電子情報技術産業協会 家電・汎用品高調波抑制対策ガイドライン実行計画書に基づく定格入力電力値:36W。 / ※8 エネルギー消費効率とは、省エネ法で定める測定方法により、測定された消費電力を省エネ法で定める複合理論性能で除したものです。 / ※9 LCDバックライト輝度最低時。動作環境・システム設定により変動します。 / ※10 完全放電したバッテリーを充電すると時間がかかる場合があります。 / ※11 オプションの携帯電話接続ケーブルが必要です。 / ◆印のソフトウエアの操作に関するサポートは、各ソフトメーカーで行っております。 / / ●本パソコンはWindows Me 以外では動作保証しておりません。 / ●一般的にWindows Me用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●付属のプロダクトリカバリーCD-ROMではOSのみの再インストールは行えません。 |
+| Audio port | Microphone input (monaural mini jack), audio output (stereo mini jack) |
+| USB | 4-pin ×2 |
+| Serial port | Dsub 9-pin |
+| Parallel port | Dsub 25-pin |
+| External display port | Analog RGB mini Dsub 15-pin |
+| Mouse / external keyboard | Mini Din 6-pin |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19mm |
+| Pointing device | Flat pad |
+| Power | AC 100V-240V (50Hz/60Hz) (AC cord is for 100V only), / Standard battery pack / Extended battery pack adapter set <optional> (lithium-ion) |
+| Power consumption | Max approx. 60W *7 |
+| Energy efficiency | S classification 0.00092 ※8 |
+| Battery | Standard battery pack / Runtime: approx. 4.0 hours *9 Charging: approx. 3 hours (power OFF), approx. 3.5 hours (power ON) *10 / Standard + extended battery pack adapter set <sold separately> / Runtime: approx. 8.0 hours *9 Charging: approx. 6 hours (power OFF), approx. 7 hours (power ON) *10 |
+| Dimensions (W×D×H) | 297mm × 238.5mm × 25.6mm (front)・29.7mm (rear) (excluding protrusions) |
+| Weight (with battery) | Approx. 1.7kg (with weight saver installed) / Approx. 2.0kg (with CD-R/RW drive installed) / Approx. 2.1kg (with extended battery <sold separately> installed) |
+| Software | Microsoft(R) Windows(R) Millennium Edition, / Microsoft(R) Internet Explorer 5.5, / Microsoft(R) IME 2002◆, / Microsoft(R) Office XP Personal ◆ (Word, Excel, Outlook, Bookshelf Basic), / Adobe(R) Acrobat(R) Reader◆, / Internet Starter, / Panasonic PC Online Member Registration, / Online Sign-up (@nifty, BIGLOBE, DION, OCN, ODN, docomo AOL) ◆, / Radio Wave Status Monitor II, / Screen Switching Utility, / B's Recorder GOLD/B's CLiP ◆, / Mobile Editor 2000 ◆*11, / DMI Viewer, / H"IN Sign-up, / H"IN Utility |
+| Accessories | Product Recovery CD-ROM (2 discs), USB-connected FDD, AC adapter, modular cable, standard battery pack, weight saver, application CD-ROM (1 disc), Microsoft(R) Office XP Personal application pack, instruction manual, etc. |
+| Notes | *1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / *2 Achieved by the dithering function of the graphics accelerator for the internal LCD. / *3 A part of the entire screen (1024×768 dots) is displayed on the internal LCD. When the cursor is moved to the edge of the screen, the entire screen scrolls. / *4 For exclusive use with NTT analog general lines within Japan. Automatically distinguishes and switches between V.90 and K56flex. Also, 56kbps is the theoretical value when receiving data. When sending data, 33.6kbps is the maximum speed. / *5 Some items cannot be used depending on the connector shape. / *6 Not compatible with the called-party-limited service (Two LINK DATA). / *7 Rated input power value based on the Japan Electronics and Information Technology Industries Association Guidelines for Harmonic Suppression Measures for Household and General-Purpose Products Execution Plan: 36W. / *8 Energy consumption efficiency is the power consumption measured by the measuring method specified in the Energy Conservation Act divided by the composite theoretical performance specified in the Energy Conservation Act. / *9 At minimum LCD backlight brightness. Varies depending on the operating environment and system settings. / *10 Charging a completely discharged battery may take time. / *11 The optional mobile phone connection cable is required. / Support for the operation of software marked with ◆ is provided by each software manufacturer. / / ●This computer is not guaranteed to operate with anything other than Windows Me. / ●Among software and peripherals generally labeled for Windows Me, some cannot be used with this computer. Please confirm with the vendor of each software and peripheral before purchasing. / ●The included Product Recovery CD-ROM cannot reinstall the OS only. |
 
 ## Related models
 
@@ -65,4 +65,4 @@
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

@@ -12,41 +12,41 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-MX3DDQJR](https://panasonic.jp/pc/p-db/CF-MX3DDQJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM i5-4210U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3DDFJR](https://panasonic.jp/pc/p-db/CF-MX3DDFJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM i5-4210U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3DDGJR](https://panasonic.jp/pc/p-db/CF-MX3DDGJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM i5-4210U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-MX3ZDYBR](https://panasonic.jp/pc/p-db/CF-MX3ZDYBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i7-4510U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、ブルーレイディスクドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-MX3JEKJR](https://panasonic.jp/pc/p-db/CF-MX3JEKJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64ビット、インテル® CoreTM i5-4310U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3JEBJR](https://panasonic.jp/pc/p-db/CF-MX3JEBJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64ビット、インテル® CoreTM i5-4310U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3JEGJR](https://panasonic.jp/pc/p-db/CF-MX3JEGJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64ビット、インテル® CoreTM i5-4310U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Office Home and Business 2013 |
-| [CF-MX3VEWBR](https://panasonic.jp/pc/p-db/CF-MX3VEWBR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Pro Update 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：8GB（拡張スロットなし）、SSD：256GB、ブルーレイディスクドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3SEBJR](https://panasonic.jp/pc/p-db/CF-MX3SEBJR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 64ビット、インテル® CoreTM i5-4200U（1.60GHz）、メモリー：標準4GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-MX3SEGJR](https://panasonic.jp/pc/p-db/CF-MX3SEGJR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 64ビット、インテル® CoreTM i5-4200U（1.60GHz）、メモリー：標準4GB（拡張スロットなし）、SSD：128GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Office Home and Business 2013 |
-| [CF-MX3TEABR](https://panasonic.jp/pc/p-db/CF-MX3TEABR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：標準8GB（拡張スロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3DDQJR](https://panasonic.jp/pc/p-db/CF-MX3DDQJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4210U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3DDFJR](https://panasonic.jp/pc/p-db/CF-MX3DDFJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4210U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、超级多驱动器、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3DDGJR](https://panasonic.jp/pc/p-db/CF-MX3DDGJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4210U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、超级多驱动器、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-MX3ZDYBR](https://panasonic.jp/pc/p-db/CF-MX3ZDYBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64位、Intel® CoreTM i7-4510U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、Blu-ray Disc Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-MX3JEKJR](https://panasonic.jp/pc/p-db/CF-MX3JEKJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4310U（2.00GHz）、内存：4GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3JEBJR](https://panasonic.jp/pc/p-db/CF-MX3JEBJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4310U（2.00GHz）、内存：4GB（无扩展插槽）、SSD：128GB、超级多驱动器、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3JEGJR](https://panasonic.jp/pc/p-db/CF-MX3JEGJR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Update 64位、英特尔® CoreTM i5-4310U（2.00GHz）、内存：4GB（无扩展插槽）、SSD：128GB、超级多驱动器、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac、Office Home and Business 2013 |
+| [CF-MX3VEWBR](https://panasonic.jp/pc/p-db/CF-MX3VEWBR_spec.html) | 2014-05 | 2015-02 | Windows 8.1 Pro Update 64位、英特尔® CoreTM i7-4500U（1.80GHz）、内存：8GB（无扩展插槽）、SSD：256GB、Blu-ray Disc Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3SEBJR](https://panasonic.jp/pc/p-db/CF-MX3SEBJR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 64位、英特尔® CoreTM i5-4200U（1.60GHz）、内存：标准4GB（无扩展插槽）、SSD：128GB、超级多功能光驱、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-MX3SEGJR](https://panasonic.jp/pc/p-db/CF-MX3SEGJR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 64位、英特尔® CoreTM i5-4200U（1.60GHz）、内存：标准4GB（无扩展插槽）、SSD：128GB、超级多功能光驱、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac、Office Home and Business 2013 |
+| [CF-MX3TEABR](https://panasonic.jp/pc/p-db/CF-MX3TEABR_spec.html) | 2014-01 | 2014-05 | Windows 8.1 Pro 64位、英特尔® CoreTM i7-4500U（1.80GHz）、内存：标准8GB（无扩展插槽）、SSD：256GB、超级多功能光驱、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n/ac |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 显存 | 最大1792MB (メインメモリーと共用) |
-| 显示屏 | 12.5型ワイド(16:9)Full HD TFTカラーIPS液晶 （1920×1080ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| 显示屏 / 显卡 | インテル HD グラフィックス4400（CPUに内蔵） |
-| 显示屏 / 色彩 | 1920×1080ドット：約1677万色 |
-| 无线通信模块 | インテル Dual Band Wireless-AC 7260 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
+| 显存 | 最大1792MB（与主内存共享） |
+| 显示屏 | 12.5英寸宽屏(16:9)Full HD TFT彩色IPS液晶（1920×1080像素）、静电触摸屏、附防眩光保护膜 |
+| 显示屏 / 显卡 | 英特尔 HD 图形4400（内置于CPU） |
+| 显示屏 / 色彩 | 1920×1080点：约1677万色 |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 7260 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I、UHS-II高速転送対応/著作権保護技術対応） |
-| 摄像头 | 解像度：Full HD（1080p）、有効画素数：最大1920x1080ピクセル |
-| 麦克风 | アレイマイク |
-| 传感器 | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| 接口 | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | 静電タッチスクリーン（液晶）/タッチパッド |
-| 功耗 | 最大約45W |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I、UHS-II高速传输/支持版权保护技术） |
+| 摄像头 | 分辨率：Full HD（1080p）、有效像素数：最大1920x1080像素 |
+| 麦克风 | 阵列麦克风 |
+| 传感器 | 照度传感器 / 地磁传感器 / 陀螺仪传感器 / 加速度传感器 |
+| 接口 | LAN 接口（RJ-45） / 外接显示器接口（模拟 RGB 迷你 D-sub 15 针） / HDMI 输出端子 / 麦克风输入端子（立体声迷你插孔 M3（支持插入式电源）） / 音频输出端子（立体声迷你插孔 M3） / USB3.0 端口×2（其中 1 个兼作 USB 充电端口） |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 静电触摸屏（液晶）/触控板 |
+| 功耗 | 最大约45W |
 | 能效达成率（2011 年度标准） | — |
-| 尺寸（宽×深×高） | 幅301.4mm×奥行210mm×高さ21mm（タブレット状態の高さは21.5mm） 突起部除く |
-| 颜色 | シルバー |
+| 尺寸（宽×深×高） | 宽301.4mm×深210mm×高21mm（平板状态的高度为21.5mm） 不含突起部 |
+| 颜色 | 银色 |
 
 ## 各型号差异
 
@@ -69,19 +69,19 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4210Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.7GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.7GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.029 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約9.5時間/（JEITA Ver.1.0）約14.5時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.118kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・VIP Access for Desktop / ・インテル スマート・コネクト・テクノロジー / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4210U处理器 / 英特尔智能缓存3MB，运行频率1.7GHz（使用英特尔 睿频加速技术2.0时最高2.7GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.029 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约9.5小时/（JEITA Ver.1.0）约14.5小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.118kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | ・Microsoft Internet Explorer 11 / ・网络选择器Lite / ・无线工具箱 / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・安全设置实用程序 / ・McAfee PC安全中心 / ・i-Filter 6.0 (30天体验版) / ・Adobe Reader / ・WinZip 17.0日文版（45天体验版） / ・电池余量显示校正实用程序 / ・NumLock通知 / ・Hotkey设置 / ・Fn Ctrl互换实用程序 / ・HOLD模式设置实用程序 / ・触摸操作帮助实用程序 / ・手写工具2 / ・电源计划扩展实用程序 / ・峰移控制实用程序 / ・Microsoft Windows Media Player 12 / ・投影仪助手 / ・USB键盘助手 / ・显示器助手 / ・Wireless Manager mobile edition / ・USB充电设置实用程序 / ・摄像头实用程序（桌面画面用） / ・Camera for Panasonic PC（开始画面用） / ・画面分割实用程序 / ・画面旋转工具 / ・触摸面板模式设置实用程序 / ・PC信息弹出窗口 / ・PC信息查看器 / ・Aptio设置实用程序 / ・PC-Diagnostic实用程序 / ・Dashboard for Panasonic PC / ・恢复光盘创建实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・英特尔 PROSet/Wireless Software / ・VIP Access for Desktop / ・英特尔 智能连接技术 / ・Skype（开始画面用） / ・NAVITIME（开始画面用） / ・Adobe Reader Touch（开始画面用） / ・Bing翻译（开始画面用） |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3DDQJR_spec.html>
 
@@ -92,23 +92,23 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4210Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.7GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.7GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.029 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約9.5時間/（JEITA Ver.1.0）約14.5時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・VIP Access for Desktop / ・インテル スマート・コネクト・テクノロジー / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 光驱 | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4210U处理器 / 英特尔智能缓存3MB，运行频率1.7GHz（使用英特尔 睿频加速技术2.0时最高2.7GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.029 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约9.5小时/（JEITA Ver.1.0）约14.5小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | ・Microsoft Internet Explorer 11 / ・网络选择器Lite / ・无线工具箱 / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・安全设置实用程序 / ・McAfee PC安全中心 / ・i-Filter 6.0 (30天体验版) / ・Adobe Reader / ・WinZip 17.0日文版（45天体验版） / ・电池余量显示校正实用程序 / ・NumLock通知 / ・Hotkey设置 / ・Fn Ctrl互换实用程序 / ・HOLD模式设置实用程序 / ・触摸操作帮助实用程序 / ・手写工具2 / ・电源计划扩展实用程序 / ・峰移控制实用程序 / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・投影仪助手 / ・USB键盘助手 / ・显示器助手 / ・Wireless Manager mobile edition / ・USB充电设置实用程序 / ・摄像头实用程序（桌面画面用） / ・Camera for Panasonic PC（开始画面用） / ・画面分割实用程序 / ・画面旋转工具 / ・触摸面板模式设置实用程序 / ・PC信息弹出窗口 / ・PC信息查看器 / ・Aptio设置实用程序 / ・PC-Diagnostic实用程序 / ・Dashboard for Panasonic PC / ・恢复光盘创建实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・英特尔 PROSet/Wireless Software / ・VIP Access for Desktop / ・英特尔 智能连接技术 / ・Skype（开始画面用） / ・NAVITIME（开始画面用） / ・Adobe Reader Touch（开始画面用） / ・Bing翻译（开始画面用） |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 光驱 | 内置超级多功能驱动器（DVD/CD） 配备缓冲区欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / +R 写入：最高8倍速 / +R DL 写入：最高6倍速 / +RW 改写：最高4倍速 / High Speed +RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3DDFJR_spec.html>
@@ -120,23 +120,23 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4210Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.7GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.7GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.029 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約9.5時間/（JEITA Ver.1.0）約14.5時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・VIP Access for Desktop / ・インテル スマート・コネクト・テクノロジー / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書、Microsoft Office Home & Business Premium |
-| 光驱 | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4210U处理器 / 英特尔智能缓存3MB，运行频率1.7GHz（使用英特尔 睿频加速技术2.0时最高2.7GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.029 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约9.5小时/（JEITA Ver.1.0）约14.5小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | ・Microsoft Internet Explorer 11 / ・网络选择器Lite / ・无线工具箱 / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・安全设置实用程序 / ・McAfee PC安全中心 / ・i-Filter 6.0 (30天体验版) / ・Adobe Reader / ・WinZip 17.0日文版（45天体验版） / ・电池余量显示校正实用程序 / ・NumLock通知 / ・Hotkey设置 / ・Fn Ctrl互换实用程序 / ・HOLD模式设置实用程序 / ・触摸操作帮助实用程序 / ・手写工具2 / ・电源计划扩展实用程序 / ・峰移控制实用程序 / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・投影仪助手 / ・USB键盘助手 / ・显示器助手 / ・Wireless Manager mobile edition / ・USB充电设置实用程序 / ・摄像头实用程序（桌面画面用） / ・Camera for Panasonic PC（开始画面用） / ・画面分割实用程序 / ・画面旋转工具 / ・触摸面板模式设置实用程序 / ・PC信息弹出窗口 / ・PC信息查看器 / ・Aptio设置实用程序 / ・PC-Diagnostic实用程序 / ・Dashboard for Panasonic PC / ・恢复光盘创建实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・英特尔 PROSet/Wireless Software / ・VIP Access for Desktop / ・英特尔 智能连接技术 / ・Skype（开始画面用） / ・NAVITIME（开始画面用） / ・Adobe Reader Touch（开始画面用） / ・Bing翻译（开始画面用） |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书、Microsoft Office Home & Business Premium |
+| 光驱 | 内置超级多功能驱动器（DVD/CD） 配备缓冲区欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / +R 写入：最高8倍速 / +R DL 写入：最高6倍速 / +RW 改写：最高4倍速 / High Speed +RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
@@ -149,23 +149,23 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Pro Update 64ビット（日本語版） |
-| 处理器 | インテル Core i7-4510Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.1GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約9.5時間/（JEITA Ver.1.0）約14.5時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.238kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・VIP Access for Desktop / ・インテル スマート・コネクト・テクノロジー / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書、Microsoft Office Home & Business Premium |
-| 光驱 | ブルーレイディスクドライブ内蔵 / DVDスーパーマルチドライブ機能/バッファーアンダーランエラー防止機能搭載 |
-| 光驱速度 / 读取 | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5 倍速 / DVD-ROM：最大8 倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8 倍速 / DVD-RW：最大8 倍速 / +R：最大8 倍速 / +R DL：最大8 倍速 / +RW：最大8 倍速 / High Speed +RW：最大8 倍速 / CD-ROM：最大24 倍速 / CD-R：最大24 倍速 / CD-RW：最大24 倍速 / High-Speed CD-RW：最大24 倍速 / Ultra-Speed CD-RW：最大24 倍速 |
-| 光驱速度 / 写入 | BD-R書き込み：最大6 倍速 / BD-R DL書き込み：最大6 倍速 / BD-R LTH 書き込み：最大4 倍速 / BD-R XL書き込み：最大4 倍速 / BD-RE書き換え：2倍速 / BD-RE DL書き換え：2 倍速 / BD-RE XL 書き換え：2倍速 / DVD-RAM書き換え：最大5 倍速 / DVD-R 書き込み：最大8 倍速 / DVD-R DL書き込み：最大6 倍速 / DVD-RW書き換え：最大6 倍速 / +R 書き込み：最大8 倍速 / +R DL書き込み：最大6 倍速 / +RW 書き換え：最大4 倍速 / HighSpeed +RW書き換え：最大8 倍速 / CD-R 書き込み：最大24 倍速 / CD-RW 書き換え：4 倍速 / High-Speed CD-RW書き換え：10 倍速 / Ultra-Speed CD-RW書き換え：最大16 倍速 |
-| 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Pro Update 64位（日语版） |
+| 处理器 | 英特尔 Core i7-4510U处理器 / 英特尔智能缓存4MB、工作频率2.0GHz（使用英特尔睿频加速技术2.0时最高3.1GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.026 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约9.5小时/（JEITA Ver.1.0）约14.5小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.238kg、AC适配器：约0.185kg（不含墙上安装插头（约0.02kg）和电源线（约0.06kg）） |
+| 预装软件 | ・Microsoft Internet Explorer 11 / ・网络选择器Lite / ・无线工具箱 / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・安全设置实用程序 / ・McAfee PC安全中心 / ・i-Filter 6.0 (30天体验版) / ・Adobe Reader / ・WinZip 17.0日文版（45天体验版） / ・电池余量显示校正实用程序 / ・NumLock通知 / ・Hotkey设置 / ・Fn Ctrl互换实用程序 / ・HOLD模式设置实用程序 / ・触摸操作帮助实用程序 / ・手写工具2 / ・电源计划扩展实用程序 / ・峰移控制实用程序 / ・Total Media Backup & Record / ・ArcSoft ShowBiz / ・Microsoft Windows Media Player 12 / ・CyberLink PowerDVD10 / ・投影仪助手 / ・USB键盘助手 / ・显示器助手 / ・Wireless Manager mobile edition / ・USB充电设置实用程序 / ・摄像头实用程序（桌面画面用） / ・Camera for Panasonic PC（开始画面用） / ・画面分割实用程序 / ・画面旋转工具 / ・触摸面板模式设置实用程序 / ・PC信息弹出窗口 / ・PC信息查看器 / ・Aptio设置实用程序 / ・PC-Diagnostic实用程序 / ・Dashboard for Panasonic PC / ・恢复光盘创建实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・英特尔 PROSet/Wireless Software / ・VIP Access for Desktop / ・英特尔 智能连接技术 / ・Skype（开始画面用） / ・NAVITIME（开始画面用） / ・Adobe Reader Touch（开始画面用） / ・Bing翻译（开始画面用） |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书、Microsoft Office Home & Business Premium |
+| 光驱 | 内置蓝光光盘驱动器 / DVD超级多功能光驱功能/配备缓冲欠载错误防止功能 |
+| 光驱速度 / 读取 | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | BD-R写入：最大6倍速 / BD-R DL写入：最大6倍速 / BD-R LTH 写入：最大4倍速 / BD-R XL写入：最大4倍速 / BD-RE改写：2倍速 / BD-RE DL改写：2倍速 / BD-RE XL 改写：2倍速 / DVD-RAM改写：最大5倍速 / DVD-R 写入：最大8倍速 / DVD-R DL写入：最大6倍速 / DVD-RW改写：最大6倍速 / +R 写入：最大8倍速 / +R DL写入：最大6倍速 / +RW 改写：最大4倍速 / HighSpeed +RW改写：最大8倍速 / CD-R 写入：最大24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW改写：10倍速 / Ultra-Speed CD-RW改写：最大16倍速 |
+| 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
@@ -178,20 +178,20 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4310Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| 内存 | 4GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060mAh、定格容量2000mAh |
-| 能效 | 2011年度基準 R区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.118kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4310U处理器 / 英特尔智能缓存3MB，运行频率2.0GHz（使用英特尔 睿频加速技术2.0时最高3.0GHz） |
+| 内存 | 4GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060mAh、额定容量2000mAh |
+| 能效 | 2011年度基准 R类别0.026 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约10小时/（JEITA Ver.1.0）约15小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.118kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Microsoft Windows Media Player 12 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3JEKJR_spec.html>
 
@@ -202,25 +202,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4310Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| 内存 | 4GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 R区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 光驱 | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4310U处理器 / 英特尔智能缓存3MB，运行频率2.0GHz（使用英特尔 睿频加速技术2.0时最高3.0GHz） |
+| 内存 | 4GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度基准 R类别0.026 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约10小时/（JEITA Ver.1.0）约15小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 光驱 | 内置超级多功能驱动器（DVD/CD） 配备缓冲区欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / +R 写入：最高8倍速 / +R DL 写入：最高6倍速 / +RW 改写：最高4倍速 / High Speed +RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3JEBJR_spec.html>
 
@@ -231,26 +231,26 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Update 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4310Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| 内存 | 4GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 R区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書、Microsoft Office Home and Business 2013 ServicePack1 |
-| 光驱 | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Update 64位（日语版） |
+| 处理器 | 英特尔 Core i5-4310U处理器 / 英特尔智能缓存3MB，运行频率2.0GHz（使用英特尔 睿频加速技术2.0时最高3.0GHz） |
+| 内存 | 4GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度基准 R类别0.026 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约10小时/（JEITA Ver.1.0）约15小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、壁挂插头、电池组、触控笔、使用说明书、Microsoft Office Home and Business 2013 ServicePack1 |
+| 光驱 | 内置超级多功能驱动器（DVD/CD） 配备缓冲区欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / +R 写入：最高8倍速 / +R DL 写入：最高6倍速 / +RW 改写：最高4倍速 / High Speed +RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Microsoft Office | Microsoft Office Home and Business 2013 ServicePack1 |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3JEGJR_spec.html>
 
@@ -261,25 +261,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Pro Update 64ビット（日本語版） |
-| 处理器 | インテル Core i7-4500Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
-| 蓝牙 | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間： / （JEITA Ver.2.0）約9.5時間/（JEITA Ver.1.0）約14.5時間 / ▼充電時間： / 約4時間（電源ON時/OFF時ともに） / 約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.238kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 光驱 | ブルーレイディスクドライブ内蔵 / DVDスーパーマルチドライブ機能/バッファーアンダーランエラー防止機能搭載 |
-| 光驱速度 / 读取 | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5 倍速 / DVD-ROM：最大8 倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8 倍速 / DVD-RW：最大8 倍速 / +R：最大8 倍速 / +R DL：最大8 倍速 / +RW：最大8 倍速 / High Speed +RW：最大8 倍速 / CD-ROM：最大24 倍速 / CD-R：最大24 倍速 / CD-RW：最大24 倍速 / High-Speed CD-RW：最大24 倍速 / Ultra-Speed CD-RW：最大24 倍速 |
-| 光驱速度 / 写入 | BD-R書き込み：最大6 倍速 / BD-R DL書き込み：最大6 倍速 / BD-R LTH 書き込み：最大4 倍速 / BD-R XL書き込み：最大4 倍速 / BD-RE書き換え：2倍速 / BD-RE DL書き換え：2 倍速 / BD-RE XL 書き換え：2倍速 / DVD-RAM書き換え：最大5 倍速 / DVD-R 書き込み：最大8 倍速 / DVD-R DL書き込み：最大6 倍速 / DVD-RW書き換え：最大6 倍速 / +R 書き込み：最大8 倍速 / +R DL書き込み：最大6 倍速 / +RW 書き換え：最大4 倍速 / HighSpeed +RW書き換え：最大8 倍速 / CD-R 書き込み：最大24 倍速 / CD-RW 書き換え：4 倍速 / High-Speed CD-RW書き換え：10 倍速 / Ultra-Speed CD-RW書き換え：最大16 倍速 |
-| 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 操作系统 | Windows 8.1 Pro Update 64位（日语版） |
+| 处理器 | 英特尔 Core i7-4500U处理器 / 英特尔智能缓存4MB、工作频率1.80GHz（使用英特尔睿频加速技术2.0时最高3.0GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
+| 蓝牙 | Bluetooth v4.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（Client和Server） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（Client和Server） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevA和DevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.026 |
+| 续航 / 充电时间 | ▼续航时间： / （JEITA Ver.2.0）约9.5小时/（JEITA Ver.1.0）约14.5小时 / ▼充电时间： / 约4小时（电源ON时/OFF时均） / 约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.238kg、AC适配器：约0.185kg（不含墙上安装插头（约0.02kg）和电源线（约0.06kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 光驱 | 内置蓝光光盘驱动器 / DVD超级多功能光驱功能/配备缓冲欠载错误防止功能 |
+| 光驱速度 / 读取 | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | BD-R写入：最大6倍速 / BD-R DL写入：最大6倍速 / BD-R LTH 写入：最大4倍速 / BD-R XL写入：最大4倍速 / BD-RE改写：2倍速 / BD-RE DL改写：2倍速 / BD-RE XL 改写：2倍速 / DVD-RAM改写：最大5倍速 / DVD-R 写入：最大8倍速 / DVD-R DL写入：最大6倍速 / DVD-RW改写：最大6倍速 / +R 写入：最大8倍速 / +R DL写入：最大6倍速 / +RW 改写：最大4倍速 / HighSpeed +RW改写：最大8倍速 / CD-R 写入：最大24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW改写：10倍速 / Ultra-Speed CD-RW改写：最大16倍速 |
+| 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3VEWBR_spec.html>
 
@@ -290,25 +290,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.6GHz） |
-| 内存 | 4GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
+| 操作系统 | Windows 8.1 64位（日文版） |
+| 处理器 | 英特尔 Core i5-4200U处理器 / 英特尔智能缓存3MB，运行频率1.60GHz（使用英特尔 睿频加速技术2.0时最高2.6GHz） |
+| 内存 | 4GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
 | 蓝牙 | Bluetooth v4.0 |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 R区分0.030 |
-| 续航 / 充电时间 | ▼駆動時間：約15時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 光驱 | DVDスーパーマルチドライブ内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / DVD+R 書き込み：最大8倍速 / DVD+R DL 書き込み：最大6倍速 / DVD+RW 書き換え：最大4倍速 / High Speed DVD+RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 1層、2層） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度基准 R类别0.030 |
+| 续航 / 充电时间 | ▼续航时间：约15小时 / ▼充电时间：约4小时（电源ON时/OFF时均）、约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 光驱 | 内置DVD超级多功能驱动器 配备缓冲欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / DVD+R 写入：最高8倍速 / DVD+R DL 写入：最高6倍速 / DVD+RW 改写：最高4倍速 / High Speed DVD+RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 单层、双层 ） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / High Speed DVD+RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3SEBJR_spec.html>
 
@@ -319,25 +319,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 64ビット（日本語版） |
-| 处理器 | インテル Core i5-4200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.6GHz） |
-| 内存 | 4GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
+| 操作系统 | Windows 8.1 64位（日文版） |
+| 处理器 | 英特尔 Core i5-4200U处理器 / 英特尔智能缓存3MB，运行频率1.60GHz（使用英特尔 睿频加速技术2.0时最高2.6GHz） |
+| 内存 | 4GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
 | 蓝牙 | Bluetooth v4.0 |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 R区分0.030 |
-| 续航 / 充电时间 | ▼駆動時間：約15時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度基准 R类别0.030 |
+| 续航 / 充电时间 | ▼续航时间：约15小时 / ▼充电时间：约4小时（电源ON时/OFF时均）、约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
 | 预装软件 | Microsoft Office Home and Business 2013 |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書、Microsoft Office Home and Business 2013 |
-| 光驱 | DVDスーパーマルチドライブ内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / DVD+R 書き込み：最大8倍速 / DVD+R DL 書き込み：最大6倍速 / DVD+RW 書き換え：最大4倍速 / High Speed DVD+RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 1層、2層） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 附件 | AC适配器、壁挂插头、电池组、触控笔、使用说明书、Microsoft Office Home and Business 2013 |
+| 光驱 | 内置DVD超级多功能驱动器 配备缓冲欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / DVD+R 写入：最高8倍速 / DVD+R DL 写入：最高6倍速 / DVD+RW 改写：最高4倍速 / High Speed DVD+RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 单层、双层 ） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / High Speed DVD+RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3SEGJR_spec.html>
 
@@ -348,25 +348,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 8.1 Pro 64ビット（日本語版） |
-| 处理器 | インテル Core i7-4500Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| 内存 | 8GB DDR3L SDRAM（空きスロット無し） |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 外接显示输出 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
+| 操作系统 | Windows 8.1 Pro 64位（日文版） |
+| 处理器 | 英特尔 Core i7-4500U处理器 / 英特尔智能缓存4MB、工作频率1.80GHz（使用英特尔睿频加速技术2.0时最高3.0GHz） |
+| 内存 | 8GB DDR3L SDRAM（无空余插槽） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约16GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 外接显示输出 | 1024×768点、1280×768点、1280×1024点、1360×768点、1366×768点、1400×1050点、1600×900点、1600×1200点、1680×1050点、1920×1080点、1920×1200点：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768像素、1280×768像素、1280×1024像素、1360×768像素、1366×768像素、1400×1050像素、1600×900像素、1680×1050像素、1920×1080像素：约1677万色 |
 | 蓝牙 | Bluetooth v4.0 |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量4880mAh、定格容量4560mAh / ▼内蔵バッテリー（交換できません） / 7.6V リチウムイオン・公称容量2060Ah、定格容量2000mAh |
-| 能效 | 2011年度基準 N区分0.026 |
-| 续航 / 充电时间 | ▼駆動時間：約14.5時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| 重量（含电池） | パソコン本体：約1.198kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| 预装软件 | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / タッチパネルモード設定ユーティリティ / 手書きツール2 / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート・コネクト・テクノロジー / Skype / NAVITIME |
-| 附件 | ACアダプター、ウォールマウントプラグ、バッテリーパック、スタイラスペン、取扱説明書 |
-| 光驱 | DVDスーパーマルチドライブ内蔵 バッファアンダーランエラー防止機能搭載、トレイ式ドライブ |
-| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| 光驱速度 / 写入 | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / DVD+R 書き込み：最大8倍速 / DVD+R DL 書き込み：最大6倍速 / DVD+RW 書き換え：最大4倍速 / High Speed DVD+RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 1層、2層） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.2V 锂离子・标称容量4880mAh、额定容量4560mAh / ▼内置电池（不可更换） / 7.6V 锂离子・标称容量2060Ah、额定容量2000mAh |
+| 能效 | 2011年度标准 N分类0.026 |
+| 续航 / 充电时间 | ▼续航时间：约14.5小时 / ▼充电时间：约4小时（电源ON时/OFF时均）、约2小时（内置电池充满电时、电源ON时/OFF时均） |
+| 重量（含电池） | 电脑主机：约1.198kg，AC适配器：约0.185kg（不含壁挂插头（约0.02kg）和电源线（约0.06 kg）） |
+| 预装软件 | Microsoft Internet Explorer 11 / NetSelector Lite / 无线工具箱 / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connection Utility / 安全设置实用程序 / McAfee PC安全中心 / i-Filter 6.0（30天试用版） / Adobe Reader / WinZip 17.0 日语版（45天体验版） / 电池余量显示校正实用程序 / NumLock 通知 / Hotkey 设置 / Fn Ctrl 互换实用程序 / HOLD 模式设置实用程序 / 触摸操作帮助实用程序 / 触摸面板模式设置实用程序 / 手写工具2 / 电源计划扩展实用程序 / 峰值偏移控制实用程序 / Total Media Backup & Record / ArcSoft ShowBiz / Microsoft Windows Media Player 12 / CyberLink PowerDVD10 / 投影仪助手 / USB 键盘助手 / 显示器助手 / Wireless Manager mobile edition6.0 / USB 充电设置实用程序 / 摄像头实用程序（桌面画面用） / Camera for Panasonic PC（开始画面用） / 画面分割实用程序 / 画面旋转工具 / PC 信息弹窗 / PC 信息查看器 / Aptio 设置实用程序 / PC-Diagnostic 实用程序 / Dashboard for Panasonic PC / 恢复光盘创建实用程序 / 硬盘数据擦除实用程序 / DirectX 11.2 / Microsoft .NET Framework 4.5 / 英特尔 PROSet/Wireless Software / VIP Access for Desktop（英特尔 IPT 用应用程序软件） / 英特尔 智能连接技术 / Skype / NAVITIME |
+| 附件 | AC适配器、墙壁安装插头、电池组、触控笔、使用说明书 |
+| 光驱 | 内置DVD超级多功能驱动器 配备缓冲欠载错误防止功能、托盘式驱动器 |
+| 光驱速度 / 读取 | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8倍速 / DVD-RW：最大8倍速 / DVD+R：最大8倍速 / DVD+R DL：最大8倍速 / DVD+RW：最大8倍速 / HighSpeed DVD+RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
+| 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / DVD+R 写入：最高8倍速 / DVD+R DL 写入：最高6倍速 / DVD+RW 改写：最高4倍速 / High Speed DVD+RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
+| 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（ 单层、双层 ） / DVD-Video / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / HighSpeed DVD+RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / DVD+R（ 4.7GB ） / DVD+R DL（ 8.5GB ） / DVD+RW（ 4.7GB ） / High Speed DVD+RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 移动 WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| 移动 WiMAX | 符合IEEE802.16e-2005（接收最大28Mbps（尽力而为方式）、发送最大8Mbps（尽力而为方式）） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-MX3TEABR_spec.html>
 
@@ -401,4 +401,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

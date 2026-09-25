@@ -12,82 +12,82 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-AX3SEGJR](https://panasonic.jp/pc/p-db/CF-AX3SEGJR_spec.html) | 2014-01 | 2014-06 | OS：Windows 8.1 64ビット、CPU：インテル® CoreTM i5-4200U（1.60GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Office Home and Business 2013 |
-| [CF-AX3NERBR](https://panasonic.jp/pc/p-db/CF-AX3NERBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、小型ビューアー付属 |
-| [CF-AX3NEABR](https://panasonic.jp/pc/p-db/CF-AX3NEABR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX3NEFBR](https://panasonic.jp/pc/p-db/CF-AX3NEFBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX3NETBR](https://panasonic.jp/pc/p-db/CF-AX3NETBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX3NEWBR](https://panasonic.jp/pc/p-db/CF-AX3NEWBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX3YEBJR](https://panasonic.jp/pc/p-db/CF-AX3YEBJR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 64ビット、インテル® CoreTM i5-4200U（1.60GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX3YEGJR](https://panasonic.jp/pc/p-db/CF-AX3YEGJR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 64ビット、インテル® CoreTM i5-4200U（1.60GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX3WERBR](https://panasonic.jp/pc/p-db/CF-AX3WERBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、小型ビューアー付属 |
-| [CF-AX3WEABR](https://panasonic.jp/pc/p-db/CF-AX3WEABR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX3WEFBR](https://panasonic.jp/pc/p-db/CF-AX3WEFBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX3WETBR](https://panasonic.jp/pc/p-db/CF-AX3WETBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX3WEWBR](https://panasonic.jp/pc/p-db/CF-AX3WEWBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-4500U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
+| [CF-AX3SEGJR](https://panasonic.jp/pc/p-db/CF-AX3SEGJR_spec.html) | 2014-01 | 2014-06 | OS: Windows 8.1 64-bit, CPU: Intel® CoreTM i5-4200U (1.60GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Office Home and Business 2013 |
+| [CF-AX3NERBR](https://panasonic.jp/pc/p-db/CF-AX3NERBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, small viewer included |
+| [CF-AX3NEABR](https://panasonic.jp/pc/p-db/CF-AX3NEABR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX3NEFBR](https://panasonic.jp/pc/p-db/CF-AX3NEFBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX3NETBR](https://panasonic.jp/pc/p-db/CF-AX3NETBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX3NEWBR](https://panasonic.jp/pc/p-db/CF-AX3NEWBR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX3YEBJR](https://panasonic.jp/pc/p-db/CF-AX3YEBJR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 64-bit, Intel® CoreTM i5-4200U (1.60GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX3YEGJR](https://panasonic.jp/pc/p-db/CF-AX3YEGJR_spec.html) | 2013-10 | 2014-03 | Windows 8.1 64-bit, Intel® CoreTM i5-4200U (1.60GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX3WERBR](https://panasonic.jp/pc/p-db/CF-AX3WERBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, small viewer included |
+| [CF-AX3WEABR](https://panasonic.jp/pc/p-db/CF-AX3WEABR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX3WEFBR](https://panasonic.jp/pc/p-db/CF-AX3WEFBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX3WETBR](https://panasonic.jp/pc/p-db/CF-AX3WETBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX3WEWBR](https://panasonic.jp/pc/p-db/CF-AX3WEWBR_spec.html) | 2013-06 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-4500U (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Display | 11.6型ワイド(16:9)Full HD TFTカラーIPS液晶 （1920 x 1080ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Graphics | インテル HD グラフィックス4400（CPUに内蔵） |
-| Display / LCD colors | 1920 x 1080ドット：約1677万色 |
-| Display / External output | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 1024×768ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1680×1050ドット、1920×1080ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| Display | 11.6-inch widescreen (16:9) Full HD TFT color IPS LCD (1920 x 1080 dots), capacitive touchscreen, with anti-glare protective film |
+| Display / Graphics | Intel HD Graphics 4400 (built into CPU) |
+| Display / LCD colors | 1920 x 1080 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768 dots, 1280×768 dots, 1280×1024 dots, 1360×768 dots, 1366×768 dots, 1400×1050 dots, 1600×900 dots, 1600×1200 dots, 1680×1050 dots, 1920×1080 dots, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 1024×768 dots, 1280×768 dots, 1280×1024 dots, 1360×768 dots, 1366×768 dots, 1400×1050 dots, 1600×900 dots, 1680×1050 dots, 1920×1080 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 8Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
 | Bluetooth | Bluetooth v4.0 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Keyboard | OADG準拠86キー、キーピッチ18mm(横)/14.2mm(縦)(一部キーを除く） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Keyboard | OADG-compliant 86 keys, key pitch 18mm (horizontal)/14.2mm (vertical) (excluding some keys) |
 | Efficiency target achievement (FY2011 standard) | — |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Weight (with battery) | パソコン本体：約1.14kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Weight (with battery) | PC body: approx. 1.14kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | CF-AX3SEGJR | Core i5-4200U | 4GB DDR3L SDRAM | 128GB | 1.14 kg | 14 h |
-| CF-AX3NERBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
-| CF-AX3NEABR | 第四世代Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
-| CF-AX3NEFBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
-| CF-AX3NETBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
-| CF-AX3NEWBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
-| CF-AX3YEBJR | 第四世代Core i5-4200U | 4GB PC3-12800 | 128GB | 1.14 kg | 14 h |
-| CF-AX3YEGJR | 第四世代Core i5-4200U | 4GB PC3-12800 | 128GB | 1.14 kg | 14 h |
-| CF-AX3WERBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
-| CF-AX3WEABR | 第四世代Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
-| CF-AX3WEFBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
-| CF-AX3WETBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
-| CF-AX3WEWBR | 第四世代Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
+| CF-AX3NERBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
+| CF-AX3NEABR | 4th generation Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
+| CF-AX3NEFBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
+| CF-AX3NETBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
+| CF-AX3NEWBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 256GB | 1.14 kg | 14 h |
+| CF-AX3YEBJR | 4th generation Core i5-4200U | 4GB PC3-12800 | 128GB | 1.14 kg | 14 h |
+| CF-AX3YEGJR | 4th generation Core i5-4200U | 4GB PC3-12800 | 128GB | 1.14 kg | 14 h |
+| CF-AX3WERBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
+| CF-AX3WEABR | 4th generation Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
+| CF-AX3WEFBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
+| CF-AX3WETBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
+| CF-AX3WEWBR | 4th generation Core i7-4500U | 4GB PC3-12800 | 128GB | 1.14 kg | 13 h |
 
 <details>
 <summary>CF-AX3SEGJR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 64ビット（日本語版） |
-| CPU | インテル Core i5-4200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Memory | 4GB DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-AC 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac準拠 |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Microphone | アレイマイク |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh / ▼内蔵バッテリー（交換できません） / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.034 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテルIPT用アプリケーションソフト） / インテル スマート･コネクト・テクノロジー / Skype / NAVITIME |
+| OS | Windows 8.1 64-bit (Japanese version) |
+| CPU | Intel Core i5-4200U processor / Intel Smart Cache 3MB, operating frequency 1.60GHz (up to 2.60GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB DDR3L SDRAM (no empty slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-AC 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac compliant |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Microphone | Array microphone |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh / ▼Built-in battery (non-replaceable) / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.034 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (when built-in battery is fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / VIP Access for Desktop (Application Software for Intel IPT) / Intel Smart Connect Technology / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2013 |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, Microsoft Office Home and Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3SEGJR_spec.html>
 
@@ -98,24 +98,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3SEGJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、小型ビューアー |
+| OS | Windows 8.1 Pro 64-bit genuine edition |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0 |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, compact viewer |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NERBR_spec.html>
 
@@ -126,24 +126,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NERBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8.1 Pro 64-bit genuine edition |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0 |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEABR_spec.html>
 
@@ -154,25 +154,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEABR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
+| OS | Windows 8.1 Pro 64-bit genuine edition |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0 |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、Microsoft Office Home & Business 2013 |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, Microsoft Office Home & Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEFBR_spec.html>
 
@@ -183,24 +183,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEFBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz) |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8.1 Pro 64-bit genuine edition |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Black |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NETBR_spec.html>
 
@@ -211,25 +211,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NETBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz) |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON時/OFF時ともに） |
-| Color | ブラック |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
+| OS | Windows 8.1 Pro 64-bit genuine edition |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Black |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、Microsoft Office Home & Business 2013 |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, Microsoft Office Home & Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEWBR_spec.html>
 
@@ -240,24 +240,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3NEWBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 64ビット正規版 |
-| CPU | 第四世代インテル Core i5-4200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.034 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書 |
+| OS | Windows 8.1 64-bit genuine edition |
+| CPU | 4th generation Intel Core i5-4200U processor / Intel Smart Cache 3MB, operating frequency 1.60GHz (up to 2.60GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.034 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3YEBJR_spec.html>
 
@@ -268,25 +268,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3YEBJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 64ビット正規版 |
-| CPU | 第四世代インテル Core i5-4200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数1.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1792MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W |
-| Energy efficiency | 2011年度基準 S区分0.034 |
-| Battery life / charge time | ▼駆動時間：約14時間 / ▼充電時間：約4時間（電源ON時/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 11 / ネットセレクターLite / 無線ツールボックス / インテル PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / タッチ操作ヘルプユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.2 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル スマート･コネクト・テクノロジー / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
+| OS | Windows 8.1 64-bit genuine edition |
+| CPU | 4th generation Intel Core i5-4200U processor / Intel Smart Cache 3MB, operating frequency 1.60GHz (up to 2.60GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Max. 1792MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W |
+| Energy efficiency | 2011 standards S category 0.034 |
+| Battery life / charge time | ▼Battery life: approx. 14 hours / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 11 / NetSelector Lite / Wireless Toolbox / Intel PROSet/Wireless Software for Bluetooth Technology / WiMAX Connectoin Utility / Security Setting Utility / McAfee PC Security Center / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Touch Operation Help Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for Desktop Screen) / Camera for Panasonic PC (for Start Screen) / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.2 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel Smart Connect Technology / VIP Accsess for Desktop (Application for Intel IPT) / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2013 |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, Microsoft Office Home and Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3YEGJR_spec.html>
 
@@ -297,24 +297,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3YEGJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1729MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約14GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 2x2 AGN + BT |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約13時間 （内蔵バッテリーパックのみ：約4時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / ネットセレクターLite / 無線ツールボックス / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / ATOK2013体験版 / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 解像度切り替えユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.1 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、小型ビューアー |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1729MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 14GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 2x2 AGN + BT |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 13 hours (built-in battery pack only: approx. 4 hours) / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Net Selector Lite / Wireless Toolbox / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / ATOK2013 trial version / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for desktop screen) / Camera for Panasonic PC (for Start screen) / Screen Split Utility / Resolution Switching Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.1 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop (application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, compact viewer |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WERBR_spec.html>
 
@@ -325,24 +325,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WERBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1729MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約14GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 2x2 AGN + BT |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約13時間（内蔵バッテリーパックのみ：約4時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / ネットセレクターLite / 無線ツールボックス / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / ATOK2013体験版 / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 解像度切り替えユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.1 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1729MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 14GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 2x2 AGN + BT |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 13 hours (built-in battery pack only: approx. 4 hours) / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Net Selector Lite / Wireless Toolbox / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / ATOK2013 trial version / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for desktop screen) / Camera for Panasonic PC (for Start screen) / Screen Split Utility / Resolution Switching Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.1 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop (application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEABR_spec.html>
 
@@ -353,25 +353,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEABR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1729MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約14GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 2x2 AGN + BT |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約13時間 （内蔵バッテリーパックのみ：約4時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / ネットセレクターLite / 無線ツールボックス / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / ATOK2013体験版 / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 解像度切り替えユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.1 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1729MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 14GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 2x2 AGN + BT |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 13 hours (built-in battery pack only: approx. 4 hours) / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Net Selector Lite / Wireless Toolbox / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / ATOK2013 trial version / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for desktop screen) / Camera for Panasonic PC (for Start screen) / Screen Split Utility / Resolution Switching Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.1 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop (application for Intel IPT) / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEFBR_spec.html>
 
@@ -382,24 +382,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEFBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1729MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約14GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 2x2 AGN + BT |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約13時間 （内蔵バッテリーパックのみ：約4時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | ブラック |
-| Software | Microsoft Internet Explorer 10 / ネットセレクターLite / 無線ツールボックス / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / ATOK2013体験版 / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 解像度切り替えユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.1 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1729MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 14GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 2x2 AGN + BT |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 13 hours (built-in battery pack only: approx. 4 hours) / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Black |
+| Software | Microsoft Internet Explorer 10 / Net Selector Lite / Wireless Toolbox / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / ATOK2013 trial version / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for desktop screen) / Camera for Panasonic PC (for Start screen) / Screen Split Utility / Resolution Switching Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.1 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop (application for Intel IPT) / Skype / NAVITIME |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WETBR_spec.html>
 
@@ -410,25 +410,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WETBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | 第四世代インテルCore i7-4500U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz） |
-| Memory | 標準4GB PC3-12800/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1729MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約14GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Wireless communication | インテル Dual Band Wireless-N 7260 2x2 AGN + BT |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | ステレオ |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面、うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間：約13時間（内蔵バッテリーパックのみ：約4時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Color | ブラック |
-| Software | Microsoft Internet Explorer 10 / ネットセレクターLite / 無線ツールボックス / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Adobe Reader / WinZip 17.0日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / ATOK2013体験版 / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0.1 / USB充電設定ユーティリティ / カメラユーティリティ（デスクトップ画面用） / Camera for Panasonic PC（スタート画面用） / 画面分割ユーティリティ / 解像度切り替えユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11.1 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / インテル PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop（インテルIPT用アプリケーション） / Skype / NAVITIME |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | 4th generation Intel Core i7-4500U processor / Intel Smart Cache 4MB, operating frequency 1.8GHz (up to 3.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | Standard 4GB PC3-12800/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1729MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 14GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Wireless communication | Intel Dual Band Wireless-N 7260 2x2 AGN + BT |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Stereo |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side, one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: approx. 13 hours (built-in battery pack only: approx. 4 hours) / ▼Charging time: approx. 4 hours (both when power is ON/OFF), approx. 2 hours (built-in battery fully charged, both when power is ON/OFF) |
+| Color | Black |
+| Software | Microsoft Internet Explorer 10 / Net Selector Lite / Wireless Toolbox / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Adobe Reader / WinZip 17.0 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / ATOK2013 trial version / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0.1 / USB Charging Setting Utility / Camera Utility (for desktop screen) / Camera for Panasonic PC (for Start screen) / Screen Split Utility / Resolution Switching Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11.1 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / Intel PROSet/Wireless Software for Bluetooth Technology / Intel WiDi / Intel Smart Connect Technology4.1 / WiMAX Connectoin Utility / VIP Accsess for Desktop (application for Intel IPT) / Skype / NAVITIME |
 | Microsoft Office | Microsoft Office Home & Business 2013 |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEWBR_spec.html>
 
@@ -463,4 +463,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX3WEWBR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

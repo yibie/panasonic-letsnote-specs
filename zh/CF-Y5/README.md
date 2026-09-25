@@ -12,62 +12,62 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-Y5MW8AJR](https://panasonic.jp/pc/p-db/CF-Y5MW8AJR_spec.html) | 2007-01 | 2008-03 | Windows Vista® Business 正規版 、CoreTM Duo L2500(1.83GHz・LV)、メモリー：512MB（最大1.5GB)、HDD：60GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
-| [CF-Y5LW8AXR](https://panasonic.jp/pc/p-db/CF-Y5LW8AXR_spec.html) | 2006-10 | 2006-10 | Windows® XP Professional 正規版 、CoreTM Duo L2400(1.66GHz・LV)、メモリー：512MB（最大1.5GB)、HDD：60GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
-| [CF-Y5KW8AXR](https://panasonic.jp/pc/p-db/CF-Y5KW8AXR_spec.html) | 2006-05 | 2006-08 | Windows® XP Professional 正規版 、CoreTM Duo L2300(1.5GHz・LV)、メモリー：512MB（最大1024MB)、HDD：60GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
+| [CF-Y5MW8AJR](https://panasonic.jp/pc/p-db/CF-Y5MW8AJR_spec.html) | 2007-01 | 2008-03 | Windows Vista® Business 正版 、CoreTM Duo L2500(1.83GHz・LV)、内存：512MB（最大1.5GB)、HDD：60GB、Super Multi Drive、LAN、无线LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
+| [CF-Y5LW8AXR](https://panasonic.jp/pc/p-db/CF-Y5LW8AXR_spec.html) | 2006-10 | 2006-10 | Windows® XP Professional 正版、CoreTM Duo L2400(1.66GHz・LV)、内存：512MB（最大1.5GB)、HDD：60GB、Super Multi Drive、LAN、无线LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
+| [CF-Y5KW8AXR](https://panasonic.jp/pc/p-db/CF-Y5KW8AXR_spec.html) | 2006-05 | 2006-08 | Windows® XP Professional 正版、CoreTM Duo L2300(1.5GHz・LV)、内存：512MB（最大1024MB)、HDD：60GB、Super Multi Drive、LAN、无线LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 显示屏 / 色彩 | 1400×1050ドット：約1677万色 |
+| 显示屏 / 色彩 | 1400×1050像素：约1677万色 |
 | 有线网络 | 100BASE-TX / 10BASE-T |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（著作権保護機能対応）・転送速度 8MB/秒 |
-| 指点设备 | ホイールパッド |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持版权保护功能）・传输速度 8MB/秒 |
+| 指点设备 | 滚轮触控板 |
 
 ## 各型号差异
 
 | 型号（品番） | 处理器 | 内存 | 存储 | 重量 | 续航 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-Y5MW8AJR | Core Duo低電圧版L2500 | 512MB DDR2 SDRAM | 60GB | 1.49 kg | — |
-| CF-Y5LW8AXR | Core Duo 低電圧版 L2400 | 512 MB | 60 GB | 1.49 kg | 9 h |
-| CF-Y5KW8AXR | Core Duo 低電圧版 L2300 | 512 MB | 60 GB | 1.49 kg | 9 h |
+| CF-Y5MW8AJR | Core Duo 低电压版 L2500 | 512MB DDR2 SDRAM | 60GB | 1.49 kg | — |
+| CF-Y5LW8AXR | Core Duo 低电压版 L2400 | 512 MB | 60 GB | 1.49 kg | 9 h |
+| CF-Y5KW8AXR | Core Duo 低电压版 L2300 | 512 MB | 60 GB | 1.49 kg | 9 h |
 
 <details>
 <summary>CF-Y5MW8AJR 的全部差异规格</summary>
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows Vista TM Business 正規版 |
-| 处理器 | インテル(R) Centrino(R) Duo モバイルテクノロジー / インテル(R) Core TM Duoプロセッサー低電圧版L2500 / 2次キャッシュメモリー2MB、動作周波数1.83GHz、フロントサイド・バス 667MHz |
-| 芯片组 | モバイル インテル(R) 945GMS Express チップセット |
-| 内存 | 標準512MB DDR2 SDRAM（最大1536MB）空きスロット1 |
-| 显存 | 最大64MB（メインメモリーと共用） |
-| 硬盘 | 60GB（Ultra ATA100）上記容量のうち約2GBは修復用領域として使用。（ユーザー使用不可） |
-| 光驱 | スーパーマルチドライブ内蔵（USB2.0インターフェース接続） / バッファアンダーランエラー防止機能（SmoothLink）搭載 |
+| 操作系统 | Windows Vista TM Business 正版 |
+| 处理器 | 英特尔(R) Centrino(R) Duo 移动技术 / 英特尔(R) Core TM Duo处理器低电压版L2500 / 二级缓存内存2MB、工作频率1.83GHz、前端总线 667MHz |
+| 芯片组 | 移动 英特尔(R) 945GMS Express 芯片组 |
+| 内存 | 标配512MB DDR2 SDRAM（最大1536MB）空闲插槽1 |
+| 显存 | 最大64MB（与主内存共享） |
+| 硬盘 | 60GB（Ultra ATA100）上述容量中约2GB用作修复区域。（用户不可使用） |
+| 光驱 | 内置超级多功能驱动器（USB2.0接口连接） / 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 光驱速度 / 读取 | DVD-RAM2倍速[4.7GB]／1倍速[2.6GB]、DVD-R最大4倍速、DVD-RW 最大4倍速、DVD-ROM 最大8倍速、＋R/+R DL 最大4倍速、＋RW 最大4倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大20倍速 |
 | 光驱速度 / 写入 | DVD-RAM 2倍速[4.7GB]、DVD-R 最大4倍速、DVD-RW 最大2倍速、＋R 最大4倍速、＋RW 2.4倍速、CD-R 最大24倍速、CD-RW 最大10倍速 |
-| 支持光盘 / 读取 | DVD-RAM、DVD-ROM､DVD-Video､DVD-R､DVD-RW、＋R、+R DL、＋RW、CD-Audio､CD-ROM(XA対応)､PhotoCD(マルチセッション対応)､VideoCD､CD-EXTRA､CD-TEXT、CD-R､CD-RW |
+| 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、＋R、+R DL、＋RW、CD-Audio、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW(Ver.1.1/1.2)、＋R、＋RW、CD-R、CD-RW |
-| 软驱（选配） | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| 显示屏 | SXGA＋(1400×1050ドット)14.1型TFTカラー液晶 |
-| 显示屏 / 外接显示输出 | 800×600/1024×768/1280×768/1280×1024/1400×1050/1600×1200/2048×1536ドット（60Ｈｚ）：約1677万色 |
-| 显示屏 / 同时显示 | 800×600/1024×768/1280×768/1280×1024/1400ｘ1050ドット：約1677万色 |
-| 无线网络 | インテル(R)PRO/Wireless 3945ABG ネットワーク・コネクション、IEEE802.11a（J52/W52/W53）/b/g準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
-| 调制解调器 | データ：56kbps（V.90）、FAX：14.4kbps /ボイス非対応 |
-| 音频 | PCM音源（16ビットステレオ）/インテル(R) High Definition Audio 準拠、ステレオスピーカー |
-| 安全芯片 | ＴＰＭ（TCG V1.2準拠） |
-| 卡槽 / PC 卡 | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| 内存扩展槽 | DDR2 172ピン マイクロDIMM専用スロット×1(1.8V/PC2-4200/DDR2 SDRAM) |
-| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン・Y5、R6に搭載） |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm（縦・横）(一部キーを除く) |
-| 电源 | AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック （10.65Vリチウムイオン・5.7 Ah） |
-| 功耗 | 最大約60W |
-| 能效 | 2007年度基準Ｉ区分0.00063 |
-| 尺寸（宽×深×高） | 幅309.6mm×奥行245.5mm×高さ28mm/44.5mm（前部/後部） |
-| 重量（含电池） | 約1490g |
-| 预装软件 | Microsoft(R) Internet Explorer7.0、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 11、DirectX 10、Microsoft(R) Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework3.0、ホイールパッドユーティリティ、hi-hoオンラインサインアップ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition3.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード（ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Hotkey設定、セットアップユーティリティ、PC-Diagnosticユーティリティ、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ホイールパッドユーティリティ、B's Recorder GOLD9 BASIC、B's CliP 7、WinDVDTM8(OEM版)CPRM対応、DVD-MovieAlbumSE 4.5、B's DVD Professional2（オーサリングソフト）、オプティカルディスクドライブ文字変更ユーティリティ |
-| 附件 | プロダクトリカバリーDVD-ROM、ACアダプター、標準バッテリーパック、Windows Anytime Upgrade DVD、取扱説明書 等 |
+| 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
+| 显示屏 | SXGA+(1400×1050点)14.1英寸TFT彩色液晶 |
+| 显示屏 / 外接显示输出 | 800×600/1024×768/1280×768/1280×1024/1400×1050/1600×1200/2048×1536像素（60Hz）：约1677万色 |
+| 显示屏 / 同时显示 | 800×600/1024×768/1280×768/1280×1024/1400x1050像素：约1677万色 |
+| 无线网络 | 英特尔(R)PRO/Wireless 3945ABG 网络连接，符合 IEEE802.11a（J52/W52/W53）/b/g，（支持 WPA-AES/TKIP，符合 Wi-Fi） |
+| 调制解调器 | 数据：56kbps（V.90）、FAX：14.4kbps /不支持语音 |
+| 音频 | PCM音源（16位立体声）/符合英特尔(R) High Definition Audio 标准、立体声扬声器 |
+| 安全芯片 | TPM（符合TCG V1.2） |
+| 卡槽 / PC 卡 | PC卡（TYPEII）×1插槽（支持 CardBus、允许电流 3.3V：400mA、5V：400mA） |
+| 内存扩展槽 | DDR2 172针 microDIMM专用插槽×1（1.8V/PC2-4200/DDR2 SDRAM） |
+| 接口 | USB端口×2（USB2.0）、调制解调器接口（RJ-11）、LAN接口（RJ-45）、外部显示器接口（模拟RGB mini Dsub 15针）、迷你端口复制器接口（专用50针・配备于Y5、R6） |
+| 键盘 | OADG标准键盘（86键）：键距19mm（纵向和横向）（部分按键除外） |
+| 电源 | AC100V～240V（50Hz/60Hz）（电源线仅限100V专用） / 电池组 （10.65V锂离子・5.7 Ah） |
+| 功耗 | 最大约60W |
+| 能效 | 2007年度基准Ｉ区分0.00063 |
+| 尺寸（宽×深×高） | 宽309.6mm×深245.5mm×高28mm/44.5mm（前部/后部） |
+| 重量（含电池） | 约1490g |
+| 预装软件 | Microsoft(R) Internet Explorer7.0、Adobe(R) Reader、DMI 查看器、Microsoft(R) Windows(R) MediaTM Player 11、DirectX 10、Microsoft(R) Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework3.0、滚轮板实用工具、hi-ho 在线注册、缩放查看器、PC 信息查看器、NumLock 通知、硬盘数据擦除实用工具、Wireless Manager mobile edition3.0、无线切换实用工具、安全设置实用工具、经济模式（ECO）切换实用工具、省电设置实用工具、电池剩余电量显示校正实用工具、Hotkey 设置、设置实用工具、PC-Diagnostic 实用工具、McAfee 互联网安全套件基础版、goo 棒、滚轮板实用工具、B's Recorder GOLD9 BASIC、B's CliP 7、WinDVDTM8（OEM 版）支持 CPRM、DVD-MovieAlbumSE 4.5、B's DVD Professional2（创作软件）、光盘驱动器盘符更改实用工具 |
+| 附件 | 产品恢复 DVD-ROM、AC 适配器、标准电池组、Windows Anytime Upgrade DVD、使用说明书 等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-Y5MW8AJR_spec.html>
 
@@ -78,38 +78,38 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載(NTFSファイルシステム） |
-| 处理器 | インテル(R) Centrino(R) Duo モバイル・テクノロジー / インテル(R) Core TM Duo プロセッサー低電圧版 L2400 / （2次キャッシュメモリー 2 MB、動作周波数 1.66 GHｚ、 フロントサイド・バス 667 MHz） |
-| 芯片组 | モバイルインテル(R) 945GMS Express チップセット |
-| 内存 | 標準512 MB/最大1536 MB (PC2-4200 / DDR2 SDRAM)空きスロット1 |
-| 显存 | 最大128MB （メインメモリーと共用） |
+| 操作系统 | Microsoft(R) Windows(R) XP Professional Service Pack 2 搭载安全强化功能(NTFS文件系统) |
+| 处理器 | 英特尔(R) Centrino(R) Duo 移动技术 / 英特尔(R) Core TM Duo 处理器低电压版 L2400 / （二级缓存内存 2 MB、工作频率 1.66 GHｚ、 前端总线 667 MHz） |
+| 芯片组 | 移动 英特尔(R) 945GMS Express 芯片组 |
+| 内存 | 标配512 MB/最大1536 MB (PC2-4200 / DDR2 SDRAM)空闲插槽1 |
+| 显存 | 最大128MB （与主内存共用） |
 | 硬盘 | 60 GB (Ultra ATA100) |
-| 光驱 | スーパーマルチドライブ内蔵（USB2.0 インターフェース接続） / バッファアンダーランエラー防止機能（SmoothLink）搭載 |
+| 光驱 | 内置超级多功能驱动器（USB2.0 接口连接） / 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 光驱速度 / 读取 | DVD-RAM2倍速（4.7GB）/1倍速（2.6GB）、DVD-R最大4倍速、DVD-RW最大4倍速、DVD-ROM最大8倍速、+R 最大4倍速、+R DL最大4倍速、+RW最大4倍速、 CD-ROM最大24倍速、CD-R最大24倍速、CD-RW最大20倍速 |
-| 光驱速度 / 写入 | DVD-RAM2倍速（4.7GB）、DVD-R最大4倍速、DVD-RW最大2倍速、+R 最大4倍速、+RW2.4倍速、CD-R最大24倍速、CD-RW最大10倍速 |
-| 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、 +R、+R DL、+RW、CD-Audio、CD-ROM（XA対応）、PhotoCD（マルチセッション対応）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
+| 光驱速度 / 写入 | DVD-RAM 2倍速（4.7GB）、DVD-R 最高4倍速、DVD-RW 最高2倍速、+R 最高4倍速、+RW 2.4倍速、CD-R 最高24倍速、CD-RW 最高10倍速 |
+| 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、 +R、+R DL、+RW、CD-Audio、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、+R、+RW、CD-R、CD-RW |
-| 软驱（选配） | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) |
-| 显示屏 | SXGA+(1400×1050ドット) 14.1型TFTカラー液晶 |
-| 显示屏 / 外接显示输出 | 800×600ドット、1024×768ドット、1280×768ドット、1280×1024ドット、1400×1050ドット、1600×1200ドット、2048×1536ドット（60Hz）：約1677万色 |
-| 显示屏 / 同时显示 | 800×600ドット、1024×768ドット、1280×768ドット、1280×1024ドット、1400×1050ドット：約1677万色 |
-| 无线网络 | インテル(R) PRO / Wireless 3945 ABG ネットワーク・コネクション IEEE802.11a(J52/W52/W53)/b/g 準拠（WPA-AES/TKIP対応、Wi-Fi準拠） |
-| 调制解调器 | データ：56 kbps（V.90）FAX：14.4 kbps / ボイス非対応 |
-| 音频 | PCM音源(16ビットステレオ) / インテル(R) High Definition Audio準拠、ステレオスピーカー |
-| 安全芯片 | TPM(TCG V1.2準拠) |
-| 卡槽 / PC 卡 | PCカード(TYPE II )×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| 内存扩展槽 | DDR2 172ピン マイクロDIMM専用スロット×1（1.8V/PC2-4200/DDR2 SDRAM） |
-| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニD-sub15ピン）、ミニポートリプリケーターコネクター（専用50ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm（横・縦） |
-| 电源 | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、バッテリーパック（10.65 Vリチウムイオン・5.7 Ah） |
-| 功耗 | 最大約60 W |
+| 软驱（选配） | USB连接外置3.5英寸3模式支持(1.44 MB/1.2 MB/720 KB) |
+| 显示屏 | SXGA+(1400×1050点) 14.1英寸TFT彩色液晶 |
+| 显示屏 / 外接显示输出 | 800×600点、1024×768点、1280×768点、1280×1024点、1400×1050点、1600×1200点、2048×1536点（60Hz）：约1677万色 |
+| 显示屏 / 同时显示 | 800×600点、1024×768点、1280×768点、1280×1024点、1400×1050点：约1677万色 |
+| 无线网络 | 英特尔(R) PRO / Wireless 3945 ABG 网络连接 符合 IEEE802.11a(J52/W52/W53)/b/g（支持 WPA-AES/TKIP，符合 Wi-Fi） |
+| 调制解调器 | 数据：56 kbps（V.90）FAX：14.4 kbps / 不支持语音 |
+| 音频 | PCM音源(16位立体声) / 符合英特尔(R) High Definition Audio标准、立体声扬声器 |
+| 安全芯片 | TPM(符合TCG V1.2) |
+| 卡槽 / PC 卡 | PC卡(TYPE II )×1插槽 CardBus对应 / 允许电流（3.3 V：400 mA、5 V：400 mA） |
+| 内存扩展槽 | DDR2 172针 微型DIMM专用插槽×1（1.8V/PC2-4200/DDR2 SDRAM） |
+| 接口 | USB端口×2（USB2.0）、调制解调器接口（RJ-11）、LAN接口（RJ-45）、外部显示器接口（模拟RGB mini D-sub15针）、迷你端口复制器接口（专用50针）、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3） |
+| 键盘 | OADG标准键盘（86键）：键距19mm（横向和纵向） |
+| 电源 | AC100 V-240 V（50 Hz/60 Hz）（电源线仅适用于100 V）、电池组（10.65 V锂离子・5.7 Ah） |
+| 功耗 | 最大约60 W |
 | 能效 | S区分 0.00011 |
-| 尺寸（宽×深×高） | 幅309.6 mm×奥行245.5 mm×高さ28 mm／44.5 mm（前部／後部） |
-| 重量（含电池） | 約1490 g |
-| 预装软件 | Microsoft(R) Internet Explorer 6 Service Pack 2、 Adobe Reader、DMIビューアー、Microsoft(R) Windows(R) Media Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R) .NET Framework 1.1 SP1/2.0、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、Hotkey設定、gooスティック、セットアップユーティリティ、hi-hoオンラインサインアップ、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition 3.0、マカフィー(R)・ウイルススキャン◆、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード(ECO）切り替えユーティリティ、バッテリー残量表示補正ユーティリティ、Infineon TPM Professional Package V2.5 SP1、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、省電力設定ユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、オプティカルディスクドライブ省電力ユーティリティ、DVD-MovieAlbum SE 4.1、B's DVD Expert（オーサリングソフト）◆、PC-Diagnosticユーティリティ / ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
-| 附件 | プロダクトリカバリーDVD-ROM、ACアダプター、バッテリーパック、取扱説明書 等 |
+| 尺寸（宽×深×高） | 宽309.6 mm×深245.5 mm×高28 mm／44.5 mm（前部／后部） |
+| 重量（含电池） | 约1490 g |
+| 预装软件 | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe Reader、DMI 查看器、Microsoft(R) Windows(R) Media Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R) .NET Framework 1.1 SP1/2.0、网络选择器、SD 实用程序、滚轮触摸板实用程序、Hotkey 设置、goo Stick、设置实用程序、hi-ho 在线注册、字体大小放大实用程序、缩放查看器、PC 信息查看器、NumLock 通知、硬盘数据擦除实用程序、Wireless Manager mobile edition 3.0、McAfee(R) VirusScan◆、无线切换实用程序、安全设置实用程序、经济模式（ECO）切换实用程序、电池剩余电量显示校正实用程序、Infineon TPM Professional Package V2.5 SP1、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM 版）支持 CPRM◆、省电设置实用程序、光盘驱动器盘符更改实用程序、光盘驱动器省电实用程序、DVD-MovieAlbum SE 4.1、B's DVD Expert（创作软件）◆、PC-Diagnostic 实用程序 / 未安装文字处理、电子表格等应用软件。 |
+| 附件 | 产品恢复 DVD-ROM、AC 适配器、电池组、使用说明书 等 |
 | 能效达成率 | — |
-| 电池 | 駆動時間※JEITAバッテリー動作時間測定法(Ver.1.0)による駆動時間。エコノミーモード（ECO）無効時。エコノミーモード（ECO）有効に設定している時の駆動時間は、無効時の約8割になります。バッテリー駆動時間は、動作環境・液晶の輝度・システム設定により変動します。※）：約9時間 / 充電時間：約5時間(電源OFF時)、約6.5時間(電源ON時) |
+| 电池 | 续航时间※依据JEITA电池动作时间测定法（Ver.1.0）的续航时间。经济模式（ECO）无效时。设置为经济模式（ECO）有效时的续航时间约为无效时的8成。电池续航时间会因运行环境、液晶亮度、系统设置而变化。※）：约9小时 / 充电时间：约5小时（电源OFF时）、约6.5小时（电源ON时） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-Y5LW8AXR_spec.html>
 
@@ -120,38 +120,38 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載(NTFSファイルシステム） |
-| 处理器 | インテル(R) Centrino(R) Duo モバイル・テクノロジー / インテル(R) Core TM Duo プロセッサー低電圧版 L2300(1.50 GHｚ) / （2次キャッシュメモリー 2 MB、動作周波数 1.50 GHｚ、 フロントサイド・バス 667 MHz） |
-| 芯片组 | モバイルインテル(R) 945GMS Express チップセット |
-| 内存 | 標準512 MB/最大1024 MB (PC2-4200 / DDR2 SDRAM) |
-| 显存 | 最大128MB （メインメモリーと共用） |
-| 硬盘 | 60 GB (Ultra ATA100)（2.5型） |
-| 光驱 | スーパーマルチドライブ内蔵（USB2.0 インターフェース接続） / バッファアンダーランエラー防止機能（SmoothLink）搭載 |
+| 操作系统 | Microsoft(R) Windows(R) XP Professional Service Pack 2 搭载安全强化功能(NTFS文件系统) |
+| 处理器 | 英特尔(R) Centrino(R) Duo 移动技术 / 英特尔(R) Core TM Duo 处理器低电压版 L2300(1.50 GHｚ) / （二级缓存内存 2 MB、工作频率 1.50 GHｚ、 前端总线 667 MHz） |
+| 芯片组 | 移动 英特尔(R) 945GMS Express 芯片组 |
+| 内存 | 标配512 MB/最大1024 MB (PC2-4200 / DDR2 SDRAM) |
+| 显存 | 最大128MB （与主内存共用） |
+| 硬盘 | 60 GB (Ultra ATA100)（2.5英寸） |
+| 光驱 | 内置超级多功能驱动器（USB2.0 接口连接） / 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 光驱速度 / 读取 | DVD-RAM 2倍速（4.7GB）/1倍速（2.6GB）、DVD-R最大4倍速、DVD-RW最大4倍速、DVD-ROM最大8倍速、+R 最大4倍速、+R DL最大4倍速、+RW最大4倍速、 CD-ROM最大24倍速、CD-R最大24倍速、CD-RW最大20倍速 |
 | 光驱速度 / 写入 | DVD-RAM 2倍速（4.7GB）、DVD-R最大4倍速、DVD-RW最大2倍速、+R 最大4倍速、+RW2.4倍速、CD-R最大24倍速、CD-RW最大10倍速 |
-| 支持光盘 / 读取 | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-RW、 +R、+R DL、+RW、CD-Audio、CD-ROM（XA対応）、PhotoCD（マルチセッション対応）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
+| 支持光盘 / 读取 | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-RW、 +R、+R DL、+RW、CD-Audio、CD-ROM（XA对应）、PhotoCD（多区段对应）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、+R、+RW、CD-R、CD-RW |
-| 软驱（选配） | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) |
-| 显示屏 | SXGA+(1400×1050ドット) 14.1型TFTカラー液晶 |
-| 显示屏 / 外接显示输出 | 800×600ドット、1024×768ドット、1280×768ドット、1280×1024ドット、1400×1050ドット、1600×1200ドット、2048×1536ドット（60Hz）：約1677万色 |
-| 显示屏 / 同时显示 | 800×600ドット、1024×768ドット、1280×768ドット、1280×1024ドット、1400×1050ドット：約1677万色 |
-| 无线网络 | インテル(R) PRO / Wireless 3945 ABG ネットワーク・コネクション IEEE802.11a(J52/W52/W53)/b/g 準拠 （WPA-AES/TKIP対応、Wi-Fi準拠） |
-| 调制解调器 | データ：56 kbps（V.90） FAX：14.4 kbps / ボイス非対応 |
-| 音频 | PCM音源(16ビットステレオ)、ステレオスピーカー |
-| 安全芯片 | TPM(TCG V1.2準拠) |
-| 卡槽 / PC 卡 | PCカード(TYPE II )×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| 内存扩展槽 | DDR2 172ピン マイクロDIMM専用スロット×1（1.8V/PC2-4200/DDR2 SDRAM） |
-| 接口 | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm（横・縦） |
-| 电源 | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用） / バッテリーパック（10.65 Vリチウムイオン・5.7 Ah） |
-| 功耗 | 最大約60 W |
+| 软驱（选配） | USB连接外置3.5英寸3模式支持(1.44 MB/1.2 MB/720 KB) |
+| 显示屏 | SXGA+(1400×1050点) 14.1英寸TFT彩色液晶 |
+| 显示屏 / 外接显示输出 | 800×600点、1024×768点、1280×768点、1280×1024点、1400×1050点、1600×1200点、2048×1536点（60Hz）：约1677万色 |
+| 显示屏 / 同时显示 | 800×600点、1024×768点、1280×768点、1280×1024点、1400×1050点：约1677万色 |
+| 无线网络 | 英特尔(R) PRO / Wireless 3945 ABG 网络连接 符合 IEEE802.11a(J52/W52/W53)/b/g（支持 WPA-AES/TKIP，符合 Wi-Fi） |
+| 调制解调器 | 数据：56 kbps（V.90） FAX：14.4 kbps / 不支持语音 |
+| 音频 | PCM音源(16位立体声)、立体声扬声器 |
+| 安全芯片 | TPM(符合TCG V1.2) |
+| 卡槽 / PC 卡 | PC卡(TYPE II )×1插槽 CardBus对应 / 允许电流（3.3 V：400 mA、5 V：400 mA） |
+| 内存扩展槽 | DDR2 172针 微型DIMM专用插槽×1（1.8V/PC2-4200/DDR2 SDRAM） |
+| 接口 | USB端口×2（USB2.0）、调制解调器接口（RJ-11）、LAN接口（RJ-45）、外部显示器接口（模拟RGB mini Dsub15针）、迷你端口复制器接口（专用50针） |
+| 键盘 | OADG标准键盘（86键）：键距19mm（横向和纵向） |
+| 电源 | AC100 V-240 V（50 Hz/60 Hz）（电源线仅适用于100 V） / 电池组（10.65 V锂离子・5.7 Ah） |
+| 功耗 | 最大约60 W |
 | 能效 | S区分 0.000097 |
-| 重量（含电池） | 約1490 g |
-| 预装软件 | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe Reader、DMIビューアー、Microsoft(R) Windows(R) Media Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R) .NET Framework 1.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、Hotkey設定、gooスティック、セットアップユーティリティ、hi-hoオンラインサインアップ、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition 2.0、マカフィー(R)・ウイルススキャン◆、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、エコノミーモード(ECO）切り替えユーティリティ、バッテリー残量表示補正ユーティリティ、Infineon TPM Professional Package V2.5、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、省電力設定ユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、オプティカルディスクドライブ省電力ユーティリティ、DVD-MovieAlbum SE 4.1、B's DVD Expert（オーサリングソフト）◆、PC-Diagnosticユーティリティ / ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
-| 附件 | プロダクトリカバリーDVD-ROM、ACアダプター、バッテリーパック、取扱説明書 等 |
+| 重量（含电池） | 约1490 g |
+| 预装软件 | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe Reader、DMI 查看器、Microsoft(R) Windows(R) Media Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R) .NET Framework 1.1、网络选择器、SD 实用程序、滚轮触摸板实用程序、Hotkey 设置、goo Stick、设置实用程序、hi-ho 在线注册、字体大小放大实用程序、缩放查看器、PC 信息查看器、NumLock 通知、硬盘数据擦除实用程序、Wireless Manager mobile edition 2.0、McAfee(R) VirusScan◆、无线切换实用程序、安全设置实用程序、经济模式（ECO）切换实用程序、电池剩余电量显示校正实用程序、Infineon TPM Professional Package V2.5、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM 版）支持 CPRM◆、省电设置实用程序、光盘驱动器盘符更改实用程序、光盘驱动器省电实用程序、DVD-MovieAlbum SE 4.1、B's DVD Expert（创作软件）◆、PC-Diagnostic 实用程序 / 未安装文字处理、电子表格等应用软件。 |
+| 附件 | 产品恢复 DVD-ROM、AC 适配器、电池组、使用说明书 等 |
 | 能效达成率 | — |
-| 电池 | 駆動時間：約9時間 / 充電時間：約5時間(電源OFF時)、約6.5時間(電源ON時) |
-| 尺寸（不含凸起部分） | 幅309.6 mm×奥行245.5 mm×高さ28 mm／44.5 mm（前部／後部） |
+| 电池 | 续航时间：约9小时 / 充电时间：约5小时（电源OFF时）、约6.5小时（电源ON时） |
+| 尺寸（不含凸起部分） | 宽309.6 mm×深245.5 mm×高28 mm／44.5 mm（前部／后部） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-Y5KW8AXR_spec.html>
 
@@ -173,4 +173,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

@@ -12,42 +12,42 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-QV9CDMQR](https://panasonic.jp/pc/p-db/CF-QV9CDMQR_spec.html) | 2021-01 | 2021-05 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9DFNQR](https://panasonic.jp/pc/p-db/CF-QV9DFNQR_spec.html) | 2021-01 | 2021-05 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9M1AQR](https://panasonic.jp/pc/p-db/CF-QV9M1AQR_spec.html) | 2020-11 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9ADGQR](https://panasonic.jp/pc/p-db/CF-QV9ADGQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9ADMQR](https://panasonic.jp/pc/p-db/CF-QV9ADMQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9EFNQR](https://panasonic.jp/pc/p-db/CF-QV9EFNQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-QV9HDGQR](https://panasonic.jp/pc/p-db/CF-QV9HDGQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9HDMQR](https://panasonic.jp/pc/p-db/CF-QV9HDMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV9KFNQR](https://panasonic.jp/pc/p-db/CF-QV9KFNQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
+| [CF-QV9CDMQR](https://panasonic.jp/pc/p-db/CF-QV9CDMQR_spec.html) | 2021-01 | 2021-05 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9DFNQR](https://panasonic.jp/pc/p-db/CF-QV9DFNQR_spec.html) | 2021-01 | 2021-05 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 16GB (no empty slot), SSD: 512GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9M1AQR](https://panasonic.jp/pc/p-db/CF-QV9M1AQR_spec.html) | 2020-11 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9ADGQR](https://panasonic.jp/pc/p-db/CF-QV9ADGQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9ADMQR](https://panasonic.jp/pc/p-db/CF-QV9ADMQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9EFNQR](https://panasonic.jp/pc/p-db/CF-QV9EFNQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 8GB (no empty slot), SSD: 512GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), LTE-compatible Wireless WAN, Microsoft® Office Home and Business 2019 |
+| [CF-QV9HDGQR](https://panasonic.jp/pc/p-db/CF-QV9HDGQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9HDMQR](https://panasonic.jp/pc/p-db/CF-QV9HDMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-QV9KFNQR](https://panasonic.jp/pc/p-db/CF-QV9KFNQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 8GB (no empty slot), SSD: 512GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット |
-| Chipset | CPUに内蔵 |
-| Optical drive | 搭載されていません |
-| Display / Graphics | インテル® UHD グラフィックス（CPUに内蔵） |
-| Display / LCD colors | 2880×1920ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200、2160×1440、2880×1920ドット：約1677万色 |
+| OS | Windows 10 Pro 64-bit |
+| Chipset | Built into CPU |
+| Optical drive | Not equipped |
+| Display / Graphics | Intel® UHD Graphics (built into CPU) |
+| Display / LCD colors | 2880×1920 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 2560×1440, 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200, 2160×1440, 2880×1920 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| Security chip | TPM（TCG V2.0準拠） |
-| Security (Windows Hello) | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| Memory expansion slot | なし |
-| Camera | 顔認証対応カメラ、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| Microphone | アレイマイク |
-| Ports | ・USB3.1 Type-Cポート（Thunderbolt™3、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| Keyboard | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.6V リチウムイオン・定格容量5020mAh |
-| Power consumption | 最大約65W |
-| Energy efficiency | 目標年度2022年度 12区分19.0［kWh/年］ |
+| Audio | PCM sound source (24-bit stereo), Intel® High Definition Audio compliant, stereo speakers |
+| Security chip | TPM (TCG V2.0 compliant) |
+| Security (Windows Hello) | Face recognition-compatible camera / Fingerprint sensor (touch type) |
+| Memory expansion slot | None |
+| Camera | Face recognition-compatible camera, effective pixels: max. 1920x1080 pixels (approx. 2.07 megapixels) |
+| Microphone | Array microphone |
+| Ports | ・USB3.1 Type-C port (Thunderbolt™3, USB Power Delivery supported) / ・USB3.0 Type-A port ×3 (one of which also supports smartphone charging) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack 3.5mm, CTIA compliant) |
+| Keyboard | OADG-compliant 86 keys, key pitch 19mm (horizontal)/15.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.6V lithium-ion, rated capacity 5020mAh |
+| Power consumption | Max approx. 65W |
+| Energy efficiency | Target year FY2022 12 categories 19.0 [kWh/year] |
 | Efficiency target achievement | — |
-| Dimensions (W×D×H) | 幅273.0mm×奥行209.2mm×高さ18.7mm（突起部除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
+| Dimensions (W×D×H) | Width 273.0mm × Depth 209.2mm × Height 18.7mm (excluding protrusions) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
 
 ## Differences by part number
@@ -69,23 +69,23 @@
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (キャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
+| CPU | Intel® Core™ i5-10210U Processor / (Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
 | Wireless communication | Intel® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック＆シルバー |
-| Weight (with battery) | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| Wireless LAN | IEEE802.11a/b/g/n/ac/ax compliant (5 GHz channel band: W52/W53/W56) WPA3, WPA2-AES/TKIP support, Wi-Fi compliant |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black & Silver |
+| Weight (with battery) | PC body: approx. 0.949kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9CDMQR_spec.html>
 
@@ -96,24 +96,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9CDMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (キャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
+| CPU | Intel® Core™ i7-10710U Processor / (Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
 | Wireless communication | Intel® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Wireless LAN | IEEE802.11a/b/g/n/ac/ax compliant (5 GHz channel band: W52/W53/W56) WPA3, WPA2-AES/TKIP support, Wi-Fi compliant |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.979kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9DFNQR_spec.html>
 
@@ -124,23 +124,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9DFNQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）アンチグレア |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー |
-| Pointing device | ホイールパッド |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約12.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.879kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) anti-glare |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor |
+| Pointing device | Wheel pad |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 12.5 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.879kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9M1AQR_spec.html>
 
@@ -151,23 +151,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9M1AQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.949kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9ADGQR_spec.html>
 
@@ -178,23 +178,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9ADGQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック＆シルバー |
-| Weight (with battery) | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black & Silver |
+| Weight (with battery) | PC body: approx. 0.949kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9ADMQR_spec.html>
 
@@ -205,24 +205,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9ADMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.979kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9EFNQR_spec.html>
 
@@ -233,23 +233,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9EFNQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.949kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9HDGQR_spec.html>
 
@@ -260,23 +260,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9HDGQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック＆シルバー |
-| Weight (with battery) | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black & Silver |
+| Weight (with battery) | PC body: approx. 0.949kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9HDMQR_spec.html>
 
@@ -287,24 +287,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9HDMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Pointing device | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| Accessories | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 12.0-inch (3:2) WQXGA+ TFT color LCD (2880×1920 dots) (capacitive multi-touch panel, with anti-reflection protective film) |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Pointing device | Wheel pad, electrostatic touch panel (10-finger support) |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 11.5 hours / ▼Charging time / approx. 2.5 hours (power OFF), approx. 2.5 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 0.979kg (when equipped with included battery pack (approx. 235g)) / AC adapter: approx. 220g (excluding power cord (approx. 60g)) |
+| Accessories | Battery pack, AC adapter, dedicated cloth, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9KFNQR_spec.html>
 
@@ -332,4 +332,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-QV9KFNQR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

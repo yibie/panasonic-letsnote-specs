@@ -35,7 +35,7 @@ def model_of(row):
 def label(item, lang):
     if lang == "ja":
         return item
-    return (LABELS if lang == "en" else LABELS_ZH).get(item, item)
+    return (LABELS if lang == "en" else LABELS_ZH).get(item) or tr(item, lang)
 
 
 def spec_key(row):
@@ -77,8 +77,21 @@ def fmt_month(m):
     return m or "—"
 
 
+TRANSLATIONS = json.loads((DATA / "translations.json").read_text()) if (DATA / "translations.json").exists() else {}
+
+
+def tr(value, lang):
+    """Spec text in the page language; falls back to the Japanese original."""
+    if lang == "ja" or not value:
+        return value
+    return TRANSLATIONS.get(value, {}).get(lang, value)
+
+
 def localize_units(value, lang):
-    return value if lang == "ja" else value.replace("Mバイト", "MB").replace("Gバイト", "GB")
+    if lang == "ja":
+        return value
+    value = value.replace("Mバイト", "MB").replace("Gバイト", "GB")
+    return value.replace("超低電圧版", "ULV " if lang == "en" else "超低电压版 ").replace("低電圧版", "LV " if lang == "en" else "低电压版 ")
 
 
 def image_block(model, img, T, lang, screen_text, color_text, year, rel):
@@ -130,7 +143,7 @@ def model_page(model, parts, specs, images, prev_m, next_m, lang):
     for p in parts:
         name = f"[{p['part']}]({SPEC_URL.format(p['part'])})" if p["part"] in specs else p["part"]
         status = T["on_sale"] if p["current"] else fmt_month(p["discontinued"])
-        lines.append(f"| {name} | {fmt_month(p['released'])} | {status} | {md(p['summary'])} |")
+        lines.append(f"| {name} | {fmt_month(p['released'])} | {status} | {md(tr(p['summary'], lang))} |")
     lines.append("")
 
     with_specs = [p["part"] for p in parts if p["part"] in specs]
@@ -149,14 +162,14 @@ def model_page(model, parts, specs, images, prev_m, next_m, lang):
         heading = T["specs_one"] if len(with_specs) == 1 else T["specs_common"]
         lines += [f"## {heading}", "", f"| {T['item']} | {T['value']} |", "| :-- | :-- |"]
         for k in common:
-            lines.append(f"| {md(label(k, lang))} | {md(next(iter(values[k].values())))} |")
+            lines.append(f"| {md(label(k, lang))} | {md(tr(next(iter(values[k].values())), lang))} |")
         lines.append("")
         if differing and len(with_specs) > 1:
             lines += [f"## {T['diff']}", "",
                       f"| {T['part']} | {T['cpu']} | {T['mem']} | {T['storage']} | {T['weight']} | {T['battery']} |",
                       "| :-- | :-- | :-- | :-- | :-- | :-- |"]
             for part in with_specs:
-                cells = [localize_units(v, lang) for v in glance(specs[part])]
+                cells = [localize_units(tr(v, lang), lang) for v in glance(specs[part])]
                 lines.append(f"| {part} | " + " | ".join(md(v or "—") for v in cells) + " |")
             lines.append("")
             for part in with_specs:
@@ -164,7 +177,7 @@ def model_page(model, parts, specs, images, prev_m, next_m, lang):
                           f"| {T['item']} | {T['value']} |", "| :-- | :-- |"]
                 for k in differing:
                     if part in values[k]:
-                        lines.append(f"| {md(label(k, lang))} | {md(values[k][part])} |")
+                        lines.append(f"| {md(label(k, lang))} | {md(tr(values[k][part], lang))} |")
                 lines += ["", f"{T['sheet']}: <{SPEC_URL.format(part)}>", "", "</details>", ""]
     else:
         lines += [T["no_sheet"], ""]

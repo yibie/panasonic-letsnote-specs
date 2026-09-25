@@ -30,7 +30,7 @@ STRINGS = {
         "newer": "Newer model in the series", "older": "Older model in the series",
         "all": "All Let's note models",
         "source": "Source: Panasonic's official [discontinued-models list]({list}) and spec sheets "
-                  "(panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. "
+                  "(panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. "
                   "This is an unofficial compilation, not affiliated with Panasonic.",
         "alt": "Panasonic Let's note {model} {size} laptop{color}{year}",
         "alt_part": ", part number {part}",
@@ -99,7 +99,7 @@ STRINGS = {
         "related": "相关机型",
         "newer": "同系列新一代", "older": "同系列上一代",
         "all": "Let's note 全部机型",
-        "source": "来源：松下官方[停产产品列表]({list})及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。"
+        "source": "来源：松下官方[停产产品列表]({list})及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。"
                   "产品图片 © Panasonic。本页为非官方整理，与松下公司无关。",
         "alt": "松下 Let's note {model} {size}笔记本电脑{color}{year}",
         "alt_part": "，型号 {part}",

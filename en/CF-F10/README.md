@@ -12,63 +12,63 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-F10AYCDR](https://panasonic.jp/pc/p-db/CF-F10AYCDR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Professional 正規版 、インテル® CoreTM i5-580M（2.66GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）（最大6GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-F10AYPDR](https://panasonic.jp/pc/p-db/CF-F10AYPDR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Professional 正規版 、インテル® CoreTM i5-580M（2.66GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）（最大6GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
+| [CF-F10AYCDR](https://panasonic.jp/pc/p-db/CF-F10AYCDR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i5-580M (2.66GHz), Memory: standard 4GB (2GB memory added to expansion memory slot) (max 6GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-F10AYPDR](https://panasonic.jp/pc/p-db/CF-F10AYPDR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i5-580M (2.66GHz), Memory: standard 4GB (2GB memory added to expansion memory slot) (max 6GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <Limited quantity> |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional 64ビット正規版(Windows XP Mode搭載) ▼インストールOS：Windows7 Professional 64ビット正規版(Windows XP Mode搭載)※全て日本語版 |
-| CPU | インテル Core i5-580M vPro プロセッサー インテル スマートキャッシュ3MB、動作周波数2.66GHz（インテルターボ・ブースト・テクノロジー利用時は最大3.33GHz） |
-| Chipset | モバイルインテル QM57 Express チップセット |
-| Memory | 標準4GB PC3-6400/DDR3 SDRAM（拡張メモリースロットに2GBのメモリーを増設済み、空きスロット0）※標準装着済みの2GBのメモリーを取り外して4GBのメモリーを取り付けた場合は最大6GB |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Hard disk | 500GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ内蔵 バッファアンダーランエラー防止機能搭載、シェルドライブ（DVDマルチ） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional 64-bit genuine version (Windows XP Mode equipped) ▼Installed OS: Windows7 Professional 64-bit genuine version (Windows XP Mode equipped) *All Japanese versions |
+| CPU | Intel Core i5-580M vPro processor Intel Smart Cache 3MB, operating frequency 2.66GHz (up to 3.33GHz when using Intel Turbo Boost Technology) |
+| Chipset | Mobile Intel QM57 Express chipset |
+| Memory | Standard 4GB PC3-6400/DDR3 SDRAM (2GB memory already added to expansion memory slot, 0 free slots) ※If the standard-installed 2GB memory is removed and 4GB memory is installed, maximum 6GB |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 12GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Optical drive | Built-in Super Multi Drive, equipped with buffer underrun error prevention function, shell drive (DVD Multi) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、CD-R、CD-RW、High Speed +RW、High-Speed CD-RW |
-| Display | 14.1型ワイド(16:10)TFTカラー液晶WXGA+(1440x900ドット) |
-| Display / Graphics | インテル HDグラフィックス搭載（インテル Core i5-580M vPro プロセッサーに内蔵） |
-| Display / LCD colors | 1440×900ドット：約1677万色 |
-| Display / External output | 1440×900、800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1440×900ドット：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N + WiMAX 6250 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大20Mbps、送信最大6Mbps） |
+| Display | 14.1-inch widescreen (16:10) TFT color LCD WXGA+ (1440x900 dots) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i5-580M vPro processor) |
+| Display / LCD colors | 1440×900 dots: approx. 16.77 million colors |
+| Display / External output | 1440×900, 800×600, 1024×768, 1280×768, 1280×1024, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1440×900 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N + WiMAX 6250 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 20Mbps reception, max. 6Mbps transmission) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテルHigh Definition Audio 準拠、ステレオスピーカー |
-| Security chip | TPM（TCG V1.2準拠） |
-| Card slots / PC Card | PCカード(TYPEII×1スロット(CardBus対応、許容電流3.3V:400mA、5V:400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1(1.5V/PC3-6400/DDR3 SDRAM)(2GBメモリー増設済み、空きスロット0) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3）、USBポート×3（USB2.0） |
-| Keyboard | OADG準拠86キー、キーピッチ19mm（縦・横）(一部キーを除く) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.0A、電源コードは100V専用 / ▼バッテリーパック：10.8Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah |
-| Power consumption | 最大約80W |
-| Energy efficiency | 2011年度基準 N区分0.15 |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, stereo speakers |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / PC Card | PC card (TYPEII ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1(1.5V/PC3-6400/DDR3 SDRAM)(2GB memory added, 0 free slots) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3), USB ports ×3 (USB2.0) |
+| Keyboard | OADG-compliant 86 keys, key pitch 19mm (vertical/horizontal) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.0A, power cord for 100V only / ▼Battery pack: 10.8V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah |
+| Power consumption | Max approx. 80W |
+| Energy efficiency | 2011 standards N category 0.15 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | 駆動時間：9時間／充電時間：約3.5時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅326mm×奥行251mm×高さ25.5mm/48.5mm（前部/後部） |
-| Weight (with battery) | パソコン本体：約1.62kg（付属のバッテリーパック(約0.32kg)装着時）ACアダプター：約0.29kg（電源コード（約0.06kg）除く） |
-| Software | USBマウスヘルパー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、Corel Win DVD 2010(OEM版)CPRM対応、リカバリーディスク作成ユーティリティ、 |
-| Accessories | ACアダプター、バッテリーパック、取扱説明書 等 |
+| Battery life / charge time | Battery life: 9 hours / Charging time: approx. 3.5 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 326mm × Depth 251mm × Height 25.5mm/48.5mm (front/rear) |
+| Weight (with battery) | PC body: approx. 1.62 kg (when the supplied battery pack (approx. 0.32 kg) is installed) AC adapter: approx. 0.29 kg (excluding the power cord (approx. 0.06 kg)) |
+| Software | USB mouse helper, optical disc drive drive letter change utility, Roxio Creator LJB (including MyDVD), Corel Win DVD 2010 (OEM version) CPRM supported, recovery disc creation utility, |
+| Accessories | AC adapter, battery pack, instruction manual, etc. |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-F10AYCDR | Core i5-580M vPro スマートキャッシュ3MB、動作周波数2.66GHz | 4GB PC3-6400 | 500GB | 1.62 kg | 3.5 h |
-| CF-F10AYPDR | Core i5-580M vPro スマートキャッシュ3MB、動作周波数2.66GHz | 4GB PC3-6400 | 500GB | 1.62 kg | 3.5 h |
+| CF-F10AYCDR | Core i5-580M vPro Smart Cache 3MB, operating frequency 2.66GHz | 4GB PC3-6400 | 500GB | 1.62 kg | 3.5 h |
+| CF-F10AYPDR | Core i5-580M vPro Smart Cache 3MB, operating frequency 2.66GHz | 4GB PC3-6400 | 500GB | 1.62 kg | 3.5 h |
 
 <details>
 <summary>CF-F10AYCDR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、High Speed ＋RW最大6倍速 |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, High Speed +RW max 6x |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-F10AYCDR_spec.html>
 
@@ -79,7 +79,7 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-F10AYCDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW4倍速、High Speed CD-RW 10倍速、High Speed ＋RW最大6倍速 |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, High Speed +RW max 6x |
 | Microsoft Office | Office Home and Business 2010（Word、Excel、PowerPoint、Outlook、OneNote） |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-F10AYPDR_spec.html>
@@ -92,4 +92,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-F10AYPDR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

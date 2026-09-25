@@ -12,45 +12,45 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-AX2TEQBR](https://panasonic.jp/pc/p-db/CF-AX2TEQBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-3537U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2TERBR](https://panasonic.jp/pc/p-db/CF-AX2TERBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-3537U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、小型ビューアー付属 |
-| [CF-AX2TETBR](https://panasonic.jp/pc/p-db/CF-AX2TETBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i7-3537U（2.00GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2AEABR](https://panasonic.jp/pc/p-db/CF-AX2AEABR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i5-3437U vProTM（1.90GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2AEFBR](https://panasonic.jp/pc/p-db/CF-AX2AEFBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64ビット、インテル® CoreTM i5-3437U vProTM（1.90GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX2SEBJR](https://panasonic.jp/pc/p-db/CF-AX2SEBJR_spec.html) | 2013-02 | 2013-11 | Windows 8 64ビット、インテル® CoreTM i5-3337U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2SEGJR](https://panasonic.jp/pc/p-db/CF-AX2SEGJR_spec.html) | 2013-02 | 2013-11 | Windows 8 64ビット、インテル® CoreTM i5-3337U（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2013 |
-| [CF-AX2QEQBR](https://panasonic.jp/pc/p-db/CF-AX2QEQBR_spec.html) | 2012-11 | 2013-05 | Windows 8 Pro 64ビット、インテル® CoreTM i7-3517U（1.90GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2QERBR](https://panasonic.jp/pc/p-db/CF-AX2QERBR_spec.html) | 2012-11 | 2013-05 | Windows 8 Pro 64ビット、インテル® CoreTM i7-3517U（1.90GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、小型ビューアー付属 |
-| [CF-AX2LEABR](https://panasonic.jp/pc/p-db/CF-AX2LEABR_spec.html) | 2012-10 | 2013-05 | Windows 8 Pro 64ビット、インテル® CoreTM i5-3427U vProTM（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2LEFBR](https://panasonic.jp/pc/p-db/CF-AX2LEFBR_spec.html) | 2012-10 | 2013-05 | Windows 8 Pro 64ビット、インテル® CoreTM i5-3427U vProTM（1.80GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-AX2QEBJR](https://panasonic.jp/pc/p-db/CF-AX2QEBJR_spec.html) | 2012-10 | 2013-05 | Windows 8 64ビット、インテル® CoreTM i5-3317U（1.70GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-AX2QEGJR](https://panasonic.jp/pc/p-db/CF-AX2QEGJR_spec.html) | 2012-10 | 2013-05 | Windows 8 64ビット、インテル® CoreTM i5-3317U（1.70GHz）、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
+| [CF-AX2TEQBR](https://panasonic.jp/pc/p-db/CF-AX2TEQBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-3537U (2.00GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2TERBR](https://panasonic.jp/pc/p-db/CF-AX2TERBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-3537U (2.00GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, small viewer included |
+| [CF-AX2TETBR](https://panasonic.jp/pc/p-db/CF-AX2TETBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i7-3537U (2.00GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2AEABR](https://panasonic.jp/pc/p-db/CF-AX2AEABR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i5-3437U vProTM (1.90GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2AEFBR](https://panasonic.jp/pc/p-db/CF-AX2AEFBR_spec.html) | 2013-02 | 2013-11 | Windows 8 Pro 64-bit, Intel® CoreTM i5-3437U vProTM (1.90GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX2SEBJR](https://panasonic.jp/pc/p-db/CF-AX2SEBJR_spec.html) | 2013-02 | 2013-11 | Windows 8 64-bit, Intel® CoreTM i5-3337U (1.80GHz), Memory: 4GB (no expansion slots), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2SEGJR](https://panasonic.jp/pc/p-db/CF-AX2SEGJR_spec.html) | 2013-02 | 2013-11 | Windows 8 64-bit, Intel® CoreTM i5-3337U (1.80GHz), Memory: 4GB (no expansion slots), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2013 |
+| [CF-AX2QEQBR](https://panasonic.jp/pc/p-db/CF-AX2QEQBR_spec.html) | 2012-11 | 2013-05 | Windows 8 Pro 64-bit, Intel® CoreTM i7-3517U (1.90GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2QERBR](https://panasonic.jp/pc/p-db/CF-AX2QERBR_spec.html) | 2012-11 | 2013-05 | Windows 8 Pro 64-bit, Intel® CoreTM i7-3517U (1.90GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, small viewer included |
+| [CF-AX2LEABR](https://panasonic.jp/pc/p-db/CF-AX2LEABR_spec.html) | 2012-10 | 2013-05 | Windows 8 Pro 64-bit, Intel® CoreTM i5-3427U vProTM (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2LEFBR](https://panasonic.jp/pc/p-db/CF-AX2LEFBR_spec.html) | 2012-10 | 2013-05 | Windows 8 Pro 64-bit, Intel® CoreTM i5-3427U vProTM (1.80GHz), Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-AX2QEBJR](https://panasonic.jp/pc/p-db/CF-AX2QEBJR_spec.html) | 2012-10 | 2013-05 | Windows 8 64-bit, Intel® CoreTM i5-3317U (1.70GHz), Memory: 4GB (no expansion slots), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-AX2QEGJR](https://panasonic.jp/pc/p-db/CF-AX2QEGJR_spec.html) | 2012-10 | 2013-05 | Windows 8 64-bit, Intel® CoreTM i5-3317U (1.70GHz), Memory: 4GB (no expansion slots), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Memory | 標準4GB PC3-10600/DDR3L SDRAM（空きスロット無し） |
-| Video memory | 最大1664MB (メインメモリーと共用) |
-| Display / Graphics | インテル HD グラフィックス4000（CPUに内蔵） |
-| Display / LCD colors | 1366×768ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 1024×768、1280×768、1360×768、1366×768：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N + WiMAX 6250 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大8Mbps（ベストエフォート方式）） |
+| Memory | Standard 4GB PC3-10600/DDR3L SDRAM (no free slots) |
+| Video memory | Maximum 1664MB (shared with main memory) |
+| Display / Graphics | Intel HD Graphics 4000 (built into CPU) |
+| Display / LCD colors | 1366×768 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 1024×768, 1280×768, 1360×768, 1366×768: approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N + WiMAX 6250 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 8Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
 | Bluetooth | Bluetooth v4.0 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
 | Card slots / PC Card | － |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
 | Memory expansion slot | － |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Microphone | モノラル |
-| Keyboard | OADG準拠86キー、キーピッチ18mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power consumption | 最大約45W（社）電子情報技術産業協会 情報処理機器高調波電流抑制対策実行計画書に基づく定格入力電力値： 27W。 |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Microphone | Monaural |
+| Keyboard | OADG-compliant 86 keys, key pitch 18mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power consumption | Max approx. 45W (Japan Electronics and Information Technology Industries Association, based on the Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan rated input power value: 27W.) |
 | Efficiency target achievement (FY2011 standard) | — |
-| Weight (with battery) | パソコン本体：約1.14kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
+| Weight (with battery) | PC body: approx. 1.14kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
 
 ## Differences by part number
 
@@ -75,22 +75,22 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル Core i7-3537U プロセッサー / インテルスマートキャッシュ4MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.1GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.075 |
-| Battery life / charge time | ▼駆動時間：約9時間（内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel Core i7-3537U processor / Intel Smart Cache 4MB, operating frequency 2.0GHz (up to 3.1GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.075 |
+| Battery life / charge time | ▼Battery life: approx. 9 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TEQBR_spec.html>
 
@@ -101,22 +101,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TEQBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル Core i7-3537U プロセッサー / インテルスマートキャッシュ4MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.1GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.075 |
-| Battery life / charge time | ▼駆動時間：約9時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、小型ビューアー |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel Core i7-3537U processor / Intel Smart Cache 4MB, operating frequency 2.0GHz (up to 3.1GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.075 |
+| Battery life / charge time | ▼Battery life: approx. 9 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, compact viewer |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TERBR_spec.html>
 
@@ -127,22 +127,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TERBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル Core i7-3537U プロセッサー / インテルスマートキャッシュ4MB、動作周波数2.0GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.1GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.075 |
-| Battery life / charge time | ▼駆動時間：約9時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | ブラック |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel Core i7-3537U processor / Intel Smart Cache 4MB, operating frequency 2.0GHz (up to 3.1GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.075 |
+| Battery life / charge time | ▼Battery life: approx. 9 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Black |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TETBR_spec.html>
 
@@ -153,22 +153,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2TETBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-3437U vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz） |
-| Chipset | モバイル インテル QM77 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.081 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel vPro Technology / Intel Core i5-3437U vPro Processor / Intel Smart Cache 3MB, operating frequency 1.90GHz (max 2.90GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM77 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.081 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2AEABR_spec.html>
 
@@ -179,22 +179,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2AEABR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-3437U vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz） |
-| Chipset | モバイル インテル QM77 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.081 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software / VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、Microsoft Office Home and Business 2013 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel vPro Technology / Intel Core i5-3437U vPro Processor / Intel Smart Cache 3MB, operating frequency 1.90GHz (max 2.90GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM77 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.081 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software / VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, Microsoft Office Home and Business 2013 |
 | Microsoft Office | Microsoft Office Home and Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2AEFBR_spec.html>
@@ -206,22 +206,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2AEFBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 64ビット正規版 |
-| CPU | インテル Core i5-3337U プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
+| OS | Windows 8 64-bit genuine version |
+| CPU | Intel Core i5-3337U processor / Intel Smart Cache 3MB, operating frequency 1.80GHz (up to 2.70GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
 | Security chip | － |
-| Sensors | 照度センサー、地磁気センサー、ジャイロセンサー、加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.087 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×1、取扱説明書 |
+| Sensors | Illuminance sensor, geomagnetic sensor, gyro sensor, acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.087 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (when built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software |
+| Accessories | AC adapter, wall mount plug, battery pack ×1, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2SEBJR_spec.html>
 
@@ -232,22 +232,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2SEBJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 64ビット正規版 |
-| CPU | インテル Core i5-3337U プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電タッチスクリーン付 |
+| OS | Windows 8 64-bit genuine version |
+| CPU | Intel Core i5-3337U processor / Intel Smart Cache 3MB, operating frequency 1.80GHz (up to 2.70GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
 | Security chip | － |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2（右側面） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.087 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約3時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10 / 緑のgooスティック / ネットセレクター3 / 無線ツールボックス / Bluetooth Stack for Windows by TOSHIBA / セキュリティ設定ユーティリティ / マカフィー・PCセキュリティセンター / マカフィー・アンチセフト / i-フィルター6.0 (30日お試し版) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5日本語版（45日体験版） / バッテリー残量表示補正ユーティリティ / NumLockお知らせ / Hotkey設定 / Fn Ctrl入れ替えユーティリティ / HOLDモード設定ユーティリティ / 電源プラン拡張ユーティリティ / ピークシフト制御ユーティリティ / Microsoft Windows Media Player 12 / プロジェクターヘルパー / USBキーボードヘルパー / ディスプレイヘルパー / Wireless Manager mobile edition6.0 / USB充電設定ユーティリティ / カメラユーティリティ / Camera for Panasonic PC / スマートアーチ / 画面分割ユーティリティ / 画面回転ツール / PC情報ポップアップ / PC情報ビューアー / Aptioセットアップユーティリティ / PC-Diagnosticユーティリティ / Dashboard for Panasonic PC / リカバリーディスク作成ユーティリティ / ハードディスクデータ消去ユーティリティ / DirectX 11 / Microsoft .NET Framework 4.5 / インテル PROSet/Wireless Software |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×1、取扱説明書、Microsoft Office Home and Business 2013 |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 (right side) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.087 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10 / Midori no goo Stick / Net Selector 3 / Wireless Toolbox / Bluetooth Stack for Windows by TOSHIBA / Security Setting Utility / McAfee PC Security Center / McAfee Anti-Theft / i-Filter 6.0 (30-day trial version) / Infineon TPM Professional Package / Adobe Reader / WinZip 16.5 Japanese version (45-day trial version) / Battery Remaining Display Correction Utility / NumLock Notification / Hotkey Settings / Fn Ctrl Swap Utility / HOLD Mode Setting Utility / Power Plan Extension Utility / Peak Shift Control Utility / Microsoft Windows Media Player 12 / Projector Helper / USB Keyboard Helper / Display Helper / Wireless Manager mobile edition6.0 / USB Charging Setting Utility / Camera Utility / Camera for Panasonic PC / Smart Arch / Screen Split Utility / Screen Rotation Tool / PC Information Popup / PC Information Viewer / Aptio Setup Utility / PC-Diagnostic Utility / Dashboard for Panasonic PC / Recovery Disc Creation Utility / Hard Disk Data Erase Utility / DirectX 11 / Microsoft .NET Framework 4.5 / Intel PROSet/Wireless Software |
+| Accessories | AC adapter, wall mount plug, battery pack ×1, instruction manual, Microsoft Office Home and Business 2013 |
 | Microsoft Office | Microsoft Office Home and Business 2013 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2SEGJR_spec.html>
@@ -259,22 +259,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2SEGJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル Core i7-3517U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.077 |
-| Battery life / charge time | ▼駆動時間：約9時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel Core i7-3517U processor / Intel Smart Cache 4MB, operating frequency 1.90GHz (up to 3.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.077 |
+| Battery life / charge time | ▼Battery life: approx. 9 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package, Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEQBR_spec.html>
 
@@ -285,22 +285,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEQBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル Core i7-3517U プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチパネル（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.077 |
-| Battery life / charge time | ▼駆動時間：約9時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、小型ビューアー |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel Core i7-3517U processor / Intel Smart Cache 4MB, operating frequency 1.90GHz (up to 3.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.077 |
+| Battery life / charge time | ▼Battery life: approx. 9 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package, Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, compact viewer |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QERBR_spec.html>
 
@@ -311,22 +311,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QERBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-3427U vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.80GHz） |
-| Chipset | モバイル インテル QM77 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.083 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel vPro Technology / Intel Core i5-3427U vPro Processor / Intel Smart Cache 3MB, operating frequency 1.80GHz (max 2.80GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM77 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.083 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package, Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2LEABR_spec.html>
 
@@ -337,22 +337,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2LEABR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 Pro 64ビット正規版 |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-3427U vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.80GHz） |
-| Chipset | モバイル インテル QM77 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.083 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×2、バッテリーチャージャー、取扱説明書、Microsoft Office Home and Business 2010 |
+| OS | Windows 8 Pro 64-bit genuine version |
+| CPU | Intel vPro Technology / Intel Core i5-3427U vPro Processor / Intel Smart Cache 3MB, operating frequency 1.80GHz (max 2.80GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM77 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh *20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.083 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package, Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×2, battery charger, instruction manual, Microsoft Office Home and Business 2010 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2LEFBR_spec.html>
@@ -364,22 +364,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2LEFBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 64ビット正規版 |
-| CPU | インテル Core i5-3317U プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.70GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
+| OS | Windows 8 64-bit genuine version |
+| CPU | Intel Core i5-3317U processor / Intel Smart Cache 3MB, operating frequency 1.70GHz (up to 2.60GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
 | Security chip | － |
-| Sensors | 照度センサー、地磁気センサー、ジャイロセンサー、加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.089 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電時、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×1、取扱説明書 |
+| Sensors | Illuminance sensor, geomagnetic sensor, gyro sensor, acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.089 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (when built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×1, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEBJR_spec.html>
 
@@ -390,22 +390,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEBJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows8 64ビット正規版 |
-| CPU | インテル Core i5-3317U プロセッサー / インテルスマートキャッシュ3MB、動作周波数1.70GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.60GHz） |
-| Chipset | モバイル インテル HM76 Express チップセット |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約10GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 11.6型ワイド(16:9)HD TFTカラー液晶 （1366 x 768ドット）、静電式タッチスクリーン付 |
+| OS | Windows 8 64-bit genuine version |
+| CPU | Intel Core i5-3317U processor / Intel Smart Cache 3MB, operating frequency 1.70GHz (up to 2.60GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM76 Express chipset |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 10GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 11.6-inch widescreen (16:9) HD TFT color LCD (1366 x 768 dots), with capacitive touchscreen |
 | Security chip | － |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / ・HDMI出力端子 / ・マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / ・オーディオ出力端子（ステレオミニジャックM3） / ・USB3.0ポート×2 |
-| Pointing device | 静電式タッチスクリーン（液晶）/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.82A、電源コードは100V専用 / ▼内蔵バッテリー / 7.2V（リチウムイオン）公称容量2200mAh、定格容量2050mAh※20 / ▼バッテリーパック / 7.2V（リチウムイオン）公称容量4400mAh、定格容量4100mAh |
-| Energy efficiency | 2011年度基準 S区分0.089 |
-| Battery life / charge time | ▼駆動時間：約9.5時間 （内蔵バッテリーパックのみ：約３時間） / ▼充電時間：約4時間（電源ON/OFF時ともに）、約2時間（内蔵バッテリー満充電、電源ON/OFF時ともに） |
-| Dimensions (W×D×H) | 幅288mm × 奥行き194mm × 高さ18mm（タブレット状態の高さは約19mm） 突起部除く |
-| Color | シルバー |
-| Software | Microsoft Internet Explorer 10、緑のgooスティック、ネットセレクター3、無線ツールボックス、Bluetooth Stack for Windows by TOSHIBA、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 16.5日本語版（45日体験版）、バッテリー残量表示補正ユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl入れ替えユーティリティ、キングソフト辞書、HOLDモード設定ユーティリティ、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition6.0、USB充電設定ユーティリティ、カメラユーティリティ、Camera for Panasonic PC、スマートアーチ、画面分割ユーティリティ、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 4.5、インテル PROSet/Wireless Software 、VIP Access for Desktop（インテル IPT 用アプリケーションソフト） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック×1、取扱説明書、Microsoft Office Home and Business 2010 |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini Dsub 15-pin) / ・HDMI output terminal / ・Microphone input terminal (Stereo mini jack M3 (plug-in power compatible)) / ・Audio output terminal (Stereo mini jack M3) / ・USB3.0 port × 2 |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.82A, power cord for 100V only / ▼Built-in battery / 7.2V (lithium-ion) nominal capacity 2200mAh, rated capacity 2050mAh*20 / ▼Battery pack / 7.2V (lithium-ion) nominal capacity 4400mAh, rated capacity 4100mAh |
+| Energy efficiency | 2011 standards S category 0.089 |
+| Battery life / charge time | ▼Battery life: approx. 9.5 hours (built-in battery pack only: approx. 3 hours) / ▼Charging time: approx. 4 hours (both power ON/OFF), approx. 2 hours (built-in battery fully charged, both power ON/OFF) |
+| Dimensions (W×D×H) | Width 288mm × Depth 194mm × Height 18mm (height in tablet state is approx. 19mm) Excluding protrusions |
+| Color | Silver |
+| Software | Microsoft Internet Explorer 10, Midori no goo Stick, Net Selector 3, Wireless Tool Box, Bluetooth Stack for Windows by TOSHIBA, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 16.5 Japanese version (45-day trial version), Battery Remaining Display Correction Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Swap Utility, Kingsoft Dictionary, HOLD Mode Setting Utility, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition6.0, USB Charging Setting Utility, Camera Utility, Camera for Panasonic PC, Smart Arch, Screen Split Utility, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 4.5, Intel PROSet/Wireless Software, VIP Access for Desktop (application software for Intel IPT) |
+| Accessories | AC adapter, wall mount plug, battery pack ×1, instruction manual, Microsoft Office Home and Business 2010 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEGJR_spec.html>
@@ -437,4 +437,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-AX2QEGJR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

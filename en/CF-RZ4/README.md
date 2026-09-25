@@ -12,41 +12,41 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-RZ4LDDJR](https://panasonic.jp/pc/p-db/CF-RZ4LDDJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10c プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac |
-| [CF-RZ4LDFJR](https://panasonic.jp/pc/p-db/CF-RZ4LDFJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10c プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4LFDJR](https://panasonic.jp/pc/p-db/CF-RZ4LFDJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10c プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Xi（LTE）対応ワイヤレスWAN |
-| [CF-RZ4LDEJR](https://panasonic.jp/pc/p-db/CF-RZ4LDEJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y10c プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4DDLBR](https://panasonic.jp/pc/p-db/CF-RZ4DDLBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y71 vProTM プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4DFMBR](https://panasonic.jp/pc/p-db/CF-RZ4DFMBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y71 vProTM プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Xi（LTE）対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ4JDDJR](https://panasonic.jp/pc/p-db/CF-RZ4JDDJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y31 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac |
-| [CF-RZ4JDFJR](https://panasonic.jp/pc/p-db/CF-RZ4JDFJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y31 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4JDEJR](https://panasonic.jp/pc/p-db/CF-RZ4JDEJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y31 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4JDLBR](https://panasonic.jp/pc/p-db/CF-RZ4JDLBR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y31 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4JDMBR](https://panasonic.jp/pc/p-db/CF-RZ4JDMBR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y31 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4CDDJR](https://panasonic.jp/pc/p-db/CF-RZ4CDDJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac |
-| [CF-RZ4CDFJR](https://panasonic.jp/pc/p-db/CF-RZ4CDFJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4CDEJR](https://panasonic.jp/pc/p-db/CF-RZ4CDEJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64ビット、Intel® CoreTM M-5Y10 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4CDLBR](https://panasonic.jp/pc/p-db/CF-RZ4CDLBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM M-5Y10 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ4CDMBR](https://panasonic.jp/pc/p-db/CF-RZ4CDMBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64ビット、インテル® CoreTM M-5Y10 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-RZ4LDDJR](https://panasonic.jp/pc/p-db/CF-RZ4LDDJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10c processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-RZ4LDFJR](https://panasonic.jp/pc/p-db/CF-RZ4LDFJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10c processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4LFDJR](https://panasonic.jp/pc/p-db/CF-RZ4LFDJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10c processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Xi (LTE) compatible wireless WAN |
+| [CF-RZ4LDEJR](https://panasonic.jp/pc/p-db/CF-RZ4LDEJR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y10c processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4DDLBR](https://panasonic.jp/pc/p-db/CF-RZ4DDLBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y71 vProTM processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4DFMBR](https://panasonic.jp/pc/p-db/CF-RZ4DFMBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y71 vProTM Processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Xi (LTE) supported Wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ4JDDJR](https://panasonic.jp/pc/p-db/CF-RZ4JDDJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y31 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-RZ4JDFJR](https://panasonic.jp/pc/p-db/CF-RZ4JDFJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y31 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4JDEJR](https://panasonic.jp/pc/p-db/CF-RZ4JDEJR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y31 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4JDLBR](https://panasonic.jp/pc/p-db/CF-RZ4JDLBR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y31 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4JDMBR](https://panasonic.jp/pc/p-db/CF-RZ4JDMBR_spec.html) | 2015-02 | 2015-11 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y31 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4CDDJR](https://panasonic.jp/pc/p-db/CF-RZ4CDDJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-RZ4CDFJR](https://panasonic.jp/pc/p-db/CF-RZ4CDFJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4CDEJR](https://panasonic.jp/pc/p-db/CF-RZ4CDEJR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Update 64-bit, Intel® CoreTM M-5Y10 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4CDLBR](https://panasonic.jp/pc/p-db/CF-RZ4CDLBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y10 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ4CDMBR](https://panasonic.jp/pc/p-db/CF-RZ4CDMBR_spec.html) | 2014-10 | 2015-06 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM M-5Y10 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Display / Graphics | インテル HD グラフィックス5300（CPUに内蔵） |
-| Display / LCD colors | 1920×1200ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Wireless communication | インテル Dual Band Wireless-AC 7265 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac準拠 |
+| Display / Graphics | Intel HD Graphics 5300 (integrated in CPU) |
+| Display / LCD colors | 1920×1200 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Dual Band Wireless-AC 7265 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac compliant |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Microphone | アレイマイク |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Keyboard | OADG準拠86キー、キーピッチ16.8mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Power consumption | 最大約45W |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Microphone | Array microphone |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Keyboard | OADG-compliant 86 keys, key pitch 16.8mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Power consumption | Max approx. 45W |
 | Efficiency target achievement (FY2011 standard) | — |
-| Dimensions (W×D×H) | 幅250mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
+| Dimensions (W×D×H) | Width 250mm × Depth 180.8mm × Height 19.5mm (excluding protrusions) |
 
 ## Differences by part number
 
@@ -74,25 +74,25 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10c プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.00GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版)) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布 |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10c Processor / Intel Smart Cache 4MB, operating frequency 0.80GHz (up to 2.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 4GB LPDDR3 SDRAM (0 empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version)) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall mount plug, battery pack, instruction manual, dedicated cloth |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDDJR_spec.html>
 
@@ -103,25 +103,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDDJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10c プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.00GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 ((30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10c Processor / Intel Smart Cache 4MB, operating frequency 0.80GHz (up to 2.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 4GB LPDDR3 SDRAM (0 empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 ((30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDFJR_spec.html>
@@ -133,27 +133,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDFJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10c プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.00GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.770kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版)) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布 |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10c Processor / Intel Smart Cache 4MB, operating frequency 0.80GHz (up to 2.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 4GB LPDDR3 SDRAM (0 empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.770kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version)) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall mount plug, battery pack, instruction manual, dedicated cloth |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LFDJR_spec.html>
 
@@ -164,25 +164,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LFDJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10c プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.80GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.00GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.030 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー&カッパー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10c Processor / Intel Smart Cache 4MB, operating frequency 0.80GHz (up to 2.00GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 4GB LPDDR3 SDRAM (0 empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.030 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDEJR_spec.html>
@@ -194,27 +194,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4LDEJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y71 vProプロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.022 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y71 vPro Processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 2.90GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB LPDDR3 SDRAM (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.022 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Security chip | TPM（ TCG V1.2準拠） |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4DDLBR_spec.html>
 
@@ -225,28 +225,28 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4DDLBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y71 vProプロセッサー / インテルスマートキャッシュ4MB、動作周波数1.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.022 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ウォームゴールド＆カッパー |
-| Weight (with battery) | パソコン本体：約0.770kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y71 vPro Processor / Intel Smart Cache 4MB, operating frequency 1.20GHz (up to 2.90GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB LPDDR3 SDRAM (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.022 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Warm Gold & Copper |
+| Weight (with battery) | PC body: approx. 0.770kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Security chip | TPM（ TCG V1.2準拠） |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4DFMBR_spec.html>
 
@@ -257,24 +257,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4DFMBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y31プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.9GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.4GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版)) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布 |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y31 Processor / Intel Smart Cache 4MB, operating frequency 0.9GHz (up to 2.4GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version)) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall mount plug, battery pack, instruction manual, dedicated cloth |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDDJR_spec.html>
 
@@ -285,24 +285,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDDJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y31プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.9GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.4GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 ((30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y31 Processor / Intel Smart Cache 4MB, operating frequency 0.9GHz (up to 2.4GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 ((30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDFJR_spec.html>
@@ -314,24 +314,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDFJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y31プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.9GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.4GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー&カッパー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y31 Processor / Intel Smart Cache 4MB, operating frequency 0.9GHz (up to 2.4GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDEJR_spec.html>
@@ -343,24 +343,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDEJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y31プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.9GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.4GHz） |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y31 Processor / Intel Smart Cache 4MB, operating frequency 0.9GHz (up to 2.4GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDLBR_spec.html>
@@ -372,24 +372,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDLBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y31プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.9GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.4GHz） |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチパネル（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー&カッパー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・画面回転ツール / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテルMy WiFiテクノロジー / ・Skype / ・NAVITIME / ・タッチパネルモード設定ユーティリティ / ・手書きツール2 / ・Adobe Reader Touch / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・タッチパッド誤動作防止ユーティリティ |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y31 Processor / Intel Smart Cache 4MB, operating frequency 0.9GHz (up to 2.4GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touch panel (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・HOLD mode setting utility / ・Touch operation help utility / ・Power plan extension utility / ・Peak shift control utility / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Screen rotation tool / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Touch panel mode setting utility / ・Handwriting tool 2 / ・Adobe Reader Touch / ・Bing Translator / ・Screen sharing assist utility / ・Touchpad malfunction prevention utility |
+| Accessories | AC adapter with wall-mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDMBR_spec.html>
@@ -401,24 +401,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4JDMBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.0GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色5 |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10 Processor / Intel Smart Cache 4MB, operating frequency 0.8GHz (up to 2.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch screen, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors5 |
 | Bluetooth | Bluetooth v4.0 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II 高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.029 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・タッチパッド誤操作防止ユーティリティ / ・画面共有アシストユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・インテル My WiFi テクノロジー / ・インテル WiDi / ・VIP Access for Desktop / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、専用布 |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.029 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Wireless Toolbox / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee PC Security Center / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 17.0 Japanese version (45-day trial version) / ・Battery remaining display correction utility / ・NumLock Notification / ・Hotkey setting / ・Fn Ctrl swap utility / ・HOLD mode setting utility / ・Touch operation help utility / ・Handwriting tool 2 / ・Touchpad malfunction prevention utility / ・Screen sharing assist utility / ・Power plan extension utility / ・Peak shift control utility / ・Microsoft Windows Media Player 12 / ・Projector Helper / ・USB Keyboard Helper / ・Display Helper / ・Wireless Manager mobile edition / ・USB charging setting utility / ・Camera utility (for desktop screen) / ・Camera for Panasonic PC (for Start screen) / ・Screen split utility / ・Screen rotation tool / ・Touch panel mode setting utility / ・PC Information Popup / ・PC Information Viewer / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Intel WiDi / ・VIP Access for Desktop / ・Skype (for Start screen) / ・NAVITIME (for Start screen) / ・Adobe Reader Touch (for Start screen) / ・Bing Translator (for Start screen) |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, dedicated cloth |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDDJR_spec.html>
 
@@ -429,24 +429,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDDJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.0GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10 Processor / Intel Smart Cache 4MB, operating frequency 0.8GHz (up to 2.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch screen, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
 | Bluetooth | Bluetooth v4.0 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II 高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.029 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・タッチパッド誤操作防止ユーティリティ / ・画面共有アシストユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・インテル My WiFi テクノロジー / ・インテル WiDi / ・VIP Access for Desktop / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.029 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Wireless Toolbox / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee PC Security Center / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 17.0 Japanese version (45-day trial version) / ・Battery remaining display correction utility / ・NumLock Notification / ・Hotkey setting / ・Fn Ctrl swap utility / ・HOLD mode setting utility / ・Touch operation help utility / ・Handwriting tool 2 / ・Touchpad malfunction prevention utility / ・Screen sharing assist utility / ・Power plan extension utility / ・Peak shift control utility / ・Microsoft Windows Media Player 12 / ・Projector Helper / ・USB Keyboard Helper / ・Display Helper / ・Wireless Manager mobile edition / ・USB charging setting utility / ・Camera utility (for desktop screen) / ・Camera for Panasonic PC (for Start screen) / ・Screen split utility / ・Screen rotation tool / ・Touch panel mode setting utility / ・PC Information Popup / ・PC Information Viewer / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Intel WiDi / ・VIP Access for Desktop / ・Skype (for Start screen) / ・NAVITIME (for Start screen) / ・Adobe Reader Touch (for Start screen) / ・Bing Translator (for Start screen) |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDFJR_spec.html>
@@ -458,24 +458,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDFJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.0GHz） |
-| Memory | 4GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大1993MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
+| OS | Windows 8.1 Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10 Processor / Intel Smart Cache 4MB, operating frequency 0.8GHz (up to 2.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no empty slots) |
+| Video memory | Max. 1993MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch screen, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
 | Bluetooth | Bluetooth v4.0 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II 高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 S区分0.029 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー&カッパー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・タッチパッド誤操作防止ユーティリティ / ・画面共有アシストユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・インテル My WiFi テクノロジー / ・インテル WiDi / ・VIP Access for Desktop / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Energy efficiency | 2011 standards S category 0.029 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Wireless Toolbox / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee PC Security Center / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 17.0 Japanese version (45-day trial version) / ・Battery remaining display correction utility / ・NumLock Notification / ・Hotkey setting / ・Fn Ctrl swap utility / ・HOLD mode setting utility / ・Touch operation help utility / ・Handwriting tool 2 / ・Touchpad malfunction prevention utility / ・Screen sharing assist utility / ・Power plan extension utility / ・Peak shift control utility / ・Microsoft Windows Media Player 12 / ・Projector Helper / ・USB Keyboard Helper / ・Display Helper / ・Wireless Manager mobile edition / ・USB charging setting utility / ・Camera utility (for desktop screen) / ・Camera for Panasonic PC (for Start screen) / ・Screen split utility / ・Screen rotation tool / ・Touch panel mode setting utility / ・PC Information Popup / ・PC Information Viewer / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Intel WiDi / ・VIP Access for Desktop / ・Skype (for Start screen) / ・NAVITIME (for Start screen) / ・Adobe Reader Touch (for Start screen) / ・Bing Translator (for Start screen) |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDEJR_spec.html>
@@ -487,24 +487,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDEJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.0GHz） |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10 Processor / Intel Smart Cache 4MB, operating frequency 0.8GHz (up to 2.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch screen, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
 | Bluetooth | Bluetooth v4.0 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II 高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.029 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・タッチパッド誤操作防止ユーティリティ / ・画面共有アシストユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・インテル My WiFi テクノロジー / ・インテル WiDi / ・VIP Access for Desktop / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.029 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Wireless Toolbox / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee PC Security Center / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 17.0 Japanese version (45-day trial version) / ・Battery remaining display correction utility / ・NumLock Notification / ・Hotkey setting / ・Fn Ctrl swap utility / ・HOLD mode setting utility / ・Touch operation help utility / ・Handwriting tool 2 / ・Touchpad malfunction prevention utility / ・Screen sharing assist utility / ・Power plan extension utility / ・Peak shift control utility / ・Microsoft Windows Media Player 12 / ・Projector Helper / ・USB Keyboard Helper / ・Display Helper / ・Wireless Manager mobile edition / ・USB charging setting utility / ・Camera utility (for desktop screen) / ・Camera for Panasonic PC (for Start screen) / ・Screen split utility / ・Screen rotation tool / ・Touch panel mode setting utility / ・PC Information Popup / ・PC Information Viewer / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Intel WiDi / ・VIP Access for Desktop / ・Skype (for Start screen) / ・NAVITIME (for Start screen) / ・Adobe Reader Touch (for Start screen) / ・Bing Translator (for Start screen) |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDLBR_spec.html>
@@ -516,24 +516,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDLBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテルCore M-5Y10プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.8GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.0GHz） |
-| Memory | 8GB LPDDR3 SDRAM（空きスロット無し） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチスクリーン、アンチグレア保護フィルム付 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core M-5Y10 Processor / Intel Smart Cache 4MB, operating frequency 0.8GHz (up to 2.0GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch screen, with anti-glare protective film |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
 | Bluetooth | Bluetooth v4.0 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II 高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：FullHD（1080p）、有効画素数：最大1920×1080ピクセル |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力、ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Pointing device | 静電タッチスクリーン（液晶）/タッチパッド |
-| Energy efficiency | 2011年度基準 N区分0.029 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約10時間/（JEITA Ver.1.0）約14時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー&カッパー |
-| Weight (with battery) | パソコン本体：約0.745kg、ACアダプター：約0.185kg（ウォールマウントプラグ（約0.02kg）電源コード（約0.06 kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・無線ツールボックス / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィー・PCセキュリティセンター / ・i-フィルター6.0 (30日お試し版) / ・Adobe Reader / ・WinZip 17.0日本語版（45日体験版） / ・バッテリー残量表示補正ユーティリティ / ・NumLockお知らせ / ・Hotkey設定 / ・Fn Ctrl入れ替えユーティリティ / ・HOLDモード設定ユーティリティ / ・タッチ操作ヘルプユーティリティ / ・手書きツール2 / ・タッチパッド誤操作防止ユーティリティ / ・画面共有アシストユーティリティ / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Microsoft Windows Media Player 12 / ・プロジェクターヘルパー / ・USBキーボードヘルパー / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・USB充電設定ユーティリティ / ・カメラユーティリティ（デスクトップ画面用） / ・Camera for Panasonic PC（スタート画面用） / ・画面分割ユーティリティ / ・画面回転ツール / ・タッチパネルモード設定ユーティリティ / ・PC情報ポップアップ / ・PC情報ビューアー / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・インテル PROSet/Wireless Software / ・インテル My WiFi テクノロジー / ・インテル WiDi / ・VIP Access for Desktop / ・Skype（スタート画面用） / ・NAVITIME（スタート画面用） / ・Adobe Reader Touch（スタート画面用） / ・Bing翻訳（スタート画面用） |
-| Accessories | ACアダプター、ウォールマウントプラグ、バッテリーパック、取扱説明書、専用布、Microsoft Office Home & Business Premium |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: FullHD (1080p), effective pixels: max. 1920×1080 pixels |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output, headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Pointing device | Capacitive touchscreen (LCD) / Touchpad |
+| Energy efficiency | 2011 fiscal year standard N category 0.029 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 10 hours / (JEITA Ver.1.0) approx. 14 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.745kg, AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.02kg) and power cord (approx. 0.06 kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Wireless Toolbox / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee PC Security Center / ・i-Filter 6.0 (30-day trial version) / ・Adobe Reader / ・WinZip 17.0 Japanese version (45-day trial version) / ・Battery remaining display correction utility / ・NumLock Notification / ・Hotkey setting / ・Fn Ctrl swap utility / ・HOLD mode setting utility / ・Touch operation help utility / ・Handwriting tool 2 / ・Touchpad malfunction prevention utility / ・Screen sharing assist utility / ・Power plan extension utility / ・Peak shift control utility / ・Microsoft Windows Media Player 12 / ・Projector Helper / ・USB Keyboard Helper / ・Display Helper / ・Wireless Manager mobile edition / ・USB charging setting utility / ・Camera utility (for desktop screen) / ・Camera for Panasonic PC (for Start screen) / ・Screen split utility / ・Screen rotation tool / ・Touch panel mode setting utility / ・PC Information Popup / ・PC Information Viewer / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Microsoft .NET Framework 4.5 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Intel WiDi / ・VIP Access for Desktop / ・Skype (for Start screen) / ・NAVITIME (for Start screen) / ・Adobe Reader Touch (for Start screen) / ・Bing Translator (for Start screen) |
+| Accessories | AC adapter, wall mount plug, battery pack, instruction manual, dedicated cloth, Microsoft Office Home & Business Premium |
 | Microsoft Office | Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDMBR_spec.html>
@@ -553,4 +553,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ4CDMBR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

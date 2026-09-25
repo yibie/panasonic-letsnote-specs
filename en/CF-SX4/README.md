@@ -12,55 +12,55 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-SX4MDPBR](https://panasonic.jp/pc/p-db/CF-SX4MDPBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i5-5200U プロセッサー、メモリー：8GB（空きスロットなし）、HDD：1TB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4KFTBR](https://panasonic.jp/pc/p-db/CF-SX4KFTBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i7-5600U vProTM プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Xi（LTE）対応ワイヤレスWAN |
-| [CF-SX4KFYBR](https://panasonic.jp/pc/p-db/CF-SX4KFYBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i7-5600U vProTM プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Xi（LTE）対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-SX4MDPWR](https://panasonic.jp/pc/p-db/CF-SX4MDPWR_spec.html) | 2015-06 | 2016-02 | Windows 7 Professional 64ビット、Intel® CoreTM i5-5200U プロセッサー、メモリー：8GB（空きスロットなし）、HDD：1TB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4KDYWR](https://panasonic.jp/pc/p-db/CF-SX4KDYWR_spec.html) | 2015-06 | 2016-02 | Windows 7 Professional 64ビット、Intel® CoreTM i7-5600U vProTM プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4HDPBR](https://panasonic.jp/pc/p-db/CF-SX4HDPBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i5-5200U プロセッサー、メモリー：8GB（空きスロットなし）、HDD：750GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4JDTBR](https://panasonic.jp/pc/p-db/CF-SX4JDTBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i7-5500U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac |
-| [CF-SX4JDYBR](https://panasonic.jp/pc/p-db/CF-SX4JDYBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64ビット、Intel® CoreTM i7-5500U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4HDPWR](https://panasonic.jp/pc/p-db/CF-SX4HDPWR_spec.html) | 2015-01 | 2015-11 | Windows 7 Professional 64ビット、Intel® CoreTM i5-5200U プロセッサー、メモリー：8GB（空きスロットなし）、HDD：750GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-SX4JDYWR](https://panasonic.jp/pc/p-db/CF-SX4JDYWR_spec.html) | 2015-01 | 2015-11 | Windows 7 Professional 64ビット、Intel® CoreTM i7-5500U プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-SX4MDPBR](https://panasonic.jp/pc/p-db/CF-SX4MDPBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i5-5200U processor, Memory: 8GB (no free slot), HDD: 1TB, Super Multi Drive, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4KFTBR](https://panasonic.jp/pc/p-db/CF-SX4KFTBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i7-5600U vProTM Processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Xi (LTE) supported Wireless WAN |
+| [CF-SX4KFYBR](https://panasonic.jp/pc/p-db/CF-SX4KFYBR_spec.html) | 2015-06 | 2016-02 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i7-5600U vProTM Processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Xi (LTE) supported Wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-SX4MDPWR](https://panasonic.jp/pc/p-db/CF-SX4MDPWR_spec.html) | 2015-06 | 2016-02 | Windows 7 Professional 64-bit, Intel® CoreTM i5-5200U Processor, Memory: 8GB (no free slots), HDD: 1TB, Super Multi Drive, LAN, Wireless LAN 802.11a（W52/W53/W56）/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4KDYWR](https://panasonic.jp/pc/p-db/CF-SX4KDYWR_spec.html) | 2015-06 | 2016-02 | Windows 7 Professional 64-bit, Intel® CoreTM i7-5600U vProTM Processor, Memory: 8GB (no free slots), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a（W52/W53/W56）/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4HDPBR](https://panasonic.jp/pc/p-db/CF-SX4HDPBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i5-5200U processor, Memory: 8GB (no free slot), HDD: 750GB, Super Multi Drive, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4JDTBR](https://panasonic.jp/pc/p-db/CF-SX4JDTBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i7-5500U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac |
+| [CF-SX4JDYBR](https://panasonic.jp/pc/p-db/CF-SX4JDYBR_spec.html) | 2015-01 | 2015-11 | Windows 8.1 Pro Update 64-bit, Intel® CoreTM i7-5500U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4HDPWR](https://panasonic.jp/pc/p-db/CF-SX4HDPWR_spec.html) | 2015-01 | 2015-11 | Windows 7 Professional 64-bit, Intel® CoreTM i5-5200U Processor, Memory: 8GB (no free slots), HDD: 750GB, Super Multi Drive, LAN, Wireless LAN 802.11a（W52/W53/W56）/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-SX4JDYWR](https://panasonic.jp/pc/p-db/CF-SX4JDYWR_spec.html) | 2015-01 | 2015-11 | Windows 7 Professional 64-bit, Intel® CoreTM i7-5500U Processor, Memory: 8GB (no free slots), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a（W52/W53/W56）/b/g/n/ac, Microsoft® Office Home and Business Premium |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載、シェルドライブ |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / HighSpeed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function, shell drive |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / HighSpeed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / HighSpeed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| Display | 12.1型ワイド(16:9)HD+ TFTカラー液晶 （1600 x 900ドット） |
-| Display / Graphics | インテル HD グラフィックス5500（CPUに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 1024×768、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Wireless communication | インテル Dual Band Wireless-AC 7265 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
+| Display | 12.1-inch widescreen (16:9) HD+ TFT color LCD (1600 x 900 dots) |
+| Display / Graphics | Intel HD Graphics 5500 (integrated in CPU) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 1024×768, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Dual Band Wireless-AC 7265 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac compliant |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | DDR3L 204ピン SO-DIMM専用スロット×1（1.35V/PC3L-12800/DDR3L SDRAM） |
-| Microphone | モノラルマイク |
-| Keyboard | OADG準拠86キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約65W |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | DDR3L 204-pin SO-DIMM dedicated slot ×1 (1.35V/PC3L-12800/DDR3L SDRAM) |
+| Microphone | Monaural microphone |
+| Keyboard | OADG-compliant 86 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 65W |
 | Efficiency target achievement (FY2011 standard) | — |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-SX4MDPBR | Core i5-5200U | 8GB | ハードディスクドライブ | 1.19 kg | 9 h |
+| CF-SX4MDPBR | Core i5-5200U | 8GB | Hard disk drive | 1.19 kg | 9 h |
 | CF-SX4KFTBR | Core i7-5600U vPro | 8GB | 256GB | 1.39 kg | 10 h |
 | CF-SX4KFYBR | Core i7-5600U vPro | 8GB | 256GB | 1.39 kg | 10 h |
-| CF-SX4MDPWR | Core i5-5200U | 8GB | ハードディスクドライブ | 1.19 kg | 8.5 h |
+| CF-SX4MDPWR | Core i5-5200U | 8GB | Hard disk drive | 1.19 kg | 8.5 h |
 | CF-SX4KDYWR | Core i7-5600U vPro | 8GB | 256GB | 1.38 kg | 9.5 h |
-| CF-SX4HDPBR | Core i5-5200U | 8GB | ハードディスクドライブ | 1.19 kg | 9 h |
+| CF-SX4HDPBR | Core i5-5200U | 8GB | Hard disk drive | 1.19 kg | 9 h |
 | CF-SX4JDTBR | Core i7-5500U | 8GB | 256GB | 1.38 kg | 10 h |
 | CF-SX4JDYBR | Core i7-5500U | 8GB | 256GB | 1.38 kg | 10 h |
-| CF-SX4HDPWR | Core i5-5200U | 8GB | ハードディスクドライブ | 1.19 kg | 8.5 h |
+| CF-SX4HDPWR | Core i5-5200U | 8GB | Hard disk drive | 1.19 kg | 8.5 h |
 | CF-SX4JDYWR | Core i7-5500U | 8GB | 256GB | 1.38 kg | 9.5 h |
 
 <details>
@@ -68,25 +68,25 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i5-5200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB（4GB+4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Hard disk | ハードディスクドライブ（HDD）1TB（Serial ATA、5400rpm）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル(約122万画素) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.031 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約9時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.19kg（付属の軽量バッテリーパック(S)（約0.22kg）装着時）、ACアダプター：約0.20kg（電源コード（約0.06kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i5-5200U processor / Intel Smart Cache 3MB, operating frequency 2.20GHz (up to 2.70GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Hard disk | Hard disk drive (HDD) 1TB (Serial ATA, 5400rpm) Of the above capacity, approx. 16GB is used as recovery area and approx. 1GB as system area (unavailable to user) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1280×960 pixels (approx. 1.22 megapixels) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.031 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 9 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm Excluding protrusions |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.19kg (when equipped with included lightweight battery pack (S) (approx. 0.22kg)), AC adapter: approx. 0.20kg (excluding power cord (approx. 0.06kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4MDPBR_spec.html>
 
@@ -97,27 +97,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4MDPBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i7-5600U vProプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Camera | 有効画素数：最大1280×960ピクセル(約122万画素) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約10時間 / 、付属バッテリーパック（L）装着時：約20時間 / ▼充電時間： / 付属バッテリーパック（S）装着時：約2.5時間（電源OFF時）、約3時間（電源ON時） / 付属バッテリーパック（L）装着時：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.39kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.18kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約0.20kg（電源コード（約0.06kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書 |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵(Xi(LTE)対応) |
-| Security chip | TPM（ TCG V1.2 準拠） |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i7-5600U vPro Processor / Intel Smart Cache 4MB, Operating Frequency 2.60GHz (up to 3.20GHz with Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Camera | Effective pixels: max. 1280×960 pixels (approx. 1.22 megapixels) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 10 hours / , with included battery pack (L) installed: approx. 20 hours / ▼Charging time: / With included battery pack (S) installed: approx. 2.5 hours (power OFF), approx. 3 hours (power ON) / With included battery pack (L) installed: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.39kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.18kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 0.20kg (excluding power cord (approx. 0.06kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KFTBR_spec.html>
 
@@ -128,28 +128,28 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KFTBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i7-5600U vProプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Camera | 有効画素数：最大1280×960ピクセル(約122万画素) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約10時間 / 、付属バッテリーパック（L）装着時：約20時間 / ▼充電時間： / 付属バッテリーパック（S）装着時：約2.5時間（電源OFF時）、約3時間（電源ON時） / 付属バッテリーパック（L）装着時：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.39kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.18kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約0.20kg（電源コード（約0.06kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i7-5600U vPro Processor / Intel Smart Cache 4MB, Operating Frequency 2.60GHz (up to 3.20GHz with Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Camera | Effective pixels: max. 1280×960 pixels (approx. 1.22 megapixels) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 10 hours / , with included battery pack (L) installed: approx. 20 hours / ▼Charging time: / With included battery pack (S) installed: approx. 2.5 hours (power OFF), approx. 3 hours (power ON) / With included battery pack (L) installed: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.39kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.18kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 0.20kg (excluding power cord (approx. 0.06kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵(Xi(LTE)対応) |
-| Security chip | TPM（ TCG V1.2 準拠） |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KFYBR_spec.html>
 
@@ -160,26 +160,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KFYBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼インストールOS： / Windows 7 Professional 64ビット（日本語版）（Windows 8.1 Pro ダウングレード権行使） / ▼ベースOS： / Windows 8.1 Pro Update 64ビット（日本語版）/ / Windows 7 Professional 64ビット（日本語版）/Windows 7 Professional 32ビット（日本語版） |
-| CPU | インテル Core i5-5200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.20GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB（4GB+4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Hard disk | ハードディスクドライブ（HDD）1TB（Serial ATA、5400rpm）上記容量のうち約30GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル(約122万画素) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.031 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約8.5時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.19kg（付属の軽量バッテリーパック(S)（約0.22kg）装着時）、ACアダプター：約0.20kg（電源コード（約0.06kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・解像度切り替えユーティリティ / ・ズームビューアー / ・クイックブートマネージャー / ・オプティカルディスクドライブ文字変更ユーティリティ / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.1 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | ▼Installed OS: / Windows 7 Professional 64-bit (Japanese version) (exercising Windows 8.1 Pro downgrade rights) / ▼Base OS: / Windows 8.1 Pro Update 64-bit (Japanese version) / / Windows 7 Professional 64-bit (Japanese version) / Windows 7 Professional 32-bit (Japanese version) |
+| CPU | Intel Core i5-5200U processor / Intel Smart Cache 3MB, operating frequency 2.20GHz (up to 2.70GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Hard disk | Hard disk drive (HDD) 1TB (Serial ATA, 5400rpm) Of the above capacity, approx. 30GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・BIP (Client) / ・BPP (Sender) / ・FTP (Client and Server) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・HSP (AG) / ・OPP (Client and Server) / ・PAN (User) / ・PBAP (PCE) / ・SPP (DevA and DevB) / ・SYNC (Client) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1280×960 pixels (approx. 1.22 megapixels) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.031 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 8.5 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm Excluding protrusions |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.19kg (when equipped with included lightweight battery pack (S) (approx. 0.22kg)), AC adapter: approx. 0.20kg (excluding power cord (approx. 0.06kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Resolution switching utility / ・Zoom Viewer / ・Quick Boot Manager / ・Optical disc drive letter change utility / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.1 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| Notice | 本ページに記載されている仕様は、Windows 7 Professional 64ビット環境でのデータになります。 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| Notice | The specifications listed on this page are data for a Windows 7 Professional 64-bit environment. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4MDPWR_spec.html>
 
@@ -190,27 +190,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4MDPWR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼インストールOS： / Windows 7 Professional 64ビット（日本語版）（Windows 8.1 Pro ダウングレード権行使） / ▼ベースOS： / Windows 8.1 Pro Update 64ビット（日本語版）/ / Windows 7 Professional 64ビット（日本語版）/Windows 7 Professional 32ビット（日本語版） |
-| CPU | インテル Core i7-5600U vProプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.20GHz） |
-| Chipset | CPUに内蔵 |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル(約122万画素) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2（うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.026 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約9.5時間 / 、付属バッテリー（L）装着時：約19時間 / ▼充電時間： / 付属バッテリーパック（S）装着時：約2.5時間（電源OFF時）、約3時間（電源ON時） / 付属バッテリーパック（L）装着時：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.38kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.17kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約0.20kg（電源コード（約0.06kg）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・解像度切り替えユーティリティ / ・ズームビューアー / ・クイックブートマネージャー / ・オプティカルディスクドライブ文字変更ユーティリティ / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.1 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | ▼Installed OS: / Windows 7 Professional 64-bit (Japanese version) (exercising Windows 8.1 Pro downgrade rights) / ▼Base OS: / Windows 8.1 Pro Update 64-bit (Japanese version) / / Windows 7 Professional 64-bit (Japanese version) / Windows 7 Professional 32-bit (Japanese version) |
+| CPU | Intel Core i7-5600U vPro Processor / Intel Smart Cache 4MB, Operating Frequency 2.60GHz (up to 3.20GHz with Intel Turbo Boost Technology 2.0) |
+| Chipset | Built into CPU |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・BIP (Client) / ・BPP (Sender) / ・FTP (Client and Server) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・HSP (AG) / ・OPP (Client and Server) / ・PAN (User) / ・PBAP (PCE) / ・SPP (DevA and DevB) / ・SYNC (Client) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: max. 1280×960 pixels (approx. 1.22 megapixels) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.026 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 9.5 hours / , with included battery (L) installed: approx. 19 hours / ▼Charging time: / With included battery pack (S) installed: approx. 2.5 hours (power OFF), approx. 3 hours (power ON) / With included battery pack (L) installed: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.38kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.17kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 0.20kg (excluding power cord (approx. 0.06kg)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Resolution switching utility / ・Zoom Viewer / ・Quick Boot Manager / ・Optical disc drive letter change utility / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.1 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約30GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Security chip | TPM（ TCG V1.2 準拠） |
-| Notice | 本ページに記載されている仕様は、Windows 7 Professional 64ビット環境でのデータになります。 |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 30GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Notice | The specifications listed on this page are data for a Windows 7 Professional 64-bit environment. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KDYWR_spec.html>
 
@@ -221,24 +221,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4KDYWR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i5-5200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.2GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.7GHz） |
-| Memory | 8GB（4GB+4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Hard disk | ハードディスクドライブ（HDD）750GB（Serial ATA、5400rpm）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.031 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約9時間/（JEITA Ver.1.0）約13時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.19kg（付属の軽量バッテリーパック(S)（約0.22kg）装着時）、ACアダプター：約200g（電源コード（約60g）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版)) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i5-5200U processor / Intel Smart Cache 3MB, operating frequency 2.2GHz (up to 2.7GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Hard disk | Hard disk drive (HDD) 750GB (Serial ATA, 5400rpm) Of the above capacity, approx. 16GB is used as recovery area and approx. 1GB as system area (unavailable to user) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: Max 1280×960 pixels |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.031 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 9 hours / (JEITA Ver.1.0) approx. 13 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm Excluding protrusions |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.19kg (when equipped with included lightweight battery pack (S) (approx. 0.22kg)), AC adapter: approx. 200g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version)) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4HDPBR_spec.html>
 
@@ -249,23 +249,23 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4HDPBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i7-5500Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.4GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.028 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約10時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.38kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.17kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約200g（電源コード（約60g）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書 |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i7-5500U Processor / Intel Smart Cache 4MB, Operating Frequency 2.4GHz (up to 3.0GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: Max 1280×960 pixels |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.028 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 10 hours / (JEITA Ver.1.0) approx. 15 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.38kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.17kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 200g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDTBR_spec.html>
 
@@ -276,24 +276,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDTBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 8.1 Pro Update 64ビット（日本語版） |
-| CPU | インテル Core i7-5500Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.4GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大3839MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.028 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約10時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.38kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.17kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約200g（電源コード（約60g）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・Camera for Panasonic PC / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.2 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・Skype / ・NAVITIME / ・Bing翻訳 / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | Windows 8.1 Pro Update 64-bit (Japanese version) |
+| CPU | Intel Core i7-5500U Processor / Intel Smart Cache 4MB, Operating Frequency 2.4GHz (up to 3.0GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Max. 3839MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: Max 1280×960 pixels |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.028 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 10 hours / (JEITA Ver.1.0) approx. 15 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.38kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.17kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 200g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Camera for Panasonic PC / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.2 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Skype / ・NAVITIME / ・Bing Translator / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約16GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 16GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDYBR_spec.html>
 
@@ -304,25 +304,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDYBR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼インストールOS： / Windows 7 Professional 64ビット（日本語版）（Windows 8.1 Pro ダウングレード権行使） / ▼ベースOS： / Windows 8.1 Pro Update 64ビット（日本語版）/ / Windows 7 Professional 64ビット（日本語版）/Windows 7 Professional 32ビット（日本語版） |
-| CPU | インテル Core i5-5200Uプロセッサー / インテルスマートキャッシュ3MB、動作周波数2.2GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.7GHz） |
-| Memory | 8GB（4GB+4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Hard disk | ハードディスクドライブ（HDD）750GB（Serial ATA、5400rpm）上記容量のうち約30GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.031 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約8.5時間/（JEITA Ver.1.0）約13時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.19kg（付属の軽量バッテリーパック(S)（約0.22kg）装着時）、ACアダプター：約200g（電源コード（約60g）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・解像度切り替えユーティリティ / ・ズームビューアー / ・クイックブートマネージャー / ・オプティカルディスクドライブ文字変更ユーティリティ / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.1 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | ▼Installed OS: / Windows 7 Professional 64-bit (Japanese version) (exercising Windows 8.1 Pro downgrade rights) / ▼Base OS: / Windows 8.1 Pro Update 64-bit (Japanese version) / / Windows 7 Professional 64-bit (Japanese version) / Windows 7 Professional 32-bit (Japanese version) |
+| CPU | Intel Core i5-5200U processor / Intel Smart Cache 3MB, operating frequency 2.2GHz (up to 2.7GHz when using Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Hard disk | Hard disk drive (HDD) 750GB (Serial ATA, 5400rpm) Of the above capacity, approx. 30GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・BIP (Client) / ・BPP (Sender) / ・FTP (Client and Server) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・HSP (AG) / ・OPP (Client and Server) / ・PAN (User) / ・PBAP (PCE) / ・SPP (DevA and DevB) / ・SYNC (Client) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: Max 1280×960 pixels |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.031 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 8.5 hours / (JEITA Ver.1.0) approx. 13 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm Excluding protrusions |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.19kg (when equipped with included lightweight battery pack (S) (approx. 0.22kg)), AC adapter: approx. 200g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Resolution switching utility / ・Zoom Viewer / ・Quick Boot Manager / ・Optical disc drive letter change utility / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.1 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| Notice | 本ページに記載されている仕様は、Windows 7 Professional 64ビット環境でのデータになります。 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| Notice | The specifications listed on this page are data for a Windows 7 Professional 64-bit environment. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4HDPWR_spec.html>
 
@@ -333,25 +333,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4HDPWR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼インストールOS： / Windows 7 Professional 64ビット（日本語版）（Windows 8.1 Pro ダウングレード権行使） / ▼ベースOS： / Windows 8.1 Pro Update 64ビット（日本語版）/ / Windows 7 Professional 64ビット（日本語版）/Windows 7 Professional 32ビット（日本語版） |
-| CPU | インテル Core i7-5500Uプロセッサー / インテルスマートキャッシュ4MB、動作周波数2.4GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.0GHz） |
-| Memory | 8GB（4GB＋4GB） DDR3L SDRAM 最大8GB （空きスロット0） |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Bluetooth | Bluetooth v4.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・BIP（Client） / ・BPP（Sender） / ・FTP（ClientおよびServer） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・HSP（AG） / ・OPP（ClientおよびServer） / ・PAN（User） / ・PBAP（PCE） / ・SPP（DevAおよびDevB） / ・SYNC（Client） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 有効画素数：最大1280×960ピクセル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2（うち1つはUSB充電ポートも兼ねる) / USB2.0ポート×1 |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13600mAh、定格容量12800mAh、軽量バッテリーパック：7.2V リチウムイオン・公称容量6800mAh、定格容量6400mAh |
-| Energy efficiency | 2011年度基準 N区分0.028 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）付属バッテリーパック（S）装着時：約9.5時間/（JEITA Ver.1.0）約15時間 / ▼充電時間： / 約2.5時間（電源OFF時）、約3時間（電源ON時） |
-| Dimensions (W×D×H) | 標準バッテリーパック(L)搭載時 / 幅295mm×奥行216.2mm×高さ25.4mm 突起部除く / 軽量バッテリーパック(S)搭載時 / 幅295mm×奥行197.5mm×高さ25.4mm 突起部除く |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.38kg（標準バッテリーパック（L）(約0.43kg)装着時） / パソコン本体：約1.17kg（軽量バッテリーパック（S）(約0.22kg）装着時） / ACアダプター：約200g（電源コード（約60g）除く） |
-| Software | ・Microsoft Internet Explorer 11 / ・ネットセレクターLite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・セキュリティ設定ユーティリティ / ・マカフィーリブセーフ / ・i-フィルター6.0 (30日間無料お試し版) / ・Adobe Reader / ・WinZip 18.5日本語版（45日体験版） / ・電源プラン拡張ユーティリティ / ・ピークシフト制御ユーティリティ / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB充電設定ユーティリティ / ・カメラユーティリティ / ・解像度切り替えユーティリティ / ・ズームビューアー / ・クイックブートマネージャー / ・オプティカルディスクドライブ文字変更ユーティリティ / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Dashboard for Panasonic PC / ・無線診断ユーティリティ / ・リカバリーディスク作成ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 11.1 / ・インテル PROSet/Wireless Software / ・インテル My WiFiテクノロジー / ・画面共有アシストユーティリティー / ・ホイールパッドユーティリティ |
+| OS | ▼Installed OS: / Windows 7 Professional 64-bit (Japanese version) (exercising Windows 8.1 Pro downgrade rights) / ▼Base OS: / Windows 8.1 Pro Update 64-bit (Japanese version) / / Windows 7 Professional 64-bit (Japanese version) / Windows 7 Professional 32-bit (Japanese version) |
+| CPU | Intel Core i7-5500U Processor / Intel Smart Cache 4MB, Operating Frequency 2.4GHz (up to 3.0GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB (4GB+4GB) DDR3L SDRAM max. 8GB (0 free slots) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Bluetooth | Bluetooth v4.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・BIP (Client) / ・BPP (Sender) / ・FTP (Client and Server) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・HSP (AG) / ・OPP (Client and Server) / ・PAN (User) / ・PBAP (PCE) / ・SPP (DevA and DevB) / ・SYNC (Client) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Effective pixels: Max 1280×960 pixels |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini D-sub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (one of which also serves as a USB charging port) / USB2.0 port x1 |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13600mAh, rated capacity 12800mAh, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6800mAh, rated capacity 6400mAh |
+| Energy efficiency | 2011 fiscal year standard N category 0.028 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) With included battery pack (S) installed: approx. 9.5 hours / (JEITA Ver.1.0) approx. 15 hours / ▼Charging time: / approx. 2.5 hours (power OFF), approx. 3 hours (power ON) |
+| Dimensions (W×D×H) | When standard battery pack (L) installed / Width 295mm x Depth 216.2mm x Height 25.4mm excluding protrusions / When lightweight battery pack (S) installed / Width 295mm x Depth 197.5mm x Height 25.4mm excluding protrusions |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.38kg (with standard battery pack (L) (approx. 0.43kg) installed) / PC body: approx. 1.17kg (with lightweight battery pack (S) (approx. 0.22kg) installed) / AC adapter: approx. 200g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft Internet Explorer 11 / ・NetSelector Lite / ・Intel PROSet/Wireless Software for Bluetooth Technology / ・Security setting utility / ・McAfee LiveSafe / ・i-Filter 6.0 (30-day free trial version) / ・Adobe Reader / ・WinZip 18.5 Japanese version (45-day trial version) / ・Power plan extension utility / ・Peak shift control utility / ・Power2Go with DVD authoring / ・CyberLink PowerDVD10 / ・Wireless Manager mobile edition / ・Intel WiDi / ・USB charging setting utility / ・Camera utility / ・Resolution switching utility / ・Zoom Viewer / ・Quick Boot Manager / ・Optical disc drive letter change utility / ・Aptio setup utility / ・PC-Diagnostic utility / ・Dashboard for Panasonic PC / ・Wireless diagnostic utility / ・Recovery disc creation utility / ・Hard disk data erasure utility / ・DirectX 11.1 / ・Intel PROSet/Wireless Software / ・Intel My WiFi Technology / ・Screen sharing assist utility / ・Wheelpad utility |
 | Microsoft Office | Microsoft Office Home & Business Premium |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home & Business Premium |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約30GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Notice | 本ページに記載されている仕様は、Windows 7 Professional 64ビット環境でのデータになります。 |
+| Accessories | Standard AC adapter, standard battery pack (L), lightweight battery pack (S), instruction manual, Microsoft Office Home & Business Premium |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 30GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Notice | The specifications listed on this page are data for a Windows 7 Professional 64-bit environment. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDYWR_spec.html>
 
@@ -370,4 +370,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX4JDYWR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

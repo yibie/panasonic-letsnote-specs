@@ -12,96 +12,96 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-J10YYNHR](https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html) | 2012-05 | 2013-05 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10YYBHR](https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10XYAHR](https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10XYPHR](https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10WYBHR](https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2435M（2.40GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10WYNHR](https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2435M（2.40GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10VYAHR](https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10VYPHR](https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2350M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-J10UYBHR](https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html) | 2011-09 | 2012-04 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10UYNHR](https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10TYAHR](https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2330M（2.20GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10TYPHR](https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2330M（2.20GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10SYBHR](https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準2GB（空きスロット1、最大6GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10SYNHR](https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i5-2410M（2.30GHz）、メモリー：標準2GB（空きスロット1、最大6GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10RYAHR](https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2310M（2.10GHz） 、メモリー：標準2GB（空きスロット1、最大6GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10RYPHR](https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32ビット 正規版（Service Pack 1 適用済み）、インテル® CoreTM i3-2310M（2.10GHz） 、メモリー：標準2GB（空きスロット1、最大6GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10QYBHR](https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i5-480M（2.66GHz）、メモリー：標準2GB（最大6GB）、SSD：128GB、、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10QYNHR](https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i5-480M（2.66GHz）、メモリー：標準2GB（最大6GB）、SSD：128GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-J10PYAHR](https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i3-380M（2.53GHz）、メモリー：標準2GB（最大6GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-J10PYPHR](https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium 正規版 、インテル® CoreTM i3-380M（2.53GHz）、メモリー：標準2GB（最大6GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
+| [CF-J10YYNHR](https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html) | 2012-05 | 2013-05 | Windows 7 Home Premium 64-bit OEM version (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-J10YYBHR](https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64-bit OEM version (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10XYAHR](https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i3-2350M (2.30GHz), Memory: Standard 4GB (1 free slot, max 8GB), HDD: 320GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10XYPHR](https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html) | 2012-05 | 2013-02 | Windows 7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i3-2350M (2.30GHz), Memory: Standard 4GB (1 free slot, max 8GB), HDD: 320GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-J10WYBHR](https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2435M (2.40GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB,, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10WYNHR](https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html) | 2012-02 | 2012-05 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2435M (2.40GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-J10VYAHR](https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2350M (2.30GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10VYPHR](https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html) | 2012-02 | 2012-07 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2350M (2.30GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-J10UYBHR](https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html) | 2011-09 | 2012-04 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2410M (2.30GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB,, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10UYNHR](https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2410M (2.30GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
+| [CF-J10TYAHR](https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2330M (2.20GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10TYPHR](https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html) | 2011-09 | 2012-02 | Windows® 7 Home Premium 64-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2330M (2.20GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
+| [CF-J10SYBHR](https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2410M (2.30GHz), Memory: standard 2GB (1 free slot, max 6GB), SSD: 128GB,, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10SYNHR](https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32-bit genuine version (Service Pack 1 applied), Intel® CoreTM i5-2410M (2.30GHz), Memory: standard 2GB (1 free slot, max 6GB), SSD: 128GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
+| [CF-J10RYAHR](https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2310M (2.10GHz), Memory: standard 2GB (1 free slot, max 6GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10RYPHR](https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html) | 2011-05 | 2011-09 | Windows® 7 Home Premium 32-bit genuine version (Service Pack 1 applied), Intel® CoreTM i3-2310M (2.10GHz), Memory: standard 2GB (1 free slot, max 6GB), HDD: 250GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
+| [CF-J10QYBHR](https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium genuine version, Intel® CoreTM i5-480M (2.66GHz), Memory: standard 2GB (max 6GB), SSD: 128GB,, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10QYNHR](https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium genuine version, Intel® CoreTM i5-480M (2.66GHz), Memory: standard 2GB (max 6GB), SSD: 128GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
+| [CF-J10PYAHR](https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium genuine version, Intel® CoreTM i3-380M (2.53GHz), Memory: standard 2GB (max 6GB), HDD: 160GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-J10PYPHR](https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html) | 2011-02 | 2011-04 | Windows® 7 Home Premium genuine version, Intel® CoreTM i3-380M (2.53GHz), Memory: standard 2GB (max 6GB), HDD: 160GB, LAN, wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <limited quantity> |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Display / LCD colors | 1366×768ドット：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N + WiMAX 6250 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約65W |
+| Display / LCD colors | 1366×768 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N + WiMAX 6250 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 65W |
 | Efficiency target achievement (FY2011 standard) | — |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-J10YYNHR | Core i5-2450M 、スマートキャッシュ3MB、動作周波数2.50GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10YYBHR | Core i5-2450M 、スマートキャッシュ3MB、動作周波数2.50GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10XYAHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | ハードディスクドライブ | 1.185 kg | 7.5 h |
-| CF-J10XYPHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | ハードディスクドライブ | 1.185 kg | 7.5 h |
-| CF-J10WYBHR | Core i5-2435M 、スマートキャッシュ3MB、動作周波数2.40GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10WYNHR | Core i5-2435M 、スマートキャッシュ3MB、動作周波数2.40GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10VYAHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10VYPHR | Core i3-2350M 、スマートキャッシュ3MB、動作周波数2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10UYBHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10UYNHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
-| CF-J10TYAHR | Core i3-2330M 、スマートキャッシュ3MB、動作周波数2.20GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
-| CF-J10TYPHR | Core i3-2330M 、スマートキャッシュ3MB、動作周波数2.20GHz | 4GBPC3-8500 | 250 GB | 1.185 kg | 7.5 h |
-| CF-J10SYBHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
-| CF-J10SYNHR | Core i5-2410M 、スマートキャッシュ3MB、動作周波数2.30GHz、ターボ・ブースト・テクノロジー2.0利 | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
-| CF-J10RYAHR | Core i3-2310M 、スマートキャッシュ3MB、動作周波数2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
-| CF-J10RYPHR | Core i3-2310M 、スマートキャッシュ3MB、動作周波数2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
-| CF-J10QYBHR | Core i5-480M 、スマートキャッシュ3MB、動作周波数2.66GHz、ターボ・ブースト・テクノロジー利用時は最 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
-| CF-J10QYNHR | Core i5-480M 、スマートキャッシュ3MB、動作周波数2.66GHz、ターボ・ブースト・テクノロジー利用時は最 | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
-| CF-J10PYAHR | Core i3-380M 、スマートキャッシュ3MB、動作周波数2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
-| CF-J10PYPHR | Core i3-380M 、スマートキャッシュ3MB、動作周波数2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
+| CF-J10YYNHR | Core i5-2450M, Smart Cache 3MB, operating frequency 2.50GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10YYBHR | Core i5-2450M, Smart Cache 3MB, operating frequency 2.50GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10XYAHR | Core i3-2350M, Smart Cache 3MB, operating frequency 2.30GHz | 4GBPC3-8500 | Hard disk drive | 1.185 kg | 7.5 h |
+| CF-J10XYPHR | Core i3-2350M, Smart Cache 3MB, operating frequency 2.30GHz | 4GBPC3-8500 | Hard disk drive | 1.185 kg | 7.5 h |
+| CF-J10WYBHR | Core i5-2435M, Smart Cache 3MB, operating frequency 2.40GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10WYNHR | Core i5-2435M, Smart Cache 3MB, operating frequency 2.40GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10VYAHR | Core i3-2350M, Smart Cache 3MB, operating frequency 2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10VYPHR | Core i3-2350M, Smart Cache 3MB, operating frequency 2.30GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10UYBHR | Core i5-2410M, Smart Cache 3MB, operating frequency 2.30GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10UYNHR | Core i5-2410M, Smart Cache 3MB, operating frequency 2.30GHz, Turbo Boost Technology 2.0 available | 4GBPC3-8500 | 128GB | 1.205 kg | 12.5 h |
+| CF-J10TYAHR | Core i3-2330M, Smart Cache 3MB, operating frequency 2.20GHz | 4GBPC3-8500 | 250GB | 1.185 kg | 7.5 h |
+| CF-J10TYPHR | Core i3-2330M, Smart Cache 3MB, operating frequency 2.20GHz | 4GBPC3-8500 | 250 GB | 1.185 kg | 7.5 h |
+| CF-J10SYBHR | Core i5-2410M, Smart Cache 3MB, operating frequency 2.30GHz, Turbo Boost Technology 2.0 available | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
+| CF-J10SYNHR | Core i5-2410M, Smart Cache 3MB, operating frequency 2.30GHz, Turbo Boost Technology 2.0 available | 2GBPC3-8500 | 128GB | 1.205 kg | 13 h |
+| CF-J10RYAHR | Core i3-2310M, Smart Cache 3MB, operating frequency 2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
+| CF-J10RYPHR | Core i3-2310M, Smart Cache 3MB, operating frequency 2.10GHz | 2GBPC3-8500 | 250GB | 1.185 kg | 8 h |
+| CF-J10QYBHR | Core i5-480M, Smart Cache 3MB, operating frequency 2.66GHz, maximum when using Turbo Boost Technology | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
+| CF-J10QYNHR | Core i5-480M, Smart Cache 3MB, operating frequency 2.66GHz, maximum when using Turbo Boost Technology | 2GB、PC3-6400 | 128GB | 1.205 kg | 12 h |
+| CF-J10PYAHR | Core i3-380M, Smart Cache 3MB, operating frequency 2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
+| CF-J10PYPHR | Core i3-380M, Smart Cache 3MB, operating frequency 2.53GHz | 2GB、PC3-6400 | 160GB HDD | 1.185 kg | 7.5 h |
 
 <details>
 <summary>CF-J10YYNHR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.50GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有) |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | 搭載されていません |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Card slots / PC Card | 搭載されていません |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| Keyboard | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.085 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Color | ブラック |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor, Intel Smart Cache 3MB, operating frequency 2.50GHz, up to 3.10GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Optical drive | Not equipped |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD HD (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in CPU) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | Not equipped |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB2.0 port x2 (right side) / USB3.0 port x1 (right side) |
+| Keyboard | OADG-compliant 86 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter *19: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 fiscal year standard Category 0.085 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear) *25, When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Color | Black |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Peak Shift Control Utility, Power Plan Extension Utility, McAfee PC Security Center, Wireless Switching Utility, Security Setting Utility, Battery Remaining Display Correction Utility, Fn Ctrl Function Swap Utility, "i-Filter 6.0" (30-day free trial version), ATOK for Windows free trial version, Kingsoft Dictionary, WinZip 14.5 Japanese version, Quick Boot Manager, Recovery Disc Creation Utility, DirectX 11, Dashboard for Panasonic PC, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2010 |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, Microsoft Office Home and Business 2010 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html>
 
@@ -112,33 +112,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10YYNHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.50GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有) |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | 搭載されていません |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Card slots / PC Card | 搭載されていません |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| Keyboard | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.085 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Color | ブラック |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor, Intel Smart Cache 3MB, operating frequency 2.50GHz, up to 3.10GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Optical drive | Not equipped |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD HD (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in CPU) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | Not equipped |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB2.0 port x2 (right side) / USB3.0 port x1 (right side) |
+| Keyboard | OADG-compliant 86 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter *19: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 fiscal year standard Category 0.085 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear) *25, When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Color | Black |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Peak Shift Control Utility, Power Plan Extension Utility, McAfee PC Security Center, Wireless Switching Utility, Security Setting Utility, Battery Remaining Display Correction Utility, Fn Ctrl Function Swap Utility, "i-Filter 6.0" (30-day free trial version), ATOK for Windows free trial version, Kingsoft Dictionary, WinZip 14.5 Japanese version, Quick Boot Manager, Recovery Disc Creation Utility, DirectX 11, Dashboard for Panasonic PC, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html>
 
@@ -149,33 +149,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10YYBHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有) |
-| Optical drive | 搭載されていません |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Card slots / PC Card | 搭載されていません |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| Keyboard | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.11 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Color | ブラック |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S) (約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i3-2350M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Optical drive | Not equipped |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD HD (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in CPU) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | Not equipped |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB2.0 port x2 (right side) / USB3.0 port x1 (right side) |
+| Keyboard | OADG-compliant 86 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter *19: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.11 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear) *25, When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Color | Black |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Peak Shift Control Utility, Power Plan Extension Utility, McAfee PC Security Center, Wireless Switching Utility, Security Setting Utility, Battery Remaining Display Correction Utility, Fn Ctrl Function Swap Utility, "i-Filter 6.0" (30-day free trial version), ATOK for Windows free trial version, Kingsoft Dictionary, WinZip 14.5 Japanese version, Quick Boot Manager, Recovery Disc Creation Utility, DirectX 11, Dashboard for Panasonic PC, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html>
 
@@ -186,34 +186,34 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10XYAHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有) |
-| Optical drive | 搭載されていません |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 HD (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（CPUに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Card slots / PC Card | 搭載されていません |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB2.0ポート×2(右側面) / USB3.0ポート×1(右側面) |
-| Keyboard | OADG準拠86キー、キーピッチ17mm(横)/14.2mm(縦)(一部キーを除く） |
-| Power | ▼ACアダプター※19：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.11 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)※25、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Color | ブラック |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S) (約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | ピークシフト制御ユーティリティ、電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Fn Ctrl機能入れ換えユーティリティ、「i-フィルター 6.0」（30日間無料お試し版）、ATOK for Windows 無償試用版、キングソフト辞書、WinZip 14.5 日本語版、クイックブートマネージャー、リカバリーディスク作成ユーティリティ、DirectX 11、Dashboard for Panasonic PC、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i3-2350M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Optical drive | Not equipped |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD HD (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in CPU) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | Not equipped |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB2.0 port x2 (right side) / USB3.0 port x1 (right side) |
+| Keyboard | OADG-compliant 86 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter *19: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.11 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear) *25, When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Color | Black |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Peak Shift Control Utility, Power Plan Extension Utility, McAfee PC Security Center, Wireless Switching Utility, Security Setting Utility, Battery Remaining Display Correction Utility, Fn Ctrl Function Swap Utility, "i-Filter 6.0" (30-day free trial version), ATOK for Windows free trial version, Kingsoft Dictionary, WinZip 14.5 Japanese version, Quick Boot Manager, Recovery Disc Creation Utility, DirectX 11, Dashboard for Panasonic PC, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書、Microsoft Office Home and Business 2010 |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, Microsoft Office Home and Business 2010 |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html>
 
@@ -224,29 +224,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10XYPHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2435M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.40GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2435M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2435M processor, Intel Smart Cache 3MB, operating frequency 2.40GHz, up to 3.00GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory), maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2435M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.086 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 standards N category 0.086 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Recovery Disc Creation Utility |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html>
 
@@ -257,30 +257,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10WYBHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2435M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.40GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.00GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2435M processor, Intel Smart Cache 3MB, operating frequency 2.40GHz, up to 3.00GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory), maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2410M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Recovery Disc Creation Utility |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html>
 
@@ -291,29 +291,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10WYNHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i3-2350M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2350M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB, maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i3-2350M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.11 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (S) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.11 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Recovery Disc Creation Utility |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250GB (Serial ATA, 2.5-inch 5400 rpm) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html>
 
@@ -324,30 +324,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10VYAHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2350M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i3-2350M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2350M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB, maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i3-2350M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.11 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、リカバリーディスク作成ユーティリティ |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (S) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.11 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Recovery Disc Creation Utility |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250GB (Serial ATA, 2.5-inch 5400 rpm) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html>
 
@@ -358,29 +358,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10VYPHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2410M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz, up to 2.90GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory), maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2410M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html>
 
@@ -391,30 +391,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10UYBHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB(メインメモリーと共有)、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2410M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz, up to 2.90GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory), maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2410M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2Vリチウムイオン・公称容量9.3Ah、定格容量8.7Ah） |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12.5時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (L) included (7.2V lithium-ion, nominal capacity 9.3Ah, rated capacity 8.7Ah) |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12.5 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html>
 
@@ -425,29 +425,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10UYNHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2330M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.20GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i3-2330M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2330M processor, Intel Smart Cache 3MB, operating frequency 2.20GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB, maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i3-2330M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.12 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250GB（Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (S) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.12 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250GB (Serial ATA, 2.5-inch 5400 rpm) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html>
 
@@ -458,30 +458,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10TYAHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 64ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2330M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.20GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準4GBPC3-8500/DDR3 SDRAM（最大8GB） (空きスロット×1) |
-| Video memory | 最大1696MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテルHDグラフィックス3000搭載（インテル Core i3-2330M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 64-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2330M processor, Intel Smart Cache 3MB, operating frequency 2.20GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM (max. 8GB) (1 free slot) |
+| Video memory | Maximum 1696MB, maximum 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 equipped (built into Intel Core i3-2330M Processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.12 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250 GB （Serial ATA、2.5型 5400回転/分）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack: Battery pack (S) included (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.12 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 7.5 hours, when the optional battery pack (L) is installed: approx. 11.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250 GB (Serial ATA, 2.5-inch 5400 rpm) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html>
 
@@ -492,29 +492,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10TYPHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| Video memory | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 32-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2410M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz, up to 2.90GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 2GB PC3-8500/DDR3 SDRAM (maximum 6GB) (1 free slot) |
+| Video memory | Max 784MB, up to 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2410M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約13時間、別売のバッテリーパック(S)装着時：約8.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg （電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100 V–240 V, 50Hz/60Hz, Output: DC16 V, 4.06 A, power cord for 100 V only / ▼Battery pack: Battery pack (L) included (7.2 V lithium-ion, nominal capacity 9.3 Ah, rated capacity 8.7 Ah) |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 13 hours, when the optional battery pack (S) is installed: approx. 8.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html>
 
@@ -525,30 +525,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10SYBHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i5-2410M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.30GHz、インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.90GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| Video memory | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i5-2410M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 32-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i5-2410M processor, Intel Smart Cache 3MB, operating frequency 2.30GHz, up to 2.90GHz when using Intel Turbo Boost Technology 2.0 |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 2GB PC3-8500/DDR3 SDRAM (maximum 6GB) (1 free slot) |
+| Video memory | Max 784MB, up to 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i5-2410M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約13時間、別売のバッテリーパック(S)装着時：約8.5時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259 mm×奥行185 mm×高さ39 mm/48 mm(前部/後部)、ジャケット非装着時：幅251.9 mm×奥行171.7 mm×高さ27.3 mm/35.1 mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg （電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100 V–240 V, 50Hz/60Hz, Output: DC16 V, 4.06 A, power cord for 100 V only / ▼Battery pack: Battery pack (L) included (7.2 V lithium-ion, nominal capacity 9.3 Ah, rated capacity 8.7 Ah) |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 13 hours, when the optional battery pack (S) is installed: approx. 8.5 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259 mm × depth 185 mm × height 39 mm/48 mm (front/rear), When jacket not attached: width 251.9 mm × depth 171.7 mm × height 27.3 mm/35.1 mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html>
 
@@ -559,29 +559,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10SYNHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2310M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.10GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| Video memory | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス3000搭載（インテル Core i3-2310M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 32-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2310M processor, Intel Smart Cache 3MB, operating frequency 2.10GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 2GB PC3-8500/DDR3 SDRAM (maximum 6GB) (1 free slot) |
+| Video memory | Max 784MB, up to 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 (integrated in Intel Core i3-2310M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2 Vリチウムイオン・公称容量6.2 Ah、定格容量5.8 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.13 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約8時間、別売のバッテリーパック(L)装着時：約12時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100 V–240 V, 50Hz/60Hz, Output: DC16 V, 4.06 A, power cord for 100 V only / ▼Battery pack: Battery pack (S) included (7.2 V lithium-ion, nominal capacity 6.2 Ah, rated capacity 5.8 Ah) |
+| Energy efficiency | 2011 standards N category 0.13 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 8 hours, when the optional battery pack (L) is installed: approx. 12 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250GB (Serial ATA) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html>
 
@@ -592,30 +592,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10RYAHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows 7 Home Premium 32/64ビット 正規版(Service Pack 1 適用済み)（日本語版） / ▼インストールOS：Windows 7 Home Premium 32ビット 正規版(Service Pack 1 適用済み)（日本語版） |
-| CPU | インテル Core i3-2310M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.10GHz |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Memory | 標準2GBPC3-8500/DDR3 SDRAM（最大6GB） (空きスロット×1) |
-| Video memory | 最大784MB、2GBまたは4GBのメモリーを増設した場合は最大1556MB（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテルHDグラフィックス3000 搭載（インテル Core i3-2310M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows 7 Home Premium 32/64-bit genuine version (Service Pack 1 applied) (Japanese version) / ▼Installed OS: Windows 7 Home Premium 32-bit genuine version (Service Pack 1 applied) (Japanese version) |
+| CPU | Intel Core i3-2310M processor, Intel Smart Cache 3MB, operating frequency 2.10GHz |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Memory | Standard 2GB PC3-8500/DDR3 SDRAM (maximum 6GB) (1 free slot) |
+| Video memory | Max 784MB, up to 1556MB when 2GB or 4GB memory is added (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics 3000 equipped (built into Intel Core i3-2310M Processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠・モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | USB2.0ポート×2(右側面)、USB3.0ポート×1(左側面)、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100 V～240 V、50Hz/60Hz、出力：DC16 V、4.06 A、電源コードは100 V専用 / ▼バッテリーパック：バッテリーパック(S)付属（7.2 Vリチウムイオン・公称容量6.2 Ah、定格容量5.8 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.13 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(S)装着時：約8時間、別売のバッテリーパック(L)装着時：約12時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg / （付属のバッテリーパック(S)(約0.23kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgoo スティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、インテル ワイヤレス・ディスプレイ・ソフトウェア、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、インテル アイデンティティー・プロテクション・テクノロジー |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 250GB（Serial ATA）上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant / monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | USB2.0 port x 2 (right side), USB3.0 port x 1 (left side), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power support)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100 V–240 V, 50Hz/60Hz, Output: DC16 V, 4.06 A, power cord for 100 V only / ▼Battery pack: Battery pack (S) included (7.2 V lithium-ion, nominal capacity 6.2 Ah, rated capacity 5.8 Ah) |
+| Energy efficiency | 2011 standards N category 0.13 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (S) is installed: approx. 8 hours, when the optional battery pack (L) is installed: approx. 12 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg / (with included battery pack (S) (approx. 0.23kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 2, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Microsoft Windows Media Player12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition 5.5, Intel Wireless Display Software, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel Identity Protection Technology |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 250GB (Serial ATA) Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html>
 
@@ -626,29 +626,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10RYPHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| CPU | インテル Core i5-480M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.66GHz、インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| Chipset | モバイルインテル HM55 Express チップセット |
-| Memory | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| Video memory | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB （Serial ATA）上記容量のうち約12 GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス搭載（インテル Core i5-480M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows7 Home Premium 32-bit genuine version (Japanese version) / Windows7 Home Premium 64-bit genuine version (Japanese version) / ▼Installed OS: Windows7 Home Premium 32-bit genuine version (Japanese version) |
+| CPU | Intel Core i5-480M processor, Intel Smart Cache 3MB, operating frequency 2.66GHz, up to 2.93GHz when using Intel Turbo Boost Technology |
+| Chipset | Mobile Intel HM55 Express chipset |
+| Memory | Standard 2GB, PC3-6400/DDR3 SDRAM (maximum 6GB), 1 free slot |
+| Video memory | Max 763MB, up to 1563MB when 2GB or 4GB memory is added, (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12 GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i5-480M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.13 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | USB port ×3 (USB2.0×3), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only, ▼Battery pack: Battery pack (L) included (7.2 V lithium-ion, nominal capacity 9.3 Ah, rated capacity 8.7 Ah) |
+| Energy efficiency | 2011 standards N category 0.13 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer8.0, Midori no goo Stick, Net Selector 2, Wireless Switching Utility, Security Setting Utility, McAfee PC Security Center, i-Filter5.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese Version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notice, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows Free Trial Version, Kingsoft Dictionary, Power Plan Extension Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, USB Mouse Helper, Display Helper, Wireless Manager mobile edition 5.5, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, DirectX 10 |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support, UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html>
 
@@ -659,30 +659,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10QYBHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| CPU | インテル Core i5-480M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.66GHz、インテル ターボ・ブースト・テクノロジー利用時は最大2.93GHz |
-| Chipset | モバイルインテル HM55 Express チップセット |
-| Memory | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| Video memory | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| SSD | フラッシュメモリードライブ（SSD）：128GB （Serial ATA）上記容量のうち約12 GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス搭載（インテル Core i5-480M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows7 Home Premium 32-bit genuine version (Japanese version) / Windows7 Home Premium 64-bit genuine version (Japanese version) / ▼Installed OS: Windows7 Home Premium 32-bit genuine version (Japanese version) |
+| CPU | Intel Core i5-480M processor, Intel Smart Cache 3MB, operating frequency 2.66GHz, up to 2.93GHz when using Intel Turbo Boost Technology |
+| Chipset | Mobile Intel HM55 Express chipset |
+| Memory | Standard 2GB, PC3-6400/DDR3 SDRAM (maximum 6GB), 1 free slot |
+| Video memory | Max 763MB, up to 1563MB when 2GB or 4GB memory is added, (shared with main memory) |
+| SSD | Flash memory drive (SSD): 128GB (Serial ATA) Of the above capacity, approx. 12 GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i5-480M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(L)付属（7.2 Vリチウムイオン・公称容量9.3 Ah、定格容量8.7 Ah） |
-| Energy efficiency | 2011年度基準 N区分0.13 |
-| Battery life / charge time | ▼駆動時間：付属のバッテリーパック(L)装着時：約12時間、別売のバッテリーパック(S)装着時：約8時間 / ▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.205kg、ジャケット非装着時：約0.99kg（付属のバッテリーパック(L) (約0.32kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（パンサーブラック）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | USB port ×3 (USB2.0×3), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only, ▼Battery pack: Battery pack (L) included (7.2 V lithium-ion, nominal capacity 9.3 Ah, rated capacity 8.7 Ah) |
+| Energy efficiency | 2011 standards N category 0.13 |
+| Battery life / charge time | ▼Battery life: when the included battery pack (L) is installed: approx. 12 hours, when the optional battery pack (S) is installed: approx. 8 hours / ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.205kg, without jacket: approx. 0.99kg (with included battery pack (L) (approx. 0.32kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer8.0, Midori no goo Stick, Net Selector 2, Wireless Switching Utility, Security Setting Utility, McAfee PC Security Center, i-Filter5.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese Version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notice, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows Free Trial Version, Kingsoft Dictionary, Power Plan Extension Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, USB Mouse Helper, Display Helper, Wireless Manager mobile edition 5.5, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, DirectX 10 |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Panther Black), AC adapter, battery pack, instruction manual, etc. |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support, UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html>
 
@@ -693,29 +693,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10QYNHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| CPU | インテル Core i3-380M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.53GHz |
-| Chipset | モバイルインテル HM55 Express チップセット |
-| Memory | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| Video memory | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス搭載（インテル Core i3-380M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows7 Home Premium 32-bit genuine version (Japanese version) / Windows7 Home Premium 64-bit genuine version (Japanese version) / ▼Installed OS: Windows7 Home Premium 32-bit genuine version (Japanese version) |
+| CPU | Intel Core i3-380M processor, Intel Smart Cache 3MB, operating frequency 2.53GHz |
+| Chipset | Mobile Intel HM55 Express chipset |
+| Memory | Standard 2GB, PC3-6400/DDR3 SDRAM (maximum 6GB), 1 free slot |
+| Video memory | Max 763MB, up to 1563MB when 2GB or 4GB memory is added, (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i3-380M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(S)付属 / （7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.14 |
-| Battery life / charge time | ▼駆動時間:付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11時間、▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S)(約0.23 kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 160GB HDD（Serial ATA、5400回転/分 2.5型HDD） / 上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | USB port ×3 (USB2.0×3), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only, ▼Battery pack: Battery pack (S) included / (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.14 |
+| Battery life / charge time | ▼Battery life: With included battery pack (S) installed: approx. 7.5 hours, with separately sold battery pack (L) installed: approx. 11 hours, ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg (with included battery pack (S) (approx. 0.23 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer8.0, Midori no goo Stick, Net Selector 2, Wireless Switching Utility, Security Setting Utility, McAfee PC Security Center, i-Filter5.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese Version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notice, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows Free Trial Version, Kingsoft Dictionary, Power Plan Extension Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, USB Mouse Helper, Display Helper, Wireless Manager mobile edition 5.5, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, DirectX 10 |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 160GB HDD (Serial ATA, 5400 rpm 2.5-inch HDD) / Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support, UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html>
 
@@ -726,30 +726,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10PYAHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 32ビット 正規版（日本語版）/Windows7 Home Premium 64ビット正規版（日本語版） / ▼インストールOS：Windows7 Home Premium 32ビット 正規版（日本語版） |
-| CPU | インテル Core i3-380M プロセッサー、インテル スマートキャッシュ3MB、動作周波数2.53GHz |
-| Chipset | モバイルインテル HM55 Express チップセット |
-| Memory | 標準2GB、PC3-6400/DDR3 SDRAM（最大6GB）、空きスロット1 |
-| Video memory | 最大763MB、2GBまたは4GBのメモリーを増設した場合は最大1563MB、（メインメモリーと共用） |
-| Display | 10.1型ワイド（16：9）TFTカラー液晶 WXGA (1366×768ドット) |
-| Display / Graphics | インテル HDグラフィックス搭載（インテル Core i3-380M プロセッサーに内蔵） |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×768、1360×768、1366×768ドット：約1677万色 |
+| OS | ▼Base OS: Windows7 Home Premium 32-bit genuine version (Japanese version) / Windows7 Home Premium 64-bit genuine version (Japanese version) / ▼Installed OS: Windows7 Home Premium 32-bit genuine version (Japanese version) |
+| CPU | Intel Core i3-380M processor, Intel Smart Cache 3MB, operating frequency 2.53GHz |
+| Chipset | Mobile Intel HM55 Express chipset |
+| Memory | Standard 2GB, PC3-6400/DDR3 SDRAM (maximum 6GB), 1 free slot |
+| Video memory | Max 763MB, up to 1563MB when 2GB or 4GB memory is added, (shared with main memory) |
+| Display | 10.1-inch widescreen (16:9) TFT color LCD WXGA (1366×768 dots) |
+| Display / Graphics | Intel HD Graphics (integrated in Intel Core i3-380M processor) |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×768, 1360×768, 1366×768 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | USBポート×3（USB2.0×3）、LANコネクター（RJ-45）、HDMI出力端子、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm(横)/14.2mm(縦) (一部キーを除く） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用、▼バッテリーパック：バッテリーパック(S)付属 / （7.2Vリチウムイオン・公称容量6.2Ah、定格容量5.8Ah） |
-| Energy efficiency | 2011年度基準 N区分0.14 |
-| Battery life / charge time | ▼駆動時間:付属のバッテリーパック(S)装着時：約7.5時間、別売のバッテリーパック(L)装着時：約11時間、▼充電時間：約3.5時間（電源オフ時）/ 約5時間（電源オン時） |
-| Dimensions (W×D×H) | ジャケット装着時：幅259mm×奥行185mm×高さ39mm/48mm(前部/後部)、ジャケット非装着時：幅251.9mm×奥行171.7mm×高さ27.3mm/35.1mm(前部/後部) |
-| Weight (with battery) | ジャケット装着時：約1.185kg、ジャケット非装着時：約0.97kg（付属のバッテリーパック(S)(約0.23 kg)装着時）、ACアダプター：約0.2kg（電源コード(約0.06kg)除く） |
-| Software | Microsoft Internet Explorer8.0、緑のgooスティック、ネットセレクター2、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター5.0 (30日お試し版)、Adobe Reader、WinZip 14.5 日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl 機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、USBマウスヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition 5.5、ズームビューアー、ぴったりビュー、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnostic ユーティリティ、リカバリーディスク作成ユーティリティ、ハードディスクデータ消去ユーティリティ、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software、DirectX 10 |
-| Microsoft Office | Microsoft Office Home and Business 2010搭載 |
-| Accessories | ジャケット（シフォンホワイト）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Hard disk | 160GB HDD（Serial ATA、5400回転/分 2.5型HDD） / 上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応、UHS-I高速転送対応） |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | USB port ×3 (USB2.0×3), LAN connector (RJ-45), HDMI output terminal, external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only, ▼Battery pack: Battery pack (S) included / (7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah) |
+| Energy efficiency | 2011 standards N category 0.14 |
+| Battery life / charge time | ▼Battery life: With included battery pack (S) installed: approx. 7.5 hours, with separately sold battery pack (L) installed: approx. 11 hours, ▼Charging time: approx. 3.5 hours (power off) / approx. 5 hours (power on) |
+| Dimensions (W×D×H) | When jacket attached: width 259mm × depth 185mm × height 39mm/48mm (front/rear), When jacket not attached: width 251.9mm × depth 171.7mm × height 27.3mm/35.1mm (front/rear) |
+| Weight (with battery) | With jacket: approx. 1.185kg, without jacket: approx. 0.97kg (with included battery pack (S) (approx. 0.23 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer8.0, Midori no goo Stick, Net Selector 2, Wireless Switching Utility, Security Setting Utility, McAfee PC Security Center, i-Filter5.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese Version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notice, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows Free Trial Version, Kingsoft Dictionary, Power Plan Extension Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, USB Mouse Helper, Display Helper, Wireless Manager mobile edition 5.5, Zoom Viewer, Pittari View, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Recovery Disc Creation Utility, Hard Disk Data Erase Utility, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, DirectX 10 |
+| Microsoft Office | Microsoft Office Home and Business 2010 equipped |
+| Accessories | Jacket (Chiffon White), AC adapter, battery pack, instruction manual, etc. |
+| Hard disk | 160GB HDD (Serial ATA, 5400 rpm 2.5-inch HDD) / Of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support, UHS-I high-speed transfer support) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html>
 
@@ -787,4 +787,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-J10PYPHR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

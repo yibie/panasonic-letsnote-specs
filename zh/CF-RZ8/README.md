@@ -12,41 +12,41 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-RZ8QDEQR](https://panasonic.jp/pc/p-db/CF-RZ8QDEQR_spec.html) | 2021-01 | 2022-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8QFMQR](https://panasonic.jp/pc/p-db/CF-RZ8QFMQR_spec.html) | 2021-01 | 2022-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8ADEQR](https://panasonic.jp/pc/p-db/CF-RZ8ADEQR_spec.html) | 2020-10 | 2021-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8AFMQR](https://panasonic.jp/pc/p-db/CF-RZ8AFMQR_spec.html) | 2020-10 | 2021-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8HDEQR](https://panasonic.jp/pc/p-db/CF-RZ8HDEQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8HFMQR](https://panasonic.jp/pc/p-db/CF-RZ8HFMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8NDEQR](https://panasonic.jp/pc/p-db/CF-RZ8NDEQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8NFMQR](https://panasonic.jp/pc/p-db/CF-RZ8NFMQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8FDEQR](https://panasonic.jp/pc/p-db/CF-RZ8FDEQR_spec.html) | 2019-10 | 2020-05 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8FFMQR](https://panasonic.jp/pc/p-db/CF-RZ8FFMQR_spec.html) | 2019-10 | 2020-05 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：16GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8KDEQR](https://panasonic.jp/pc/p-db/CF-RZ8KDEQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8KFMQR](https://panasonic.jp/pc/p-db/CF-RZ8KFMQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8CFMQR](https://panasonic.jp/pc/p-db/CF-RZ8CFMQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-8200Y プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-RZ8BDFQR](https://panasonic.jp/pc/p-db/CF-RZ8BDFQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64ビット、Intel® CoreTM m3-8100Y プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8QDEQR](https://panasonic.jp/pc/p-db/CF-RZ8QDEQR_spec.html) | 2021-01 | 2022-01 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8QFMQR](https://panasonic.jp/pc/p-db/CF-RZ8QFMQR_spec.html) | 2021-01 | 2022-01 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：16GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8ADEQR](https://panasonic.jp/pc/p-db/CF-RZ8ADEQR_spec.html) | 2020-10 | 2021-10 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8AFMQR](https://panasonic.jp/pc/p-db/CF-RZ8AFMQR_spec.html) | 2020-10 | 2021-10 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：16GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8HDEQR](https://panasonic.jp/pc/p-db/CF-RZ8HDEQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8HFMQR](https://panasonic.jp/pc/p-db/CF-RZ8HFMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：16GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8NDEQR](https://panasonic.jp/pc/p-db/CF-RZ8NDEQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8NFMQR](https://panasonic.jp/pc/p-db/CF-RZ8NFMQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：16GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8FDEQR](https://panasonic.jp/pc/p-db/CF-RZ8FDEQR_spec.html) | 2019-10 | 2020-05 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8FFMQR](https://panasonic.jp/pc/p-db/CF-RZ8FFMQR_spec.html) | 2019-10 | 2020-05 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：16GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8KDEQR](https://panasonic.jp/pc/p-db/CF-RZ8KDEQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8KFMQR](https://panasonic.jp/pc/p-db/CF-RZ8KFMQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8CFMQR](https://panasonic.jp/pc/p-db/CF-RZ8CFMQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64位、Intel® CoreTM i5-8200Y 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-RZ8BDFQR](https://panasonic.jp/pc/p-db/CF-RZ8BDFQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64位、英特尔® CoreTM m3-8100Y 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 芯片组 | CPUに内蔵 |
-| 显示屏 | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電マルチタッチパネル、アンチグレア保護フィルム付 |
-| 显示屏 / 色彩 | 1920×1200ドット：約1677万色 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
+| 芯片组 | 内置于CPU |
+| 显示屏 | 10.1英寸(16:10) WUXGA TFT彩色IPS液晶 （1920×1200点）、静电多点触摸面板、附防眩光保护膜 |
+| 显示屏 / 色彩 | 1920×1200点：约1677万色 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 内存扩展槽 | なし |
-| 摄像头 | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| 麦克风 | アレイマイク |
-| 传感器 | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| 键盘 | OADG準拠86キー、キーピッチ16.8mm(横)/14.2mm(縦)(一部キーを除く） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応）/タッチパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）・定格容量4740mAh |
-| 功耗 | 最大約45W |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 内存扩展槽 | 无 |
+| 摄像头 | 有效像素：最大1920×1080像素（约207万像素） |
+| 麦克风 | 阵列麦克风 |
+| 传感器 | 照度传感器 / 地磁传感器 / 陀螺仪传感器 / 加速度传感器 |
+| 键盘 | 符合OADG标准86键、键距16.8mm（横向）/14.2mm（纵向）（部分键除外） |
+| 指点设备 | 静电触摸面板（支持10指触控）/触控板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池组 / 7.6V（锂离子）・额定容量4740mAh |
+| 功耗 | 最大约45W |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
 
 ## 各型号差异
@@ -73,28 +73,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (キャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a/b/g/n/ac 準拠（5 GHzチャンネル帯：W52/W53/W56）WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率76％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac（5 GHz频道频段：W52/W53/W56）支持WPA2-AES/TKIP、符合Wi-Fi |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率76％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8QDEQR_spec.html>
 
@@ -105,29 +105,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (キャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大8265MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a/b/g/n/ac 準拠（5 GHzチャンネル帯：W52/W53/W56）WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率86％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約10.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 16GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大8265MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac（5 GHz频道频段：W52/W53/W56）支持WPA2-AES/TKIP、符合Wi-Fi |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率86％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约10.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8QFMQR_spec.html>
 
@@ -138,28 +138,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率76％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率76％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8ADEQR_spec.html>
 
@@ -170,29 +170,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大8265MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率86％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約10.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 16GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大8265MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率86％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约10.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8AFMQR_spec.html>
 
@@ -203,28 +203,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率76％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率76％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8HDEQR_spec.html>
 
@@ -235,29 +235,29 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 核心数 | 2コア |
-| 内存 | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大8265MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率86％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約10.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 核心数 | 2核 |
+| 内存 | 16GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大8265MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率86％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约10.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8HFMQR_spec.html>
 
@@ -268,27 +268,27 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度基準 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率76％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度基准 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率76％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8NDEQR_spec.html>
 
@@ -299,28 +299,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大8265MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 目標年度2022年度基準 10区分15.5［kWh/年］ |
-| 能效达成率 | 省エネ基準達成率86％ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約10.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 16GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大8265MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 目标年度2022年度基准 10区分15.5［kWh/年］ |
+| 能效达成率 | 节能标准达成率86％ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约10.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8NFMQR_spec.html>
 
@@ -331,26 +331,26 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 2011年度基準 N区分0.038 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 2011年度标准 N分类0.038 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8FDEQR_spec.html>
@@ -362,27 +362,27 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル® Core™ i5-8200Y プロセッサー / (インテル®スマートキャッシュ4MB、動作周波数1.30GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大8265MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル® Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 能效 | 2011年度基準 M区分0.038 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約10.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm（突起部除く） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | バッテリーパック、ACアダプター（ウォールマウントプラグ付き）、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔® Core™ i5-8200Y 处理器 / （英特尔®智能缓存4MB、运行频率1.30GHz、使用英特尔® 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 16GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大8265MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（PCIe）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡 615（CPU内置） |
+| 无线通信模块 | 英特尔® Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 能效 | 2011年度基准M区分0.038 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约10.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm（不含突起部） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 电池组、AC适配器（带壁挂插头）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8FFMQR_spec.html>
@@ -394,25 +394,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル Core i5-8200Y プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.30GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm（M3）、CTIA準拠） |
-| 能效 | 2011年度基準 N区分0.038 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔 Core i5-8200Y 处理器 / 英特尔智能缓存4MB，运行频率1.30GHz（使用英特尔 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 显卡 | 英特尔 UHD 显卡615（集成于CPU） |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm（M3）、CTIA标准） |
+| 能效 | 2011年度标准 N分类0.038 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm (不含突起部) |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 带壁挂插头的AC适配器、电池组、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8KDEQR_spec.html>
@@ -424,26 +424,26 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル Core i5-8200Y プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.30GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm（M3）、CTIA準拠） |
-| 能效 | 2011年度基準 N区分0.038 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250.0mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| 附件 | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔 Core i5-8200Y 处理器 / 英特尔智能缓存4MB，运行频率1.30GHz（使用英特尔 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 显卡 | 英特尔 UHD 显卡615（集成于CPU） |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm（M3）、CTIA标准） |
+| 能效 | 2011年度标准 N分类0.038 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250.0mm × 深180.8mm × 高19.5mm (不含突起部) |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 带壁挂插头的AC适配器、电池组、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8KFMQR_spec.html>
@@ -455,26 +455,26 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル Core i5-8200Y プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.30GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.90GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| 能效 | 2011年度基準 N区分0.038 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.78kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
-| 附件 | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔 Core i5-8200Y 处理器 / 英特尔智能缓存4MB，运行频率1.30GHz（使用英特尔 睿频加速技术2.0时最高3.90GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 显卡 | 英特尔 UHD 显卡615（集成于CPU） |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔M3、CTIA标准） |
+| 能效 | 2011年度标准 N分类0.038 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250mm × 深180.8mm × 高19.5mm (不含突起部) |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.78kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 带壁挂插头的AC适配器、电池组、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8CFMQR_spec.html>
@@ -486,25 +486,25 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 处理器 | インテル Core m3-8100Y プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.40GHz） |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル UHD グラフィックス615（CPUに内蔵） |
-| 无线通信模块 | インテル Dual Band Wireless-AC 8265 |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 接口 | ・USB3.0 Type-Aポート×3（うち１つはUSB充電ポートを兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3、CTIA準拠） |
-| 能效 | 2011年度基準 N区分0.044 |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11.5時間 / ▼充電時間 / 約2.5時間（電源ON時/OFF時ともに） |
-| 尺寸（宽×深×高） | 幅250mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.75kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty |
-| 附件 | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 处理器 | 英特尔 Core m3-8100Y处理器 / 英特尔智能缓存4MB、工作频率1.10GHz（使用英特尔睿频加速技术2.0时最高3.40GHz） |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 显示屏 / 显卡 | 英特尔 UHD 显卡615（集成于CPU） |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 8265 |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 接口 | ・USB3.0 Type-A端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔M3、CTIA标准） |
+| 能效 | 2011年度标准 N分类0.044 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11.5小时 / ▼充电时间 / 约2.5小时（电源ON时/OFF时均如此） |
+| 尺寸（宽×深×高） | 宽250mm × 深180.8mm × 高19.5mm (不含突起部) |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.75kg（安装附带的电池组（约200g）时） / AC适配器：约185g（不含壁挂式插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
+| 附件 | 带壁挂插头的AC适配器、电池组、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 | 能效达成率（2011 年度标准） | — |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-RZ8BDFQR_spec.html>
@@ -544,4 +544,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

@@ -21,31 +21,31 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 芯片组 | CPUに内蔵 |
-| 光驱 | 搭載されていません |
-| 显示屏 | 14.0型(16:10)WUXGA TFTカラー液晶 （1920 x 1200ドット）アンチグレア / 外部ディスプレイ表示 最大：3840×2160（30 Hz/60 Hz/120Hz/144Hz） / 本体＋外部ディスプレイ同時表示 最大：1920×1200：約1677万色 |
-| 无线网络 | Wi-Fi 6E対応 IEEE802.11a/b/g/n/ac/ax(6GHz帯含む) 準拠 （5GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
+| 芯片组 | 内置于CPU |
+| 光驱 | 未配备 |
+| 显示屏 | 14.0英寸(16:10)WUXGA TFT彩色液晶屏 （1920 x 1200像素）防眩光 / 外部显示器显示 最大：3840×2160（30 Hz/60 Hz/120Hz/144Hz） / 主机＋外部显示器同时显示 最大：1920×1200：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6E 符合IEEE802.11a/b/g/n/ac/ax(含6GHz频段) （5GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 蓝牙 | Bluetooth v5.3 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー(ボックス型スピーカー) |
-| 安全 | Secured-Core PC対応 / セキュリティチップ：TPM（TCG V2.0準拠） / 指紋センサー：タッチ式、電源ボタン一体型 |
-| 安全（Windows Hello） | Windows Hello Enhanced Sign-in Security 対応 |
-| 内存扩展槽 | なし |
-| 摄像头 | 有効画素数：FHD 1920×1080ピクセル（約207万画素）、30fps、 Windows Hello顔認証対応、プライバシーシャッター搭載、vHDR対応 |
-| 麦克风 | アレイマイク |
-| 接口 | ・USB Type-Cポート（Thunderbolt™4対応、USB Power Delivery対応）×2 / ・USB Type-A(5Gbps)ポート×2（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・HDMI出力端子（4K144Hz出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm(M3))、CTIA準拠） |
-| 键盘 | OADG準拠キーボード（87キー）：キーピッチ19mm（横）/19mm（縦）（一部キーを除く） |
-| 指点设备 | 高精度タッチパッド対応ホイールパッド |
-| 电源 | ▼ACアダプター(USB Power Delivery対応) / 入力：AC100V～240V(50Hz/60Hz) 、出力：DC 5V：最大3A、DC 9V：最大3A、DC 15V：最大3A、DC 20V：最大3.25A、電源コードは100V専用 / ▼バッテリーパック / 11.58V リチウムイオン・定格容量4772mAh |
-| 功耗 | 最大約65W |
-| 能效 | 目標年度2022年度 12区分13.9［kWh/年］ |
+| 蓝牙 | Bluetooth v5.3 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器(箱型扬声器) |
+| 安全 | 支持Secured-Core PC / 安全芯片：TPM（符合TCG V2.0） / 指纹传感器：触摸式、与电源按钮一体型 |
+| 安全（Windows Hello） | 支持 Windows Hello Enhanced Sign-in Security |
+| 内存扩展槽 | 无 |
+| 摄像头 | 有效像素：FHD 1920×1080像素（约207万像素）、30fps、支持Windows Hello人脸识别、配备隐私快门、支持vHDR |
+| 麦克风 | 阵列麦克风 |
+| 接口 | ・USB Type-C端口（支持Thunderbolt™4、支持USB Power Delivery）×2 / ・USB Type-A(5Gbps)端口×2（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・HDMI输出端子（支持4K144Hz输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm(M3)）、CTIA标准） |
+| 键盘 | OADG标准键盘（87键）：键距19mm（横向）/19mm（纵向）（部分按键除外） |
+| 指点设备 | 支持高精度触摸板的滚轮触控板 |
+| 电源 | ▼AC适配器（支持USB Power Delivery） / 输入：AC100V～240V（50Hz/60Hz）、输出：DC 5V：最大3A、DC 9V：最大3A、DC 15V：最大3A、DC 20V：最大3.25A、电源线仅限100V专用 / ▼电池组 / 11.58V锂离子・额定容量4772mAh |
+| 功耗 | 最大约65W |
+| 能效 | 目标年度2022年度 12区分13.9［kWh/年］ |
 | 能效达成率 | — |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.3.0） / 約11.5時間(動画再生時)、約26.1時間(アイドル時) / ▼充電時間 / 最大2.5時間(電源オフ時)／最大2.5時間(電源オン時) |
-| 尺寸（宽×深×高） | 幅約314.4mm×奥行き約223.4mm×高さ約19.9mm（突起部除く） |
-| 重量（含电池） | パソコン本体：約1.039kg（付属バッテリーパック(約285g）装着時） / ACアダプター：約140g（電源コード（約60g）、USB接続ケーブル（約36g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・PC情報ビューアー / ・Panasonic PC VVork / ・Panasonic AIデバイスコントローラー / ・Panasonic PC Hub |
-| 附件 | ACアダプター(USB Power Delivery対応)、バッテリーパック、取扱説明書 等 |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.3.0） / 约11.5小时（视频播放时）、约26.1小时（空闲时） / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 尺寸（宽×深×高） | 宽约314.4mm×深约223.4mm×高约19.9mm（不含突起部） |
+| 重量（含电池） | 电脑本体：约1.039kg（安装附带电池组（约285g）时） / AC适配器：约140g（不含电源线（约60g）、USB连接线（约36g）） |
+| 预装软件 | ・Microsoft® Edge / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・PC 信息查看器 / ・Panasonic PC VVork / ・Panasonic AI 设备控制器 / ・Panasonic PC Hub |
+| 附件 | AC适配器（支持USB Power Delivery）、电池组、使用说明书 等 |
 
 ## 各型号差异
 
@@ -60,11 +60,11 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ Ultra 5 プロセッサー 225U / P-core：最大ターボ周波数4.80 GHz / E-core：最大ターボ周波数3.80 GHz / 低消費電力 E-core：最大ターボ周波数2.40 GHz / コア数：12コア/キャッシュ：12MB |
-| 内存 | 16GB LPDDR5X SDRAM（拡張スロットなし） |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル® グラフィックス（CPUに内蔵） |
-| 颜色 | カームグレイ |
+| 处理器 | 英特尔® Core™ Ultra 5 处理器 225U / P-core：最大睿频频率4.80 GHz / E-core：最大睿频频率3.80 GHz / 低功耗 E-core：最大睿频频率2.40 GHz / 核心数：12核/缓存：12MB |
+| 内存 | 16GB LPDDR5X SDRAM（无扩展插槽） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 / 显卡 | 英特尔® 显卡（CPU内置） |
+| 颜色 | 静谧灰 |
 | Microsoft Office | Microsoft 365 Basic + Office Home & Business 2024 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-FC6ADMCR_spec.html>
@@ -76,11 +76,11 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ Ultra 5 プロセッサー 225U / P-core：最大ターボ周波数4.80 GHz / E-core：最大ターボ周波数3.80 GHz / 低消費電力 E-core：最大ターボ周波数2.40 GHz / コア数：12コア/キャッシュ：12MB |
-| 内存 | 16GB LPDDR5X SDRAM（拡張スロットなし） |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル® グラフィックス（CPUに内蔵） |
-| 颜色 | カームグレイ |
+| 处理器 | 英特尔® Core™ Ultra 5 处理器 225U / P-core：最大睿频频率4.80 GHz / E-core：最大睿频频率3.80 GHz / 低功耗 E-core：最大睿频频率2.40 GHz / 核心数：12核/缓存：12MB |
+| 内存 | 16GB LPDDR5X SDRAM（无扩展插槽） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 / 显卡 | 英特尔® 显卡（CPU内置） |
+| 颜色 | 静谧灰 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-FC6ADTCR_spec.html>
 
@@ -91,11 +91,11 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル® Core™ Ultra 7 プロセッサー 255H / P-core：最大ターボ周波数5.10 GHz / E-core：最大ターボ周波数4.40 GHz / 低消費電力 E-core：最大ターボ周波数2.50 GHz / コア数：16コア/キャッシュ：24MB |
-| 内存 | 32GB LPDDR5X SDRAM（拡張スロットなし） |
-| 存储 | SSD：1TB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 / 显卡 | インテル® Arc™ グラフィックス（CPUに内蔵） |
-| 颜色 | ブラック |
+| 处理器 | 英特尔® Core™ Ultra 7 处理器 255H / P-core：最大睿频频率5.10 GHz / E-core：最大睿频频率4.40 GHz / 低功耗 E-core：最大睿频频率2.50 GHz / 核心数：16核/缓存：24MB |
+| 内存 | 32GB LPDDR5X SDRAM（无扩展插槽） |
+| 存储 | SSD：1TB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 / 显卡 | 英特尔® Arc™ 显卡（集成于CPU） |
+| 颜色 | 黑色 |
 | Microsoft Office | Microsoft 365 Basic + Office Home & Business 2024 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-FC6BDPCR_spec.html>
@@ -114,4 +114,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

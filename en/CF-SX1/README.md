@@ -12,45 +12,45 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-SX1XEUHR](https://panasonic.jp/pc/p-db/CF-SX1XEUHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M vProTM（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-SX1XEVHR](https://panasonic.jp/pc/p-db/CF-SX1XEVHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M vProTM（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-SX1XEWHR](https://panasonic.jp/pc/p-db/CF-SX1XEWHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M vProTM（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-SX1XEXHR](https://panasonic.jp/pc/p-db/CF-SX1XEXHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M vProTM（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：320GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-SX1GEADR](https://panasonic.jp/pc/p-db/CF-SX1GEADR_spec.html) | 2012-02 | 2012-09 | Windows®7 Professional 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2540M（2.60GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-SX1GEPDR](https://panasonic.jp/pc/p-db/CF-SX1GEPDR_spec.html) | 2012-02 | 2012-09 | Windows®7 Professional 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2540M（2.60GHz）、メモリー：標標準4GB（空きスロット1、最大8GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-SX1GEBDR](https://panasonic.jp/pc/p-db/CF-SX1GEBDR_spec.html) | 2012-02 | 2012-09 | ブラックモデル：Windows®7 Professional 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2540M（2.60GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-SX1GEQDR](https://panasonic.jp/pc/p-db/CF-SX1GEQDR_spec.html) | 2012-02 | 2012-09 | ブラックモデル：Windows®7 Professional 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2540M（2.60GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：500GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 |
-| [CF-SX1GETDR](https://panasonic.jp/pc/p-db/CF-SX1GETDR_spec.html) | 2012-02 | 2012-09 | Windows®7 Professional 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2540M（2.60GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、SSD：128GB --> 、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n＜台数限定＞ |
-| [CF-SX1WEUHR](https://panasonic.jp/pc/p-db/CF-SX1WEUHR_spec.html) | 2012-02 | 2012-09 | Windows®7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n＜台数限定＞ |
-| [CF-SX1WEVHR](https://panasonic.jp/pc/p-db/CF-SX1WEVHR_spec.html) | 2012-02 | 2012-09 | Windows®7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/nOffice Home and Business 2010 ＜台数限定＞ |
-| [CF-SX1WEWHR](https://panasonic.jp/pc/p-db/CF-SX1WEWHR_spec.html) | 2012-02 | 2012-09 | ブラックモデル：Windows®7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n＜台数限定＞ |
-| [CF-SX1WEXHR](https://panasonic.jp/pc/p-db/CF-SX1WEXHR_spec.html) | 2012-02 | 2012-09 | ブラックモデル：Windows®7 Home Premium 64ビット 正規版 （Service Pack 1 適用済み）、インテル® CoreTM i5-2450M（2.50GHz）、メモリー：標準4GB（空きスロット1、最大8GB）、HDD：250GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/nOffice Home and Business 2010 ＜台数限定＞ |
+| [CF-SX1XEUHR](https://panasonic.jp/pc/p-db/CF-SX1XEUHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2450M vProTM (2.50GHz), Memory: Standard 4GB (1 free slot, max 8GB), HDD: 320GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-SX1XEVHR](https://panasonic.jp/pc/p-db/CF-SX1XEVHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64-bit OEM version (Service Pack 1 applied), Intel® CoreTM i5-2450M vProTM (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 320GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-SX1XEWHR](https://panasonic.jp/pc/p-db/CF-SX1XEWHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2450M vProTM (2.50GHz), Memory: Standard 4GB (1 free slot, max 8GB), HDD: 320GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-SX1XEXHR](https://panasonic.jp/pc/p-db/CF-SX1XEXHR_spec.html) | 2012-06 | 2013-02 | Windows 7 Home Premium 64-bit OEM version (Service Pack 1 applied), Intel® CoreTM i5-2450M vProTM (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 320GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-SX1GEADR](https://panasonic.jp/pc/p-db/CF-SX1GEADR_spec.html) | 2012-02 | 2012-09 | Genuine Windows®7 Professional 64-bit (Service Pack 1 applied), Intel® CoreTM i5-2540M (2.60GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-SX1GEPDR](https://panasonic.jp/pc/p-db/CF-SX1GEPDR_spec.html) | 2012-02 | 2012-09 | Genuine Windows®7 Professional 64-bit (Service Pack 1 applied), Intel® CoreTM i5-2540M (2.60GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-SX1GEBDR](https://panasonic.jp/pc/p-db/CF-SX1GEBDR_spec.html) | 2012-02 | 2012-09 | Black model: Windows®7 Professional 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2540M (2.60GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-SX1GEQDR](https://panasonic.jp/pc/p-db/CF-SX1GEQDR_spec.html) | 2012-02 | 2012-09 | Black model: Windows®7 Professional 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2540M (2.60GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 500GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 |
+| [CF-SX1GETDR](https://panasonic.jp/pc/p-db/CF-SX1GETDR_spec.html) | 2012-02 | 2012-09 | Genuine Windows®7 Professional 64-bit (Service Pack 1 applied), Intel® CoreTM i5-2540M (2.60GHz), Memory: standard 4GB (1 free slot, max 8GB), SSD: 128GB -->, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n <limited quantity> |
+| [CF-SX1WEUHR](https://panasonic.jp/pc/p-db/CF-SX1WEUHR_spec.html) | 2012-02 | 2012-09 | Genuine Windows®7 Home Premium 64-bit (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n <limited quantity> |
+| [CF-SX1WEVHR](https://panasonic.jp/pc/p-db/CF-SX1WEVHR_spec.html) | 2012-02 | 2012-09 | Genuine Windows®7 Home Premium 64-bit (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/nOffice Home and Business 2010 <limited quantity> |
+| [CF-SX1WEWHR](https://panasonic.jp/pc/p-db/CF-SX1WEWHR_spec.html) | 2012-02 | 2012-09 | Black model: Windows®7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n <Limited quantity> |
+| [CF-SX1WEXHR](https://panasonic.jp/pc/p-db/CF-SX1WEXHR_spec.html) | 2012-02 | 2012-09 | Black model: Windows®7 Home Premium 64-bit Genuine Edition (Service Pack 1 applied), Intel® CoreTM i5-2450M (2.50GHz), Memory: standard 4GB (1 free slot, max 8GB), HDD: 250GB, Super Multi Drive, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n Office Home and Business 2010 <Limited quantity> |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Memory | 標準4GB PC3-8500/DDR3 SDRAM 最大8GB （空きスロット1） |
-| Video memory | 最大1696MB (メインメモリーと共用) |
-| Optical drive | スーパーマルチドライブ内蔵 バッファアンダーランエラー防止機能(SmoothLink)搭載、シェルドライブ(DVDマルチ) |
-| Display | 12.1型ワイド(16:9)HD+ TFTカラー液晶 （1600 x 900ドット） |
-| Wireless communication | インテル Centrino Advanced-N + WiMAX 6250 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Card slots / PC Card | 搭載されていません |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I高速転送対応/著作権保護技術対応） |
-| Camera | 解像度：HD（720p）、有効画素数：最大1280×720ピクセル |
-| Keyboard | OADG準拠86キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く） |
-| Power consumption | 最大約65W |
+| Memory | Standard 4GB PC3-8500/DDR3 SDRAM, max. 8GB (1 free slot) |
+| Video memory | Maximum 1696MB (shared with main memory) |
+| Optical drive | Super Multi Drive built-in, equipped with buffer underrun error prevention function (SmoothLink), shell drive (DVD Multi) |
+| Display | 12.1-inch widescreen (16:9) HD+ TFT color LCD (1600 x 900 dots) |
+| Wireless communication | Intel Centrino Advanced-N + WiMAX 6250 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | Not equipped |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-I high-speed transfer support/copyright protection technology support) |
+| Camera | Resolution: HD (720p), effective pixels: max. 1280×720 pixels |
+| Keyboard | OADG-compliant 86 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Power consumption | Max approx. 65W |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-SX1XEUHR | Core i5-2450M | 4GB PC3-8500 | ハードディスクドライブ | 1.18 kg | 8 h |
-| CF-SX1XEVHR | Core i5-2450M | 4GB PC3-8500 | ハードディスクドライブ | 1.18 kg | 8 h |
-| CF-SX1XEWHR | Core i5-2450M | 4GB PC3-8500 | ハードディスクドライブ | 1.18 kg | 8 h |
-| CF-SX1XEXHR | Core i5-2450M | 4GB PC3-8500 | ハードディスクドライブ | 1.18 kg | 8 h |
+| CF-SX1XEUHR | Core i5-2450M | 4GB PC3-8500 | Hard disk drive | 1.18 kg | 8 h |
+| CF-SX1XEVHR | Core i5-2450M | 4GB PC3-8500 | Hard disk drive | 1.18 kg | 8 h |
+| CF-SX1XEWHR | Core i5-2450M | 4GB PC3-8500 | Hard disk drive | 1.18 kg | 8 h |
+| CF-SX1XEXHR | Core i5-2450M | 4GB PC3-8500 | Hard disk drive | 1.18 kg | 8 h |
 | CF-SX1GEADR | Core i5-2540M vPro | 4GB PC3-8500 | 500GB | 1.39 kg | 16 h |
 | CF-SX1GEPDR | Core i5-2540M vPro | 4GB PC3-8500 | 500GB | 1.39 kg | 16 h |
 | CF-SX1GEBDR | Core i5-2540M vPro | 4GB PC3-8500 | 500GB | 1.39 kg | 16 h |
@@ -66,34 +66,34 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイル インテル HM65 Express チップセット |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM：最大5倍速、DVD-R：最大8倍速、DVD-R DL：最大6倍速、DVD-RW：最大6倍速、+R ：最大8倍速、+R DL：最大6倍速、+RW：最大4倍速、High Speed +RW：最大8倍速、CD-R：最大24倍速、CD-RW：4倍速、High-Speed CD-RW ：10倍速、Ultra-Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-R DL、DVD-RW、 +R、+R DL、+RW、High Speed +RW、CD-ROM（XA対応）、Photo CD（マルチセッション対応）、Video CD、CD EXTRA、CD-TEXT、CD-Audio、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM: max 5x, DVD-R: max 8x, DVD-R DL: max 6x, DVD-RW: max 6x, +R: max 8x, +R DL: max 6x, +RW: max 4x, High Speed +RW: max 8x, CD-R: max 24x, CD-RW: 4x, High-Speed CD-RW: 10x, Ultra-Speed CD-RW max 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-R DL, DVD-RW, +R, +R DL, +RW, High Speed +RW, CD-ROM (XA compatible), Photo CD (multi-session compatible), Video CD, CD EXTRA, CD-TEXT, CD-Audio, CD-R, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000（CPUに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1360×768ドット、1366×768ドット、1600×900ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
+| Display / Graphics | Intel HD Graphics 3000 (built into CPU) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1280×1024 dots, 1360×768 dots, 1366×768 dots, 1400×1050 dots, 1600×900 dots, 1600×1200 dots, 1680×1050 dots, 1920×1080 dots, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1360×768 dots, 1366×768 dots, 1600×900 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
 | Bluetooth | Bluetooth v2.1+EDR |
-| Memory expansion slot | DDR3 204ピン SO-DIMM専用スロット×1（1.5V/PC3-8500/DDR3 SDRAM） |
-| Microphone | モノラル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(左側面) / USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼軽量バッテリーパック（S） / 7.2 Vリチウムイオン 公称容量 6800 mAh / 定格容量 6400 mAh |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Microphone | Monaural |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (left side) / USB2.0 port x1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Lightweight battery pack (S) / 7.2 V lithium-ion, nominal capacity 6800 mAh / rated capacity 6400 mAh |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売標準バッテリーパック（L）装着時：約16時間） / ▼充電時間： / ●標準ACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約5時間（電源オン状態）、約4時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約3時間（電源オン状態）、約2.5時間（電源オフ状態） / ●ミニACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約8時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約4.5時間（電源オフ状態） |
-| Dimensions (W×D×H) | 幅295mm×奥行き197.5mm×高さ25.4mm(最厚部は31.5mm 突起部除く) |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.18kg（付属のバッテリーパック(約0.22kg)装着時）、パソコン本体：約1.39kg（別売の標準バッテリーパック（約0.43kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー）、Wireless Manager mobile edition 5.5、インテル WiDi ソフトウェア、USB充電設定ユーティリティ、カメラユーティリティ、ズームビューアー、ぴったりビュー、ウィンドウ・セパレーター（画面分割ユーティリティ）、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューア―、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、DirextX 11、インテル PROSet/Wireless Software（無線LANの認証方式を拡張しています）、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT用アプリケーションソフト）、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、WinZip 15 日本語版 45日体験版、Microsoft .NET Framework 4.0、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（My DVD含む）、CyberLink PowerDVD 10 |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack (L) installed: approx. 16 hours) / ▼Charging time: / ●When using standard AC adapter / With [standard battery pack (L)] installed: approx. 5 hours (power ON), approx. 4 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 3 hours (power ON), approx. 2.5 hours (power OFF) / ●When using mini AC adapter / With [standard battery pack (L)] installed: approx. 8 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 4.5 hours (power OFF) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm (thickest part is 31.5mm, excluding protrusions) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included battery pack (approx. 0.22kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (approx. 0.43kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper), Wireless Manager mobile edition 5.5, Intel WiDi Software, USB Charging Setting Utility, Camera Utility, Zoom Viewer, Pittari View, Window Separator (Screen Split Utility), Quick Boot Manager, PC Information Popup, PC Information Viewer, Dashboard for Panasonic PC, Recovery Disc Creation Utility, DirextX 11, Intel PROSet/Wireless Software (wireless LAN authentication methods are extended), Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, WinZip 15 Japanese Version 45-day trial version, Microsoft .NET Framework 4.0, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including My DVD), CyberLink PowerDVD 10 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEUHR_spec.html>
 
@@ -104,34 +104,34 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEUHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイル インテル HM65 Express チップセット |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM：最大5倍速、DVD-R：最大8倍速、DVD-R DL：最大6倍速、DVD-RW：最大6倍速、+R ：最大8倍速、+R DL：最大6倍速、+RW：最大4倍速、High Speed +RW：最大8倍速、CD-R：最大24倍速、CD-RW：4倍速、High-Speed CD-RW ：10倍速、Ultra-Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-R DL、DVD-RW、 +R、+R DL、+RW、High Speed +RW、CD-ROM（XA対応）、Photo CD（マルチセッション対応）、Video CD、CD EXTRA、CD-TEXT、CD-Audio、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM: max 5x, DVD-R: max 8x, DVD-R DL: max 6x, DVD-RW: max 6x, +R: max 8x, +R DL: max 6x, +RW: max 4x, High Speed +RW: max 8x, CD-R: max 24x, CD-RW: 4x, High-Speed CD-RW: 10x, Ultra-Speed CD-RW max 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-R DL, DVD-RW, +R, +R DL, +RW, High Speed +RW, CD-ROM (XA compatible), Photo CD (multi-session compatible), Video CD, CD EXTRA, CD-TEXT, CD-Audio, CD-R, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000（CPUに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1360×768ドット、1366×768ドット、1600×900ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
+| Display / Graphics | Intel HD Graphics 3000 (built into CPU) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1280×1024 dots, 1360×768 dots, 1366×768 dots, 1400×1050 dots, 1600×900 dots, 1600×1200 dots, 1680×1050 dots, 1920×1080 dots, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1360×768 dots, 1366×768 dots, 1600×900 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
 | Bluetooth | Bluetooth v2.1+EDR |
-| Memory expansion slot | DDR3 204ピン SO-DIMM専用スロット×1（1.5V/PC3-8500/DDR3 SDRAM） |
-| Microphone | モノラル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(左側面) / USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼軽量バッテリーパック（S） / 7.2 Vリチウムイオン 公称容量 6800 mAh / 定格容量 6400 mAh |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Microphone | Monaural |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (left side) / USB2.0 port x1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Lightweight battery pack (S) / 7.2 V lithium-ion, nominal capacity 6800 mAh / rated capacity 6400 mAh |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売標準バッテリーパック（L）装着時：約16時間） / ▼充電時間： / ●標準ACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約5時間（電源オン状態）、約4時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約3時間（電源オン状態）、約2.5時間（電源オフ状態） / ●ミニACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約8時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約4.5時間（電源オフ状態） |
-| Dimensions (W×D×H) | 幅295mm×奥行き197.5mm×高さ25.4mm(最厚部は31.5mm 突起部除く) |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.18kg（付属のバッテリーパック(約0.22kg)装着時）、パソコン本体：約1.39kg（別売の標準バッテリーパック（約0.43kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー）、Wireless Manager mobile edition 5.5、インテル WiDi ソフトウェア、USB充電設定ユーティリティ、カメラユーティリティ、ズームビューアー、ぴったりビュー、ウィンドウ・セパレーター（画面分割ユーティリティ）、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューア―、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、DirextX 11、インテル PROSet/Wireless Software（無線LANの認証方式を拡張しています）、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT用アプリケーションソフト）、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、WinZip 15 日本語版 45日体験版、Microsoft .NET Framework 4.0、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（My DVD含む）、CyberLink PowerDVD 10 |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 / Microsoft Office Home and Business 2010 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack (L) installed: approx. 16 hours) / ▼Charging time: / ●When using standard AC adapter / With [standard battery pack (L)] installed: approx. 5 hours (power ON), approx. 4 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 3 hours (power ON), approx. 2.5 hours (power OFF) / ●When using mini AC adapter / With [standard battery pack (L)] installed: approx. 8 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 4.5 hours (power OFF) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm (thickest part is 31.5mm, excluding protrusions) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included battery pack (approx. 0.22kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (approx. 0.43kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper), Wireless Manager mobile edition 5.5, Intel WiDi Software, USB Charging Setting Utility, Camera Utility, Zoom Viewer, Pittari View, Window Separator (Screen Split Utility), Quick Boot Manager, PC Information Popup, PC Information Viewer, Dashboard for Panasonic PC, Recovery Disc Creation Utility, DirextX 11, Intel PROSet/Wireless Software (wireless LAN authentication methods are extended), Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, WinZip 15 Japanese Version 45-day trial version, Microsoft .NET Framework 4.0, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including My DVD), CyberLink PowerDVD 10 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual / Microsoft Office Home and Business 2010 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEVHR_spec.html>
@@ -143,34 +143,34 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEVHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイル インテル HM65 Express チップセット |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM：最大5倍速、DVD-R：最大8倍速、DVD-R DL：最大6倍速、DVD-RW：最大6倍速、+R ：最大8倍速、+R DL：最大6倍速、+RW：最大4倍速、High Speed +RW：最大8倍速、CD-R：最大24倍速、CD-RW：4倍速、High-Speed CD-RW ：10倍速、Ultra-Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-R DL、DVD-RW、 +R、+R DL、+RW、High Speed +RW、CD-ROM（XA対応）、Photo CD（マルチセッション対応）、Video CD、CD EXTRA、CD-TEXT、CD-Audio、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM: max 5x, DVD-R: max 8x, DVD-R DL: max 6x, DVD-RW: max 6x, +R: max 8x, +R DL: max 6x, +RW: max 4x, High Speed +RW: max 8x, CD-R: max 24x, CD-RW: 4x, High-Speed CD-RW: 10x, Ultra-Speed CD-RW max 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-R DL, DVD-RW, +R, +R DL, +RW, High Speed +RW, CD-ROM (XA compatible), Photo CD (multi-session compatible), Video CD, CD EXTRA, CD-TEXT, CD-Audio, CD-R, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000（CPUに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1360×768ドット、1366×768ドット、1600×900ドット：約1677万 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
+| Display / Graphics | Intel HD Graphics 3000 (built into CPU) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1360×768 dots, 1366×768 dots, 1600×900 dots: approx. 16.77 million |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
 | Bluetooth | Bluetooth v2.1+EDR |
-| Memory expansion slot | DDR3 204ピン SO-DIMM専用スロット×1（1.5V/PC3-8500/DDR3 SDRAM） |
-| Microphone | モノラル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(左側面) / USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼軽量バッテリーパック（S） / 7.2 Vリチウムイオン 公称容量 6800 mAh / 定格容量 6400 mAh |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Microphone | Monaural |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (left side) / USB2.0 port x1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Lightweight battery pack (S) / 7.2 V lithium-ion, nominal capacity 6800 mAh / rated capacity 6400 mAh |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売標準バッテリーパック（L）装着時：約16時間） / ▼充電時間： / ●標準ACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約5時間（電源オン状態）、約4時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約3時間（電源オン状態）、約2.5時間（電源オフ状態） / ●ミニACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約8時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約4.5時間（電源オフ状態） |
-| Dimensions (W×D×H) | 幅295mm×奥行き197.5mm×高さ25.4mm(最厚部は31.5mm 突起部除く) |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.18kg（付属のバッテリーパック(約0.22kg)装着時）、パソコン本体：約1.39kg（別売の標準バッテリーパック（約0.43kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー）、Wireless Manager mobile edition 5.5、インテル WiDi ソフトウェア、USB充電設定ユーティリティ、カメラユーティリティ、ズームビューアー、ぴったりビュー、ウィンドウ・セパレーター（画面分割ユーティリティ）、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューア―、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、DirextX 11、インテル PROSet/Wireless Software（無線LANの認証方式を拡張しています）、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT用アプリケーションソフト）、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、WinZip 15 日本語版 45日体験版、Microsoft .NET Framework 4.0、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（My DVD含む）、CyberLink PowerDVD 10 |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack (L) installed: approx. 16 hours) / ▼Charging time: / ●When using standard AC adapter / With [standard battery pack (L)] installed: approx. 5 hours (power ON), approx. 4 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 3 hours (power ON), approx. 2.5 hours (power OFF) / ●When using mini AC adapter / With [standard battery pack (L)] installed: approx. 8 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 4.5 hours (power OFF) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm (thickest part is 31.5mm, excluding protrusions) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included battery pack (approx. 0.22kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (approx. 0.43kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper), Wireless Manager mobile edition 5.5, Intel WiDi Software, USB Charging Setting Utility, Camera Utility, Zoom Viewer, Pittari View, Window Separator (Screen Split Utility), Quick Boot Manager, PC Information Popup, PC Information Viewer, Dashboard for Panasonic PC, Recovery Disc Creation Utility, DirextX 11, Intel PROSet/Wireless Software (wireless LAN authentication methods are extended), Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, WinZip 15 Japanese Version 45-day trial version, Microsoft .NET Framework 4.0, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including My DVD), CyberLink PowerDVD 10 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEWHR_spec.html>
 
@@ -181,34 +181,34 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEWHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済）/Windows7 Home Premium 32ビット正規版（Service Pack1適用済） / ▼インストールOS：Windows7 Home Premium 64ビット正規版（Service Pack1適用済） |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイル インテル HM65 Express チップセット |
-| Hard disk | ハードディスクドライブ（HDD）320GB（Serial ATA、5400rpm）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM：最大5倍速、DVD-R：最大8倍速、DVD-R DL：最大6倍速、DVD-RW：最大6倍速、+R ：最大8倍速、+R DL：最大6倍速、+RW：最大4倍速、High Speed +RW：最大8倍速、CD-R：最大24倍速、CD-RW：4倍速、High-Speed CD-RW ：10倍速、Ultra-Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM 、DVD-ROM、DVD-Video、DVD-R 、DVD-R DL、DVD-RW、 +R、+R DL、+RW、High Speed +RW、CD-ROM（XA対応）、Photo CD（マルチセッション対応）、Video CD、CD EXTRA、CD-TEXT、CD-Audio、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
+| OS | ▼Base OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied)/Windows7 Home Premium 32-bit genuine version (Service Pack1 applied) / ▼Installed OS: Windows7 Home Premium 64-bit genuine version (Service Pack1 applied) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | Hard disk drive (HDD) 320GB (Serial ATA, 5400rpm) Of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (unavailable to user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM: max 5x, DVD-R: max 8x, DVD-R DL: max 6x, DVD-RW: max 6x, +R: max 8x, +R DL: max 6x, +RW: max 4x, High Speed +RW: max 8x, CD-R: max 24x, CD-RW: 4x, High-Speed CD-RW: 10x, Ultra-Speed CD-RW max 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-R DL, DVD-RW, +R, +R DL, +RW, High Speed +RW, CD-ROM (XA compatible), Photo CD (multi-session compatible), Video CD, CD EXTRA, CD-TEXT, CD-Audio, CD-R, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000（CPUに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1280×1024ドット、1360×768ドット、1366×768ドット、1400×1050ドット、1600×900ドット、1600×1200ドット、1680×1050ドット、1920×1080ドット、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×720ドット、1280×768ドット、1360×768ドット、1366×768ドット、1600×900ドット：約1677万 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
-| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T、モデムは搭載されていません。 |
+| Display / Graphics | Intel HD Graphics 3000 (built into CPU) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1280×1024 dots, 1360×768 dots, 1366×768 dots, 1400×1050 dots, 1600×900 dots, 1600×1200 dots, 1680×1050 dots, 1920×1080 dots, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×720 dots, 1280×768 dots, 1360×768 dots, 1366×768 dots, 1600×900 dots: approx. 16.77 million |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
+| Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T, modem not equipped. |
 | Bluetooth | Bluetooth v2.1+EDR |
-| Memory expansion slot | DDR3 204ピン SO-DIMM専用スロット×1（1.5V/PC3-8500/DDR3 SDRAM） |
-| Microphone | モノラル |
-| Ports | LANコネクター（RJ-45） / 外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン） / HDMI出力端子 / マイク入力端子（ステレオミニジャックM3（プラグインパワー対応）） / オーディオ出力端子（ステレオミニジャックM3） / USB3.0ポート×2(左側面) / USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼軽量バッテリーパック（S） / 7.2 Vリチウムイオン 公称容量 6800 mAh / 定格容量 6400 mAh |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-8500/DDR3 SDRAM) |
+| Microphone | Monaural |
+| Ports | LAN connector (RJ-45) / external display connector (analog RGB mini Dsub 15-pin) / HDMI output terminal / microphone input terminal (stereo mini jack M3 (plug-in power compatible)) / audio output terminal (stereo mini jack M3) / USB3.0 port x2 (left side) / USB2.0 port x1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Lightweight battery pack (S) / 7.2 V lithium-ion, nominal capacity 6800 mAh / rated capacity 6400 mAh |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売標準バッテリーパック（L）装着時：約16時間） / ▼充電時間： / ●標準ACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約5時間（電源オン状態）、約4時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約3時間（電源オン状態）、約2.5時間（電源オフ状態） / ●ミニACアダプターを使用した場合 / ［標準バッテリーパック（L）］装着時：約8時間（電源オフ状態） / ［軽量バッテリーパック（S）］装着時：約4.5時間（電源オフ状態） |
-| Dimensions (W×D×H) | 幅295mm×奥行き197.5mm×高さ25.4mm(最厚部は31.5mm 突起部除く) |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.18kg（付属のバッテリーパック(約0.22kg)装着時）、パソコン本体：約1.39kg（別売の標準バッテリーパック（約0.43kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー）、Wireless Manager mobile edition 5.5、インテル WiDi ソフトウェア、USB充電設定ユーティリティ、カメラユーティリティ、ズームビューアー、ぴったりビュー、ウィンドウ・セパレーター（画面分割ユーティリティ）、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューア―、Dashboard for Panasonic PC、リカバリーディスク作成ユーティリティ、DirextX 11、インテル PROSet/Wireless Software（無線LANの認証方式を拡張しています）、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT用アプリケーションソフト）、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、Windows Live ムービーメーカー、Windows Live Mesh、WinZip 15 日本語版 45日体験版、Microsoft .NET Framework 4.0、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（My DVD含む）、CyberLink PowerDVD 10 |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書、Microsoft Office Home and Business 2010 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack (L) installed: approx. 16 hours) / ▼Charging time: / ●When using standard AC adapter / With [standard battery pack (L)] installed: approx. 5 hours (power ON), approx. 4 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 3 hours (power ON), approx. 2.5 hours (power OFF) / ●When using mini AC adapter / With [standard battery pack (L)] installed: approx. 8 hours (power OFF) / With [lightweight battery pack (S)] installed: approx. 4.5 hours (power OFF) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm (thickest part is 31.5mm, excluding protrusions) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included battery pack (approx. 0.22kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (approx. 0.43kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper), Wireless Manager mobile edition 5.5, Intel WiDi Software, USB Charging Setting Utility, Camera Utility, Zoom Viewer, Pittari View, Window Separator (Screen Split Utility), Quick Boot Manager, PC Information Popup, PC Information Viewer, Dashboard for Panasonic PC, Recovery Disc Creation Utility, DirextX 11, Intel PROSet/Wireless Software (wireless LAN authentication methods are extended), Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Windows Live Movie Maker, Windows Live Mesh, WinZip 15 Japanese Version 45-day trial version, Microsoft .NET Framework 4.0, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including My DVD), CyberLink PowerDVD 10 |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, Microsoft Office Home and Business 2010 |
 | Microsoft Office | Microsoft Office Home and Business 2010 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEXHR_spec.html>
@@ -220,30 +220,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1XEXHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional64ビット正規版(WindowsXP Mode搭載)[Service Pack1適用済] |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-2540M vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.30GHz） |
-| Chipset | モバイルインテル QM67 Express チップセット |
-| Hard disk | 500GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional64-bit genuine version (WindowsXP Mode equipped) [Service Pack1 applied] |
+| CPU | Intel vPro Technology / Intel Core i5-2540M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.60GHz (max 3.30GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM67 Express chipset |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2540M vPro プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2540M vPro Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.083 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 fiscal year standard N category 0.083 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約16時間 （軽量バッテリーパック装着時：約8時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.39kg（付属のバッテリーパック(約0.43kg)装着時）、パソコン本体：約1.18kg（軽量バッテリーパック（約0.22kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package V3.7、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、Windows XP Mode、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、ミニACアダプター、軽量バッテリーパック(S)、取扱説明書 |
-| Security chip | TPM（TCG V1.2準拠） |
+| Battery life / charge time | ▼Battery life: approx. 16 hours (when lightweight battery pack is installed: approx. 8 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.39kg (with included battery pack (approx. 0.43kg) installed), PC body: approx. 1.18kg (with lightweight battery pack (approx. 0.22kg) installed), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package V3.7, Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Windows XP Mode, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, standard battery pack (L), mini AC adapter, lightweight battery pack (S), instruction manual |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEADR_spec.html>
 
@@ -254,33 +254,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEADR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional64ビット正規版(WindowsXP Mode搭載)[Service Pack1適用済] |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-2540M vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.30GHz） |
-| Chipset | モバイルインテル QM67 Express チップセット |
-| Hard disk | 500GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional64-bit genuine version (WindowsXP Mode equipped) [Service Pack1 applied] |
+| CPU | Intel vPro Technology / Intel Core i5-2540M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.60GHz (max 3.30GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM67 Express chipset |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2540M vPro プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2540M vPro Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.083 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 fiscal year standard N category 0.083 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約16時間 （軽量バッテリーパック装着時：約8時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.39kg（付属のバッテリーパック(約0.43kg)装着時）、パソコン本体：約1.18kg（軽量バッテリーパック（約0.22kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package V3.7、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、Windows XP Mode、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、ミニACアダプター、軽量バッテリーパック(S)、取扱説明書 |
+| Battery life / charge time | ▼Battery life: approx. 16 hours (when lightweight battery pack is installed: approx. 8 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.39kg (with included battery pack (approx. 0.43kg) installed), PC body: approx. 1.18kg (with lightweight battery pack (approx. 0.22kg) installed), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package V3.7, Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Windows XP Mode, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, standard battery pack (L), mini AC adapter, lightweight battery pack (S), instruction manual |
 | Microsoft Office | Office Home and Business 2010 （Word、Excel、PowerPoint、Outlook、OneNote） |
-| Security chip | TPM（TCG V1.2準拠） |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEPDR_spec.html>
 
@@ -291,32 +291,32 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEPDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional64ビット正規版(WindowsXP Mode搭載)[Service Pack1適用済] |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-2540M vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.30GHz） |
-| Chipset | モバイルインテル QM67 Express チップセット |
-| Hard disk | 500GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional64-bit genuine version (WindowsXP Mode equipped) [Service Pack1 applied] |
+| CPU | Intel vPro Technology / Intel Core i5-2540M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.60GHz (max 3.30GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM67 Express chipset |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2540M vPro プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2540M vPro Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.083 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 fiscal year standard N category 0.083 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約16時間 （軽量バッテリーパック装着時：約8時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.39kg（付属のバッテリーパック(約0.43kg)装着時）、パソコン本体：約1.18kg（軽量バッテリーパック（約0.22kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package V3.7、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、Windows XP Mode、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、ミニACアダプター、軽量バッテリーパック(S)、取扱説明書 |
-| Security chip | TPM（TCG V1.2準拠） |
+| Battery life / charge time | ▼Battery life: approx. 16 hours (when lightweight battery pack is installed: approx. 8 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.39kg (with included battery pack (approx. 0.43kg) installed), PC body: approx. 1.18kg (with lightweight battery pack (approx. 0.22kg) installed), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package V3.7, Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Windows XP Mode, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, standard battery pack (L), mini AC adapter, lightweight battery pack (S), instruction manual |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEBDR_spec.html>
 
@@ -327,33 +327,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEBDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional64ビット正規版(WindowsXP Mode搭載)[Service Pack1適用済] |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-2540M vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.30GHz） |
-| Chipset | モバイルインテル QM67 Express チップセット |
-| Hard disk | 500GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional64-bit genuine version (WindowsXP Mode equipped) [Service Pack1 applied] |
+| CPU | Intel vPro Technology / Intel Core i5-2540M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.60GHz (max 3.30GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM67 Express chipset |
+| Hard disk | 500GB (Serial ATA, 2.5-inch HDD 5400 rpm) of the above capacity, approx. 15GB is used as recovery area and approx. 300MB as system area (user unavailable) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2540M vPro プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2540M vPro Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.083 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 fiscal year standard N category 0.083 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約16時間 （軽量バッテリーパック装着時：約8時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.39kg（付属のバッテリーパック(約0.43kg)装着時）、パソコン本体：約1.18kg（軽量バッテリーパック（約0.22kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package V3.7、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、Windows XP Mode、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、ミニACアダプター、軽量バッテリーパック(S)、取扱説明書 |
+| Battery life / charge time | ▼Battery life: approx. 16 hours (when lightweight battery pack is installed: approx. 8 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.39kg (with included battery pack (approx. 0.43kg) installed), PC body: approx. 1.18kg (with lightweight battery pack (approx. 0.22kg) installed), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package V3.7, Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Windows XP Mode, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, standard battery pack (L), mini AC adapter, lightweight battery pack (S), instruction manual |
 | Microsoft Office | Office Home and Business 2010（Word、Excel、PowerPoint、Outlook、OneNote） |
-| Security chip | TPM（TCG V1.2準拠） |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEQDR_spec.html>
 
@@ -364,32 +364,32 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GEQDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional64ビット正規版(WindowsXP Mode搭載)[Service Pack1適用済] |
-| CPU | インテル vPro テクノロジー採用 / インテル Core i5-2540M vPro プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.60GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.30GHz） |
-| Chipset | モバイルインテル QM67 Express チップセット |
-| Hard disk | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 Professional32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional64-bit genuine version (WindowsXP Mode equipped) [Service Pack1 applied] |
+| CPU | Intel vPro Technology / Intel Core i5-2540M vPro Processor / Intel Smart Cache 3MB, operating frequency 2.60GHz (max 3.30GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel QM67 Express chipset |
+| Hard disk | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 300MB as the system area (unavailable to the user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス 3000（インテル Core i5-2540M vProプロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Intel HD Graphics 3000 (built into Intel Core i5-2540M vPro Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.083 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 fiscal year standard N category 0.083 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約17時間 （軽量バッテリーパック装着時：約8.5時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.33kg（付属のバッテリーパック(約0.43kg)装着時）、パソコン本体：約1.12kg（軽量バッテリーパック（約0.22kg）装着時）、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Infineon TPM Professional Package V3.7、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、Windows XP Mode、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、標準バッテリーパック(L)、ミニACアダプター、軽量バッテリーパック(S)、取扱説明書 |
-| Security chip | TPM（TCG V1.2準拠） |
+| Battery life / charge time | ▼Battery life: approx. 17 hours (when lightweight battery pack is installed: approx. 8.5 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.33kg (when attached battery pack (approx. 0.43kg)), PC body: approx. 1.12kg (when attached lightweight battery pack (approx. 0.22kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Infineon TPM Professional Package V3.7, Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Windows XP Mode, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, standard battery pack (L), mini AC adapter, lightweight battery pack (S), instruction manual |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GETDR_spec.html>
 
@@ -400,30 +400,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1GETDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 HomePremium 32ビット/64ビット正規版[Service Pack1適用済](日本語版) / ▼インストールOS：Windows7 HomePremium 64ビット正規版[Service Pack1適用済](日本語版) |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 HomePremium 32-bit/64-bit genuine version [Service Pack1 applied] (Japanese version) / ▼Installed OS: Windows7 HomePremium 64-bit genuine version [Service Pack1 applied] (Japanese version) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm) Of the above capacity, approx. 15GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2450M プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2450M Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、[別売]軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.087 |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売の標準バッテリーパック装着時：約16時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.18kg(付属の軽量バッテリーパック(S)(約0.22 kg)装着時)、パソコン本体：約1.39kg(別売の標準バッテリーパック(L)(約0.43 kg)装着時)、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 等 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, [sold separately] lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 standards N category 0.087 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack installed: approx. 16 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included lightweight battery pack (S) (approx. 0.22 kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (L) (approx. 0.43 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, etc. |
 | Security chip | - |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEUHR_spec.html>
@@ -435,31 +435,31 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEUHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 HomePremium 32ビット/64ビット正規版[Service Pack1適用済](日本語版) / ▼インストールOS：Windows7 HomePremium 64ビット正規版[Service Pack1適用済](日本語版) |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 HomePremium 32-bit/64-bit genuine version [Service Pack1 applied] (Japanese version) / ▼Installed OS: Windows7 HomePremium 64-bit genuine version [Service Pack1 applied] (Japanese version) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm) Of the above capacity, approx. 15GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2450M プロセッサーに内蔵） |
-| Display / LCD colors | 1280×800ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2450M Processor) |
+| Display / LCD colors | 1280×800 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、[別売]軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, [sold separately] lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売の標準バッテリーパック装着時：約16時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.18kg(付属の軽量バッテリーパック(S)(約0.22 kg)装着時)、パソコン本体：約1.39kg(別売の標準バッテリーパック(L)(約0.43 kg)装着時)、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 等 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack installed: approx. 16 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included lightweight battery pack (S) (approx. 0.22 kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (L) (approx. 0.43 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, etc. |
 | Microsoft Office | Office Home and Business 2010 （Word、Excel、PowerPoint、Outlook、OneNote） |
 | Security chip | - |
 
@@ -472,31 +472,31 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEVHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 HomePremium 32ビット/64ビット正規版[Service Pack1適用済](日本語版) / ▼インストールOS：Windows7 HomePremium 64ビット正規版[Service Pack1適用済](日本語版) |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 HomePremium 32-bit/64-bit genuine version [Service Pack1 applied] (Japanese version) / ▼Installed OS: Windows7 HomePremium 64-bit genuine version [Service Pack1 applied] (Japanese version) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm) Of the above capacity, approx. 15GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2450M プロセッサーに内蔵） |
-| Display / LCD colors | 1600×900ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2450M Processor) |
+| Display / LCD colors | 1600×900 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、[別売]軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, [sold separately] lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売の標準バッテリーパック装着時：約16時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.18kg(付属の軽量バッテリーパック(S)(約0.22 kg)装着時)、パソコン本体：約1.39kg(別売の標準バッテリーパック(L)(約0.43 kg)装着時)、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 等 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack installed: approx. 16 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included lightweight battery pack (S) (approx. 0.22 kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (L) (approx. 0.43 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, etc. |
 | Security chip | - |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEWHR_spec.html>
@@ -508,31 +508,31 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEWHR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 HomePremium 32ビット/64ビット正規版[Service Pack1適用済](日本語版) / ▼インストールOS：Windows7 HomePremium 64ビット正規版[Service Pack1適用済](日本語版) |
-| CPU | インテル Core i5-2450M プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| Chipset | モバイルインテル HM65 Express チップセット |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）上記容量のうち約15GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive speed / Read | DVD-RAM最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
-| Optical drive speed / Write | DVD-RAM最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-R DL 最大6倍速、DVD-RW 最大6倍速、+R 最大8倍速、+RW 最大4倍速、CD-R 最大24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、+R DL 最大6倍速、High Speed +RW 最大8倍速、Ultra Speed CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (XA対応)、CD-R、PhotoCD(マルチセッション対応)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
+| OS | ▼Base OS: Windows7 HomePremium 32-bit/64-bit genuine version [Service Pack1 applied] (Japanese version) / ▼Installed OS: Windows7 HomePremium 64-bit genuine version [Service Pack1 applied] (Japanese version) |
+| CPU | Intel Core i5-2450M processor / Intel Smart Cache 3MB, operating frequency 2.50GHz (up to 3.10GHz when using Intel Turbo Boost Technology 2.0) |
+| Chipset | Mobile Intel HM65 Express chipset |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm) Of the above capacity, approx. 15GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Optical drive speed / Read | DVD-RAM max 5x [4.7GB], DVD-R, max 8x, DVD-RW max 8x, DVD-R DL max 8x, DVD-ROM max 8x, +R max 8x, +R DL max 8x, +RW max 8x, High Speed +RW max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x, High-Speed CD-RW max 24x, Ultra-Speed CD-RW max 24x |
+| Optical drive speed / Write | DVD-RAM max 5x [4.7GB], DVD-R max 8x, DVD-R DL max 6x, DVD-RW max 6x, +R max 8x, +RW max 4x, CD-R max 24x, CD-RW 4x, High Speed CD-RW 10x, +R DL max 6x, High Speed +RW max 8x, Ultra Speed CD-RW max 16x |
+| Supported discs / Read | DVD-ROM, DVD-Video, DVD-R, DVD-RW, DVD-R DL, DVD-RAM, +R, +R DL, +RW, High Speed +RW, CD-Audio, CD-ROM (XA support), CD-R, PhotoCD (multi-session support), VideoCD, CD EXTRA, CD-RW, High-Speed CD-RW, Ultra-Speed CD-RW, CD-TEXT |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| Display / Graphics | インテル HD グラフィックス3000 搭載 （インテル Core i5-2450M プロセッサーに内蔵） |
-| Display / LCD colors | 1280×800ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×720、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×720、1280×768、1360×768、1366×768、1600×900ドット：約1677万色 |
-| Mobile WiMAX | IEEE802.16e-2005準拠（受信最大28Mbps（ベストエフォート方式）、送信最大6Mbps（ベストエフォート方式）） |
+| Display / Graphics | Equipped with Intel HD Graphics 3000 (built into Intel Core i5-2450M Processor) |
+| Display / LCD colors | 1280×800 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×720, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×720, 1280×768, 1360×768, 1366×768, 1600×900 dots: approx. 16.77 million colors |
+| Mobile WiMAX | IEEE802.16e-2005 compliant (max. 28Mbps reception (best-effort method), max. 6Mbps transmission (best-effort method)) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Memory expansion slot | DDR3 204ピンSO-DIMM×1スロット(1.5V/PC3-8500/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3）、USB3.0ポート×2(左側面)、USB2.0ポート×1(右側面) |
-| Pointing device | ホイールパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量13.6Ah、定格容量12.8Ah、[別売]軽量バッテリーパック：7.2V リチウムイオン・公称容量6.8Ah、定格容量6.4Ah |
-| Energy efficiency | 2011年度基準 N区分0.087 |
+| Memory expansion slot | DDR3 204-pin SO-DIMM ×1 slot (1.5V/PC3-8500/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal, microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3), USB3.0 ports ×2 (left side), USB2.0 port ×1 (right side) |
+| Pointing device | Wheel pad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 4.06A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 13.6Ah, rated capacity 12.8Ah, [sold separately] lightweight battery pack: 7.2V lithium-ion, nominal capacity 6.8Ah, rated capacity 6.4Ah |
+| Energy efficiency | 2011 standards N category 0.087 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | ▼駆動時間：約8時間 （別売の標準バッテリーパック装着時：約16時間） / ▼充電時間：約4時間（電源OFF時）、約5時間（電源ON時） |
-| Dimensions (W×D×H) | 幅295mm×奥行197.5mm×高さ25.4mm※最厚部は31.5mm |
-| Weight (with battery) | パソコン本体：約1.18kg(付属の軽量バッテリーパック(S)(約0.22 kg)装着時)、パソコン本体：約1.39kg(別売の標準バッテリーパック(L)(約0.43 kg)装着時)、ACアダプター：約0.2kg（電源コード（約0.06 kg）除く） |
-| Software | Microsoft Internet Explorer 9.0、緑のgooスティック、ネットセレクター3、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、マカフィー・PCセキュリティセンター、i-フィルター6.0 (30日お試し版)、Adobe Reader、WinZip 14.5日本語版、バッテリー残量表示補正ユーティリティ、ホイールパッドユーティリティ、NumLockお知らせ、Hotkey設定、Fn Ctrl機能入れ換えユーティリティ、ATOK for Windows 無償試用版、キングソフト辞書、電源プラン拡張ユーティリティ、ピークシフト制御ユーティリティ、Microsoft Windows Media Player 12、プロジェクターヘルパー、USBキーボードヘルパー、ディスプレイヘルパー、Wireless Manager mobile edition5.5、インテル WiDiソフトウェア、カメラユーティリティ、ズームビューアー、画面分割ユーティリティ、クイックブートマネージャー、PC情報ポップアップ、PC情報ビューアー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Dashboard for Panasonic PC、ハードディスクデータ消去ユーティリティ、DirectX 11、Microsoft .NET Framework 3.5.1、インテル PROSet/Wireless Software 、インテル My WiFi テクノロジー、VIP Access for Desktop（インテル IPT 用アプリケーションソフト）、インテル アイデンティティー･プロテクション･テクノロジー、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messanger、Windows Live Writer、Silverlight、ぴったりビュー、オプティカルディスクドライブ文字変更ユーティリティ、Roxio Creator LJB（MyDVD含む）、リカバリーディスク作成ユーティリティ、CyberLink PowerDVD 10、USB充電設定ユーティリティ、Bluetooth Stack for Windows by TOSHIBA |
-| Accessories | 標準ACアダプター、軽量バッテリーパック(S)、取扱説明書 等 |
+| Battery life / charge time | ▼Battery life: approx. 8 hours (with optional standard battery pack installed: approx. 16 hours) / ▼Charging time: approx. 4 hours (power OFF), approx. 5 hours (power ON) |
+| Dimensions (W×D×H) | Width 295mm × Depth 197.5mm × Height 25.4mm *Thickest part is 31.5mm |
+| Weight (with battery) | PC body: approx. 1.18kg (when equipped with included lightweight battery pack (S) (approx. 0.22 kg)), PC body: approx. 1.39kg (when equipped with optional standard battery pack (L) (approx. 0.43 kg)), AC adapter: approx. 0.2kg (excluding power cord (approx. 0.06 kg)) |
+| Software | Microsoft Internet Explorer 9.0, Midori no goo Stick, Net Selector 3, Wireless Switch Utility, Security Setting Utility, McAfee PC Security Center, i-Filter 6.0 (30-day trial version), Adobe Reader, WinZip 14.5 Japanese version, Battery Remaining Display Correction Utility, Wheelpad Utility, NumLock Notification, Hotkey Settings, Fn Ctrl Function Swap Utility, ATOK for Windows free trial version, Kingsoft Dictionary, Power Plan Extended Utility, Peak Shift Control Utility, Microsoft Windows Media Player 12, Projector Helper, USB Keyboard Helper, Display Helper, Wireless Manager mobile edition5.5, Intel WiDi Software, Camera Utility, Zoom Viewer, Screen Split Utility, Quick Boot Manager, PC Information Popup, PC Information Viewer, Aptio Setup Utility, PC-Diagnostic Utility, Dashboard for Panasonic PC, Hard Disk Data Erase Utility, DirectX 11, Microsoft .NET Framework 3.5.1, Intel PROSet/Wireless Software, Intel My WiFi Technology, VIP Access for Desktop (application software for Intel IPT), Intel Identity Protection Technology, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Silverlight, Pittari View, Optical Disc Drive Letter Change Utility, Roxio Creator LJB (including MyDVD), Recovery Disc Creation Utility, CyberLink PowerDVD 10, USB Charging Setting Utility, Bluetooth Stack for Windows by TOSHIBA |
+| Accessories | Standard AC adapter, lightweight battery pack (S), instruction manual, etc. |
 | Microsoft Office | Office Home and Business 2010 （Word、Excel、PowerPoint、Outlook、OneNote） |
 | Security chip | - |
 
@@ -561,4 +561,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SX1WEXHR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

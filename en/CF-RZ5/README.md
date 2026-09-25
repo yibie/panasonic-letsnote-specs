@@ -12,47 +12,47 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-RZ5VDFPR](https://panasonic.jp/pc/p-db/CF-RZ5VDFPR_spec.html) | 2016-06 | 2017-01 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5VFEPR](https://panasonic.jp/pc/p-db/CF-RZ5VFEPR_spec.html) | 2016-06 | 2017-01 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ5WDLQR](https://panasonic.jp/pc/p-db/CF-RZ5WDLQR_spec.html) | 2016-06 | 2017-01 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5WFMQR](https://panasonic.jp/pc/p-db/CF-RZ5WFMQR_spec.html) | 2016-06 | 2017-01 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ5GDFPR](https://panasonic.jp/pc/p-db/CF-RZ5GDFPR_spec.html) | 2016-01 | 2016-11 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5GFEPR](https://panasonic.jp/pc/p-db/CF-RZ5GFEPR_spec.html) | 2016-01 | 2016-11 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ5HDLQR](https://panasonic.jp/pc/p-db/CF-RZ5HDLQR_spec.html) | 2016-01 | 2016-11 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5HFMQR](https://panasonic.jp/pc/p-db/CF-RZ5HFMQR_spec.html) | 2016-01 | 2016-11 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-RZ5CDDPR](https://panasonic.jp/pc/p-db/CF-RZ5CDDPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac |
-| [CF-RZ5CDFPR](https://panasonic.jp/pc/p-db/CF-RZ5CDFPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5CFEPR](https://panasonic.jp/pc/p-db/CF-RZ5CFEPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64ビット、Intel® CoreTM m3-6Y30 プロセッサー、メモリー：4GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN |
-| [CF-RZ5YDLQR](https://panasonic.jp/pc/p-db/CF-RZ5YDLQR_spec.html) | 2015-10 | 2016-11 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-RZ5YFMQR](https://panasonic.jp/pc/p-db/CF-RZ5YFMQR_spec.html) | 2015-10 | 2016-11 | Windows 10 Pro 64ビット、Intel® CoreTM m5-6Y54 プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
+| [CF-RZ5VDFPR](https://panasonic.jp/pc/p-db/CF-RZ5VDFPR_spec.html) | 2016-06 | 2017-01 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5VFEPR](https://panasonic.jp/pc/p-db/CF-RZ5VFEPR_spec.html) | 2016-06 | 2017-01 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 8GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ5WDLQR](https://panasonic.jp/pc/p-db/CF-RZ5WDLQR_spec.html) | 2016-06 | 2017-01 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5WFMQR](https://panasonic.jp/pc/p-db/CF-RZ5WFMQR_spec.html) | 2016-06 | 2017-01 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ5GDFPR](https://panasonic.jp/pc/p-db/CF-RZ5GDFPR_spec.html) | 2016-01 | 2016-11 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5GFEPR](https://panasonic.jp/pc/p-db/CF-RZ5GFEPR_spec.html) | 2016-01 | 2016-11 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ5HDLQR](https://panasonic.jp/pc/p-db/CF-RZ5HDLQR_spec.html) | 2016-01 | 2016-11 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5HFMQR](https://panasonic.jp/pc/p-db/CF-RZ5HFMQR_spec.html) | 2016-01 | 2016-11 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
+| [CF-RZ5CDDPR](https://panasonic.jp/pc/p-db/CF-RZ5CDDPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac |
+| [CF-RZ5CDFPR](https://panasonic.jp/pc/p-db/CF-RZ5CDFPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5CFEPR](https://panasonic.jp/pc/p-db/CF-RZ5CFEPR_spec.html) | 2015-10 | 2016-11 | Windows 10 Home 64-bit, Intel® CoreTM m3-6Y30 processor, Memory: 4GB (no expansion slot), SSD: 128GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN |
+| [CF-RZ5YDLQR](https://panasonic.jp/pc/p-db/CF-RZ5YDLQR_spec.html) | 2015-10 | 2016-11 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, Microsoft® Office Home and Business Premium |
+| [CF-RZ5YFMQR](https://panasonic.jp/pc/p-db/CF-RZ5YFMQR_spec.html) | 2015-10 | 2016-11 | Windows 10 Pro 64-bit, Intel® CoreTM m5-6Y54 processor, Memory: 8GB (no expansion slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac, LTE-compatible wireless WAN, Microsoft® Office Home and Business Premium |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Chipset | CPUに内蔵 |
-| Display | 10.1型(16:10) WUXGA TFTカラーIPS液晶 （1920×1200ドット）、静電タッチパネル、アンチグレア保護フィルム付 |
-| Display / Graphics | インテル HD グラフィックス515（CPUに内蔵） |
-| Display / LCD colors | 1920×1200ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Wireless communication | インテル Dual Band Wireless-AC 8260 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac準拠 |
+| Chipset | Built into CPU |
+| Display | 10.1-inch (16:10) WUXGA TFT color IPS LCD (1920×1200 dots), electrostatic touch panel, with anti-glare protective film |
+| Display / Graphics | Intel HD Graphics 515 (built into CPU) |
+| Display / LCD colors | 1920×1200 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Dual Band Wireless-AC 8260 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac compliant |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Bluetooth | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| Memory expansion slot | なし |
-| Camera | 有効画素数：最大1920×1080ピクセル(約207万画素) |
-| Microphone | アレイマイク |
-| Sensors | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| Ports | ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子 / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャックM3） / ・USB3.0ポート×3（うち1つはUSB充電ポートも兼ねる） |
-| Keyboard | OADG準拠86キー、キーピッチ16.8mm(横)/14.2mm(縦)(一部キーを除く） |
-| Pointing device | 静電タッチパネル/タッチパッド |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.6V（リチウムイオン）公称容量4860mAh、定格容量4740mAh |
-| Power consumption | 最大約45W |
+| Bluetooth | Bluetooth v4.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Memory expansion slot | None |
+| Camera | Effective pixels: max. 1920×1080 pixels (approx. 2.07 megapixels) |
+| Microphone | Array microphone |
+| Sensors | Illuminance sensor / Geomagnetic sensor / Gyro sensor / Acceleration sensor |
+| Ports | ・LAN connector (RJ-45) / ・External display connector (Analog RGB mini D-sub 15-pin) / ・HDMI output terminal / ・Headset terminal (Microphone input + audio output) (headset mini jack M3) / ・USB3.0 port × 3 (one of which also serves as a USB charging port) |
+| Keyboard | OADG-compliant 86 keys, key pitch 16.8mm (horizontal)/14.2mm (vertical) (excluding some keys) |
+| Pointing device | Capacitive touch panel / Touchpad |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.6V (lithium-ion) nominal capacity 4860mAh, rated capacity 4740mAh |
+| Power consumption | Max approx. 45W |
 | Efficiency target achievement (FY2011 standard) | — |
-| Dimensions (W×D×H) | 幅250mm × 奥行180.8mm × 高さ19.5mm (突起部除く) |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 19.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Intel WiDi / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ |
+| Dimensions (W×D×H) | Width 250mm × Depth 180.8mm × Height 19.5mm (excluding protrusions) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・NetSelector Lite / ・Handwriting Tool 2 / ・Intel® Wireless Bluetooth® / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 19.5 Japanese version (45-day trial) / ・Display Helper / ・Wireless Manager mobile edition / ・Intel WiDi / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・Intel PROSet/Wireless Software / ・Screen Sharing Assist Utility / ・PC Information Viewer / ・Recovery Disc Creation Utility |
 
 ## Differences by part number
 
@@ -77,20 +77,20 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| Security chip | TPM（TCG V1.2準拠） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 N区分0.021 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| Security chip | TPM (TCG V1.2 compliant) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 fiscal year standard N category 0.021 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5VDFPR_spec.html>
 
@@ -101,21 +101,21 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5VDFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Security chip | TPM（TCG V1.2準拠） |
-| Energy efficiency | 2011年度基準 N区分0.021 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー＆カッパー |
-| Weight (with battery) | パソコン本体：約0.77kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Energy efficiency | 2011 fiscal year standard N category 0.021 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.77kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカードスロット(標準サイズ) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card slot (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5VFEPR_spec.html>
 
@@ -126,20 +126,20 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5VFEPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| Security chip | TPM（TCG V1.2準拠） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| Security chip | TPM (TCG V1.2 compliant) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5WDLQR_spec.html>
 
@@ -150,21 +150,21 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5WDLQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Security chip | TPM（TCG V1.2準拠） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ウォームゴールド＆カッパー |
-| Weight (with battery) | パソコン本体：約0.77kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Warm Gold & Copper |
+| Weight (with battery) | PC body: approx. 0.77kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカードスロット(標準サイズ) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card slot (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5WFMQR_spec.html>
 
@@ -175,19 +175,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5WFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 4GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大2119MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 S区分0.021 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 2119MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 standards S category 0.021 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5GDFPR_spec.html>
 
@@ -198,20 +198,20 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5GDFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 4GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大2119MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Energy efficiency | 2011年度基準 S区分0.021 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー＆カッパー |
-| Weight (with battery) | パソコン本体：約0.77kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 2119MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Energy efficiency | 2011 standards S category 0.021 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.77kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5GFEPR_spec.html>
 
@@ -222,19 +222,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5GFEPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4178MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4178MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg (when attached battery pack (approx. 200g) is installed) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5HDLQR_spec.html>
 
@@ -245,20 +245,20 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5HDLQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4178MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間 ： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ウォームゴールド＆カッパー |
-| Weight (with battery) | パソコン本体：約0.77kg（付属バッテリーパック(約200ｇ）装着時） / ACアダプター：約185g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4178MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life : / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both power ON/OFF) |
+| Color | Warm Gold & Copper |
+| Weight (with battery) | PC body: approx. 0.77kg (when equipped with included battery pack (approx. 200g)) / AC adapter: approx. 185g (excluding wall mount plug (approx. 20g) and power cord (approx. 60g)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5HFMQR_spec.html>
 
@@ -269,18 +269,18 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5HFMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 4GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大2128MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 S区分0.021 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg / ACアダプター：約0.185kg（ウォールマウントプラグ（約0.20kg）電源コード（約0.06 kg）除く） |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書 |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 2128MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 standards S category 0.021 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg / AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.20kg) and power cord (approx. 0.06 kg)) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CDDPR_spec.html>
 
@@ -291,19 +291,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CDDPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 4GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大2128MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 S区分0.021 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg / ACアダプター：約0.185kg（ウォールマウントプラグ（約0.20kg）電源コード（約0.06 kg）除く） |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 2128MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 standards S category 0.021 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg / AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.20kg) and power cord (approx. 0.06 kg)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CDFPR_spec.html>
 
@@ -314,19 +314,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CDFPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Home 64ビット（日本語版） |
-| CPU | インテル Core m3-6Y30 プロセッサー / インテルスマートキャッシュ4MB、動作周波数0.90GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.20GHz） |
-| Memory | 4GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大2128MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Energy efficiency | 2011年度基準 S区分0.021 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約11.5時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ブルー＆カッパー |
-| Weight (with battery) | パソコン本体：約0.770kg / ACアダプター：約0.185kg（ウォールマウントプラグ（約0.20kg）電源コード（約0.06 kg）除く） |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書 |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| OS | Windows 10 Home 64-bit (Japanese version) |
+| CPU | Intel Core m3-6Y30 Processor / Intel Smart Cache 4MB, Operating Frequency 0.90GHz (up to 2.20GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 4GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 2128MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 128GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Energy efficiency | 2011 standards S category 0.021 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 11.5 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Blue & Copper |
+| Weight (with battery) | PC body: approx. 0.770kg / AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.20kg) and power cord (approx. 0.06 kg)) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CFEPR_spec.html>
 
@@ -337,19 +337,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5CFEPR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | なし |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.745kg / ACアダプター：約0.185kg（ウォールマウントプラグ（約0.20kg）電源コード（約0.06 kg）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | None |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.745kg / AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.20kg) and power cord (approx. 0.06 kg)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5YDLQR_spec.html>
 
@@ -360,20 +360,20 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5YDLQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット（日本語版） |
-| CPU | インテル Core m5-6Y54 プロセッサー / インテルスマートキャッシュ4MB、動作周波数1.10GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大2.70GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4176MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| LTE | ワイヤレスWANモジュール内蔵（Xi(LTE)対応） |
-| Energy efficiency | 2011年度基準 N区分0.017 |
-| Battery life / charge time | ▼駆動時間： / （JEITA Ver.2.0）約11時間 / ▼充電時間： / 約2.5時間（電源ON時/OFF時ともに） |
-| Color | ウォームゴールド＆カッパー |
-| Weight (with battery) | パソコン本体：約0.770kg / ACアダプター：約0.185kg（ウォールマウントプラグ（約0.20kg）電源コード（約0.06 kg）除く） |
+| OS | Windows 10 Pro 64-bit (Japanese version) |
+| CPU | Intel Core m5-6Y54 Processor / Intel Smart Cache 4MB, Operating Frequency 1.10GHz (up to 2.70GHz with Intel Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 4176MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (Serial ATA) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| LTE | Built-in wireless WAN module (Xi (LTE) compatible) |
+| Energy efficiency | 2011 fiscal year standard N category 0.017 |
+| Battery life / charge time | ▼Battery life: / (JEITA Ver.2.0) approx. 11 hours / ▼Charging time: / approx. 2.5 hours (both when power ON/OFF) |
+| Color | Warm Gold & Copper |
+| Weight (with battery) | PC body: approx. 0.770kg / AC adapter: approx. 0.185kg (excluding wall mount plug (approx. 0.20kg) and power cord (approx. 0.06 kg)) |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| Accessories | ウォールマウントプラグ付きACアダプター、バッテリーパック、専用布、取扱説明書、Microsoft Office Home & Business Premium |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-II、UHS-I 高速転送対応/著作権保護技術対応） |
-| Card slots / Other | ドコモUIMカード(標準サイズ) |
+| Accessories | AC adapter with wall-mount plug, battery pack, dedicated cloth, instruction manual, Microsoft Office Home & Business Premium |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/UHS-II, UHS-I high-speed transfer support/copyright protection technology support) |
+| Card slots / Other | docomo UIM card (standard size) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5YFMQR_spec.html>
 
@@ -401,4 +401,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-RZ5YFMQR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

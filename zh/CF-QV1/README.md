@@ -12,40 +12,40 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-QV1QFNCR](https://panasonic.jp/pc/p-db/CF-QV1QFNCR_spec.html) | 2023-01 | 2023-08 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QV1NDMCR](https://panasonic.jp/pc/p-db/CF-QV1NDMCR_spec.html) | 2023-01 | 2023-08 | Windows 11 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QV1CFNCR](https://panasonic.jp/pc/p-db/CF-QV1CFNCR_spec.html) | 2022-11 | 2023-03 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QV1ADMCR](https://panasonic.jp/pc/p-db/CF-QV1ADMCR_spec.html) | 2022-11 | 2023-03 | Windows 11 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QV1DFNCR](https://panasonic.jp/pc/p-db/CF-QV1DFNCR_spec.html) | 2022-06 | 2022-10 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QV1BDMCR](https://panasonic.jp/pc/p-db/CF-QV1BDMCR_spec.html) | 2022-06 | 2022-10 | Windows 11 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QV1MFNCR](https://panasonic.jp/pc/p-db/CF-QV1MFNCR_spec.html) | 2022-01 | 2022-05 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QV1LDMCR](https://panasonic.jp/pc/p-db/CF-QV1LDMCR_spec.html) | 2022-01 | 2022-05 | Windows 11 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QV1KFNCR](https://panasonic.jp/pc/p-db/CF-QV1KFNCR_spec.html) | 2021-11 | 2022-04 | Windows 11 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2021 |
-| [CF-QV1JDMCR](https://panasonic.jp/pc/p-db/CF-QV1JDMCR_spec.html) | 2021-11 | 2022-04 | Windows 11 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2021 |
-| [CF-QV1GFNQR](https://panasonic.jp/pc/p-db/CF-QV1GFNQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64ビット、インテル® CoreTM i7-1165G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-QV1FDMQR](https://panasonic.jp/pc/p-db/CF-QV1FDMQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-QV1P1GQR](https://panasonic.jp/pc/p-db/CF-QV1P1GQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-1135G7 プロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
+| [CF-QV1QFNCR](https://panasonic.jp/pc/p-db/CF-QV1QFNCR_spec.html) | 2023-01 | 2023-08 | Windows 11 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QV1NDMCR](https://panasonic.jp/pc/p-db/CF-QV1NDMCR_spec.html) | 2023-01 | 2023-08 | Windows 11 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QV1CFNCR](https://panasonic.jp/pc/p-db/CF-QV1CFNCR_spec.html) | 2022-11 | 2023-03 | Windows 11 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QV1ADMCR](https://panasonic.jp/pc/p-db/CF-QV1ADMCR_spec.html) | 2022-11 | 2023-03 | Windows 11 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QV1DFNCR](https://panasonic.jp/pc/p-db/CF-QV1DFNCR_spec.html) | 2022-06 | 2022-10 | Windows 11 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QV1BDMCR](https://panasonic.jp/pc/p-db/CF-QV1BDMCR_spec.html) | 2022-06 | 2022-10 | Windows 11 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QV1MFNCR](https://panasonic.jp/pc/p-db/CF-QV1MFNCR_spec.html) | 2022-01 | 2022-05 | Windows 11 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QV1LDMCR](https://panasonic.jp/pc/p-db/CF-QV1LDMCR_spec.html) | 2022-01 | 2022-05 | Windows 11 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QV1KFNCR](https://panasonic.jp/pc/p-db/CF-QV1KFNCR_spec.html) | 2021-11 | 2022-04 | Windows 11 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空闲插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2021 |
+| [CF-QV1JDMCR](https://panasonic.jp/pc/p-db/CF-QV1JDMCR_spec.html) | 2021-11 | 2022-04 | Windows 11 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2021 |
+| [CF-QV1GFNQR](https://panasonic.jp/pc/p-db/CF-QV1GFNQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64位、英特尔® CoreTM i7-1165G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2019 |
+| [CF-QV1FDMQR](https://panasonic.jp/pc/p-db/CF-QV1FDMQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：16GB（无空余插槽）、SSD：512GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、Microsoft® Office Home and Business 2019 |
+| [CF-QV1P1GQR](https://panasonic.jp/pc/p-db/CF-QV1P1GQR_spec.html) | 2021-06 | 2021-10 | Windows 10 Pro 64位、英特尔® CoreTM i5-1135G7 处理器、内存：8GB（无空余插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（含6GHz频段）、支持LTE的无线WAN、Microsoft® Office Home and Business 2019 |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 芯片组 | CPUに内蔵 |
-| 光驱 | 搭載されていません |
-| 显示屏 / 色彩 | 2880×1920ドット：約1677万色 |
+| 芯片组 | 内置于CPU |
+| 光驱 | 未配备 |
+| 显示屏 / 色彩 | 2880×1920像素：约1677万色 |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 蓝牙 | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 音频 | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 安全（Windows Hello） | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| 内存扩展槽 | なし |
-| 摄像头 | 顔認証対応カメラ、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 麦克风 | アレイマイク |
-| 接口 | ・USB3.1 Type-Cポート（Thunderbolt™4対応、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、4.06A、電源コードは100V専用 / ▼バッテリーパック / 7.6V リチウムイオン・定格容量5020mAh |
-| 功耗 | 最大約65W |
+| 蓝牙 | Bluetooth v5.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 安全（Windows Hello） | 支持人脸识别的摄像头/指纹传感器（触摸式） |
+| 内存扩展槽 | 无 |
+| 摄像头 | 支持人脸识别的摄像头，有效像素：最大 1920x1080像素（约207万像素） |
+| 麦克风 | 阵列麦克风 |
+| 接口 | ・USB3.1 Type-C端口（支持Thunderbolt™4、支持USB Power Delivery） / ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） / ・耳麦端子（麦克风输入＋音频输出）（耳麦迷你插孔3.5mm、CTIA标准） |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz、输出：DC16V、4.06A、电源线仅限100V专用 / ▼电池组 / 7.6V锂离子・额定容量5020mAh |
+| 功耗 | 最大约65W |
 | 能效达成率 | — |
-| 尺寸（宽×深×高） | 幅273.0mm×奥行209.2mm×高さ18.7mm（突起部除く） |
+| 尺寸（宽×深×高） | 宽273.0mm×深209.2mm×高18.7mm（不含突起部） |
 
 ## 各型号差异
 
@@ -71,28 +71,28 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz / コア数：4コア / キャッシュ：12MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | メインメモリーと共用 |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | LTE対応 / （デュアルSIM(nano SIMカード＋eSIM)対応） |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.70GHz / 核心数：4核 / 缓存：12MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 与主内存共用 |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 支持LTE / （支持双SIM（nano SIM卡＋eSIM）） |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | OADG标准键盘（86键）：键距19mm(横向)/15.2mm(纵向)（部分按键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1QFNCR_spec.html>
 
@@ -104,27 +104,27 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz / コア数：4コア / キャッシュ：8MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | メインメモリーと共用 |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.20GHz / 核心数：4核 / 缓存：8MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 与主内存共用 |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | OADG标准键盘（86键）：键距19mm(横向)/15.2mm(纵向)（部分按键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1NDMCR_spec.html>
 
@@ -136,28 +136,28 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz / コア数：4コア / キャッシュ：12MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | LTE対応 / （デュアルSIM(nano SIMカード＋eSIM)対応） |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.70GHz / 核心数：4核 / 缓存：12MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 支持LTE / （支持双SIM（nano SIM卡＋eSIM）） |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | OADG标准键盘（86键）：键距19mm(横向)/15.2mm(纵向)（部分按键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1CFNCR_spec.html>
 
@@ -169,27 +169,27 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz / コア数：4コア / キャッシュ：8MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠キーボード（86キー）：キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.20GHz / 核心数：4核 / 缓存：8MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | OADG标准键盘（86键）：键距19mm(横向)/15.2mm(纵向)（部分按键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1ADMCR_spec.html>
 
@@ -201,28 +201,28 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz / コア数：4コア / キャッシュ：12MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | LTE対応 / （デュアルSIM(nano SIMカード＋eSIM)対応） |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.70GHz / 核心数：4核 / 缓存：12MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 支持LTE / （支持双SIM（nano SIM卡＋eSIM）） |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1DFNCR_spec.html>
 
@@ -234,27 +234,27 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz / コア数：4コア / キャッシュ：8MB |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | Wi-Fi 6対応 IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応 |
-| 无线广域网 | 搭載されていません |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / 使用英特尔® 睿频加速技术2.0时最高4.20GHz / 核心数：4核 / 缓存：8MB |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 支持Wi-Fi 6 符合IEEE802.11a/b/g/n/ac/ax （5 GHz信道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP |
+| 无线广域网 | 未配备 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1BDMCR_spec.html>
 
@@ -266,30 +266,30 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / (キャッシュ12MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / （缓存12MB、使用英特尔® 睿频加速技术2.0时最高4.70GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） / （デュアルSIM(nano SIMカード＋eSIM)対応） |
+| LTE | 内置无线WAN模块（支持LTE） / （支持双SIM(nano SIM卡＋eSIM)） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1MFNCR_spec.html>
 
@@ -301,29 +301,29 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / (キャッシュ 8MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分19.9［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / （缓存 8MB、使用英特尔® 睿频加速技术2.0时最高4.20GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分19.9［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | 搭載されていません |
+| LTE | 未配备 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1LDMCR_spec.html>
 
@@ -335,30 +335,30 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / (キャッシュ12MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分21.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / （缓存12MB、使用英特尔® 睿频加速技术2.0时最高4.70GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分21.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
+| LTE | 内置无线WAN模块（支持LTE） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1KFNCR_spec.html>
 
@@ -370,29 +370,29 @@
 | 项目 | 规格 |
 | :-- | :-- |
 | 操作系统 | Windows 11 Pro |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / (キャッシュ 8MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分21.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間［付属バッテリーパック装着時］ / ▼充電時間 / 最大2.5時間（電源オフ時）／最大2.5時間（電源オン時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター for マルチデバイス (30日間無料お試し版) / ・WinZip （45日試用版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / （缓存 8MB、使用英特尔® 睿频加速技术2.0时最高4.20GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分21.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时［安装附带的电池组时］ / ▼充电时间 / 最长2.5小时（电源关闭时）／最长2.5小时（电源开启时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe（60天免费体验版） / ・i-Filter for 多设备（30天免费试用版） / ・WinZip（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适 NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2021 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2021等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2021等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | 搭載されていません |
+| LTE | 未配备 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1JDMCR_spec.html>
 
@@ -403,31 +403,31 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i7-1165G7 プロセッサー / (キャッシュ12MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920ドット：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 卡槽 / SD 卡 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 其他 | nano SIMカードスロット |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分21.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約0.979kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i7-1165G7 处理器 / （缓存12MB、使用英特尔® 睿频加速技术2.0时最高4.70GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920点：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 其他 | nano SIM卡插槽 |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分21.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约0.979kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
+| LTE | 内置无线WAN模块（支持LTE） |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1GFNQR_spec.html>
 
@@ -438,30 +438,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / (キャッシュ 8MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| 内存 | 16GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大8110MB (メインメモリーと共用) |
-| 存储 | SSD：512GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）（静電容量式マルチタッチパネル、アンチリフレクション保護フィルム付き） |
-| 显示屏 / 显卡 | インテル® Iris® Xᵉ グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920ドット：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 传感器 | 照度(明るさ)、地磁気、ジャイロ、加速度 |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド・静電タッチパネル（10フィンガー対応） |
-| 能效 | 目標年度2022年度 12区分21.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約11時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 颜色 | ブラック＆シルバー |
-| 重量（含电池） | パソコン本体：約0.949kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / （缓存 8MB、使用英特尔® 睿频加速技术2.0时最高4.20GHz） |
+| 内存 | 16GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大8110MB（与主内存共享） |
+| 存储 | SSD：512GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）（电容式多点触控面板、附防反射保护膜） |
+| 显示屏 / 显卡 | 英特尔® Iris® Xᵉ 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920点：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 传感器 | 照度(亮度)、地磁、陀螺仪、加速度 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板・静电触控面板（支持 10 指） |
+| 能效 | 目标年度2022年度 12区分21.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约11小时 / ▼充电时间 / 约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 颜色 | 黑色＆银色 |
+| 重量（含电池） | 电脑主机：约0.949kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | バッテリーパック、ACアダプター、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | 搭載されていません |
+| LTE | 未配备 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1FDMQR_spec.html>
 
@@ -472,30 +472,30 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット |
-| 处理器 | インテル® Core™ i5-1135G7 プロセッサー / (キャッシュ 8MB、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| 内存 | 8GB LPDDR4x SDRAM（拡張スロットなし） |
-| 显存 | 最大4020MB (メインメモリーと共用) |
-| 存储 | SSD：256GB（PCIe） / 上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 显示屏 | 12.0型(3:2)WQXGA+ TFTカラー液晶 （2880×1920ドット）アンチグレア |
-| 显示屏 / 显卡 | インテル® UHD グラフィックス（CPUに内蔵） |
-| 显示屏 / 外接显示输出 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：4096×2160（30 Hz/60 Hz） |
-| 显示屏 / 同时显示 | 最大：1920×1200ドット：約1677万色 / （以下HDMI出力/USB3.1 Type-Cポートのみ） / 最大：2880×1920ドット：約1677万色 |
-| 无线网络 | IEEE802.11a/b/g/n/ac/ax 準拠 （5 GHzチャンネル帯：W52/W53/W56）WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠 |
-| 传感器 | 照度(明るさ) |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/15.2mm(縦)(一部キーを除く） |
-| 指点设备 | ホイールパッド |
-| 能效 | 目標年度2022年度 12区分21.2［kWh/年］ |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 約12.5時間 / ▼充電時間 / 約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約0.879kg（付属バッテリーパック(約235ｇ）装着時） / ACアダプター：約220g（電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility / ・Panasonic PC快適NAVI / ・Panasonic PC VVork |
+| 操作系统 | Windows 10 Pro 64位 |
+| 处理器 | 英特尔® Core™ i5-1135G7 处理器 / （缓存 8MB、使用英特尔® 睿频加速技术2.0时最高4.20GHz） |
+| 内存 | 8GB LPDDR4x SDRAM（无扩展插槽） |
+| 显存 | 最大4020MB（与主内存共享） |
+| 存储 | SSD：256GB（PCIe） / 在上述容量中，约15GB用作恢复区域，约1GB用作系统区域（用户不可用） |
+| 显示屏 | 12.0英寸(3:2)WQXGA+ TFT彩色液晶（2880×1920像素）防眩光 |
+| 显示屏 / 显卡 | 英特尔® UHD 显卡（CPU内置） |
+| 显示屏 / 外接显示输出 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 同时显示 | 最大：1920×1200点：约1677万色 / （以下仅限HDMI输出/USB3.1 Type-C端口） / 最大：2880×1920点：约1677万色 |
+| 无线网络 | 符合IEEE802.11a/b/g/n/ac/ax（5 GHz频道频段：W52/W53/W56）支持WPA3、WPA2-AES/TKIP、符合Wi-Fi |
+| 传感器 | 照度(亮度) |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/15.2mm（纵向）（部分键除外） |
+| 指点设备 | 滚轮触控板 |
+| 能效 | 目标年度2022年度 12区分21.2［kWh/年］ |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 约12.5小时 / ▼充电时间 / 约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约0.879kg（安装附带的电池组（约235g）时） / AC适配器：约220g（不含电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・Panasonic PC 舒适NAVI / ・Panasonic PC VVork |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | バッテリーパック、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| SD 卡槽 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 核心数 | 4コア |
+| 附件 | 电池组、AC适配器、使用说明书、Microsoft Office Home & Business 2019等 |
+| SD 卡槽 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 核心数 | 4核 |
 | 无线通信模块 | Intel® Wi-Fi 6 AX201 |
-| LTE | 搭載されていません |
+| LTE | 未配备 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-QV1P1GQR_spec.html>
 
@@ -534,4 +534,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。

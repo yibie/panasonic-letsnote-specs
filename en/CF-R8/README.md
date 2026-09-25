@@ -12,35 +12,35 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-R8WW1ADR](https://panasonic.jp/pc/p-db/CF-R8WW1ADR_spec.html) | 2009-12 | 2010-04 | Windows 7モデル：Windows® 7 Professional 正規版 、インテル® CoreTM2 Solo SU3500（1.40GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8HWKCDR](https://panasonic.jp/pc/p-db/CF-R8HWKCDR_spec.html) | 2009-11 | 2010-01 | Windows® 7 Professional 正規版 、インテル® CoreTM2 Duo SU9600（1.60GHz）、メモリー：標準2GB（最大4GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8HWKNDR](https://panasonic.jp/pc/p-db/CF-R8HWKNDR_spec.html) | 2009-11 | 2010-01 | Windows® 7 Professional 正規版 、インテル® CoreTM2 Duo SU9400（1.40GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜台数限定＞ |
-| [CF-R8GWJCJR](https://panasonic.jp/pc/p-db/CF-R8GWJCJR_spec.html) | 2009-06 | 2009-09 | ブラックモデル：Windows Vista® Business with SP1 正規版、インテル® CoreTM2 Duo SU9400(1.40GHz)、メモリー：2GB＋1GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n ＜台数限定＞ |
-| [CF-R8WW1AJR](https://panasonic.jp/pc/p-db/CF-R8WW1AJR_spec.html) | 2009-06 | 2009-09 | Windows Vistaモデル：Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Solo SU3500（1.40GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8GW1AJR](https://panasonic.jp/pc/p-db/CF-R8GW1AJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo SU9400（1.40GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8GW1NJR](https://panasonic.jp/pc/p-db/CF-R8GW1NJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo SU9400（1.40GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜台数限定＞ |
-| [CF-R8FWJCJR](https://panasonic.jp/pc/p-db/CF-R8FWJCJR_spec.html) | 2009-03 | 2009-05 | ブラックモデル：Windows Vista® Business with SP1 正規版、インテル® CoreTM2 Duo SU9300(1.20GHz)、メモリー：2GB＋1GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n ＜台数限定＞ |
-| [CF-R8FW1AJR](https://panasonic.jp/pc/p-db/CF-R8FW1AJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo SU9300（1.20GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8FW1NJR](https://panasonic.jp/pc/p-db/CF-R8FW1NJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 正規版 、インテル® CoreTM2 Duo SU9300（1.20GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜台数限定＞ |
-| [CF-R8EW6AJR](https://panasonic.jp/pc/p-db/CF-R8EW6AJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 正規版、インテル® CoreTM2 Duo SU9300(1.20GHz)、メモリー：1GB（最大3GB）、HDD：120GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R8EW6NJR](https://panasonic.jp/pc/p-db/CF-R8EW6NJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 正規版、インテル® CoreTM2 Duo SU9300（1.20GHz）、メモリー：1GB（最大3GB）、HDD： 120GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜台数限定＞ |
+| [CF-R8WW1ADR](https://panasonic.jp/pc/p-db/CF-R8WW1ADR_spec.html) | 2009-12 | 2010-04 | Windows 7 model: Windows® 7 Professional OEM version, Intel® CoreTM2 Solo SU3500 (1.40GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8HWKCDR](https://panasonic.jp/pc/p-db/CF-R8HWKCDR_spec.html) | 2009-11 | 2010-01 | Windows® 7 Professional Genuine Edition, Intel® CoreTM2 Duo SU9600 (1.60GHz), Memory: standard 2GB (max 4GB), HDD: 250GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8HWKNDR](https://panasonic.jp/pc/p-db/CF-R8HWKNDR_spec.html) | 2009-11 | 2010-01 | Windows® 7 Professional Genuine Edition, Intel® CoreTM2 Duo SU9400 (1.40GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Personal 2007 <Limited quantity> |
+| [CF-R8GWJCJR](https://panasonic.jp/pc/p-db/CF-R8GWJCJR_spec.html) | 2009-06 | 2009-09 | Black model: Windows Vista® Business with SP1 Genuine Edition, Intel® CoreTM2 Duo SU9400 (1.40GHz), Memory: 2GB + 1GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n <Limited quantity> |
+| [CF-R8WW1AJR](https://panasonic.jp/pc/p-db/CF-R8WW1AJR_spec.html) | 2009-06 | 2009-09 | Windows Vista model: Windows Vista® Business with SP1 genuine edition, Intel® CoreTM2 Solo SU3500 (1.40GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8GW1AJR](https://panasonic.jp/pc/p-db/CF-R8GW1AJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9400 (1.40GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8GW1NJR](https://panasonic.jp/pc/p-db/CF-R8GW1NJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9400 (1.40GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Personal 2007 <limited quantity> |
+| [CF-R8FWJCJR](https://panasonic.jp/pc/p-db/CF-R8FWJCJR_spec.html) | 2009-03 | 2009-05 | Black model: Windows Vista® Business with SP1 Genuine Edition, Intel® CoreTM2 Duo SU9300 (1.20GHz), Memory: 2GB + 1GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n <Limited quantity> |
+| [CF-R8FW1AJR](https://panasonic.jp/pc/p-db/CF-R8FW1AJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9300 (1.20GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8FW1NJR](https://panasonic.jp/pc/p-db/CF-R8FW1NJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9300 (1.20GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Personal 2007 <limited quantity> |
+| [CF-R8EW6AJR](https://panasonic.jp/pc/p-db/CF-R8EW6AJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9300(1.20GHz), Memory: 1GB (max 3GB), HDD: 120GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R8EW6NJR](https://panasonic.jp/pc/p-db/CF-R8EW6NJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 genuine version, Intel® CoreTM2 Duo SU9300 (1.20GHz), Memory: 1GB (max 3GB), HDD: 120GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Personal 2007 <limited quantity> |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Keyboard | OADG準拠キーボード（85キー）：キーピッチ17mm（横）/14.3mm（縦）（一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約45W |
+| Keyboard | OADG-compliant keyboard (85 keys): key pitch 17mm (horizontal)/14.3mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 45W |
 | Efficiency target achievement | — |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-R8WW1ADR | 超低電圧版 Core2 Solo SU3500 | 2GB | 160GB | 0.94 kg | 8 h |
-| CF-R8HWKCDR | 超低電圧版Core2 Duo SU9600 | 2GB | 250GB | 0.93 kg | 8 h |
-| CF-R8HWKNDR | 超低電圧版Core2 Duo SU9600 | 2GB | 250GB | 0.93 kg | 8 h |
+| CF-R8WW1ADR | Ultra-low voltage version Core2 Solo SU3500 | 2GB | 160GB | 0.94 kg | 8 h |
+| CF-R8HWKCDR | Ultra-low voltage version Core2 Duo SU9600 | 2GB | 250GB | 0.93 kg | 8 h |
+| CF-R8HWKNDR | Ultra-low voltage version Core2 Duo SU9600 | 2GB | 250GB | 0.93 kg | 8 h |
 | CF-R8GWJCJR | — | 3GB | 160GB | 0.94 kg | 8 h |
 | CF-R8WW1AJR | — | 2GB | 160GB | 0.94 kg | 8 h |
 | CF-R8GW1AJR | — | 2GB DDR2 SDRAM | 160GB | 0.93 kg | 8 h |
@@ -56,31 +56,31 @@
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 7（R）Professional 32ビット正規版(日本語版) |
-| CPU | 超低電圧版 インテル(R) Core(TM)2 Solo プロセッサー SU3500 / (2次キャッシュメモリー3MB、動作周波数1.40GHz、フロントサイド・バス 800MHz) |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB（空きスロット1）/最大4GB |
-| Video memory | 最大797MB（メインメモリーと共用）、(1GBのメモリーを増設時は最大1309MB、2GBメモリーを増設時は最大1551MB) |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | 10.4型XGA (1024×768ドット)TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル(R) WiFi Link 5100 (WPA2-AES/TKIP対応、Wi-Fi準拠) / IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠 |
+| OS | Windows 7 (R) Professional 32-bit OEM version (Japanese version) |
+| CPU | Ultra-low voltage Intel(R) Core(TM)2 Solo processor SU3500 / (2nd-level cache memory 3MB, operating frequency 1.40GHz, front side bus 800MHz) |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB (1 free slot) / maximum 4GB |
+| Video memory | Max 797MB (shared with main memory), (up to 1309MB when 1GB memory is added, up to 1551MB when 2GB memory is added) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | 10.4-inch XGA (1024×768 dots) TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) WiFi Link 5100 (WPA2-AES/TKIP support, Wi-Fi compliant) / IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピン SO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Power | Cアダプター 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00049 |
-| Battery | 駆動時間:約8時間（バッテリーのエコノミーモード（ECO）無効時） / 充電時間：約4.5時間(電源オフ時)、約5.5時間(電源オン時) |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.94kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | MicrosoftR Internet Explorer 8.0、Adobe Reader、MicrosoftR WindowsR Media Player 12、MicrosoftR .NET Framework 3.5.1、ネットセレクター2、ホイールパッドユーティリティ、Hotkey設定、緑のgooスティック、Windows Liveメール、Windows Liveフォトギャラリー、Windows Live Messenger、Windows Live Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、USBキーボードヘルパー、USBマウスヘルパー、 / ディスプレイヘルパー、Wireless Manager mobile edition 5.5、Panasonic電源プラン拡張ユーティリティ、マカフィー・PCセキュリティセンター、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、バッテリー残量表示補正ユーティリティ、 / Fn Ctrl機能入れ換えユーティリティ、i-フィルター 5.0（30日お試し版）、ぴったりビュー、Aptioセットアップユーティリティ、ハードディスクデータ消去ユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM1枚（Windows(R)7 Professional 32ビット）、ACアダプター、バッテリーパック、取扱説明書 等 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Power | AC adapter Input: AC100V-240V, 50Hz/60Hz, Output: DC16 V, 2.8A (power cord for 100V only) / Battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00049 |
+| Battery | Battery life: approx. 8 hours (when battery Economy Mode (ECO) is disabled) / Charging time: approx. 4.5 hours (power off), approx. 5.5 hours (power on) |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.94kg (when the included battery pack (approx. 0.22kg) is installed) |
+| Software | MicrosoftR Internet Explorer 8.0, Adobe Reader, MicrosoftR WindowsR Media Player 12, MicrosoftR .NET Framework 3.5.1, Net Selector 2, Wheel Pad Utility, Hotkey Settings, Midori no goo Stick, Windows Live Mail, Windows Live Photo Gallery, Windows Live Messenger, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, USB Keyboard Helper, USB Mouse Helper, / Display Helper, Wireless Manager mobile edition 5.5, Panasonic Power Plan Extension Utility, McAfee PC Security Center, Wireless Switching Utility, Security Settings Utility, Battery Remaining Charge Display Correction Utility, / Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Pittari View, Aptio Setup Utility, Hard Disk Data Erase Utility, PC-Diagnostic Utility |
+| Accessories | Product Recovery DVD-ROM 1 disc (Windows(R)7 Professional 32-bit), AC adapter, battery pack, instruction manual, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8WW1ADR_spec.html>
 
@@ -91,33 +91,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8WW1ADR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows7(R)Professional 正規版（32ビット）(Windows(R) XPダウングレード権含む) |
-| CPU | 超低電圧版インテル(R) CoreTM2 Duoプロセッサー SU9600 / 動作周波数 1.60GHz / 2次キャッシュメモリー3MB、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル(R) GM45 Express チップセット |
-| Memory | 標準2GB（空きスロット1）/最大4GB |
-| Video memory | 最大797MB、2GBメモリーを増設した場合は1551MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA） ※上記容量のうち約10GBを修復用領域(リカバリー用データ領域を含む)、約500MBをシステム領域として使用（ユーザー使用不可） |
-| Floppy drive (optional) | （別売）USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA(1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | WPA2-AES/TKIP対応、Wi-Fi準拠 IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠 |
+| OS | Windows7(R)Professional genuine edition (32-bit) (includes Windows(R) XP downgrade rights) |
+| CPU | Ultra-low voltage Intel(R) CoreTM2 Duo processor SU9600 / operating frequency 1.60GHz / 2nd-level cache memory 3MB, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GM45 Express chipset |
+| Memory | Standard 2GB (1 free slot) / maximum 4GB |
+| Video memory | Max 797MB, 1551MB when 2GB memory is added (shared with main memory) |
+| Hard disk | 250GB (Serial ATA) *Of the above capacity, approx. 10GB is used as a repair area (including the recovery data area) and approx. 500MB as a system area (unavailable to the user) |
+| Floppy drive (optional) | (Sold separately) USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | WPA2-AES/TKIP compatible, Wi-Fi compliant IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル(R) High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
-| Memory expansion slot | DDR2 200ピンSO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、HDMI出力端子(S8/N8のみ搭載)、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3）、USBポート×2(USB2.0) |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量5.8Ah、定格容量5.4Ah |
-| Energy efficiency | 2007年度基準I区分0.00026 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | パソコン本体：約0.93kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft(R)Internet Explorer8.0、Adobe Reader、Microsoft(R) Windows(R) Media Player 12、Microsoft(R)Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writerズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー※、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM 2枚（Windows 7用/Windows XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Wireless communication | インテル(R) WiFi Link 5100 |
-| Security chip | TPM（TCG V1.2準拠） |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection technology support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), HDMI output terminal (equipped on S8/N8 only), microphone input (stereo mini jack M3 (plug-in power compatible)), audio output (stereo mini jack M3), USB port x2 (USB2.0) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16 V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 5.8Ah, rated capacity 5.4Ah |
+| Energy efficiency | 2007 fiscal year standard I category 0.00026 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | PC body: approx. 0.93kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft(R) Internet Explorer8.0, Adobe Reader, Microsoft(R) Windows(R) Media Player 12, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Pop-up, NumLock Notification, Wireless Manager mobile edition 5.5, Wireless Switching Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Charge Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day Trial Version), Panasonic Power Plan Extension Utility, Display Helper, Pittari View*, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | Product Recovery DVD-ROM 2 discs (for Windows 7 / for Windows XP), AC adapter, battery pack, instruction manual, etc. |
+| Wireless communication | Intel(R) WiFi Link 5100 |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8HWKCDR_spec.html>
 
@@ -128,33 +128,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8HWKCDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows7(R)Professional 正規版（32ビット）(Windows(R) XPダウングレード権含む) |
-| CPU | 超低電圧版インテル(R) CoreTM2 Duoプロセッサー SU9600 / 動作周波数 1.60GHz / 2次キャッシュメモリー3MB、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル(R) GM45 Express チップセット |
-| Memory | 標準2GB（空きスロット1）/最大4GB |
-| Video memory | 最大797MB、2GBメモリーを増設した場合は1551MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA） ※上記容量のうち約10GBを修復用領域(リカバリー用データ領域を含む)、約500MBをシステム領域として使用（ユーザー使用不可） |
-| Floppy drive (optional) | （別売）USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA(1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | WPA2-AES/TKIP対応、Wi-Fi準拠 IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠 |
+| OS | Windows7(R)Professional genuine edition (32-bit) (includes Windows(R) XP downgrade rights) |
+| CPU | Ultra-low voltage Intel(R) CoreTM2 Duo processor SU9600 / operating frequency 1.60GHz / 2nd-level cache memory 3MB, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GM45 Express chipset |
+| Memory | Standard 2GB (1 free slot) / maximum 4GB |
+| Video memory | Max 797MB, 1551MB when 2GB memory is added (shared with main memory) |
+| Hard disk | 250GB (Serial ATA) *Of the above capacity, approx. 10GB is used as a repair area (including the recovery data area) and approx. 500MB as a system area (unavailable to the user) |
+| Floppy drive (optional) | (Sold separately) USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | WPA2-AES/TKIP compatible, Wi-Fi compliant IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル(R) High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
-| Memory expansion slot | DDR2 200ピンSO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3）、USBポート×2(USB2.0) |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量5.8Ah、定格容量5.4Ah |
-| Energy efficiency | 2007年度基準I区分0.00026 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | パソコン本体：約0.93kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft(R)Internet Explorer8.0、Adobe Reader、Microsoft(R) Windows(R) Media Player 12、Microsoft(R)Windows(R) Movie Maker 6.0、Microsoft(R) .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writerズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー※、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Microsoft(R) Office Personal 2007 with Microsoft(R) Office PowerPoint(R) 2007(Service Pack 1) |
-| Accessories | プロダクトリカバリーDVD-ROM 2枚（Windows 7用/Windows XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Wireless communication | インテル(R) WiFi Link 5100 |
-| Security chip | TPM（TCG V1.2準拠） |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection technology support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3), USB ports ×2 (USB2.0) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16 V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 5.8Ah, rated capacity 5.4Ah |
+| Energy efficiency | 2007 fiscal year standard I category 0.00026 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | PC body: approx. 0.93kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft(R) Internet Explorer8.0, Adobe Reader, Microsoft(R) Windows(R) Media Player 12, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Pop-up, NumLock Notification, Wireless Manager mobile edition 5.5, Wireless Switching Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Charge Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day Trial Version), Panasonic Power Plan Extension Utility, Display Helper, Pittari View*, Aptio Setup Utility, PC-Diagnostic Utility, Microsoft(R) Office Personal 2007 with Microsoft(R) Office PowerPoint(R) 2007 (Service Pack 1) |
+| Accessories | Product Recovery DVD-ROM 2 discs (for Windows 7 / for Windows XP), AC adapter, battery pack, instruction manual, etc. |
+| Wireless communication | Intel(R) WiFi Link 5100 |
+| Security chip | TPM (TCG V1.2 compliant) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8HWKNDR_spec.html>
 
@@ -165,33 +165,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8HWKNDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版(32ビット)（Windows（R） XPダウングレード権含む） |
-| CPU | vPro(TM)テクノロジー インテル（R） Centrino（R）2 / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9400 / 2次キャッシュメモリー 3MB、動作周波数 1.40GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準3GB（空きスロット0:拡張メモリースロットに1GBメモリー増設済み）/最大4GB |
-| Video memory | 最大1309MB（メインメモリーと共用）(拡張メモリーを2GBに変更した場合は最大1551MB) |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | 10.4型XGA (1024×768ドット)TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (32-bit) (includes Windows (R) XP downgrade rights) |
+| CPU | vPro(TM) Technology Intel(R) Centrino(R)2 / Intel(R) Core(TM)2 Duo Processor / Ultra Low Voltage version SU9400 / Secondary cache memory 3MB, operating frequency 1.40GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 3GB (0 free slots: 1GB memory already added to expansion memory slot) / maximum 4GB |
+| Video memory | Maximum 1309MB (shared with main memory) (maximum 1551MB when expansion memory is changed to 2GB) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | 10.4-inch XGA (1024×768 dots) TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピン SO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM)、1GBメモリー増設済み |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Power | ACアダプター 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00026 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.94kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.5 SP1(CF-W8GWJCJR/R8GWJCJRのみ)、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版)、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM), 1GB memory added |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Power | AC adapter input: AC100V–240V, 50Hz/60Hz, output: DC16 V, 2.8A (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00026 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.94kg (when the included battery pack (approx. 0.22kg) is installed) |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.5 SP1 (CF-W8GWJCJR/R8GWJCJR only), Battery Remaining Display Correction Utility, Hotkey Setting, McAfee PC Security Center, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GWJCJR_spec.html>
 
@@ -202,31 +202,31 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GWJCJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版(32ビット)（Windows（R） XPダウングレード権含む） |
-| CPU | インテル（R） Centrino（R）プロセッサー・テクノロジー / インテル（R） Core（TM）2 Soloプロセッサー / 超低電圧版 SU3500 / 2次キャッシュメモリー3MB、動作周波数 1.40GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB（空きスロット1）/最大4GB |
-| Video memory | 最大797MB（メインメモリーと共用）、(1GBのメモリーを増設時は最大1309MB、2GBメモリーを増設時は最大1551MB) |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | 10.4型XGA (1024×768ドット)TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル(R) WiFi Link 5100 (WPA2-AES/TKIP対応、Wi-Fi準拠) / IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠 |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (32-bit) (includes Windows (R) XP downgrade rights) |
+| CPU | Intel® Centrino® Processor Technology / Intel® Core™2 Solo Processor / Ultra Low Voltage SU3500 / 2nd-level cache memory 3MB, operating frequency 1.40GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB (1 free slot) / maximum 4GB |
+| Video memory | Max 797MB (shared with main memory), (up to 1309MB when 1GB memory is added, up to 1551MB when 2GB memory is added) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | 10.4-inch XGA (1024×768 dots) TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) WiFi Link 5100 (WPA2-AES/TKIP support, Wi-Fi compliant) / IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピン SO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力端子（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力端子（ステレオミニジャックM3） |
-| Power | Cアダプター 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00049 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.94kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.5 SP1(CF-W8GWJCJR/R8GWJCJRのみ)、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版)、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input terminal (stereo mini jack M3 (plug-in power supported)), audio output terminal (stereo mini jack M3) |
+| Power | AC adapter Input: AC100V-240V, 50Hz/60Hz, Output: DC16 V, 2.8A (power cord for 100V only) / Battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00049 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.94kg (when the included battery pack (approx. 0.22kg) is installed) |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.5 SP1 (CF-W8GWJCJR/R8GWJCJR only), Battery Remaining Display Correction Utility, Hotkey Setting, McAfee PC Security Center, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8WW1AJR_spec.html>
 
@@ -237,33 +237,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8WW1AJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | vPro(TM)テクノロジー インテル（R） Centrino（R）2 / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9400 / 2次キャッシュメモリー 3MB、動作周波数 1.40GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB DDR2 SDRAM（最大4GB）空きスロット1 |
-| Video memory | 最大797MB / 1GB拡張メモリー増設時最大1309MB、2GB拡張メモリー増設時最大1551MB （メインメモリーと共用） |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | vPro(TM) Technology Intel(R) Centrino(R)2 / Intel(R) Core(TM)2 Duo Processor / Ultra Low Voltage version SU9400 / Secondary cache memory 3MB, operating frequency 1.40GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB DDR2 SDRAM (maximum 4GB), 1 free slot |
+| Video memory | Max 797MB / up to 1309MB when 1GB expansion memory is added, up to 1551MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピン SO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00026 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00026 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GW1AJR_spec.html>
 
@@ -274,33 +274,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GW1AJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | vPro(TM)テクノロジー インテル（R） Centrino（R）2 / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9400 / 2次キャッシュメモリー 3MB、動作周波数 1.40GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB DDR2 SDRAM（最大4GB）空きスロット1 |
-| Video memory | 最大797MB / 1GB拡張メモリー増設時最大1309MB、2GB拡張メモリー増設時最大1551MB （メインメモリーと共用） |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | vPro(TM) Technology Intel(R) Centrino(R)2 / Intel(R) Core(TM)2 Duo Processor / Ultra Low Voltage version SU9400 / Secondary cache memory 3MB, operating frequency 1.40GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB DDR2 SDRAM (maximum 4GB), 1 free slot |
+| Video memory | Max 797MB / up to 1309MB when 1GB expansion memory is added, up to 1551MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピン SO-DIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00026 |
-| Battery | 駆動時間 8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Microsoft（R） Office Personal 2007 with PowerPoint 2007 |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin SO-DIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00026 |
+| Battery | Runtime 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility, Microsoft(R) Office Personal 2007 with PowerPoint 2007 |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GW1NJR_spec.html>
 
@@ -311,14 +311,14 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8GW1NJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| Memory | 標準3GB DDR2 SDRAM（拡張メモリースロットに1GBメモリー搭載済。空きスロット0。本体に標準装備済の1GBメモリーを外して2GBメモリーを増設した場合は、最大4GBにアップできます。 |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00030 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.94kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+| Memory | Standard 3GB DDR2 SDRAM (1GB memory already installed in expansion memory slot. 0 free slots. If the standard-equipped 1GB memory is removed and 2GB memory is added, it can be upgraded to a maximum of 4GB. |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00030 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.94kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FWJCJR_spec.html>
 
@@ -329,33 +329,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FWJCJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | インテル（R） Centrino（R） 2 テクノロジー・プロセッサー / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9300 / 2次キャッシュメモリー 3MB、動作周波数 1.20GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB DDR2 SDRAM（最大4GB）空きスロット1 |
-| Video memory | 最大797MB / 1GB拡張メモリー増設時最大1309MB、2GB拡張メモリー増設時最大1551MB （メインメモリーと共用） |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | Intel® Centrino® 2 Technology Processor / Intel® Core™2 Duo Processor / Ultra Low Voltage SU9300 / 2nd-level cache memory 3MB, operating frequency 1.20GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB DDR2 SDRAM (maximum 4GB), 1 free slot |
+| Video memory | Max 797MB / up to 1309MB when 1GB expansion memory is added, up to 1551MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピンマイクロDIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00030 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin MicroDIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00030 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FW1AJR_spec.html>
 
@@ -366,33 +366,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FW1AJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | インテル（R） Centrino（R）2 プロセッサー・テクノロジー / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9300 / 2次キャッシュメモリー 3MB、動作周波数 1.20GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準2GB DDR2 SDRAM（最大4GB）空きスロット1 |
-| Video memory | 最大797MB / 1GB拡張メモリー増設時最大1309MB、2GB拡張メモリー増設時最大1551MB （メインメモリーと共用） |
-| Hard disk | 160GB（Serial ATA）左記容量のうち約8GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | Intel® Centrino®2 Processor Technology / Intel® Core™2 Duo Processor / Ultra Low Voltage SU9300 / 2nd-level cache memory 3MB, operating frequency 1.20GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 2GB DDR2 SDRAM (maximum 4GB), 1 free slot |
+| Video memory | Max 797MB / up to 1309MB when 1GB expansion memory is added, up to 1551MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 160GB (Serial ATA) Of the stated capacity, approx. 8GB is used as a repair area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 172ピンマイクロDIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00030 |
-| Battery | 駆動時間 8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Microsoft（R） Office Personal 2007 with PowerPoint 2007 |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 172-pin MicroDIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00030 |
+| Battery | Runtime 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, Green goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility, Microsoft(R) Office Personal 2007 with PowerPoint 2007 |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FW1NJR_spec.html>
 
@@ -403,33 +403,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8FW1NJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | インテル（R） Centrino（R） 2 テクノロジー・プロセッサー / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9300 / 2次キャッシュメモリー 3MB、動作周波数 1.20GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準1GB DDR2 SDRAM（最大3GB）空きスロット1 |
-| Video memory | 最大285MB / 1GB拡張メモリー増設時最大797MB、2GB拡張メモリー増設時最大1309MB （メインメモリーと共用） |
-| Hard disk | 120GB（Serial ATA）左記容量のうち約6GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | Intel® Centrino® 2 Technology Processor / Intel® Core™2 Duo Processor / Ultra Low Voltage SU9300 / 2nd-level cache memory 3MB, operating frequency 1.20GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 1GB DDR2 SDRAM (maximum 3GB), 1 free slot |
+| Video memory | Max. 285MB / Max. 797MB when 1GB expansion memory is added, Max. 1309MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 120GB (Serial ATA) Of the capacity shown at left, approx. 6GB is used as a recovery area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピンマイクロDIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準I区分0.00030 |
-| Battery | 駆動時間 約8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin MicroDIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard I category 0.00030 |
+| Battery | Battery life approx. 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8EW6AJR_spec.html>
 
@@ -440,33 +440,33 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8EW6AJR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows Vista（R） Business with Service Pack 1 正規版（Windows（R） XPダウングレード権含む） |
-| CPU | インテル（R） Centrino（R）2 プロセッサー・テクノロジー / インテル（R） Core（TM）2 Duo プロセッサー / 超低電圧版 SU9300 / 2次キャッシュメモリー 3MB、動作周波数 1.20GHz、フロントサイド・バス 800MHz |
-| Chipset | モバイル インテル（R） GS45 Express チップセット |
-| Memory | 標準1GB DDR2 SDRAM（最大3GB）空きスロット1 |
-| Video memory | 最大285MB / 1GB拡張メモリー増設時最大797MB、2GB拡張メモリー増設時最大1309MB （メインメモリーと共用） |
-| Hard disk | 120GB（Serial ATA）左記容量のうち約7GBは修復用領域（リカバリー用データ領域を含む）として使用（ユーザー使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Display | XGA (1024×768ドット)10.4型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless LAN | インテル（R） WiFi Link 5100AGN、IEEE802.11a（W52/W53/W56）/b/g準拠、IEEE802.11nドラフト2.0準拠、(WPA-AES/TKIP対応、Wi-Fi準拠) |
+| OS | Windows Vista (R) Business with Service Pack 1 genuine edition (includes Windows (R) XP downgrade rights) |
+| CPU | Intel® Centrino®2 Processor Technology / Intel® Core™2 Duo Processor / Ultra Low Voltage SU9300 / 2nd-level cache memory 3MB, operating frequency 1.20GHz, front side bus 800MHz |
+| Chipset | Mobile Intel(R) GS45 Express chipset |
+| Memory | Standard 1GB DDR2 SDRAM (maximum 3GB), 1 free slot |
+| Video memory | Max. 285MB / Max. 797MB when 1GB expansion memory is added, Max. 1309MB when 2GB expansion memory is added (shared with main memory) |
+| Hard disk | 120GB (Serial ATA) Of the capacity listed on the left, approx. 7GB is used as a recovery area (including the recovery data area) (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Display | XGA (1024×768 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800x600, 1024x768, 1280x768, 1280x1024, 1400x1050, 1440x900, 1680x1050, 1600x1200, 1920x1080, 1920x1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel® WiFi Link 5100AGN, IEEE802.11a (W52/W53/W56)/b/g compliant, IEEE802.11n draft 2.0 compliant, (WPA-AES/TKIP supported, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル（R） High Definition Audio 準拠、モノラルスピーカー |
-| Card slots / PC Card | PCカード（TYPEⅡ）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護機能対応） |
-| Memory expansion slot | DDR2 200ピンマイクロDIMM専用スロット×1 (1.8V/PC2-5300/DDR2 SDRAM) |
-| Ports | USBポート×2（USB2.0）、モデムコネクター（RJ-11）、LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログVGA ミニDsub 15ピン）、ミニポートリプリケーターコネクター（専用50ピン） |
-| Power | ACアダプター 入力：AC100V～240V（50Hz/60Hz）（電源コードは100V専用） / バッテリーパック（7.2 Vリチウムイオン・公称容量5.8 Ah/定格容量5.4 Ah） |
-| Energy efficiency | 2007年度基準Ｉ区分0.00030 |
-| Battery | 駆動時間 8時間 |
-| Dimensions (W×D×H) | 幅229mm×奥行187 mm×高さ29.4mm/42.5mm（前部/後部） |
-| Weight (with battery) | 約0.93kg |
-| Software | Microsoft（R） Internet Explorer7.0、Adobe（R） Reader、Microsoft（R） Windows（R） Media Player 11、DirectX 10、Microsoft（R）Windows（R） Movie Maker 6.0、Microsoft（R） .NET Framework3.0、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.0、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.0 SP2HF2、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・インターネットセキュリティスイートベーシックエディション、gooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ、Microsoft（R） Office Personal 2007 with PowerPoint 2007 |
-| Accessories | プロダクトリカバリーDVD-ROM2枚（Windows Vista(R)用 / Windows(R) XP用）、ACアダプター、バッテリーパック、取扱説明書 等 |
-| Security chip | TPM（TCG V1.2準拠） |
-| Modem | データ：56kbps（V.90） FAX：14.4kbps /ボイス非対応 |
+| Audio | PCM sound source (24-bit stereo), Intel(R) High Definition Audio compliant, monaural speaker |
+| Card slots / PC Card | PC card (TYPEⅡ) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection support) |
+| Memory expansion slot | DDR2 200-pin MicroDIMM dedicated slot ×1 (1.8V/PC2-5300/DDR2 SDRAM) |
+| Ports | USB port ×2 (USB2.0), modem connector (RJ-11), LAN connector (RJ-45), external display connector (analog VGA mini Dsub 15-pin), mini port replicator connector (dedicated 50-pin) |
+| Power | AC adapter input: AC100V–240V (50Hz/60Hz) (power cord for 100V only) / battery pack (7.2 V lithium-ion, nominal capacity 5.8 Ah/rated capacity 5.4 Ah) |
+| Energy efficiency | 2007 fiscal year standard Ｉ category 0.00030 |
+| Battery | Runtime 8 hours |
+| Dimensions (W×D×H) | Width 229mm×Depth 187 mm×Height 29.4mm/42.5mm (front/rear) |
+| Weight (with battery) | approx. 0.93kg |
+| Software | Microsoft(R) Internet Explorer 7.0, Adobe(R) Reader, Microsoft(R) Windows(R) Media Player 11, DirectX 10, Microsoft(R) Windows(R) Movie Maker 6.0, Microsoft(R) .NET Framework 3.0, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition 5.0, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.0 SP2HF2, Battery Remaining Display Correction Utility, Hotkey Setting, McAfee Internet Security Suite Basic Edition, goo Stick, Hard Disk Data Erase Utility, Wheel Pad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, Panasonic Power Plan Extended Utility, Display Helper, Aptio Setup Utility, PC-Diagnostic Utility, Microsoft(R) Office Personal 2007 with PowerPoint 2007 |
+| Accessories | 2 Product Recovery DVD-ROMs (for Windows Vista(R) / Windows(R) XP), AC adapter, battery pack, instruction manual, etc. |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Modem | Data: 56kbps (V.90) FAX: 14.4kbps /Voice not supported |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8EW6NJR_spec.html>
 
@@ -504,4 +504,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R8EW6NJR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

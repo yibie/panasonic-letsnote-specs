@@ -12,62 +12,62 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-R9KWCEDR](https://panasonic.jp/pc/p-db/CF-R9KWCEDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional 正規版 、インテル® CoreTM i7-640UM（1.20GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R9KWCTDR](https://panasonic.jp/pc/p-db/CF-R9KWCTDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional 正規版 、インテル® CoreTM i7-640UM（1.20GHz）、メモリー：標準4GB（拡張メモリースロットに2GBメモリーを増設済み）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Home and Business 2010 ＜台数限定＞ |
-| [CF-R9JWACDR](https://panasonic.jp/pc/p-db/CF-R9JWACDR_spec.html) | 2010-02 | 2010-05 | Windows® 7 Professional 正規版 、インテル® CoreTM i7-620UM（1.06GHz）、メモリー：標準2GB（最大4GB）、HDD：250GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-R9JWANDR](https://panasonic.jp/pc/p-db/CF-R9JWANDR_spec.html) | 2010-02 | 2010-05 | Windows® 7 Professional 正規版 、インテル® CoreTM i7-620UM（1.06GHz）、メモリー：標準2GB（最大4GB）、HDD：160GB、LAN、無線LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜台数限定＞ |
+| [CF-R9KWCEDR](https://panasonic.jp/pc/p-db/CF-R9KWCEDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i7-640UM (1.20GHz), Memory: standard 4GB (2GB memory added to expansion memory slot), HDD: 250GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R9KWCTDR](https://panasonic.jp/pc/p-db/CF-R9KWCTDR_spec.html) | 2010-05 | 2010-09 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i7-640UM (1.20GHz), Memory: standard 4GB (2GB memory added to expansion memory slot), HDD: 250GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Home and Business 2010 <Limited quantity> |
+| [CF-R9JWACDR](https://panasonic.jp/pc/p-db/CF-R9JWACDR_spec.html) | 2010-02 | 2010-05 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i7-620UM (1.06GHz), Memory: standard 2GB (max 4GB), HDD: 250GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-R9JWANDR](https://panasonic.jp/pc/p-db/CF-R9JWANDR_spec.html) | 2010-02 | 2010-05 | Windows® 7 Professional Genuine Edition, Intel® CoreTM i7-620UM (1.06GHz), Memory: standard 2GB (max 4GB), HDD: 160GB, LAN, Wireless LAN 802.11a(W52/W53/W56)/b/g/n, Office Personal 2007 <Limited quantity> |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Chipset | モバイル インテル QM57 Express チップセット |
-| Display | 10.4型TFTカラー液晶 XGA (1024×768ドット) |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Wireless communication | インテル Centrino Advanced-N 6200 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n準拠 |
+| Chipset | Mobile Intel QM57 Express chipset |
+| Display | 10.4-inch TFT color LCD XGA (1024×768 dots) |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×768, 1280×1024, 1400×1050, 1680×1050, 1600×1200, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Wireless communication | Intel Centrino Advanced-N 6200 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n compliant |
 | Wired LAN | 1000BASE-T / 100BASE-TX / 10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル High Definition Audio 準拠、モノラルスピーカー |
-| Security chip | ＴＰＭ（TCG V1.2準拠） |
-| Keyboard | OADG準拠85キー、キーピッチ17mm（横）/14.3mm（縦）（一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約45W |
-| Dimensions (W×D×H) | 幅229mm×奥行187mm×高さ29.4mm/42.5mm（前部/後部） |
-| Accessories | プロダクトリカバリーDVD-ROM1枚（Windows7用）、ACアダプター、バッテリーパック、取扱説明書 等 |
+| Audio | PCM sound source (24-bit stereo), Intel High Definition Audio compliant, monaural speaker |
+| Security chip | TPM (TCG V1.2 compliant) |
+| Keyboard | OADG-compliant 85 keys, key pitch 17mm (horizontal)/14.3mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 45W |
+| Dimensions (W×D×H) | Width 229mm×Depth 187mm×Height 29.4mm/42.5mm (front/rear) |
+| Accessories | 1 Product Recovery DVD-ROM (for Windows 7), AC adapter, battery pack, instruction manual, etc. |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-R9KWCEDR | Core i7-640UM vPro スマートキャッシュ4MB、動作周波数 1.20GHz、 | 4GB DDR3 SDRAM | 250GB | 0.94 kg | 7 h |
-| CF-R9KWCTDR | Core i7-640UM vPro スマートキャッシュ4MB、動作周波数 1.20GHz、 | 4GB DDR3 SDRAM | 250GB | 0.94 kg | 7 h |
-| CF-R9JWACDR | 超低電圧版 Core i7-620UM vPro | 2GB DDR3 SDRAM | 250GB | 0.93 kg | 7.5 h |
-| CF-R9JWANDR | 超低電圧版 Core i7-620UM vPro | 2GB DDR3 SDRAM | 250GB | 0.93 kg | — |
+| CF-R9KWCEDR | Core i7-640UM vPro Smart Cache 4MB, operating frequency 1.20GHz, | 4GB DDR3 SDRAM | 250GB | 0.94 kg | 7 h |
+| CF-R9KWCTDR | Core i7-640UM vPro Smart Cache 4MB, operating frequency 1.20GHz, | 4GB DDR3 SDRAM | 250GB | 0.94 kg | 7 h |
+| CF-R9JWACDR | Ultra-low voltage version Core i7-620UM vPro | 2GB DDR3 SDRAM | 250GB | 0.93 kg | 7.5 h |
+| CF-R9JWANDR | Ultra-low voltage version Core i7-620UM vPro | 2GB DDR3 SDRAM | 250GB | 0.93 kg | — |
 
 <details>
 <summary>CF-R9KWCEDR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional64ビット正規版(WindowsXPMode搭載)▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版。 |
-| CPU | インテルvProテクノロジー採用、超低電圧版 / インテル Core i7-640UM vPro プロセッサー インテル スマートキャッシュ4MB、動作周波数 1.20GHz、（インテル ターボ・ブースト・テクノロジー利用時は最大 2.26GHz） |
-| Memory | 標準4GB DDR3 SDRAM（拡張メモリースロットに2GBのメモリーを増設済み、空きスロット0） |
-| Video memory | 最大1563MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）、上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display / Graphics | インテルHDグラフィックス搭載(超低電圧版インテル Core i7 -640UM vProプロセッサーに内蔵) |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM)（2GBのメモリーを増設済み、空きスロット0） |
-| Ports | LANLANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3））、USBポート×2（USB2.0） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6.2Ah、定格容量5.8Ah |
-| Energy efficiency | 2011年度基準S区分0.18／2007年度基準I区分0.00018 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional64-bit genuine version (WindowsXPMode equipped)▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions. |
+| CPU | Intel vPro Technology, ultra-low voltage version / Intel Core i7-640UM vPro Processor Intel Smart Cache 4MB, clock speed 1.20GHz, (up to 2.26GHz when using Intel Turbo Boost Technology) |
+| Memory | Standard 4GB DDR3 SDRAM (2GB memory already added to expansion memory slot, 0 free slots) |
+| Video memory | Maximum 1563MB (shared with main memory) |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm), of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Display / Graphics | Intel HD Graphics equipped (built into Ultra Low Voltage Intel Core i7-640UM vPro Processor) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) (2GB memory added, 0 free slots) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power compatible)), audio output (stereo mini jack M3)), USB port x2 (USB2.0) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah |
+| Energy efficiency | 2011 standards S category 0.18 / 2007 standards I category 0.00018 |
 | Efficiency target achievement | — |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | 駆動時間：約7時間／充電時間：約3.5時間（電源OFF時）、約5時間（電源ON時） |
-| Weight (with battery) | パソコン本体：約0.94kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版)、電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode、インテル PROSet/Wireless Software |
+| Battery life / charge time | Battery life: approx. 7 hours / Charging time: approx. 3.5 hours (power OFF), approx. 5 hours (power ON) |
+| Weight (with battery) | PC body: approx. 0.94kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode, Intel PROSet/Wireless Software |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9KWCEDR_spec.html>
 
@@ -78,22 +78,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9KWCEDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional64ビット正規版(WindowsXPMode搭載)▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版。 |
-| CPU | インテルvProテクノロジー採用、超低電圧版 / インテル Core i7-640UM vPro プロセッサー インテル スマートキャッシュ4MB、動作周波数 1.20GHz、（インテル ターボ・ブースト・テクノロジー利用時は最大 2.26GHz） |
-| Memory | 標準4GB DDR3 SDRAM（拡張メモリースロットに2GBのメモリーを増設済み、空きスロット0） |
-| Video memory | 最大1563MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA、2.5型HDD 5400回転/分）、上記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Display / Graphics | インテルHDグラフィックス搭載(超低電圧版インテル Core i7 -640UM vProプロセッサーに内蔵) |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400mA、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM)（2GBのメモリーを増設済み、空きスロット0） |
-| Ports | LANLANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3））、USBポート×2（USB2.0） |
-| Power | ▼ACアダプター：入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6.2Ah、定格容量5.8Ah |
-| Energy efficiency | 2011年度基準S区分0.18／2007年度基準I区分0.00018 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional64-bit genuine version (WindowsXPMode equipped)▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions. |
+| CPU | Intel vPro Technology, ultra-low voltage version / Intel Core i7-640UM vPro Processor Intel Smart Cache 4MB, clock speed 1.20GHz, (up to 2.26GHz when using Intel Turbo Boost Technology) |
+| Memory | Standard 4GB DDR3 SDRAM (2GB memory already added to expansion memory slot, 0 free slots) |
+| Video memory | Maximum 1563MB (shared with main memory) |
+| Hard disk | 250GB (Serial ATA, 2.5-inch HDD 5400 rpm), of the above capacity, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Display / Graphics | Intel HD Graphics equipped (built into Ultra Low Voltage Intel Core i7-640UM vPro Processor) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) (2GB memory added, 0 free slots) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power compatible)), audio output (stereo mini jack M3)), USB port x2 (USB2.0) |
+| Power | ▼AC adapter: Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah |
+| Energy efficiency | 2011 standards S category 0.18 / 2007 standards I category 0.00018 |
 | Efficiency target achievement (FY2011 standard) | — |
-| Battery life / charge time | 駆動時間：約7時間／充電時間：約3.5時間（電源OFF時）、約5時間（電源ON時） |
-| Weight (with battery) | パソコン本体：約0.94kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版)、電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode、インテル PROSet/Wireless Software、Office Home and Business 2010搭載（Word、Excel、PowerPoint、Outlook、OneNote） |
+| Battery life / charge time | Battery life: approx. 7 hours / Charging time: approx. 3.5 hours (power OFF), approx. 5 hours (power ON) |
+| Weight (with battery) | PC body: approx. 0.94kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode, Intel PROSet/Wireless Software, Office Home and Business 2010 equipped (Word, Excel, PowerPoint, Outlook, OneNote) |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9KWCTDR_spec.html>
 
@@ -104,22 +104,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9KWCTDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版 |
-| CPU | 超低電圧版 インテル Core i7-620UM vPro プロセッサー / インテル スマートキャッシュ 4MB、動作周波数1.06GHz、 / インテル ターボ・ブースト・テクノロジー利用時は最大2.13GHz |
-| Memory | 標準2GB DDR3 SDRAM（空きスロット1）/最大4GB |
-| Video memory | 最大763MB 2GBメモリーを増設した場合は1563MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA）※左記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400Ma、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6.2Ah、定格容量5.8Ah |
-| Energy efficiency | 2007年度基準l区分0.00019 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions |
+| CPU | Ultra-low voltage Intel Core i7-620UM vPro processor / Intel Smart Cache 4MB, operating frequency 1.06GHz, / max. 2.13GHz when using Intel Turbo Boost Technology |
+| Memory | Standard 2GB DDR3 SDRAM (1 free slot) / maximum 4GB |
+| Video memory | Max 763MB, 1563MB when 2GB memory is added (shared with main memory) |
+| Hard disk | 250GB (Serial ATA) *Of the capacity described on the left, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400Ma, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16 V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah |
+| Energy efficiency | 2007 fiscal year standard l category 0.00019 |
 | Efficiency target achievement | — |
-| Weight (with battery) | パソコン本体：約0.93kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、DirectX 11、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode |
-| Floppy drive (optional) | （別売）USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Battery | 駆動時間 約7.5時間 |
+| Weight (with battery) | PC body: approx. 0.93kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, DirectX 11, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Panasonic Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode |
+| Floppy drive (optional) | (Sold separately) USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Battery | Battery life approx. 7.5 hours |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9JWACDR_spec.html>
 
@@ -130,22 +130,22 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9JWACDR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | ▼ベースOS：Windows7 Professional 32ビット正規版/Windows7 Professional 64ビット正規版(WindowsXP Mode搭載) / ▼インストールOS：Windows7 Professional 32ビット正規版(WindowsXP Mode搭載)※全て日本語版 |
-| CPU | 超低電圧版 インテル Core i7-620UM vPro プロセッサー / インテル スマートキャッシュ 4MB、動作周波数1.06GHz、 / インテル ターボ・ブースト・テクノロジー利用時は最大2.13GHz |
-| Memory | 標準2GB DDR3 SDRAM（空きスロット1）/最大4GB |
-| Video memory | 最大763MB 2GBメモリーを増設した場合は1563MB (メインメモリーと共用) |
-| Hard disk | 250GB（Serial ATA）※左記容量のうち約12GBをリカバリー領域、約300MBをシステム領域として使用（ユーザー使用不可） |
-| Card slots / PC Card | PCカード（TYPEII）×1スロット(CardBus対応、許容電流3.3V：400Ma、5V：400mA) |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/著作権保護技術対応） |
-| Memory expansion slot | DDR3 204ピンSO-DIMM専用スロット×1 (1.5V/PC3-6400/DDR3 SDRAM) |
-| Ports | LANコネクター（RJ-45）、外部ディスプレイコネクター（アナログRGB ミニDsub 15ピン）、マイク入力（ステレオミニジャックM3（プラグインパワー対応））、オーディオ出力（ステレオミニジャックM3） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16 V、2.8A、電源コードは100V専用 / ▼バッテリーパック / 7.2V リチウムイオン・公称容量6.2Ah、定格容量5.8Ah |
-| Energy efficiency | 2007年度基準l区分0.00019 |
+| OS | ▼Base OS: Windows7 Professional 32-bit genuine version/Windows7 Professional 64-bit genuine version (WindowsXP Mode equipped) / ▼Installed OS: Windows7 Professional 32-bit genuine version (WindowsXP Mode equipped) *All Japanese versions |
+| CPU | Ultra-low voltage Intel Core i7-620UM vPro processor / Intel Smart Cache 4MB, operating frequency 1.06GHz, / max. 2.13GHz when using Intel Turbo Boost Technology |
+| Memory | Standard 2GB DDR3 SDRAM (1 free slot) / maximum 4GB |
+| Video memory | Max 763MB, 1563MB when 2GB memory is added (shared with main memory) |
+| Hard disk | 250GB (Serial ATA) *Of the capacity described on the left, approx. 12GB is used as a recovery area and approx. 300MB as a system area (unavailable to the user) |
+| Card slots / PC Card | PC card (TYPEII) ×1 slot (CardBus compatible, allowable current 3.3V: 400Ma, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/copyright protection technology support) |
+| Memory expansion slot | DDR3 204-pin SO-DIMM dedicated slot ×1 (1.5V/PC3-6400/DDR3 SDRAM) |
+| Ports | LAN connector (RJ-45), external display connector (analog RGB mini Dsub 15-pin), microphone input (stereo mini jack M3 (plug-in power supported)), audio output (stereo mini jack M3) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16 V, 2.8A, power cord for 100V only / ▼Battery pack / 7.2V lithium-ion, nominal capacity 6.2Ah, rated capacity 5.8Ah |
+| Energy efficiency | 2007 fiscal year standard l category 0.00019 |
 | Efficiency target achievement | — |
-| Weight (with battery) | パソコン本体：約0.93kg（付属のバッテリーパック(約0.22kg)装着時） |
-| Software | Microsoft Internet Explorer8.0、Adobe Reader、Microsoft Windows Media Player 12、DirectX 11、Microsoft .NET Framework 3.5.1、WindowsLiveメール、WindowsLive Messenger、WindowsLiveフォトギャラリー、WindowsLive Writer、ズームビューアー、PC情報ビューアー、PC情報ポップアップ、NumLockお知らせ、Wireless Manager mobile edition5.5、無線切り替えユーティリティ、セキュリティ設定ユーティリティ、Infineon TPM Professional Package V3.6、バッテリー残量表示補正ユーティリティ、Hotkey設定、マカフィー・PCセキュリティセンター、緑のgooスティック、ハードディスクデータ消去ユーティリティ、ホイールパッドユーティリティ、ネットセレクター2、USBキーボードヘルパー、USBマウスヘルパー、Fn Ctrl機能入れ換えユーティリティ、i-フィルター5.0 (30日お試し版) 、Panasonic電源プラン拡張ユーティリティ、ディスプレイヘルパー、ぴったりビュー、Aptioセットアップユーティリティ、PC-Diagnosticユーティリティ 、プロジェクターヘルパー、Windows XP Mode、Microsoft(R) Office Personal 2007 with Microsoft(R) Office PowerPoint(R) 2007(ServicePack2) |
-| Floppy drive (optional) | （別売）USB接続外付3.5型3モード対応（1.44MB/1.2MB/720KB） |
-| Battery | 2007年度基準l区分0.00019 |
+| Weight (with battery) | PC body: approx. 0.93kg (when equipped with included battery pack (approx. 0.22kg)) |
+| Software | Microsoft Internet Explorer8.0, Adobe Reader, Microsoft Windows Media Player 12, DirectX 11, Microsoft .NET Framework 3.5.1, Windows Live Mail, Windows Live Messenger, Windows Live Photo Gallery, Windows Live Writer, Zoom Viewer, PC Information Viewer, PC Information Popup, NumLock Notification, Wireless Manager mobile edition5.5, Wireless Switch Utility, Security Setting Utility, Infineon TPM Professional Package V3.6, Battery Remaining Display Correction Utility, Hotkey Settings, McAfee PC Security Center, Midori no goo Stick, Hard Disk Data Erase Utility, Wheelpad Utility, Net Selector 2, USB Keyboard Helper, USB Mouse Helper, Fn Ctrl Function Swap Utility, i-Filter 5.0 (30-day trial version), Panasonic Power Plan Extended Utility, Display Helper, Pittari View, Aptio Setup Utility, PC-Diagnostic Utility, Projector Helper, Windows XP Mode, Microsoft(R) Office Personal 2007 with Microsoft(R) Office PowerPoint(R) 2007(ServicePack2) |
+| Floppy drive (optional) | (Sold separately) USB-connected external 3.5-inch 3-mode compatible (1.44MB/1.2MB/720KB) |
+| Battery | 2007 fiscal year standard l category 0.00019 |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9JWANDR_spec.html>
 
@@ -167,4 +167,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-R9JWANDR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

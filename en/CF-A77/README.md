@@ -19,40 +19,40 @@
 
 | Item | Value |
 | :-- | :-- |
-| CPU | モバイルIntel(R) Celeron(TM)プロセッサ 300MHz |
+| CPU | Mobile Intel(R) Celeron(TM) processor 300MHz |
 | Chipset | Intel(R) 440BX AGPset |
-| Memory | 標準 64MB SDRAM (最大 128MB) |
+| Memory | Standard 64MB SDRAM (max. 128MB) |
 | L2 cache | 128KB |
 | Video memory | 2.5MB |
-| Graphics chip | NeoMagic社製NM2200 |
+| Graphics chip | NeoMagic NM2200 |
 | Hard disk | 6.4GB (UltraATA) ※1 |
-| Optical drive | CD-ROMドライブ :最大24倍速・着脱式 |
-| Floppy drive (optional) | 外付け 3.5型 3モード対応 (1.44MB /1.2MB /720KB) |
-| Multi-bay | CD-ROMドライブ(標準添付)、拡張バッテリーパック(オプション)、 / ウェイトセーバー（標準添付）を交換可 |
-| Display | XGA(1024×768ドット) 11.3型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット :約1600万色 ※2 |
-| Display / External output | 640×480、800×600、1024×768ドット :約1600万色、1280×1024ドット :256色 |
-| Display / Simultaneous display | 640×480、800×600、1024×768ドット :約1600万色 ※2、1280×1024ドット ※3 :256色 |
-| Display / Dual display (example) | 内部LCD 1024×768ドット :約65,536万色 － 外部ディスプレイ 640×480ドット :256色 / 内部LCD 1024×768ドット :256色 － 外部ディスプレイ 1024×768ドット :256色 |
-| Modem | 本体内蔵 データ :56kbps (V.90/K56flex自動対応) FAX :14.4kbps、ボイス機能対応 (RJ-11) ※4 |
-| Wired LAN | 本体内蔵 100BASE-TX /10BASE-T (RJ-45) ※5 |
-| Audio | PCM音源(Windows Sound System互換)、モノラルスピーカー、モノラルマイク内蔵 |
-| PC Card slot | PCカード(TypeII×1スロット)、CardBus対応 |
-| Memory expansion slot | 144ピンDIMM専用スロット×1 |
-| Ports / Audio | マイク入力(ミニジャック)、オーディオ出力(ミニジャック) |
-| Ports / USB | 4ピン |
-| Ports / Infrared | IrDA V1.1準拠4Mbps ※6 |
-| Ports / Other | 拡張バスコネクター |
-| Ports / Optional I/O box | シリアル(Dsub 9ピン)、パラレル(Dsub 25ピン)、外部ディスプレイ(ミニD-sub9ピン)、外部マウス／キーボード(ミニDin 6ピン)、FDDコネクター |
-| Ports / Optional mini I/O box | 外部ディスプレイ(ミニD-sub9ピン)、外部マウス／キーボード(ミニDin 6ピン) |
-| Keyboard | OADG準拠キーボード (86キー)、キーピッチ 17mm |
-| Pointing device | スマートポインターIII |
-| Power | AC 100V-240V (50Hz/60Hz)(ACコードは100V専用)、 / 標準バッテリーパック／拡張バッテリーパック<別売>／大容量バッテリーパック<別売> (リチウムイオン) |
-| Power consumption | 約35W |
-| Energy efficiency | スタンバイモード時 : 約1.0W ※7 |
-| Battery | 標準バッテリーパック / 駆動:約1.8時間 ※8※9 充電:約2.5時間(電源OFF時)、約5.5時間(電源ON時)※10 / 標準＋拡張バッテリーパック<別売> / 駆動:約7時間 ※9 充電:約7時間(電源OFF時)、約18.5時間(電源ON時)※10 / 大容量<別売>＋拡張バッテリーパック<別売> / 駆動:約11時間 ※9 充電:約9.5時間(電源OFF時)、約28時間(電源ON時)※10 |
-| Dimensions (W×D×H) | 270mm × 215mm × 29mm (突起部除く) |
-| Weight (with battery) | 約1.60kg (CD-ROMドライブ装着時) |
+| Optical drive | CD-ROM drive: max. 24x・removable |
+| Floppy drive (optional) | External 3.5-inch 3-mode support (1.44MB /1.2MB /720KB) |
+| Multi-bay | CD-ROM drive (standard), extended battery pack (optional), / weight saver (standard) interchangeable |
+| Display | XGA (1024×768 dots) 11.3-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16 million colors ※2 |
+| Display / External output | 640×480, 800×600, 1024×768 dots: approx. 16 million colors, 1280×1024 dots: 256 colors |
+| Display / Simultaneous display | 640×480, 800×600, 1024×768 dots: approx. 16 million colors *2, 1280×1024 dots *3: 256 colors |
+| Display / Dual display (example) | Internal LCD 1024×768 dots: approx. 65,536 million colors - External display 640×480 dots: 256 colors / Internal LCD 1024×768 dots: 256 colors - External display 1024×768 dots: 256 colors |
+| Modem | Built-in Data: 56kbps (V.90/K56flex auto-supported) FAX: 14.4kbps, voice function supported (RJ-11) *4 |
+| Wired LAN | Built-in 100BASE-TX /10BASE-T (RJ-45) *5 |
+| Audio | PCM sound source (Windows Sound System compatible), monaural speaker, built-in monaural microphone |
+| PC Card slot | PC card (TypeII ×1 slot), CardBus compatible |
+| Memory expansion slot | 144-pin DIMM dedicated slot ×1 |
+| Ports / Audio | Microphone input (mini jack), audio output (mini jack) |
+| Ports / USB | 4-pin |
+| Ports / Infrared | IrDA V1.1-compliant 4Mbps *6 |
+| Ports / Other | Expansion bus connector |
+| Ports / Optional I/O box | Serial (Dsub 9-pin), Parallel (Dsub 25-pin), External display (mini D-sub 9-pin), External mouse/keyboard (mini Din 6-pin), FDD connector |
+| Ports / Optional mini I/O box | External display (mini D-sub 9-pin), external mouse/keyboard (mini Din 6-pin) |
+| Keyboard | OADG-compliant keyboard (86 keys), key pitch 17mm |
+| Pointing device | Smart Pointer III |
+| Power | AC 100V-240V (50Hz/60Hz) (AC cord is for 100V only), / Standard battery pack / Extended battery pack <optional> / Large-capacity battery pack <optional> (lithium-ion) |
+| Power consumption | approx. 35W |
+| Energy efficiency | In standby mode: approx. 1.0W *7 |
+| Battery | Standard battery pack / Runtime: approx. 1.8 hours *8*9 Charging: approx. 2.5 hours (power OFF), approx. 5.5 hours (power ON) *10 / Standard + extended battery pack <sold separately> / Runtime: approx. 7 hours *9 Charging: approx. 7 hours (power OFF), approx. 18.5 hours (power ON) *10 / Large capacity <sold separately> + extended battery pack <sold separately> / Runtime: approx. 11 hours *9 Charging: approx. 9.5 hours (power OFF), approx. 28 hours (power ON) *10 |
+| Dimensions (W×D×H) | 270mm × 215mm × 29mm (excluding protrusions) |
+| Weight (with battery) | Approx. 1.60kg (with CD-ROM drive installed) |
 
 ## Differences by part number
 
@@ -66,8 +66,8 @@
 
 | Item | Value |
 | :-- | :-- |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) Office 2000 Personal ◆※11、 / Microsoft(R) IME 2000、 / Microsoft(R) Internet Explorer 5、 / Adobe(R) Acrobat(R) Reader 3.0J ◆、 / モバイルフォン ◆※12、 / イラストメール ※13、 / クイックラウンチャー、 / クイックコネクションセレクター、 / Intellisync(TM) for Notebooks ◆、 / Phoenix PowerPanel(TM)、 / Phoenix BaySwap(TM)、 / NIFTY Manager for Windows ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 内部LCDについては、グラフィックアクセラレーターのディザリング機能により実現。 / ※3 同時表示では、画面全体の一部(1024×768ドット)が表示されます。カーソルを画面の端に移動すると、画面全体がスクロールします。 / ※4 日本国内NTTアナログ一般回線専用です。V.90とK56flexを自動判別して切り替わります。また、56kbpsはデータ受信時の理論値です。データ送信時は33.6kpbsが最大速度です。 / ※5 コネクターの形状によっては使用できないものがあります。 / ※6 赤外線通信ポートの有効距離は20～50cmとなります。 / ※7 省エネ法に基づくエネルギー消費効率。 / ※8 CD-ROMドライブ内蔵時。 / ※9 LCDバックライト輝度最低時。動作環境・システム設定により変動します。 / ※10 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、満充電から約1週間(標準バッテリー使用時)でバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ※11 「Bookshelf Basic 2.0」はCD-ROM添付のみです。 / ※12 ファクスのサイズはA4／レターの2種類です。 / ※13 フォントの種類によって正しく表示されない場合があります。等幅フォントをお使いください。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●付属のプロダクトリカバリーCD-ROMではOSのみの再インストールは行えません。 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) Office 2000 Personal ◆*11, / Microsoft(R) IME 2000, / Microsoft(R) Internet Explorer 5, / Adobe(R) Acrobat(R) Reader 3.0J ◆, / Mobile Phone ◆*12, / Illustration Mail *13, / Quick Launcher, / Quick Connection Selector, / Intellisync(TM) for Notebooks ◆, / Phoenix PowerPanel(TM), / Phoenix BaySwap(TM), / NIFTY Manager for Windows ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is displayed as 1GB=1,000,000,000 bytes. / ※2 For the internal LCD, this is achieved by the dithering function of the graphics accelerator. / ※3 In simultaneous display, part of the entire screen (1024×768 dots) is displayed. When the cursor is moved to the edge of the screen, the entire screen scrolls. / ※4 For use only with NTT analog general lines within Japan. It automatically detects and switches between V.90 and K56flex. Also, 56kbps is the theoretical value when receiving data. When sending data, 33.6kpbs is the maximum speed. / ※5 Some cannot be used depending on the connector shape. / ※6 The effective distance of the infrared communication port is 20–50cm. / ※7 Energy consumption efficiency based on the Energy Saving Act. / ※8 When the CD-ROM drive is built in. / ※9 At the minimum LCD backlight brightness. Varies depending on the operating environment and system settings. / ※10 Charging a fully discharged battery may take time. Even when the power is off, power is consumed, so the battery will run out approximately 1 week after a full charge (when using the standard battery). Also, the charging time when the power is ON is the shortest case. It varies depending on the operating state of the computer. / ※11 "Bookshelf Basic 2.0" is included on CD-ROM only. / ※12 Fax sizes are the two types A4/letter. / ※13 Some characters may not be displayed correctly depending on the font type. Please use a monospaced font. / Support for the operation of software marked with ◆ is provided by each software manufacturer. / ●This computer is not guaranteed to operate with anything other than Windows 98. / ●Among software and peripherals generally labeled for Windows 98, some cannot be used with this computer. Regarding purchases, please confirm with the seller of each software and peripheral. / ●The included Product Recovery CD-ROM cannot be used to reinstall only the OS. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-A77J81_spec.html>
 
@@ -78,8 +78,8 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-A77J81_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) IME 98、 / Microsoft(R) Internet Explorer 4.01、 / Adobe(R) Acrobat(R) Reader 3.0J ◆、 / モバイルフォン ◆※11、 / イラストメール ※12、 / クイックラウンチャー、 / クイックコネクションセレクター、 / Intellisync(TM) for Notebooks ◆、 / Phoenix PowerPanel(TM)、 / Phoenix BaySwap(TM)、 / NIFTY Manager for Windows ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 内部LCDについては、グラフィックアクセラレーターのディザリング機能により実現。 / ※3 同時表示では、画面全体の一部(1024×768ドット)が表示されます。カーソルを画面の端に移動すると、画面全体がスクロールします。 / ※4 日本国内NTTアナログ一般回線専用です。V.90とK56flexを自動判別して切り替わります。また、56kbpsはデータ受信時の理論値です。データ送信時は33.6kpbsが最大速度です。 / ※5 コネクターの形状によっては使用できないものがあります。 / ※6 赤外線通信ポートの有効距離は20～50cmとなります。 / ※7 省エネ法に基づくエネルギー消費効率。 / ※8 CD-ROMドライブ内蔵時。 / ※9 LCDバックライト輝度最低時。動作環境・システム設定により変動します。 / ※10 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、満充電から約1週間(標準バッテリー使用時)でバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ※11 ファクスのサイズはA4／レターの2種類です。 / ※12 フォントの種類によって正しく表示されない場合があります。等幅フォントをお使いください。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●付属のプロダクトリカバリーCD-ROMではOSのみの再インストールは行えません。 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) IME 98, / Microsoft(R) Internet Explorer 4.01, / Adobe(R) Acrobat(R) Reader 3.0J ◆, / Mobile Phone ◆*11, / Illustration Mail *12, / Quick Launcher, / Quick Connection Selector, / Intellisync(TM) for Notebooks ◆, / Phoenix PowerPanel(TM), / Phoenix BaySwap(TM), / NIFTY Manager for Windows ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is displayed as 1GB=1,000,000,000 bytes. / ※2 For the internal LCD, this is achieved by the dithering function of the graphics accelerator. / ※3 In simultaneous display, part of the entire screen (1024×768 dots) is displayed. When the cursor is moved to the edge of the screen, the entire screen scrolls. / ※4 For use only with NTT analog general lines within Japan. It automatically detects and switches between V.90 and K56flex. Also, 56kbps is the theoretical value when receiving data. When sending data, 33.6kpbs is the maximum speed. / ※5 Some cannot be used depending on the connector shape. / ※6 The effective distance of the infrared communication port is 20–50cm. / ※7 Energy consumption efficiency based on the Energy Saving Act. / ※8 When the CD-ROM drive is built in. / ※9 At the minimum LCD backlight brightness. Varies depending on the operating environment and system settings. / ※10 Charging a fully discharged battery may take time. Even when the power is off, power is consumed, so the battery will run out approximately 1 week after a full charge (when using the standard battery). Also, the charging time when the power is ON is the shortest case. It varies depending on the operating state of the computer. / ※11 Fax sizes are the two types A4/letter. / ※12 Some characters may not be displayed correctly depending on the font type. Please use a monospaced font. / Support for the operation of software marked with ◆ is provided by each software manufacturer. / ●This computer is not guaranteed to operate with anything other than Windows 98. / ●Among software and peripherals generally labeled for Windows 98, some cannot be used with this computer. Regarding purchases, please confirm with the seller of each software and peripheral. / ●The included Product Recovery CD-ROM cannot be used to reinstall only the OS. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-A77J8_spec.html>
 
@@ -92,4 +92,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-A77J8_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

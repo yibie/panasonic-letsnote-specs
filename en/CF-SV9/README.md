@@ -12,50 +12,50 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-SV9ADPQR](https://panasonic.jp/pc/p-db/CF-SV9ADPQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9ADSQR](https://panasonic.jp/pc/p-db/CF-SV9ADSQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9ADMQR](https://panasonic.jp/pc/p-db/CF-SV9ADMQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9EDUQR](https://panasonic.jp/pc/p-db/CF-SV9EDUQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9EFNQR](https://panasonic.jp/pc/p-db/CF-SV9EFNQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、ブルーディスクドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9HDSQR](https://panasonic.jp/pc/p-db/CF-SV9HDSQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9HDPQR](https://panasonic.jp/pc/p-db/CF-SV9HDPQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9HDMQR](https://panasonic.jp/pc/p-db/CF-SV9HDMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9KDUQR](https://panasonic.jp/pc/p-db/CF-SV9KDUQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9KFNQR](https://panasonic.jp/pc/p-db/CF-SV9KFNQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、ブルーディスクドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9NDCQR](https://panasonic.jp/pc/p-db/CF-SV9NDCQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9NDSQR](https://panasonic.jp/pc/p-db/CF-SV9NDSQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9NDRQR](https://panasonic.jp/pc/p-db/CF-SV9NDRQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：512GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9NDMQR](https://panasonic.jp/pc/p-db/CF-SV9NDMQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i5-10210Uプロセッサー、メモリー：16GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9PDUQR](https://panasonic.jp/pc/p-db/CF-SV9PDUQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710Uプロセッサー、メモリー：8GB（空きスロットなし）、SSD：256GB、スーパーマルチドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
-| [CF-SV9PFNQR](https://panasonic.jp/pc/p-db/CF-SV9PFNQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64ビット、インテル® CoreTM i7-10710U プロセッサー、メモリー：16GB（空きスロットなし）、SSD：512GB、ブルーディスクドライブ、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac/ax（6GHz帯含む）、Microsoft® Office Home and Business 2019 |
+| [CF-SV9ADPQR](https://panasonic.jp/pc/p-db/CF-SV9ADPQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9ADSQR](https://panasonic.jp/pc/p-db/CF-SV9ADSQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9ADMQR](https://panasonic.jp/pc/p-db/CF-SV9ADMQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9EDUQR](https://panasonic.jp/pc/p-db/CF-SV9EDUQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 8GB (no empty slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9EFNQR](https://panasonic.jp/pc/p-db/CF-SV9EFNQR_spec.html) | 2020-10 | 2021-02 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 16GB (no empty slot), SSD: 512GB, Blu-ray Disc Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9HDSQR](https://panasonic.jp/pc/p-db/CF-SV9HDSQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9HDPQR](https://panasonic.jp/pc/p-db/CF-SV9HDPQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9HDMQR](https://panasonic.jp/pc/p-db/CF-SV9HDMQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9KDUQR](https://panasonic.jp/pc/p-db/CF-SV9KDUQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 8GB (no empty slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9KFNQR](https://panasonic.jp/pc/p-db/CF-SV9KFNQR_spec.html) | 2020-06 | 2020-09 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 16GB (no empty slot), SSD: 512GB, Blu-ray Disc Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9NDCQR](https://panasonic.jp/pc/p-db/CF-SV9NDCQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9NDSQR](https://panasonic.jp/pc/p-db/CF-SV9NDSQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9NDRQR](https://panasonic.jp/pc/p-db/CF-SV9NDRQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 8GB (no free slot), SSD: 512GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9NDMQR](https://panasonic.jp/pc/p-db/CF-SV9NDMQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i5-10210U processor, Memory: 16GB (no free slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9PDUQR](https://panasonic.jp/pc/p-db/CF-SV9PDUQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 8GB (no empty slot), SSD: 256GB, Super Multi Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
+| [CF-SV9PFNQR](https://panasonic.jp/pc/p-db/CF-SV9PFNQR_spec.html) | 2020-01 | 2020-10 | Windows 10 Pro 64-bit, Intel® CoreTM i7-10710U processor, Memory: 16GB (no empty slot), SSD: 512GB, Blu-ray Disc Drive, LAN, Wireless LAN 802.11a (W52/W53/W56)/b/g/n/ac/ax (including 6GHz band), Microsoft® Office Home and Business 2019 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| OS | Windows 10 Pro 64ビット |
-| Chipset | CPUに内蔵 |
-| Display | 12.1型(16:10)WUXGA TFTカラー液晶 （1920 x 1200ドット）、アンチグレア |
-| Display / Graphics | インテル®UHD グラフィックス（CPUに内蔵） |
-| Display / LCD colors | 1920×1200ドット：約1677万色 |
-| Display / External output | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| Display / Simultaneous display | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 |
-| Wireless communication | インテル® Wi-Fi 6 AX201 |
-| Wireless LAN | IEEE802.11a（W52/W53/W56）/b/g/n/ac/ax 準拠（WPA3、WPA2-AES/TKIP対応、Wi-Fi準拠） |
+| OS | Windows 10 Pro 64-bit |
+| Chipset | Built into CPU |
+| Display | 12.1-inch (16:10) WUXGA TFT color LCD (1920 x 1200 dots), anti-glare |
+| Display / Graphics | Intel® UHD Graphics (built into CPU) |
+| Display / LCD colors | 1920×1200 dots: approx. 16.77 million colors |
+| Display / External output | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors / HDMI output only: 2560×1440, 3840×2160 (30 Hz/60 Hz), 4096×2160 (30 Hz/60 Hz) |
+| Display / Simultaneous display | 1024×768, 1280×768, 1280×1024, 1360×768, 1366×768, 1400×1050, 1600×900, 1600×1200, 1680×1050, 1920×1080, 1920×1200 dots: approx. 16.77 million colors |
+| Wireless communication | Intel® Wi-Fi 6 AX201 |
+| Wireless LAN | IEEE802.11a (W52/W53/W56)/b/g/n/ac/ax compliant (WPA3, WPA2-AES/TKIP support, Wi-Fi compliant) |
 | Wired LAN | 1000BASE-T/100BASE-TX/10BASE-T |
-| Audio | PCM音源（24ビットステレオ）、インテル® High Definition Audio準拠、ステレオスピーカー |
-| Security chip | TPM（TCG V2.0準拠） |
-| Security (Windows Hello) | 顔認証対応カメラ/指紋センサー（タッチ式） |
-| Memory expansion slot | なし |
-| Camera | 顔認証対応カメラ、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| Microphone | アレイマイク |
-| Sensors | 照度センサー |
-| Ports | ・USB3.1 Type-Cポート（Thunderbolt™3、USB Power Delivery対応） / ・USB3.0 Type-Aポート×3（うち１つはスマホ充電対応を兼ねる） / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） / ・ヘッドセット端子（マイク入力＋オーディオ出力）（ヘッドセットミニジャック3.5mm、CTIA準拠） |
-| Keyboard | OADG準拠86キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約85W |
+| Audio | PCM sound source (24-bit stereo), Intel® High Definition Audio compliant, stereo speakers |
+| Security chip | TPM (TCG V2.0 compliant) |
+| Security (Windows Hello) | Face recognition-compatible camera / Fingerprint sensor (touch type) |
+| Memory expansion slot | None |
+| Camera | Face recognition-compatible camera, effective pixels: max. 1920x1080 pixels (approx. 2.07 megapixels) |
+| Microphone | Array microphone |
+| Sensors | Illuminance sensor |
+| Ports | ・USB3.1 Type-C port (Thunderbolt™3, USB Power Delivery supported) / ・USB3.0 Type-A port ×3 (one of which also supports smartphone charging) / ・LAN connector (RJ-45) / ・External display connector (analog RGB mini D-sub 15 pin) / ・HDMI output terminal (4K60p output supported) / ・Headset terminal (microphone input + audio output) (headset mini jack 3.5mm, CTIA compliant) |
+| Keyboard | OADG-compliant 86 keys, key pitch 19mm (horizontal)/16mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 85W |
 | Efficiency target achievement | — |
-| Dimensions (W×D×H) | 幅283.5mm×奥行203.8mm×高さ24.5mm（突起部除く） |
+| Dimensions (W×D×H) | Width 283.5mm × Depth 203.8mm × Height 24.5mm (excluding protrusions) |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
 
 ## Differences by part number
@@ -84,22 +84,22 @@
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | 搭載されていません |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.929kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター 2個、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Not equipped |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.929kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), 2 AC adapters, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADPQR_spec.html>
 
@@ -110,25 +110,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADPQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADSQR_spec.html>
@@ -140,25 +140,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADSQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8166MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約12.5時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック&シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8166MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 12.5 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black & Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADMQR_spec.html>
@@ -170,25 +170,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9ADMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約20時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.109kg（付属バッテリーパック（L）(約355g)装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 20 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.109kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9EDUQR_spec.html>
@@ -200,27 +200,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9EDUQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8166MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | ブルーレイディスクドライブ内蔵 / DVDスーパーマルチドライブ機能/バッファーアンダーランエラー防止機能搭載 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約19.5時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.169kg（付属バッテリーパック(L)（約355g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5 倍速 / DVD-ROM：最大8 倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8 倍速 / DVD-RW：最大8 倍速 / +R：最大8 倍速 / +R DL：最大8 倍速 / +RW：最大8 倍速 / High Speed +RW：最大8 倍速 / CD-ROM：最大24 倍速 / CD-R：最大24 倍速 / CD-RW：最大24 倍速 / High-Speed CD-RW：最大24 倍速 / Ultra-Speed CD-RW：最大24 倍速 |
-| Optical drive speed / Write | BD-R書き込み：最大6 倍速 / BD-R DL書き込み：最大6 倍速 / BD-R LTH 書き込み：最大4 倍速 / BD-R XL書き込み：最大4 倍速 / BD-RE書き換え：2倍速 / BD-RE DL書き換え：2 倍速 / BD-RE XL 書き換え：2倍速 / DVD-RAM書き換え：最大5 倍速 / DVD-R 書き込み：最大8 倍速 / DVD-R DL書き込み：最大6 倍速 / DVD-RW書き換え：最大6 倍速 / +R 書き込み：最大8 倍速 / +R DL書き込み：最大6 倍速 / +RW 書き換え：最大4 倍速 / High Speed +RW書き換え：最大8 倍速 / CD-R 書き込み：最大24 倍速 / CD-RW 書き換え：4 倍速 / High-Speed CD-RW書き換え：10 倍速 / Ultra-Speed CD-RW書き換え：最大16 倍速 |
-| Supported discs / Read | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8166MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Blu-ray Disc Drive built-in / DVD Super Multi Drive function / Buffer underrun error prevention function equipped |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.1 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 19.5 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.169kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | BD-ROM: max 6x / BD-R: max 6x / BD-R DL: max 6x / BD-R LTH: max 6x / BD-R XL: max 6x / BD-RE: max 6x / BD-RE DL: max 6x / BD-RE XL: max 4x / DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | BD-R write: max 6x / BD-R DL write: max 6x / BD-R LTH write: max 4x / BD-R XL write: max 4x / BD-RE rewrite: 2x / BD-RE DL rewrite: 2x / BD-RE XL rewrite: 2x / DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | BD-ROM / BD-R (Ver.1.1/1.2/1.3, 25GB) / BD-R DL (Ver.1.1/1.2/1.3, 50GB) / BD-R LTH (Ver.1.2/1.3, 25GB) / BD-R XL (Ver.2.0, 100GB) / BD-RE (Ver. 2.1, 25GB) / BD-RE DL (Ver.2.1, 50GB) / BD-RE XL (Ver.3.0, 100GB) / DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM (single layer, dual layer) / DVD-Video (single layer, dual layer) / DVD-R (1.4GB, 2.8GB, 3.95GB, 4.7GB) / DVD-R DL (8.5GB) / DVD-RW (Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB) / +R (4.7GB) / +R DL (8.5GB) / +RW (4.7GB) / High Speed +RW (4.7GB) / CD-Audio / CD-ROM (XA support) / Photo CD (multi-session support) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9EFNQR_spec.html>
 
@@ -231,25 +231,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9EFNQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDSQR_spec.html>
@@ -261,25 +261,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDSQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ゴールド&シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Gold & Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDPQR_spec.html>
@@ -291,25 +291,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDPQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| CPU cores | 4コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約12.5時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック&シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 4 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 12.5 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black & Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDMQR_spec.html>
@@ -321,25 +321,25 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9HDMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4071MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約20時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.109kg（付属バッテリーパック（L）(約355g)装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4071MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 20 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.109kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9KDUQR_spec.html>
@@ -351,27 +351,27 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9KDUQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10710U プロセッサー / (インテル®スマートキャッシュ12MB、動作周波数1.10GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.70GHz） |
-| CPU cores | 6コア |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8167MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | ブルーレイディスクドライブ内蔵 / DVDスーパーマルチドライブ機能/バッファーアンダーランエラー防止機能搭載 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約19.5時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.169kg（付属バッテリーパック(L)（約355g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5 倍速 / DVD-ROM：最大8 倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8 倍速 / DVD-RW：最大8 倍速 / +R：最大8 倍速 / +R DL：最大8 倍速 / +RW：最大8 倍速 / High Speed +RW：最大8 倍速 / CD-ROM：最大24 倍速 / CD-R：最大24 倍速 / CD-RW：最大24 倍速 / High-Speed CD-RW：最大24 倍速 / Ultra-Speed CD-RW：最大24 倍速 |
-| Optical drive speed / Write | BD-R書き込み：最大6 倍速 / BD-R DL書き込み：最大6 倍速 / BD-R LTH 書き込み：最大4 倍速 / BD-R XL書き込み：最大4 倍速 / BD-RE書き換え：2倍速 / BD-RE DL書き換え：2 倍速 / BD-RE XL 書き換え：2倍速 / DVD-RAM書き換え：最大5 倍速 / DVD-R 書き込み：最大8 倍速 / DVD-R DL書き込み：最大6 倍速 / DVD-RW書き換え：最大6 倍速 / +R 書き込み：最大8 倍速 / +R DL書き込み：最大6 倍速 / +RW 書き換え：最大4 倍速 / High Speed +RW書き換え：最大8 倍速 / CD-R 書き込み：最大24 倍速 / CD-RW 書き換え：4 倍速 / High-Speed CD-RW書き換え：10 倍速 / Ultra-Speed CD-RW書き換え：最大16 倍速 |
-| Supported discs / Read | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10710U Processor / (Intel® Smart Cache 12MB, clock speed 1.10GHz, up to 4.70GHz when using Intel® Turbo Boost Technology 2.0) |
+| CPU cores | 6 cores |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8167MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Blu-ray Disc Drive built-in / DVD Super Multi Drive function / Buffer underrun error prevention function equipped |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target year FY2022 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 19.5 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.169kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | BD-ROM: max 6x / BD-R: max 6x / BD-R DL: max 6x / BD-R LTH: max 6x / BD-R XL: max 6x / BD-RE: max 6x / BD-RE DL: max 6x / BD-RE XL: max 4x / DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | BD-R write: max 6x / BD-R DL write: max 6x / BD-R LTH write: max 4x / BD-R XL write: max 4x / BD-RE rewrite: 2x / BD-RE DL rewrite: 2x / BD-RE XL rewrite: 2x / DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | BD-ROM / BD-R (Ver.1.1/1.2/1.3, 25GB) / BD-R DL (Ver.1.1/1.2/1.3, 50GB) / BD-R LTH (Ver.1.2/1.3, 25GB) / BD-R XL (Ver.2.0, 100GB) / BD-RE (Ver. 2.1, 25GB) / BD-RE DL (Ver.2.1, 50GB) / BD-RE XL (Ver.3.0, 100GB) / DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM (single layer, dual layer) / DVD-Video (single layer, dual layer) / DVD-R (1.4GB, 2.8GB, 3.95GB, 4.7GB) / DVD-R DL (8.5GB) / DVD-RW (Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB) / +R (4.7GB) / +R DL (8.5GB) / +RW (4.7GB) / High Speed +RW (4.7GB) / CD-Audio / CD-ROM (XA support) / Photo CD (multi-session support) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9KFNQR_spec.html>
 
@@ -382,21 +382,21 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9KFNQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4089MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | 搭載されていません |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約0.929kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility+I188 |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4089MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Not equipped |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 0.929kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial) / ・i-Filter 6.0 (30-day free trial) / ・WinZip 20.5 Japanese version (45-day trial) / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility+I188 |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDCQR_spec.html>
 
@@ -407,24 +407,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDCQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4089MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4089MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDSQR_spec.html>
@@ -436,24 +436,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDSQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4089MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約13時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4089MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 13 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDRQR_spec.html>
@@ -465,24 +465,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDRQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i5-10210U プロセッサー / (インテル®スマートキャッシュ6MB、動作周波数1.60GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.20GHz） |
-| Memory | 16GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大8185MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（S） / 7.2V リチウムイオン・定格容量5900mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約12.5時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | シルバー&ブラック |
-| Weight (with battery) | パソコン本体：約1.009kg（付属バッテリーパック(S)（約255g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(S)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i5-10210U Processor / (Intel® Smart Cache 6MB, clock speed 1.60GHz, up to 4.20GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 16GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max 8185MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (S) / 7.2V lithium-ion, rated capacity 5900mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 12.5 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Silver & Black |
+| Weight (with battery) | PC body: approx. 1.009kg (when equipped with included battery pack (S) (approx. 255g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (S), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDMQR_spec.html>
@@ -494,24 +494,24 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9NDMQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10510U プロセッサー / (インテル®スマートキャッシュ8MB、動作周波数1.80GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.90GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4089MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）256GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | スーパーマルチドライブ（DVD/CD）内蔵 バッファアンダーランエラー防止機能搭載 |
-| LTE | 搭載されていません |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| SD card slot | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約20時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.109kg（付属バッテリーパック（L）(約355g)装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | DVD-RAM：最大5倍速 / DVD-ROM：最大8倍速 / DVD-R：最大8倍速 / DVD-R DL:最大8倍速 / DVD-RW：最大8倍速 / +R：最大8倍速 / +R DL：最大8倍速 / +RW：最大8倍速 / High Speed +RW：最大8倍速 / CD-ROM：最大24倍速 / CD-R：最大24倍速 / CD-RW：最大24倍速 / High-Speed CD-RW：最大24倍速 / Ultra-Speed CD-RW：最大24倍速 |
-| Optical drive speed / Write | DVD-RAM書き換え：最大5倍速 / DVD-R 書き込み：最大8倍速 / DVD-R DL 書き込み：最大6倍速 / DVD-RW 書き換え：最大6倍速 / +R 書き込み：最大8倍速 / +R DL 書き込み：最大6倍速 / +RW 書き換え：最大4倍速 / High Speed +RW 書き換え：最大8倍速 / CD-R 書き込み：最大24倍速 / CD-RW 書き換え：4倍速 / High-Speed CD-RW 書き換え：10倍速 / Ultra-Speed CD-RW 書き換え：最大16倍速 |
-| Supported discs / Read | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10510U Processor / (Intel® Smart Cache 8MB, clock speed 1.80GHz, up to 4.90GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4089MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 256GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Built-in Super Multi Drive (DVD/CD), equipped with buffer underrun error prevention function |
+| LTE | Not equipped |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| SD card slot | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 20 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.109kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM ( single layer, dual layer ) / DVD-Video ( single layer, dual layer ) / DVD-R ( 1.4GB, 2.8GB, 3.95GB, 4.7GB ) / DVD-R DL ( 8.5GB ) / DVD-RW ( Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / +R ( 4.7GB ) / +R DL ( 8.5GB ) / +RW ( 4.7GB ) / High Speed +RW ( 4.7GB ) / CD-Audio / CD-ROM ( XA support ) / Photo CD ( multi-session support ) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9PDUQR_spec.html>
@@ -523,26 +523,26 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9PDUQR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル® Core™ i7-10510U プロセッサー / (インテル®スマートキャッシュ8MB、動作周波数1.80GHz、インテル® ターボ・ブースト・テクノロジー2.0利用時は最大4.90GHz） |
-| Memory | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| Video memory | 最大4089MB (メインメモリーと共用) |
-| SSD | フラッシュメモリードライブ（SSD）512GB（PCIe）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| Optical drive | ブルーレイディスクドライブ内蔵 / DVDスーパーマルチドライブ機能/バッファーアンダーランエラー防止機能搭載 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| Bluetooth | Bluetooth v5.0 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| Power | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、5.3A、電源コードは100V専用 / ▼バッテリーパック（L） / 10.8V リチウムイオン・定格容量6300mAh |
-| Energy efficiency | 目標年度2022年度基準 12区分17.6［kWh/年］ |
-| Battery life / charge time | ▼駆動時間 / （JEITA Ver.2.0） / 約20時間 / ▼充電時間 / 約3時間（電源OFF時）、約3時間（電源ON時） |
-| Color | ブラック |
-| Weight (with battery) | パソコン本体：約1.169kg（付属バッテリーパック(L)（約355g）装着時） / ACアダプター：約230g（電源コード（約60g）除く） |
-| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
-| Accessories | バッテリーパック(L)、ACアダプター、取扱説明書、Microsoft Office Home & Business 2019等 |
-| Optical drive speed / Read | BD-ROM：最大6倍速 / BD-R：最大6倍速 / BD-R DL：最大6倍速 / BD-R LTH：最大6倍速 / BD-R XL：最大6倍速 / BD-RE：最大6倍速 / BD-RE DL：最大6倍速 / BD-RE XL：最大4倍速 / DVD-RAM：最大5 倍速 / DVD-ROM：最大8 倍速 / DVD-R：最大8倍速 / DVD-R DL：最大8 倍速 / DVD-RW：最大8 倍速 / +R：最大8 倍速 / +R DL：最大8 倍速 / +RW：最大8 倍速 / High Speed +RW：最大8 倍速 / CD-ROM：最大24 倍速 / CD-R：最大24 倍速 / CD-RW：最大24 倍速 / High-Speed CD-RW：最大24 倍速 / Ultra-Speed CD-RW：最大24 倍速 |
-| Optical drive speed / Write | BD-R書き込み：最大6 倍速 / BD-R DL書き込み：最大6 倍速 / BD-R LTH 書き込み：最大4 倍速 / BD-R XL書き込み：最大4 倍速 / BD-RE書き換え：2倍速 / BD-RE DL書き換え：2 倍速 / BD-RE XL 書き換え：2倍速 / DVD-RAM書き換え：最大5 倍速 / DVD-R 書き込み：最大8 倍速 / DVD-R DL書き込み：最大6 倍速 / DVD-RW書き換え：最大6 倍速 / +R 書き込み：最大8 倍速 / +R DL書き込み：最大6 倍速 / +RW 書き換え：最大4 倍速 / High Speed +RW書き換え：最大8 倍速 / CD-R 書き込み：最大24 倍速 / CD-RW 書き換え：4 倍速 / High-Speed CD-RW書き換え：10 倍速 / Ultra-Speed CD-RW書き換え：最大16 倍速 |
-| Supported discs / Read | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（1層、2層） / DVD-Video（1層、2層） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（XA対応） / Photo CD（マルチセッション対応） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
+| CPU | Intel® Core™ i7-10510U Processor / (Intel® Smart Cache 8MB, clock speed 1.80GHz, up to 4.90GHz when using Intel® Turbo Boost Technology 2.0) |
+| Memory | 8GB LPDDR3 SDRAM (no expansion slot) |
+| Video memory | Max. 4089MB (shared with main memory) |
+| SSD | Flash memory drive (SSD) 512GB (PCIe) Of the above capacity, approx. 15GB is used as the recovery area and approx. 1GB as the system area (unavailable to the user) |
+| Optical drive | Blu-ray Disc Drive built-in / DVD Super Multi Drive function / Buffer underrun error prevention function equipped |
+| LTE | Built-in wireless WAN module (LTE compatible) |
+| Bluetooth | Bluetooth v5.0 / ■Supported profiles / 【Classic】 / ・A2DP (Source) / ・AVRCP (Target) / ・HCRP (Client) / ・HFP (AG) / ・HID (Host) / ・OPP (Client and Server) / ・PAN (User) / ・SPP (DevA and DevB) / 【Low Energy】 / ・HOGP (Host) |
+| Power | ▼AC adapter / Input: AC100V–240V, 50Hz/60Hz, Output: DC16V, 5.3A, power cord for 100V only / ▼Battery pack (L) / 10.8V lithium-ion, rated capacity 6300mAh |
+| Energy efficiency | Target fiscal year 2022 standard, 12 categories 17.6 [kWh/year] |
+| Battery life / charge time | ▼Battery life / (JEITA Ver.2.0) / approx. 20 hours / ▼Charging time / approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Color | Black |
+| Weight (with battery) | PC body: approx. 1.169kg (when equipped with included battery pack (L) (approx. 355g)) / AC adapter: approx. 230g (excluding power cord (approx. 60g)) |
+| Software | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.8 / ・Microsoft® Windows Media Player 12 / ・McAfee LiveSafe (60-day free trial version) / ・i-Filter 6.0 (30-day free trial version) / ・WinZip 20.5 Japanese version (45-day trial version) / ・Power2Go for Panasonic / ・PowerDirector BD for Panasonic / ・CyberLink PowerDVD14 / ・Aptio Setup Utility / ・PC-Diagnostic Utility / ・Panasonic PC Settings Utility / ・Hard Disk Data Erase Utility / ・DirectX 12 / ・PC Information Viewer / ・Panasonic PC Recovery Disc Creation Utility / ・Panasonic PC Camera Utility |
+| Accessories | Battery pack (L), AC adapter, instruction manual, Microsoft Office Home & Business 2019, etc. |
+| Optical drive speed / Read | BD-ROM: max 6x / BD-R: max 6x / BD-R DL: max 6x / BD-R LTH: max 6x / BD-R XL: max 6x / BD-RE: max 6x / BD-RE DL: max 6x / BD-RE XL: max 4x / DVD-RAM: max 5x / DVD-ROM: max 8x / DVD-R: max 8x / DVD-R DL: max 8x / DVD-RW: max 8x / +R: max 8x / +R DL: max 8x / +RW: max 8x / High Speed +RW: max 8x / CD-ROM: max 24x / CD-R: max 24x / CD-RW: max 24x / High-Speed CD-RW: max 24x / Ultra-Speed CD-RW: max 24x |
+| Optical drive speed / Write | BD-R write: max 6x / BD-R DL write: max 6x / BD-R LTH write: max 4x / BD-R XL write: max 4x / BD-RE rewrite: 2x / BD-RE DL rewrite: 2x / BD-RE XL rewrite: 2x / DVD-RAM rewrite: max 5x / DVD-R write: max 8x / DVD-R DL write: max 6x / DVD-RW rewrite: max 6x / +R write: max 8x / +R DL write: max 6x / +RW rewrite: max 4x / High Speed +RW rewrite: max 8x / CD-R write: max 24x / CD-RW rewrite: 4x / High-Speed CD-RW rewrite: 10x / Ultra-Speed CD-RW rewrite: max 16x |
+| Supported discs / Read | BD-ROM / BD-R (Ver.1.1/1.2/1.3, 25GB) / BD-R DL (Ver.1.1/1.2/1.3, 50GB) / BD-R LTH (Ver.1.2/1.3, 25GB) / BD-R XL (Ver.2.0, 100GB) / BD-RE (Ver. 2.1, 25GB) / BD-RE DL (Ver.2.1, 50GB) / BD-RE XL (Ver.3.0, 100GB) / DVD-RAM ( 1.4GB, 2.8GB, 4.7GB, 9.4GB ) / DVD-ROM (single layer, dual layer) / DVD-Video (single layer, dual layer) / DVD-R (1.4GB, 2.8GB, 3.95GB, 4.7GB) / DVD-R DL (8.5GB) / DVD-RW (Ver.1.1/1.2 1.4GB, 2.8GB, 4.7GB, 9.4GB) / +R (4.7GB) / +R DL (8.5GB) / +RW (4.7GB) / High Speed +RW (4.7GB) / CD-Audio / CD-ROM (XA support) / Photo CD (multi-session support) / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | Supported discs / Write | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| Card slots / SD card | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| Card slots / Other | nano SIMカードスロット |
+| Card slots / SD card | SD memory card ×1 slot (SDHC memory card/SDXC memory card support/copyright protection technology support/UHS-I・UHS-II high-speed transfer support) |
+| Card slots / Other | nano SIM card slot |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9PFNQR_spec.html>
 
@@ -582,4 +582,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-SV9PFNQR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

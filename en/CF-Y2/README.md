@@ -12,71 +12,71 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-Y2FW7AXR](https://panasonic.jp/pc/p-db/CF-Y2FW7AXR_spec.html) | 2005-02 | 2005-04 | Windows® XP Professional、PentiumM 758(1.5GHz・LV)、メモリー：256MB（最大768MB)、HDD：60GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52)/b/g、USB2.0 |
-| [CF-Y2FW7HXR](https://panasonic.jp/pc/p-db/CF-Y2FW7HXR_spec.html) | 2005-02 | 2005-03 | Windows® XP Professional、PentiumM 758(1.5GHz・LV)、メモリー：256MB（最大768MB)、HDD：60GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52)/b/g、USB2.0、Office Personal ＜台数限定＞ |
-| [CF-Y2EW6AXR](https://panasonic.jp/pc/p-db/CF-Y2EW6AXR_spec.html) | 2004-11 | 2004-12 | Windows® XP Professional、PentiumM 738(1.4GHz・LV)、メモリー：256MB（最大768MB)、HDD：40GB、スーパーマルチドライブ、LAN、無線LAN 802.11a(J52)/b/g、USB2.0 ＜台数限定＞ |
-| [CF-Y2EW1AXR](https://panasonic.jp/pc/p-db/CF-Y2EW1AXR_spec.html) | 2004-10 | 2004-11 | Windows® XP Professional、PentiumM 738(1.4GHz・LV)、メモリー：256MB（最大768MB)、HDD：40GB、DVD-ROM&CD-R/RW、LAN、無線LAN 802.11a(J52)/b/g、USB2.0 |
-| [CF-Y2DW1AXR](https://panasonic.jp/pc/p-db/CF-Y2DW1AXR_spec.html) | 2004-05 | 2004-07 | Windows® XP Professional、PentiumM(1.3GHz・LV)、メモリー：256MB（最大768MB)、HDD：40GB、DVD-ROM&CD-R/RW、LAN、無線LAN (802.11b/g)、USB2.0 |
-| [CF-Y2CW4AXR](https://panasonic.jp/pc/p-db/CF-Y2CW4AXR_spec.html) | 2004-02 | 2004-04 | Windows® XP Professional、PentiumM(1.2GHz・LV)、メモリー：256MB（最大512MB)、HDD：40GB、DVD-ROM&CD-R/RW、LAN、無線LAN (802.11b/g)、USB2.0 |
+| [CF-Y2FW7AXR](https://panasonic.jp/pc/p-db/CF-Y2FW7AXR_spec.html) | 2005-02 | 2005-04 | Windows® XP Professional, PentiumM 758 (1.5GHz・LV), Memory: 256MB (max 768MB), HDD: 60GB, Super Multi Drive, LAN, Wireless LAN 802.11a(J52)/b/g, USB2.0 |
+| [CF-Y2FW7HXR](https://panasonic.jp/pc/p-db/CF-Y2FW7HXR_spec.html) | 2005-02 | 2005-03 | Windows® XP Professional, PentiumM 758 (1.5GHz・LV), Memory: 256MB (max 768MB), HDD: 60GB, Super Multi Drive, LAN, Wireless LAN 802.11a(J52)/b/g, USB2.0, Office Personal <limited quantity> |
+| [CF-Y2EW6AXR](https://panasonic.jp/pc/p-db/CF-Y2EW6AXR_spec.html) | 2004-11 | 2004-12 | Windows® XP Professional, PentiumM 738 (1.4GHz・LV), Memory: 256MB (max 768MB), HDD: 40GB, Super Multi Drive, LAN, Wireless LAN 802.11a(J52)/b/g, USB2.0 <limited quantity> |
+| [CF-Y2EW1AXR](https://panasonic.jp/pc/p-db/CF-Y2EW1AXR_spec.html) | 2004-10 | 2004-11 | Windows® XP Professional, PentiumM 738 (1.4GHz・LV), Memory: 256MB (max 768MB), HDD: 40GB, DVD-ROM&CD-R/RW, LAN, Wireless LAN 802.11a(J52)/b/g, USB2.0 |
+| [CF-Y2DW1AXR](https://panasonic.jp/pc/p-db/CF-Y2DW1AXR_spec.html) | 2004-05 | 2004-07 | Windows® XP Professional, PentiumM (1.3GHz・LV), Memory: 256MB (max 768MB), HDD: 40GB, DVD-ROM&CD-R/RW, LAN, Wireless LAN (802.11b/g), USB2.0 |
+| [CF-Y2CW4AXR](https://panasonic.jp/pc/p-db/CF-Y2CW4AXR_spec.html) | 2004-02 | 2004-04 | Windows® XP Professional, PentiumM (1.2GHz・LV), Memory: 256MB (max 512MB), HDD: 40GB, DVD-ROM&CD-R/RW, LAN, Wireless LAN (802.11b/g), USB2.0 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| Display | SXGA+ (1400×1050ドット) 14.1型TFTカラー液晶 |
-| Modem | データ：56 kbps( V.90 )FAX：14.4 kbps/ボイス非対応 |
+| Display | SXGA+ (1400×1050 dots) 14.1-inch TFT color LCD |
+| Modem | Data: 56 kbps( V.90 )FAX: 14.4 kbps/Voice not supported |
 | Wired LAN | 100BASE-TX / 10BASE-T |
-| Audio | PCM音源(16ビットステレオ)、ステレオスピーカー |
-| Memory expansion slot | 172ピンマイクロDIMM専用スロット×1 ( PC2700 / DDR SDRAM ) |
-| Ports / Audio | マイク入力( モノラルミニジャック )、オーディオ出力( ステレオミニジャック ) |
-| Ports / USB | USBコネクター×2（USB2.0） |
-| Ports / External display | アナログRGBミニDsub15ピン |
-| Ports / Other | モデムコネクター（RJ-11）、LANコネクター（RJ-45） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約40 W |
-| Dimensions (excluding protrusions) | 幅309 mm×奥行243 mm×高さ33 mm／46 mm（前部／後部）突起部除く |
+| Audio | PCM sound source (16-bit stereo), stereo speaker |
+| Memory expansion slot | 172-pin microDIMM dedicated slot ×1 (PC2700 / DDR SDRAM) |
+| Ports / Audio | Microphone input (monaural mini jack), audio output (stereo mini jack) |
+| Ports / USB | USB connector ×2 (USB2.0) |
+| Ports / External display | Analog RGB mini Dsub 15-pin |
+| Ports / Other | Modem connector (RJ-11), LAN connector (RJ-45) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 40 W |
+| Dimensions (excluding protrusions) | Width 309 mm × Depth 243 mm × Height 33 mm/46 mm (front/rear) Excluding protrusions |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-Y2FW7AXR | Pentium M 低電圧版 758 | 256 MB | 60 GB | 1.51 kg | 7 h |
-| CF-Y2FW7HXR | Pentium M 低電圧版 758 | 256 MB | 60 GB | 1.51 kg | 7 h |
-| CF-Y2EW6AXR | Pentium M 低電圧版 738 | 256 MB | 40 GB | 1.499 kg | 7.5 h |
-| CF-Y2EW1AXR | Pentium M 低電圧版 738 | 256 MB | 40 GB | 1.499 kg | 7 h |
-| CF-Y2DW1AXR | 低電圧版 Pentium M 1.3 GHz | 256 MB | 40 GB | 1.499 kg | 7.5 h |
-| CF-Y2CW4AXR | 低電圧版 Pentium M 1.2 GHz | 256 MB | 40 GB | 1.499 kg | 7.5 h |
+| CF-Y2FW7AXR | Pentium M Low Voltage Edition 758 | 256 MB | 60 GB | 1.51 kg | 7 h |
+| CF-Y2FW7HXR | Pentium M Low Voltage Edition 758 | 256 MB | 60 GB | 1.51 kg | 7 h |
+| CF-Y2EW6AXR | Pentium M Low Voltage Edition 738 | 256 MB | 40 GB | 1.499 kg | 7.5 h |
+| CF-Y2EW1AXR | Pentium M Low Voltage Edition 738 | 256 MB | 40 GB | 1.499 kg | 7 h |
+| CF-Y2DW1AXR | Low Voltage Edition Pentium M 1.3 GHz | 256 MB | 40 GB | 1.499 kg | 7.5 h |
+| CF-Y2CW4AXR | Low Voltage Edition Pentium M 1.2 GHz | 256 MB | 40 GB | 1.499 kg | 7.5 h |
 
 <details>
 <summary>CF-Y2FW7AXR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載 |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ低電圧版 758 / （2次キャッシュメモリー 2 Mバイト、動作周波数 1.50 GHz、フロントサイド・バス 400 MHz） |
-| Chipset | インテル(R) 855 GME チップセット |
-| Memory | 標準256 Mバイト / 最大768 Mバイト (PC2700 / PC2100・DDR SDRAM) |
-| Video memory | 最大64 Mバイト（メインメモリーと共用） |
-| Hard disk | 60 Gバイト (Ultra ATA100) |
-| Optical drive | スーパーマルチドライブ内蔵 / バッファアンダーランエラー防止機能(SmoothLinkTM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速（4.7GB）/1倍速（2.6GB）、DVD-R最大4倍速、DVD-RW最大4倍速、DVD-ROM最大8倍速、+R 最大4倍速、+RW最大4倍速、 CD-ROM最大24倍速、CD-R最大24倍速、CD-RW最大20倍速 |
-| Optical drive speed / Write | DVD-RAM 2倍速（4.7GB）、DVD-R最大2倍速、DVD-RW最大2倍速、+R 2.4倍速、+RW2.4倍速、CD-R最大24倍速、CD-RW最大10倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW（Ver.1.1/1.2）、 +R、+RW、CD-Audio、CD-ROM（XA対応）、PhotoCD（マルチセッション対応）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
+| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 with Enhanced Security Features |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Low Voltage 758 / (2nd-level cache memory 2 MB, operating frequency 1.50 GHz, front side bus 400 MHz) |
+| Chipset | Intel(R) 855 GME chipset |
+| Memory | Standard 256 Mbytes / maximum 768 Mbytes (PC2700 / PC2100・DDR SDRAM) |
+| Video memory | Max 64 MByte (shared with main memory) |
+| Hard disk | 60 GB (Ultra ATA100) |
+| Optical drive | Super Multi Drive built-in / Equipped with buffer underrun error prevention function (SmoothLinkTM) |
+| Optical drive speed / Read | DVD-RAM 2x (4.7GB)/1x (2.6GB), DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, +R max 4x, +RW max 4x, CD-ROM max 24x, CD-R max 24x, CD-RW max 20x |
+| Optical drive speed / Write | DVD-RAM 2x (4.7GB), DVD-R max 2x, DVD-RW max 2x, +R 2.4x, +RW 2.4x, CD-R max 24x, CD-RW max 10x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1/1.2), +R, +RW, CD-Audio, CD-ROM (XA support), PhotoCD (multi-session support), VideoCD, CD-EXTRA, CD-TEXT, CD-R, CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、+R、+RW、CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×1024、1400×1050、1600×1200ドット ：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×1024、1400×1050ドット：約1677万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| Card slots / SD card | SDメモリーカード×1スロット （著作権保護技術対応） |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19 mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00020 / (社)電子情報技術産業協会 情報処理機器 高調波電流抑制対策実行計画書に基づく定格入力電力値：24 W |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×1024, 1400×1050, 1600×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×1024 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3 V: 400 mA, 5 V: 400 mA) |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection technology supported) |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19 mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00020 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan: 24 W |
 | Efficiency target achievement | — |
-| Battery | 駆動時間 約7時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1510 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 9、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ（hi-ho、@nifty、DION、OCN）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、オプティカルディスクドライブ省電力ユーティリティ、DVD-MovieAlbum SE 4.0、B's DVD Expert（オーサリングソフト） / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| Battery | Battery life approx. 7 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1510 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 9, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, NetSelector, SD Utility, WheelPad Utility, Online Sign-up (hi-ho, @nifty, DION, OCN), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, B's Recorder GOLD8 BASIC◆, B's CLiP 6◆, Win DVD 5 (OEM version) CPRM compatible◆, Optical Disc Drive Power Saving Utility, DVD-MovieAlbum SE 4.0, B's DVD Expert (authoring software) / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2FW7AXR_spec.html>
 
@@ -87,31 +87,31 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2FW7AXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載 |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ低電圧版 758 / （2次キャッシュメモリー 2 Mバイト、動作周波数 1.50 GHz、フロントサイド・バス 400 MHz） |
-| Chipset | インテル(R) 855 GME チップセット |
-| Memory | 標準256 Mバイト / 最大768 Mバイト (PC2700 / PC2100・DDR SDRAM) |
-| Video memory | 最大64 Mバイト（メインメモリーと共用） |
-| Hard disk | 60 Gバイト (Ultra ATA100) |
-| Optical drive | スーパーマルチドライブ内蔵 / バッファアンダーランエラー防止機能(SmoothLinkTM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速（4.7GB）/1倍速（2.6GB）、DVD-R最大4倍速、DVD-RW最大4倍速、DVD-ROM最大8倍速、+R 最大4倍速、+RW最大4倍速、 CD-ROM最大24倍速、CD-R最大24倍速、CD-RW最大20倍速 |
-| Optical drive speed / Write | DVD-RAM 2倍速（4.7GB）、DVD-R最大2倍速、DVD-RW最大2倍速、+R 2.4倍速、+RW2.4倍速、CD-R最大24倍速、CD-RW最大10倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW（Ver.1.1/1.2）、 +R、+RW、CD-Audio、CD-ROM（XA対応）、PhotoCD（マルチセッション対応）、VideoCD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
+| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 with Enhanced Security Features |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Low Voltage 758 / (2nd-level cache memory 2 MB, operating frequency 1.50 GHz, front side bus 400 MHz) |
+| Chipset | Intel(R) 855 GME chipset |
+| Memory | Standard 256 Mbytes / maximum 768 Mbytes (PC2700 / PC2100・DDR SDRAM) |
+| Video memory | Max 64 MByte (shared with main memory) |
+| Hard disk | 60 GB (Ultra ATA100) |
+| Optical drive | Super Multi Drive built-in / Equipped with buffer underrun error prevention function (SmoothLinkTM) |
+| Optical drive speed / Read | DVD-RAM 2x (4.7GB)/1x (2.6GB), DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, +R max 4x, +RW max 4x, CD-ROM max 24x, CD-R max 24x, CD-RW max 20x |
+| Optical drive speed / Write | DVD-RAM 2x (4.7GB), DVD-R max 2x, DVD-RW max 2x, +R 2.4x, +RW 2.4x, CD-R max 24x, CD-RW max 10x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1/1.2), +R, +RW, CD-Audio, CD-ROM (XA support), PhotoCD (multi-session support), VideoCD, CD-EXTRA, CD-TEXT, CD-R, CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、+R、+RW、CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×1024、1400×1050、1600×1200ドット ：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×1024、1400×1050ドット：約1677万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| Card slots / SD card | SDメモリーカード×1スロット （著作権保護技術対応） |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19 mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00020 / (社)電子情報技術産業協会 情報処理機器 高調波電流抑制対策実行計画書に基づく定格入力電力値：24 W |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×1024, 1400×1050, 1600×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×1024 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3 V: 400 mA, 5 V: 400 mA) |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection technology supported) |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19 mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00020 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan: 24 W |
 | Efficiency target achievement | — |
-| Battery | 駆動時間 約7時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1510 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 9、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ（hi-ho、@nifty、DION、OCN）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、B's Recorder GOLD8 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、オプティカルディスクドライブ省電力ユーティリティ、DVD-MovieAlbum SE 4.0、B's DVD Expert（オーサリングソフト）、Microsoft(R) Office Personal Edition 2003◆（Excel 2003、Outlook 2003、Word 2003、Home Style+） / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| Battery | Battery life approx. 7 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1510 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI Viewer, Microsoft(R) Windows(R) MediaTM Player 9, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, Net Selector, SD Utility, WheelPad Utility, Online Signup (hi-ho, @nifty, DION, OCN), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notice, Hard Disk Data Erase Utility, Wireless Manager mobile edition, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, B's Recorder GOLD8 BASIC◆, B's CLiP 6◆, Win DVD 5 (OEM version) CPRM compatible◆, Optical Disc Drive Power Saving Utility, DVD-MovieAlbum SE 4.0, B's DVD Expert (Authoring Software), Microsoft(R) Office Personal Edition 2003◆ (Excel 2003, Outlook 2003, Word 2003, Home Style+) / * Word processing, spreadsheet, and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2FW7HXR_spec.html>
 
@@ -122,30 +122,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2FW7HXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載 |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ低電圧版 738 / （2次キャッシュメモリー 2 Mバイト、動作周波数 1.40 GHz、フロントサイド・バス 400 MHz） |
-| Chipset | インテル(R) 855 GME チップセット |
-| Memory | 標準256 Mバイト / 最大768 Mバイト (PC2700 / PC2100・DDR SDRAM) |
-| Video memory | 最大64 Mバイト（メインメモリーと共用） |
-| Hard disk | 40 Gバイト (Ultra ATA100) |
-| Optical drive | スーパーマルチドライブ内蔵 / バッファアンダーランエラー防止機能(SmoothLinkTM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速（4.7GB）/1倍速（2.6GB）、DVD-R最大4倍速、DVD-RW最大4倍速、DVD-ROM最大8倍速、+R 4倍速、+RW4倍速、 CD-ROM最大24倍速、CD-R最大24倍速、CD-RW最大20倍速 |
-| Optical drive speed / Write | DVD-RAM 2倍速（4.7GB）、DVD-R最大2倍速、DVD-RW最大2倍速、+R 2.4倍速、+RW2.4倍速、CD-R最大24倍速、CD-RW最大10倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW（Ver.1.1/1.2）、 +R、+RW、CD-DA、CD-ROM（XA対応）、PhotoCD（マルチセッション対応）、VideoCD、CD-EXTRA、CD-R、CD-RW |
+| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 with Enhanced Security Features |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Low Voltage 738 / (2nd-level cache memory 2 MB, operating frequency 1.40 GHz, front side bus 400 MHz) |
+| Chipset | Intel(R) 855 GME chipset |
+| Memory | Standard 256 Mbytes / maximum 768 Mbytes (PC2700 / PC2100・DDR SDRAM) |
+| Video memory | Max 64 MByte (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) |
+| Optical drive | Super Multi Drive built-in / Equipped with buffer underrun error prevention function (SmoothLinkTM) |
+| Optical drive speed / Read | DVD-RAM 2x (4.7GB)/1x (2.6GB), DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, +R 4x, +RW 4x, CD-ROM max 24x, CD-R max 24x, CD-RW max 20x |
+| Optical drive speed / Write | DVD-RAM 2x (4.7GB), DVD-R max 2x, DVD-RW max 2x, +R 2.4x, +RW 2.4x, CD-R max 24x, CD-RW max 10x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1/1.2), +R, +RW, CD-DA, CD-ROM (XA support), PhotoCD (multi-session support), VideoCD, CD-EXTRA, CD-R, CD-RW |
 | Supported discs / Write | DVD-RAM、DVD-R、DVD-RW（Ver.1.1/1.2）、+R、+RW、CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1677万色 |
-| Display / External output | 800×600、1024×768、1280×1024、1400×1050、1600×1200ドット ：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768、1280×1024、1400×1050ドット：約1677万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| Card slots / SD card | SDメモリーカード×1スロット （著作権保護技術対応） |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19 mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00021 / (社)電子情報技術産業協会 情報処理機器 高調波電流抑制対策実行計画書に基づく定格入力電力値：24 W |
-| Battery | 駆動時間 約7.5時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1499 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 9、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ（hi-ho、@nifty、DION、OCN）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition、DVD-MovieAlbum SE 4、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、B's Recorder GOLD7 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、オプティカルディスクドライブ省電力ユーティリティ / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16.77 million colors |
+| Display / External output | 800×600, 1024×768, 1280×1024, 1400×1050, 1600×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768, 1280×1024 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3 V: 400 mA, 5 V: 400 mA) |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection technology supported) |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19 mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00021 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan: 24 W |
+| Battery | Battery life approx. 7.5 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1499 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 9, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, NetSelector, SD Utility, WheelPad Utility, Online Sign-up (hi-ho, @nifty, DION, OCN), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition, DVD-MovieAlbum SE 4, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, B's Recorder GOLD7 BASIC◆, B's CLiP 6◆, Win DVD 5 (OEM version) CPRM compatible◆, Optical Disc Drive Power Saving Utility / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2EW6AXR_spec.html>
 
@@ -156,30 +156,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2EW6AXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載 |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ低電圧版 738 / （2次キャッシュメモリー 2 Mバイト、動作周波数 1.40 GHz、フロントサイド・バス 400 MHz） |
-| Chipset | インテル(R) 855GME チップセット |
-| Memory | 標準256 Mバイト / 最大768 Mバイト (PC2700 / PC2100・DDR SDRAM) |
-| Video memory | 最大64Mバイト（メインメモリーと共用） |
-| Hard disk | 40 Gバイト (Ultra ATA100) |
-| Optical drive | DVD-ROM & CD-R/RWドライブ内蔵 バッファアンダーランエラー防止機能(SmoothLink TM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速[4.7GB]／1倍速[2.6GB]、DVD-R 最大4倍速、DVD-RW 最大4倍速、DVD-ROM 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速 |
-| Optical drive speed / Write | CD-R 最大24倍速、CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW（Ver.1.1）、CD-DA、CD-ROM(XA対応)、Photo CD(マルチセッション対応)、Video CD、CD-EXTRA、CD-TEXT、CD-R、CD-RW |
+| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 with Enhanced Security Features |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Low Voltage 738 / (2nd-level cache memory 2 MB, operating frequency 1.40 GHz, front side bus 400 MHz) |
+| Chipset | Intel(R) 855GME chipset |
+| Memory | Standard 256 Mbytes / maximum 768 Mbytes (PC2700 / PC2100・DDR SDRAM) |
+| Video memory | Max 64MByte (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) |
+| Optical drive | Built-in DVD-ROM & CD-R/RW drive with buffer underrun error prevention function (SmoothLink TM) |
+| Optical drive speed / Read | DVD-RAM 2x [4.7GB]/1x [2.6GB], DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x |
+| Optical drive speed / Write | CD-R max. 24x, CD-RW max. 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1), CD-DA, CD-ROM (XA support), Photo CD (multi-session support), Video CD, CD-EXTRA, CD-TEXT, CD-R, CD-RW |
 | Supported discs / Write | CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット、1400×1050ドット、1600×1200ドット ：約1677万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット、1400×1050ドット：約1677万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5 V：400 mA） |
-| Card slots / SD card | SDメモリーカード×1スロット （著作権保護技術対応） |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00021 / (社)電子情報技術産業協会 情報処理機器 高調波電流抑制対策実行計画書に基づく定格入力電力値：24 W |
-| Battery | 駆動時間 約7時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1499 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 9、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ（hi-ho、@nifty、DION、OCN）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、B's Recorder GOLD7 BASIC◆、B's CLiP 6◆、Win DVD 5（OEM版）CPRM対応◆、オプティカルディスクドライブ省電力ユーティリティ / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots, 1400×1050 dots, 1600×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots, 1400×1050 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2915ABG / IEEE802.11a/b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3 V: 400 mA, 5 V: 400 mA) |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection technology supported) |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00021 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan: 24 W |
+| Battery | Battery life approx. 7 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1499 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 9, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, NetSelector, SD Utility, WheelPad Utility, Online Sign-up (hi-ho, @nifty, DION, OCN), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, B's Recorder GOLD7 BASIC◆, B's CLiP 6◆, Win DVD 5 (OEM version) CPRM compatible◆, Optical Disc Drive Power Saving Utility / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2EW1AXR_spec.html>
 
@@ -191,30 +191,30 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2EW1AXR_spec.html>
 | Item | Value |
 | :-- | :-- |
 | OS | Microsoft(R)Windows(R) XP Professional with Service Pack 1a |
-| CPU | 低電圧版 インテル(R) Pentium(R) M プロセッサ 1.3 GHz / （システムバスクロック：400 MHz） |
-| Chipset | インテル(R) 855GME チップセット |
-| Memory | 標準256 Mバイト / 最大768 Mバイト (PC2700 / PC2100・DDR SDRAM) |
-| Video memory | 最大64Mバイト（メインメモリーと共用） |
-| Hard disk | 40 Gバイト (Ultra ATA100) |
-| Optical drive | DVD-ROM & CD-R/RWドライブ内蔵 バッファアンダーランエラー防止機能(SmoothLink TM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速(4.7GB)/1倍速(2.6GB)、DVD-R 最大4倍速、DVD-RW 最大4倍速、DVD-ROM 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速 |
-| Optical drive speed / Write | CD-R 最大24倍速、CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW(Ver.1.1)、CD-DA、CD-ROM(XA対応)、Photo CD(マルチセッション対応)、Video CD、CD-EXTRA、CD-R、CD-RW |
+| CPU | Low voltage version Intel(R) Pentium(R) M processor 1.3 GHz / (System bus clock: 400 MHz) |
+| Chipset | Intel(R) 855GME chipset |
+| Memory | Standard 256 Mbytes / maximum 768 Mbytes (PC2700 / PC2100・DDR SDRAM) |
+| Video memory | Max 64MByte (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) |
+| Optical drive | Built-in DVD-ROM & CD-R/RW drive with buffer underrun error prevention function (SmoothLink TM) |
+| Optical drive speed / Read | DVD-RAM 2x (4.7GB)/1x (2.6GB), DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x |
+| Optical drive speed / Write | CD-R max. 24x, CD-RW max. 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1), CD-DA, CD-ROM (XA support), Photo CD (multi-session support), Video CD, CD-EXTRA, CD-R, CD-RW |
 | Supported discs / Write | CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット、1400×1050ドット、1600×1200ドット ：約1677万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、 1400×1050ドット：約1677万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2200BG / IEEE802.11b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3V：400mA、5V：400mA） |
-| Card slots / SD card | SDメモリーカード×1スロット 著作権保護機能にも対応 |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00019 / （社）電子情報技術産業協会 家電・凡用品高調波抑制対策ガイドライン実行計画書に基づく定格入力電力値：24Ｗ |
-| Battery | 駆動時間 約7.5時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1499 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 1、Adobe(R) Acrobat(R) Reader、DMIビューアー、Microsoft(R) Windows Media(TM) Player 9、DirectX 9.0b、Microsoft(R) Windows(R) Movie Maker 2.0、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ◆（hi-ho、@nifty、BIGLOBE、DION、OCN、ODN、AOL）、PC情報ビューアー、B's Recorder GOLD7 BASIC◆、B's CliP 5◆、WinDVD5（OEM版）CPRM対応◆、フォントサイズ拡大ユーティリティ、オプティカルディスクドライブ省電力ユーティリティ、ハードディスクデータ消去ユーティリティ、マカフィー(R)・ウイルススキャン◆、Wireless Manager mobile edition、ハードディスクバックアップユーティリティ |
-| L2 cache | 1 Mバイト |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots, 1400×1050 dots, 1600×1200 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1400×1050 dots: approx. 16.77 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2200BG / IEEE802.11b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3V: 400mA, 5V: 400mA) |
+| Card slots / SD card | SD memory card ×1 slot also supports copyright protection function |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00019 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Home Appliances and General-Purpose Products Harmonic Suppression Measures Guidelines Implementation Plan: 24Ｗ |
+| Battery | Battery life approx. 7.5 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1499 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 1, Adobe(R) Acrobat(R) Reader, DMI Viewer, Microsoft(R) Windows Media(TM) Player 9, DirectX 9.0b, Microsoft(R) Windows(R) Movie Maker 2.0, Net Selector, SD Utility, Wheelpad Utility, Online Signup◆ (hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, AOL), PC Information Viewer, B's Recorder GOLD7 BASIC◆, B's CliP 5◆, WinDVD5 (OEM version) CPRM supported◆, Font Size Enlargement Utility, Optical Disc Drive Power Saving Utility, Hard Disk Data Erase Utility, McAfee(R) Virus Scan◆, Wireless Manager mobile edition, Hard Disk Backup Utility |
+| L2 cache | 1 Mbyte |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2DW1AXR_spec.html>
 
@@ -226,29 +226,29 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2DW1AXR_spec.html>
 | Item | Value |
 | :-- | :-- |
 | OS | Microsoft(R)Windows(R) XP Professional with Service Pack 1a |
-| CPU | 低電圧版 インテル(R) Pentium(R) M プロセッサ 1.2 GHz / （システムバスクロック：400 MHz） |
-| Chipset | インテル(R) 855GME チップセット |
-| Memory | 標準256 MB / 最大512 MB (PC2700 / DDR SDRAM) |
-| Video memory | 最大64MB（メインメモリーと共用） |
+| CPU | Low voltage version Intel(R) Pentium(R) M processor 1.2 GHz / (System bus clock: 400 MHz) |
+| Chipset | Intel(R) 855GME chipset |
+| Memory | Standard 256 MB / maximum 512 MB (PC2700 / DDR SDRAM) |
+| Video memory | Max 64MB (shared with main memory) |
 | Hard disk | 40 GB (Ultra ATA100) |
-| Optical drive | DVD-ROM & CD-R/RWドライブ内蔵 バッファアンダーランエラー防止機能(SmoothLink TM)搭載 |
-| Optical drive speed / Read | DVD-RAM 2倍速(4.7GB)/1倍速(2.6GB)、DVD-R 最大4倍速、DVD-RW 最大4倍速、DVD-ROM 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速 |
-| Optical drive speed / Write | CD-R 最大24倍速、CD-RW 最大16倍速 |
-| Supported discs / Read | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW(Ver.1.1)、CD-DA、CD-ROM(XA対応)、Photo CD(マルチセッション対応)、Video CD、CD-EXTRA、CD-R、CD-RW |
+| Optical drive | Built-in DVD-ROM & CD-R/RW drive with buffer underrun error prevention function (SmoothLink TM) |
+| Optical drive speed / Read | DVD-RAM 2x (4.7GB)/1x (2.6GB), DVD-R max 4x, DVD-RW max 4x, DVD-ROM max 8x, CD-ROM max 24x, CD-R max 24x, CD-RW max 24x |
+| Optical drive speed / Write | CD-R max. 24x, CD-RW max. 16x |
+| Supported discs / Read | DVD-RAM, DVD-ROM, DVD-Video, DVD-R, DVD-RW (Ver.1.1), CD-DA, CD-ROM (XA support), Photo CD (multi-session support), Video CD, CD-EXTRA, CD-R, CD-RW |
 | Supported discs / Write | CD-R、CD-RW |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) （オプション） |
-| Display / LCD colors | 1400×1050ドット：約1600万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット、1400×1050ドット、1600×1200ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、 1400×1050ドット：約1600万色 |
-| Wireless LAN | インテル(R) PRO/Wireless 2200BG / IEEE802.11b/g準拠 (WPA対応、Wi-Fi準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 |
-| Card slots / SD card | SDメモリーカード×1スロット（SD I/O非対応） |
-| Keyboard | OADG準拠キーボード(86キー)：キーピッチ19mm（縦横）（一部キーを除く） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（AC コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・7.05 Ah） |
-| Energy efficiency | S区分 0.00021 |
-| Battery | 駆動時間 約7.5時間 / 充電時間 約5.5時間(電源OFF時)、約5.5時間(電源ON時) |
-| Weight (with battery) | 約1499 g |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 1、Adobe(R) Acrobat(R) Reader、DMIビューアー、Microsoft(R) Windows Media(TM) Player 9、DirectX 9b、Microsoft(R) Windows(R) Movie Maker 2.0、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、オンラインサインアップ◆（hi-ho、@nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL）、PC情報ビューアー、B's Recorder GOLD7 BASIC◆、B's CliP 5、WinDVD5（OEM版）◆、フォントサイズ拡大ユーティリティ、オプティカルディスクドライブ省電力ユーティリティ、ハードディスクデータ消去ユーティリティ、マカフィー(R)・ウイルススキャン◆ |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / LCD colors | 1400×1050 dots: approx. 16 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots, 1400×1050 dots, 1600×1200 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1400×1050 dots: approx. 16 million colors |
+| Wireless LAN | Intel(R) PRO/Wireless 2200BG / IEEE802.11b/g compliant (WPA support, Wi-Fi compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible |
+| Card slots / SD card | SD memory card ×1 slot (SD I/O not supported) |
+| Keyboard | OADG-compliant keyboard (86 keys): key pitch 19mm (vertical/horizontal) (excluding some keys) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (AC cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 7.05 Ah) |
+| Energy efficiency | S classification 0.00021 |
+| Battery | Battery life approx. 7.5 hours / Charging time approx. 5.5 hours (power OFF), approx. 5.5 hours (power ON) |
+| Weight (with battery) | approx. 1499 g |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 1, Adobe(R) Acrobat(R) Reader, DMI viewer, Microsoft(R) Windows Media(TM) Player 9, DirectX 9b, Microsoft(R) Windows(R) Movie Maker 2.0, NetSelector, SD Utility, WheelPad Utility, Online Sign-up◆ (hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL), PC Information Viewer, B's Recorder GOLD7 BASIC◆, B's CliP 5, WinDVD5 (OEM version)◆, Font Size Enlargement Utility, Optical Disc Drive Power Saving Utility, Hard Disk Data Erase Utility, McAfee(R) VirusScan◆ |
 | L2 cache | 1 MB |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2CW4AXR_spec.html>
@@ -271,4 +271,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-Y2CW4AXR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

@@ -12,61 +12,61 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-T4JWSAXR](https://panasonic.jp/pc/p-db/CF-T4JWSAXR_spec.html) | 2006-02 | 2006-04 | Windows® XP Professional 、Pentium M 753(1.2GHz・ULV)、メモリー：512MB（最大1024MB)、HDD：60GB、LAN、無線LAN 802.11a(J52/W52/W53)/b/g、USB2.0 |
-| [CF-T4HW4AXR](https://panasonic.jp/pc/p-db/CF-T4HW4AXR_spec.html) | 2005-10 | 2005-12 | Windows® XP Professional、PentiumM 753(1.2GHz・ULV)、メモリー：512MB（最大1024MB)、HDD：60GB、LAN、無線LAN (802.11a/b/g)、USB2.0 |
-| [CF-T4GW5AXR](https://panasonic.jp/pc/p-db/CF-T4GW5AXR_spec.html) | 2005-05 | 2005-06 | Windows® XP Professional、PentiumM 753(1.2GHz・ULV)、メモリー：512MB（最大1024MB)、HDD：40GB、LAN、無線LAN (802.11a/b/g)、USB2.0 |
+| [CF-T4JWSAXR](https://panasonic.jp/pc/p-db/CF-T4JWSAXR_spec.html) | 2006-02 | 2006-04 | Windows® XP Professional, Pentium M 753(1.2GHz・ULV), Memory: 512MB (max 1024MB), HDD: 60GB, LAN, Wireless LAN 802.11a(J52/W52/W53)/b/g, USB2.0 |
+| [CF-T4HW4AXR](https://panasonic.jp/pc/p-db/CF-T4HW4AXR_spec.html) | 2005-10 | 2005-12 | Windows® XP Professional, PentiumM 753 (1.2GHz・ULV), Memory: 512MB (max 1024MB), HDD: 60GB, LAN, Wireless LAN (802.11a/b/g), USB2.0 |
+| [CF-T4GW5AXR](https://panasonic.jp/pc/p-db/CF-T4GW5AXR_spec.html) | 2005-05 | 2005-06 | Windows® XP Professional, PentiumM 753 (1.2GHz・ULV), Memory: 512MB (max 1024MB), HDD: 40GB, LAN, Wireless LAN (802.11a/b/g), USB2.0 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
-| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 セキュリティ強化機能搭載(NTFSファイルシステム） |
-| Chipset | インテル(R) 915GMS Express チップセット |
-| Memory | 標準512 Mバイト / 最大1024 Mバイト (PC2-3200 / DDR2 SDRAM) |
-| Video memory | 最大128 Mバイト(メインメモリーと共用) |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 Mバイト/1.2 Mバイト/720 Kバイト)（オプション） |
-| Display | XGA (1024×768ドット) 12.1型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1677万色 |
-| Display / External output | 800×600ドット、1024×768ドット、1280×768ドット、1280×1024ドット、1600×1200ドット、2048×1536ドット：約1677万色 |
-| Display / Simultaneous display | 800×600、1024×768ドット：約1677万色 |
-| Modem | データ：56 kbps( V.90 ) / FAX：14.4 kbps/ボイス非対応 |
+| OS | Microsoft(R) Windows(R) XP Professional Service Pack 2 with Enhanced Security Features (NTFS File System) |
+| Chipset | Intel(R) 915GMS Express chipset |
+| Memory | Standard 512 MB / max. 1024 MB (PC2-3200 / DDR2 SDRAM) |
+| Video memory | Maximum 128 MByte (shared with main memory) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display | XGA (1024×768 dots) 12.1-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16.77 million colors |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×768 dots, 1280×1024 dots, 1600×1200 dots, 2048×1536 dots: approx. 16.77 million colors |
+| Display / Simultaneous display | 800×600, 1024×768 dots: approx. 16.77 million colors |
+| Modem | Data: 56 kbps( V.90 ) / FAX: 14.4 kbps/Voice not supported |
 | Wired LAN | 100BASE-TX / 10BASE-T |
-| Audio | PCM音源(16ビットステレオ)、モノラルスピーカー |
-| Security chip | TPM(TCG V1.1b準拠) |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 / 許容電流（3.3 V：400 mA、5V：400 mA） |
-| Card slots / SD card | SDメモリーカード ×1スロット（著作権保護技術対応） |
-| Memory expansion slot | DDR2 172ピン マイクロDIMM専用スロット×1（1.8V/PC2-3200/DDR2 SDRAM） |
-| Ports / Audio | マイク入力( モノラルミニジャック )、オーディオ出力( ステレオミニジャック ) |
-| Ports / USB | USBコネクター×2（ USB2.0×2 ） |
-| Ports / External display | アナログRGBミニDsub 15ピン |
-| Ports / Other | モデムコネクター（RJ-11）、LANコネクター（RJ-45） |
-| Keyboard | OADG準拠キーボード(85キー)：キーピッチ19mm（横）×16mm（縦）（一部キーを除く） |
-| Pointing device | ホイールパッド |
-| Power consumption | 最大約40 W |
-| Energy efficiency | S区分 0.00023 / (社)電子情報技術産業協会 情報処理機器 高調波電流抑制対策実行計画書に基づく定格入力電力値：24 W |
+| Audio | PCM sound source (16-bit stereo), monaural speaker |
+| Security chip | TPM (TCG V1.1b compliant) |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible / allowable current (3.3 V: 400 mA, 5V: 400 mA) |
+| Card slots / SD card | SD memory card ×1 slot (copyright protection technology supported) |
+| Memory expansion slot | DDR2 172-pin MicroDIMM dedicated slot ×1 (1.8V/PC2-3200/DDR2 SDRAM) |
+| Ports / Audio | Microphone input (monaural mini jack), audio output (stereo mini jack) |
+| Ports / USB | USB connector x 2 (USB2.0 x 2) |
+| Ports / External display | Analog RGB mini Dsub 15-pin |
+| Ports / Other | Modem connector (RJ-11), LAN connector (RJ-45) |
+| Keyboard | OADG-compliant keyboard (85 keys): key pitch 19mm (horizontal) × 16mm (vertical) (excluding some keys) |
+| Pointing device | Wheel pad |
+| Power consumption | Max approx. 40 W |
+| Energy efficiency | S classification 0.00023 / Rated input power value based on the Japan Electronics and Information Technology Industries Association Information Processing Equipment Harmonic Current Suppression Measures Implementation Plan: 24 W |
 | Efficiency target achievement | — |
-| Dimensions (excluding protrusions) | 幅268 mm×奥行210.4 mm×高さ24.9 mm／44.3 mm（前部／後部）突起部除く |
+| Dimensions (excluding protrusions) | Width 268 mm×Depth 210.4 mm×Height 24.9 mm/44.3 mm (front/rear) excluding protrusions |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-T4JWSAXR | Pentium M 超低電圧版 753 | 512 MB | 60 GB | 1.26 kg | 12 h |
-| CF-T4HW4AXR | Pentium M 超低電圧版 753 | 512 MB | 60 GB | 1.26 kg | 12 h |
-| CF-T4GW5AXR | Pentium M 超低電圧版 753 | 512 MB | 40 GB | 1.26 kg | 12 h |
+| CF-T4JWSAXR | Pentium M Ultra Low Voltage Edition 753 | 512 MB | 60 GB | 1.26 kg | 12 h |
+| CF-T4HW4AXR | Pentium M Ultra Low Voltage Edition 753 | 512 MB | 60 GB | 1.26 kg | 12 h |
+| CF-T4GW5AXR | Pentium M Ultra Low Voltage Edition 753 | 512 MB | 40 GB | 1.26 kg | 12 h |
 
 <details>
 <summary>CF-T4JWSAXR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) Centrino(R) モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ超低電圧版 753 （2次キャッシュメモリー 2 Mバイト、 動作周波数 1.20 GHz、フロントサイド・バス 400 MHz) |
-| Hard disk | 60 Gバイト (Ultra ATA100)うち約3 Gバイトはリカバリー用データ領域として使用(ユーザー使用不可) |
-| Wireless LAN | インテル(R) PRO / Wireless 2915ABG、 IEEE802.11a（J52/W52/W53）/b/ｇ 準拠、（WPA-AES/TKIP対応、Wi-Fi準拠） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、 / 標準バッテリー：11.1Vリチウムイオン・7.65Ah / 軽量バッテリー：7.4Vリチウムイオン・5.1Ah |
-| Battery | 駆動時間 / 標準バッテリー：約12時間（エコノミーモード(ECO）無効時） / 軽量バッテリー：約5時間（エコノミーモード(ECO）無効時） / 充電時間 / 標準バッテリー：約5時間(電源オフ時)、約7時間(電源オン時) / 軽量バッテリー：約4時間(電源オフ時/電源オン時) |
-| Weight (with battery) | 標準バッテリー：約1260 g（バッテリー含む） / 軽量バッテリー：約1040 g（バッテリー含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R).NET Framework 1.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、Hotkey設定、gooスティック、セットアップユーティリティ、オンラインサインアップ（hi-ho、DION）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition2.0、PC-Diagnosticユーティリティ、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、エコノミーモード(ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Infineon TPM Professional Package V1.7 SP4 / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| CPU | Intel(R) Centrino(R) Mobile Technology / Intel(R) Pentium(R) M processor Ultra Low Voltage 753 (2nd-level cache memory 2 MB, operating frequency 1.20 GHz, front side bus 400 MHz) |
+| Hard disk | 60 GB (Ultra ATA100) of which approx. 3 GB is used as recovery data area (user unavailable) |
+| Wireless LAN | Intel(R) PRO / Wireless 2915ABG, IEEE802.11a (J52/W52/W53)/b/g compliant, (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), / Standard battery: 11.1V lithium-ion, 7.65Ah / Lightweight battery: 7.4V lithium-ion, 5.1Ah |
+| Battery | Runtime / Standard battery: approx. 12 hours (when Economy Mode (ECO) disabled) / Lightweight battery: approx. 5 hours (when Economy Mode (ECO) disabled) / Charging time / Standard battery: approx. 5 hours (when power off), approx. 7 hours (when power on) / Lightweight battery: approx. 4 hours (when power off / when power on) |
+| Weight (with battery) | Standard battery: approx. 1260 g (including battery) / Lightweight battery: approx. 1040 g (including battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 10, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, Microsoft(R).NET Framework 1.1, NetSelector, SD Utility, WheelPad Utility, Hotkey Settings, goo Stick, Setup Utility, Online Sign-up (hi-ho, DION), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition 2.0, PC-Diagnostic Utility, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, Economy Mode (ECO) Switching Utility, Power Saving Settings Utility, Battery Remaining Charge Display Correction Utility, Infineon TPM Professional Package V1.7 SP4 / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4JWSAXR_spec.html>
 
@@ -77,13 +77,13 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4JWSAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ超低電圧版 753 （2次キャッシュメモリー 2 Mバイト、 動作周波数 1.20 GHz、フロントサイド・バス 400 MHz) |
-| Hard disk | 60 Gバイト (Ultra ATA100)うち約3 Gバイトはリカバリー用データ領域として使用(ユーザー使用不可) |
-| Wireless LAN | インテル(R) PRO / Wireless 2915ABG、 IEEE802.11a（J52/W52/W53）/b/ｇ 準拠、（WPA-AES/TKIP対応、Wi-Fi準拠） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（11.1 Vリチウムイオン・7.65 Ah） |
-| Battery | 駆動時間 約12時間 （エコノミーモード(ECO）無効時） / 充電時間約5時間(電源オフ時)、約7時間(電源オン時) |
-| Weight (with battery) | 約1260 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R).NET Framework 1.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、Hotkey設定、gooスティック、セットアップユーティリティ、オンラインサインアップ（hi-ho、DION）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition2.0、PC-Diagnosticユーティリティ、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、エコノミーモード(ECO）切り替えユーティリティ、省電力設定ユーティリティ、バッテリー残量表示補正ユーティリティ、Infineon TPM Professional Package V1.7 SP4 / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Ultra Low Voltage 753 (2nd-level cache memory 2 MB, operating frequency 1.20 GHz, front side bus 400 MHz) |
+| Hard disk | 60 GB (Ultra ATA100) of which approx. 3 GB is used as recovery data area (user unavailable) |
+| Wireless LAN | Intel(R) PRO / Wireless 2915ABG, IEEE802.11a (J52/W52/W53)/b/g compliant, (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (11.1 V lithium-ion, 7.65 Ah) |
+| Battery | Runtime approx. 12 hours (when Economy Mode (ECO) disabled) / Charging time approx. 5 hours (when power off), approx. 7 hours (when power on) |
+| Weight (with battery) | approx. 1260 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 10, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, Microsoft(R).NET Framework 1.1, NetSelector, SD Utility, WheelPad Utility, Hotkey Settings, goo Stick, Setup Utility, Online Sign-up (hi-ho, DION), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition 2.0, PC-Diagnostic Utility, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, Economy Mode (ECO) Switching Utility, Power Saving Settings Utility, Battery Remaining Charge Display Correction Utility, Infineon TPM Professional Package V1.7 SP4 / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4HW4AXR_spec.html>
 
@@ -94,13 +94,13 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4HW4AXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | インテル(R) CentrinoTM モバイル・テクノロジ / インテル(R) Pentium(R) M プロセッサ超低電圧版 753 （2次キャッシュメモリー 2 Mバイト、 動作周波数 1.20 GHz、フロントサイド・バス 400 MHz) |
-| Hard disk | 40 Gバイト (Ultra ATA100)うち約3 Gバイトはリカバリー用データ領域として使用(ユーザー使用不可) |
-| Wireless LAN | インテル(R) PRO / Wireless 2915ABG、 IEEE802.11a/b/ｇ 準拠、（WPA-AES/TKIP対応、Wi-Fi準拠） |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（電源コードは100 V専用）、標準バッテリーパック（11.1 Vリチウムイオン・7.65 Ah） |
-| Battery | 駆動時間 約12時間 （エコノミーモード(ECO）無効時） / 充電時間約5時間(電源オフ時)、約7時間(電源オン時) |
-| Weight (with battery) | 約1260 g（標準バッテリーを含む） |
-| Software | Microsoft(R) Internet Explorer 6 Service Pack 2、Adobe(R) Reader、DMIビューアー、Microsoft(R) Windows(R) MediaTM Player 10、DirectX 9.0c、Microsoft(R) Windows(R) Movie Maker 2.1、Microsoft(R).NET Framework 1.1、ネットセレクター、SDユーティリティ、ホイールパッドユーティリティ、Hotkey設定、gooスティック、セットアップユーティリティ、各種プロバイダーオンラインサインアップ（hi-ho、DION、OCN）、フォントサイズ拡大ユーティリティ、ズームビューアー、PC情報ビューアー、NumLockお知らせ、ハードディスクデータ消去ユーティリティ、Wireless Manager mobile edition2.0、マカフィー(R)・ウイルススキャン◆、無線LAN切り替えユーティリティ、エコノミーモード(ECO）切り替えユーティリティ、バッテリー残量表示補正ユーティリティ、Infinion TPM Professional Package V1.7 SP3 / ※ ワープロ、表計算等のアプリケーションソフトは導入されておりません。 |
+| CPU | Intel(R) CentrinoTM Mobile Technology / Intel(R) Pentium(R) M processor Ultra Low Voltage 753 (2nd-level cache memory 2 MB, operating frequency 1.20 GHz, front side bus 400 MHz) |
+| Hard disk | 40 GB (Ultra ATA100) of which approx. 3 GB is used as recovery data area (user unavailable) |
+| Wireless LAN | Intel(R) PRO / Wireless 2915ABG, IEEE802.11a/b/g compliant, (WPA-AES/TKIP support, Wi-Fi compliant) |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (Power cord is for 100 V only), Standard battery pack (11.1 V lithium-ion, 7.65 Ah) |
+| Battery | Runtime approx. 12 hours (when Economy Mode (ECO) disabled) / Charging time approx. 5 hours (when power off), approx. 7 hours (when power on) |
+| Weight (with battery) | approx. 1260 g (including standard battery) |
+| Software | Microsoft(R) Internet Explorer 6 Service Pack 2, Adobe(R) Reader, DMI viewer, Microsoft(R) Windows(R) MediaTM Player 10, DirectX 9.0c, Microsoft(R) Windows(R) Movie Maker 2.1, Microsoft(R).NET Framework 1.1, NetSelector, SD Utility, WheelPad Utility, Hotkey Settings, goo Stick, Setup Utility, Various Provider Online Sign-up (hi-ho, DION, OCN), Font Size Enlargement Utility, Zoom Viewer, PC Information Viewer, NumLock Notification, Hard Disk Data Erase Utility, Wireless Manager mobile edition 2.0, McAfee(R) VirusScan◆, Wireless LAN Switching Utility, Economy Mode (ECO) Switching Utility, Battery Remaining Charge Display Correction Utility, Infinion TPM Professional Package V1.7 SP3 / * Word processing, spreadsheet and other application software is not installed. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4GW5AXR_spec.html>
 
@@ -118,4 +118,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T4GW5AXR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

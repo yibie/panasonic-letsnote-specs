@@ -12,12 +12,12 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-T1PCAXR](https://panasonic.jp/pc/p-db/CF-T1PCAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional、PentiumIII-M(933MHz・ULV）、メモリー：256MB（最大512MB）、HDD：40GB、LAN、USB2.0 |
-| [CF-T1PWAXR](https://panasonic.jp/pc/p-db/CF-T1PWAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional、PentiumIII-M(933MHz・ULV）、メモリー：256MB（最大512MB）、HDD：40GB、LAN、無線LAN (802.11b)、USB2.0 |
-| [CF-T1PDAXR](https://panasonic.jp/pc/p-db/CF-T1PDAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional、PentiumIII-M(933MHz・ULV）、メモリー：128MB（最大384MB）、HDD：20GB、LAN、USB2.0、＜999gモデル＞ |
-| [CF-T1RCAXR](https://panasonic.jp/pc/p-db/CF-T1RCAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional、PentiumIII-M(866MHz・ULV）、メモリー：256MB（最大512MB）、HDD：40GB、LAN、USB2.0 |
-| [CF-T1RWAXR](https://panasonic.jp/pc/p-db/CF-T1RWAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional、PentiumIII-M(866MHz・ULV）、メモリー：256MB（最大512MB）、HDD：40GB、LAN、無線LAN (802.11b)、USB2.0 |
-| [CF-T1RDAXR](https://panasonic.jp/pc/p-db/CF-T1RDAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional、PentiumIII-M(866MHz・ULV）、メモリー：128MB（最大384MB）、HDD：20GB、LAN、USB2.0、＜999gモデル＞ |
+| [CF-T1PCAXR](https://panasonic.jp/pc/p-db/CF-T1PCAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional, PentiumIII-M (933MHz・ULV), Memory: 256MB (max 512MB), HDD: 40GB, LAN, USB2.0 |
+| [CF-T1PWAXR](https://panasonic.jp/pc/p-db/CF-T1PWAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional, PentiumIII-M (933MHz・ULV), Memory: 256MB (max 512MB), HDD: 40GB, LAN, Wireless LAN (802.11b), USB2.0 |
+| [CF-T1PDAXR](https://panasonic.jp/pc/p-db/CF-T1PDAXR_spec.html) | 2003-02 | 2003-02 | Windows® XP Professional, PentiumIII-M (933MHz・ULV), Memory: 128MB (max 384MB), HDD: 20GB, LAN, USB2.0, <999g model> |
+| [CF-T1RCAXR](https://panasonic.jp/pc/p-db/CF-T1RCAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional, PentiumIII-M (866MHz・ULV), Memory: 256MB (max 512MB), HDD: 40GB, LAN, USB2.0 |
+| [CF-T1RWAXR](https://panasonic.jp/pc/p-db/CF-T1RWAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional, PentiumIII-M (866MHz・ULV), Memory: 256MB (max 512MB), HDD: 40GB, LAN, Wireless LAN (802.11b), USB2.0 |
+| [CF-T1RDAXR](https://panasonic.jp/pc/p-db/CF-T1RDAXR_spec.html) | 2002-11 | 2003-03 | Windows® XP Professional, PentiumIII-M (866MHz・ULV), Memory: 128MB (max 384MB), HDD: 20GB, LAN, USB2.0, <999g model> |
 
 ## Common specifications
 
@@ -25,52 +25,52 @@
 | :-- | :-- |
 | Chipset | Intel(R) 830 MG Chipset |
 | L2 cache | 512 KB |
-| Display | XGA(1024×768ドット)12.1型TFTカラー液晶 |
-| Display / LCD colors | 1024×768ドット：約1600万色 |
-| Modem | データ：56 kbps(V.90 / k56flex自動対応) / FAX：14.4 kbps/ボイス非対応 |
+| Display | XGA (1024×768 dots) 12.1-inch TFT color LCD |
+| Display / LCD colors | 1024×768 dots: approx. 16 million colors |
+| Modem | Data: 56 kbps(V.90 / k56flex auto-compatible) / FAX: 14.4 kbps/Voice not supported |
 | Wired LAN | 100BASE-TX / 10BASE-T |
-| Audio | PCM音源(16ビットステレオ)、モノラルスピーカー |
-| Card slots / PC Card | PCカード(TYPE II)×1スロット CardBus対応 |
-| Card slots / SD card | SDメモリーカード/マルチメディアカード×1スロット |
-| Memory expansion slot | 144ピンマイクロDIMM専用スロット×1(256 MB PC133) |
-| Ports / Audio | マイク入力(モノラルミニジャック)、オーディオ出力(ステレオミニジャック) |
-| Ports / USB | USBコネクター×2（USB2.0） |
-| Ports / External display | アナログRGBミニDsub15ピン |
-| Ports / Other | モデムコネクター、LANコネクター（RJ-45） |
-| Keyboard | OADG準拠キーボード(87キー)：キーピッチ19mm |
-| Pointing device | ホイールパッド |
-| Power | AC100 V～240 V（50 Hz/60 Hz）（AC コードは100 V専用）、標準バッテリーパック（7.4 Vリチウムイオン・4.4 Ah） |
-| Power consumption | 最大約40 W |
-| Dimensions (W×D×H) | 幅268 mm×奥行210 mm×高さ26.1 mm／39.1 mm（前部／後部）突起部除く |
+| Audio | PCM sound source (16-bit stereo), monaural speaker |
+| Card slots / PC Card | PC card (TYPE II) ×1 slot CardBus compatible |
+| Card slots / SD card | SD memory card/multimedia card ×1 slot |
+| Memory expansion slot | 144-pin micro DIMM dedicated slot ×1 (256 MB PC133) |
+| Ports / Audio | Microphone input (monaural mini jack), audio output (stereo mini jack) |
+| Ports / USB | USB connector ×2 (USB2.0) |
+| Ports / External display | Analog RGB mini Dsub 15-pin |
+| Ports / Other | Modem connector, LAN connector (RJ-45) |
+| Keyboard | OADG-compliant keyboard (87 keys): key pitch 19mm |
+| Pointing device | Wheel pad |
+| Power | AC100 V-240 V (50 Hz/60 Hz) (AC cord is for 100 V only), Standard battery pack (7.4 V lithium-ion, 4.4 Ah) |
+| Power consumption | Max approx. 40 W |
+| Dimensions (W×D×H) | Width 268 mm×Depth 210 mm×Height 26.1 mm/39.1 mm (front/rear) excluding protrusions |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-T1PCAXR | 超低電圧版Pentium III 933 MHz -M | 256 MB SDRAM | 40 GB | 1.045 kg | 5 h |
-| CF-T1PWAXR | 超低電圧版Pentium III 933 MHz -M | 256 MB SDRAM | 40 GB | 1.07 kg | 4 h |
-| CF-T1PDAXR | 超低電圧版Pentium III 933 MHz -M | 128 MB SDRAM | 20 GB | 1.045 kg | 5 h |
-| CF-T1RCAXR | 超低電圧版Pentium III 866 MHz -M | 256 MB SDRAM | 40 GB | 1.045 kg | 5 h |
-| CF-T1RWAXR | 超低電圧版Pentium III 866 MHz -M | 256 MB SDRAM | 40 GB | 1.07 kg | 4 h |
-| CF-T1RDAXR | 超低電圧版Pentium III 866 MHz -M | 128 MB SDRAM | 20 GB | 0.999 kg | 5 h |
+| CF-T1PCAXR | Ultra-low voltage version Pentium III 933 MHz -M | 256 MB SDRAM | 40 GB | 1.045 kg | 5 h |
+| CF-T1PWAXR | Ultra-low voltage version Pentium III 933 MHz -M | 256 MB SDRAM | 40 GB | 1.07 kg | 4 h |
+| CF-T1PDAXR | Ultra-low voltage version Pentium III 933 MHz -M | 128 MB SDRAM | 20 GB | 1.045 kg | 5 h |
+| CF-T1RCAXR | Ultra-low voltage version Pentium III 866 MHz -M | 256 MB SDRAM | 40 GB | 1.045 kg | 5 h |
+| CF-T1RWAXR | Ultra-low voltage version Pentium III 866 MHz -M | 256 MB SDRAM | 40 GB | 1.07 kg | 4 h |
+| CF-T1RDAXR | Ultra-low voltage version Pentium III 866 MHz -M | 128 MB SDRAM | 20 GB | 0.999 kg | 5 h |
 
 <details>
 <summary>CF-T1PCAXR: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 933 MHz -M(Intel SpeedStep(R) テクノロジを搭載)(システムバスクロック：133 MHz) |
-| Memory | 標準256 MB SDRAM(最大512 MB) |
-| Video memory | 最大48MB（メインメモリーと共用） |
-| Hard disk | 40 GB (Ultra ATA100) うち約3GBはリカバリー用データ領域として使用(ユーザ使用不可) |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB)（オプション） |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Energy efficiency | S区分 0.00033 |
-| Battery | 駆動時間 約5時間 / 充電時間 約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約1045 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆(hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL)、ハードディスクデータ消去ユーティリティ |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※21 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 933 MHz -M(equipped with Intel SpeedStep(R) Technology)(system bus clock: 133 MHz) |
+| Memory | Standard 256 MB SDRAM (maximum 512 MB) |
+| Video memory | Max 48MB (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) of which approx. 3GB is used as recovery data area (user unavailable) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00033 |
+| Battery | Runtime approx. 5 hours / Charging time approx. 3 hours (when power OFF), approx. 3 hours (when power ON) |
+| Weight (with battery) | Approx. 1045 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL), Hard Disk Data Erase Utility |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *21 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PCAXR_spec.html>
 
@@ -81,19 +81,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PCAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 933 MHz -M (Intel SpeedStep(R) テクノロジを搭載)（システムバスクロック：133 MHz） |
-| Memory | 標準256 MB SDRAM(最大512 MB) |
-| Video memory | 最大48MB（メインメモリーと共用） |
-| Hard disk | 40 GB (Ultra ATA100)うち約3GBはリカバリー用データ領域として使用（ユーザ使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) （オプション） |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット：約1600万色 |
-| Energy efficiency | S区分 0.00033 |
-| Battery | 駆動時間約4時間30分 / 充電時間約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約1070 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆(hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL)、ハードディスクデータ消去ユーティリティ |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※21 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
-| Wireless LAN | 内蔵 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 933 MHz -M (equipped with Intel SpeedStep(R) Technology) (system bus clock: 133 MHz) |
+| Memory | Standard 256 MB SDRAM (maximum 512 MB) |
+| Video memory | Max 48MB (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) of which approx. 3GB is used as recovery data area (user unavailable) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00033 |
+| Battery | Battery life approx. 4 hours 30 minutes / Charging time approx. 3 hours (power OFF), approx. 3 hours (power ON) |
+| Weight (with battery) | Approx. 1070 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL), Hard Disk Data Erase Utility |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *21 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
+| Wireless LAN | Built-in |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PWAXR_spec.html>
 
@@ -104,18 +104,18 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PWAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 933 MHz -M (Intel SpeedStep(R) テクノロジを搭載)(システムバスクロック：133 MHzc |
-| Memory | 標準128 MB SDRAM(最大384 MB) |
-| Video memory | 最大32MB（メインメモリーと共用） |
-| Hard disk | 20 GB (Ultra ATA100) うち約3GBはリカバリー用データ領域として使用（ユーザ使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB)（オプション） |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Energy efficiency | S区分 0.00033 |
-| Battery | 駆動時間 約5時間 / 充電時間 約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約1045 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆(hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL)、ハードディスクデータ消去ユーティリティ |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※21 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 933 MHz -M (equipped with Intel SpeedStep(R) Technology)(system bus clock: 133 MHzc |
+| Memory | Standard 128 MB SDRAM (max. 384 MB) |
+| Video memory | Max. 32MB (shared with main memory) |
+| Hard disk | 20 GB (Ultra ATA100) Of which approx. 3GB is used as a recovery data area (unavailable to the user) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00033 |
+| Battery | Runtime approx. 5 hours / Charging time approx. 3 hours (when power OFF), approx. 3 hours (when power ON) |
+| Weight (with battery) | Approx. 1045 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL), Hard Disk Data Erase Utility |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *21 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PDAXR_spec.html>
 
@@ -126,18 +126,18 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1PDAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 866 MHz -M (Intel SpeedStep(R) テクノロジを搭載)（システムバスクロック：133 MHz） |
-| Memory | 標準256 MB SDRAM(最大512 MB) |
-| Video memory | 最大48MB（メインメモリーを共用） |
-| Hard disk | 40 GB (Ultra ATA100) うち約3GBはリカバリー用データ領域として使用（ユーザ使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB)（オプション） |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Energy efficiency | S区分 0.00036 |
-| Battery | 駆動時間 約5時間 / 充電時間 約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約1045 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆（hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL） |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※20 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 866 MHz -M (equipped with Intel SpeedStep(R) Technology) (system bus clock: 133 MHz) |
+| Memory | Standard 256 MB SDRAM (maximum 512 MB) |
+| Video memory | Max 48MB (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) of which approx. 3GB is used as recovery data area (user unavailable) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00036 |
+| Battery | Runtime approx. 5 hours / Charging time approx. 3 hours (when power OFF), approx. 3 hours (when power ON) |
+| Weight (with battery) | Approx. 1045 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL) |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *20 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RCAXR_spec.html>
 
@@ -148,19 +148,19 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RCAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 866 MHz -M (Intel SpeedStep(R) テクノロジを搭載)（システムバスクロック：133 MHz） |
-| Memory | 標準256 MB SDRAM(最大512 MB) |
-| Video memory | 最大48MB（メインメモリーを共用） |
-| Hard disk | 40 GB (Ultra ATA100) うち約3GBはリカバリー用データ領域として使用（ユーザ使用不可） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) （オプション） |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Energy efficiency | S区分 0.00036 |
-| Battery | 駆動時間 約4時間30分 / 充電時間 約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約1070 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆（hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL） |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※20 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
-| Wireless LAN | 内蔵 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 866 MHz -M (equipped with Intel SpeedStep(R) Technology) (system bus clock: 133 MHz) |
+| Memory | Standard 256 MB SDRAM (maximum 512 MB) |
+| Video memory | Max 48MB (shared with main memory) |
+| Hard disk | 40 GB (Ultra ATA100) of which approx. 3GB is used as recovery data area (user unavailable) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) (optional) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00036 |
+| Battery | Runtime approx. 4 hours 30 minutes / Charging time approx. 3 hours (when power OFF), approx. 3 hours (when power ON) |
+| Weight (with battery) | Approx. 1070 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL) |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *20 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
+| Wireless LAN | Built-in |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RWAXR_spec.html>
 
@@ -171,18 +171,18 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RWAXR_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | 超低電圧版モバイル インテル(R) Pentium(R) III プロセッサ 866 MHz -M (Intel SpeedStep(R) テクノロジを搭載)（システムバスクロック：133 MHz） |
-| Memory | 標準128 MB SDRAM(最大384 MB) |
-| Video memory | 最大32MB（メインメモリーを共用） |
-| Hard disk | 20 GB (Ultra ATA100) うち約3GBはリカバリー用データ領域として使用（ユーザ使用不可）（オプション） |
-| Floppy drive (optional) | USB接続外付3.5型3モード対応(1.44 MB/1.2 MB/720 KB) |
-| Display / External output | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Display / Simultaneous display | 800×600ドット、1024×768ドット、1280×1024ドット ：約1600万色 |
-| Energy efficiency | S区分 0.00036 |
-| Battery | 駆動時間 約5時間 / 充電時間 約3時間(電源OFF時)、約3時間(電源ON時) |
-| Weight (with battery) | 約999 g |
-| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1、Microsoft(R)Internet Explorer6、Adobe(R) Acrobat(R) Reader、CN-Stage、Panasonic PC オンラインメンバー登録、DMIビューアー、ネットセレクター、SDユーティリティ、Microsoft(R) Windows(R) MediaTM Player 8、DirectX 8、ホイールパッドユーティリティ、オンラインサインアップ◆（hi-ho、＠nifty、BIGLOBE、DION、OCN、ODN、ドコモAOL） |
-| Notes | 既存のインテル低電圧版に比べて、さらに電圧レベルを低下（バッテリー駆動時0.95V） / ※20 本製品はシステムの再インストールに必要なリカバリーデータをハードディスク中にバックアップしています。そのためプロダクトリカバリーCD-ROMは付属しておりません。 / ＊一般的にWindows XP、DOS/V用等と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ◆印のソフトウェアの操作に関するサポートは、各メーカーで行っております。 / PC起動時に外部FDDを使用する際、推奨外部FDD（CF-VFDU03J）をご使用ください。 |
+| CPU | Ultra-low voltage mobile Intel(R) Pentium(R) III processor 866 MHz -M (equipped with Intel SpeedStep(R) Technology) (system bus clock: 133 MHz) |
+| Memory | Standard 128 MB SDRAM (max. 384 MB) |
+| Video memory | Max. 32MB (shared with main memory) |
+| Hard disk | 20 GB (Ultra ATA100), of which approx. 3 GB is used as recovery data area (not available to user) (Optional) |
+| Floppy drive (optional) | USB-connected external 3.5-inch 3-mode supported (1.44 MB/1.2 MB/720 KB) |
+| Display / External output | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Display / Simultaneous display | 800×600 dots, 1024×768 dots, 1280×1024 dots: approx. 16 million colors |
+| Energy efficiency | S classification 0.00036 |
+| Battery | Runtime approx. 5 hours / Charging time approx. 3 hours (when power OFF), approx. 3 hours (when power ON) |
+| Weight (with battery) | Approx. 999 g |
+| Software | Microsoft(R)Windows(R) XP Professional with Service Pack1, Microsoft(R)Internet Explorer6, Adobe(R) Acrobat(R) Reader, CN-Stage, Panasonic PC Online Member Registration, DMI Viewer, Net Selector, SD Utility, Microsoft(R) Windows(R) MediaTM Player 8, DirectX 8, Wheel Pad Utility, Online Sign-up◆(hi-ho, @nifty, BIGLOBE, DION, OCN, ODN, docomo AOL) |
+| Notes | Compared with existing Intel low-voltage versions, the voltage level is further reduced (0.95V during battery operation) / *20 This product backs up the recovery data necessary for system reinstallation on the hard disk. Therefore, a product recovery CD-ROM is not included. / *In general, some software and peripherals labeled as for Windows XP, DOS/V, etc. cannot be used with this computer. Regarding purchase, please check with the seller of each software and peripheral. / Support for operation of software marked with ◆ is provided by each manufacturer. / When using an external FDD at PC startup, please use the recommended external FDD (CF-VFDU03J). |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RDAXR_spec.html>
 
@@ -194,4 +194,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-T1RDAXR_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

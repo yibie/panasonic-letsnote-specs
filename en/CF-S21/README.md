@@ -12,65 +12,65 @@
 
 | Part number | Released | Discontinued | Summary |
 | :-- | :-- | :-- | :-- |
-| [CF-S21EJ8](https://panasonic.jp/pc/p-db/CF-S21EJ8_spec.html) | 1998-09 | 1998-12 | MMX Pentium(233MHz)、HDD：4.3GB、メモリー96MB、Windows 98 |
-| [CF-S21EJ81](https://panasonic.jp/pc/p-db/CF-S21EJ81_spec.html) | 1998-09 | 1998-12 | MMX Pentium(233MHz)、HDD：4.3GB、メモリー96MB、Windows 98、Excel&Word |
-| [CF-S21J8](https://panasonic.jp/pc/p-db/CF-S21J8_spec.html) | 1998-07 | 1998-08 | MMX Pentium(200MHz)、HDD：3.2GB、メモリー96MB、Windows 98 |
-| [CF-S21J8-N](https://panasonic.jp/pc/p-db/CF-S21J8-N_spec.html) | 1998-07 | 1998-08 | CF-S21J8のシャンペンゴールドモデル |
-| [CF-S21J5](https://panasonic.jp/pc/p-db/CF-S21J5_spec.html) | 1998-06 | 1999-09 | MMX Pentium(200MHz)、HDD：3.2GB、メモリー96MB、Windows 95 |
+| [CF-S21EJ8](https://panasonic.jp/pc/p-db/CF-S21EJ8_spec.html) | 1998-09 | 1998-12 | MMX Pentium (233MHz), HDD: 4.3GB, memory 96MB, Windows 98 |
+| [CF-S21EJ81](https://panasonic.jp/pc/p-db/CF-S21EJ81_spec.html) | 1998-09 | 1998-12 | MMX Pentium (233MHz), HDD: 4.3GB, memory 96MB, Windows 98, Excel&Word |
+| [CF-S21J8](https://panasonic.jp/pc/p-db/CF-S21J8_spec.html) | 1998-07 | 1998-08 | MMX Pentium (200MHz), HDD: 3.2GB, memory 96MB, Windows 98 |
+| [CF-S21J8-N](https://panasonic.jp/pc/p-db/CF-S21J8-N_spec.html) | 1998-07 | 1998-08 | Champagne gold model of CF-S21J8 |
+| [CF-S21J5](https://panasonic.jp/pc/p-db/CF-S21J5_spec.html) | 1998-06 | 1999-09 | MMX Pentium (200MHz), HDD: 3.2GB, memory 96MB, Windows 95 |
 
 ## Common specifications
 
 | Item | Value |
 | :-- | :-- |
 | Chipset | Intel(R) 430TX PCI set |
-| Memory | 標準 96MB EDO (最大 96MB) |
+| Memory | Standard 96MB EDO (max. 96MB) |
 | L2 cache | 256KB |
 | Video memory | 2MB |
-| Graphics chip | NeoMagic社製NM2160 |
+| Graphics chip | NeoMagic NM2160 |
 | Hard disk | 3.2GB (UltraATA) ※1 |
-| Floppy drive (optional) | 外付け 3.5型 3モード対応 (1.44MB /1.2MB /720KB) |
-| Display | SVGA(800×600ドット) 10.4型 TFTカラー液晶 |
-| Display / LCD colors | 800×600ドット 約26万色 |
-| Display / External output | 640×480、800×600ドット:約1600万色、1024×768ドット:65,536色 |
-| Display / Simultaneous display | 本体 800×600ドット:約26万色 / 外部ディスプレイ 800×600ドット:約1600万色 |
-| Audio | PCM音源(Sound Blaster PRO互換)、FM音源、モノラルスピーカー、モノラルマイク内蔵 |
-| PC Card slot | PCカード(TypeII×2 または TypeIII×1スロット)、CardBus対応 ※2、ZV-Port対応 ※2 |
-| Memory expansion slot | 144ピンDIMM専用スロット×1 / (64MB増設済みのため空きスロットなし) |
-| Ports / Audio | マイク入力(ミニジャック)、オーディオ出力(ミニジャック) |
-| Ports / USB | 4ピン |
-| Ports / Serial | Dsub 9ピン |
-| Ports / Parallel | Dsub 25ピン |
-| Ports / External display | アナログRGB ミニDsub 15ピン |
-| Ports / Mouse / keyboard | ミニDin 6ピン |
-| Ports / Infrared | IrDA V1.1準拠4Mbps／ASK準拠 ※3 |
-| Ports / Other | FDD専用コネクター |
-| Keyboard | OADG準拠キーボード (88キー)、キーピッチ 17mm |
-| Pointing device | 光学式トラックボール(直径16mm) |
-| Power | AC 100V-240V (50Hz/60Hz)(ACコードは100V専用)、 / バッテリーパック(リチウムイオン) |
-| Power consumption | 約28W |
-| Battery | 駆動:約5.0時間 ※5 充電:約3.0時間(電源OFF時)、約10時間(電源ON時)※6 |
-| Dimensions (W×D×H) | 255mm × 192mm × 32.6mm (突起部除く) |
-| Weight (with battery) | 約1.45kg |
+| Floppy drive (optional) | External 3.5-inch 3-mode support (1.44MB /1.2MB /720KB) |
+| Display | SVGA (800×600 dots) 10.4-inch TFT color LCD |
+| Display / LCD colors | 800×600 dots approx. 260,000 colors |
+| Display / External output | 640×480, 800×600 dots: approx. 16 million colors, 1024×768 dots: 65,536 colors |
+| Display / Simultaneous display | Main unit 800×600 dots: approx. 260,000 colors / External display 800×600 dots: approx. 16 million colors |
+| Audio | PCM sound source (Sound Blaster PRO compatible), FM sound source, monaural speaker, built-in monaural microphone |
+| PC Card slot | PC card (TypeII×2 or TypeIII×1 slot), CardBus compatible *2, ZV-Port compatible *2 |
+| Memory expansion slot | 144-pin DIMM dedicated slot ×1 / (No free slot because 64MB has been added) |
+| Ports / Audio | Microphone input (mini jack), audio output (mini jack) |
+| Ports / USB | 4-pin |
+| Ports / Serial | Dsub 9-pin |
+| Ports / Parallel | Dsub 25-pin |
+| Ports / External display | Analog RGB mini Dsub 15-pin |
+| Ports / Mouse / keyboard | Mini Din 6-pin |
+| Ports / Infrared | IrDA V1.1-compliant 4Mbps / ASK-compliant *3 |
+| Ports / Other | FDD dedicated connector |
+| Keyboard | OADG-compliant keyboard (88 keys), key pitch 17mm |
+| Pointing device | Optical trackball (diameter 16mm) |
+| Power | AC 100V-240V (50Hz/60Hz) (AC cord is for 100V only), / Battery pack (lithium-ion) |
+| Power consumption | approx. 28W |
+| Battery | Runtime: approx. 5.0 hours *5 Charging: approx. 3.0 hours (when power OFF), approx. 10 hours (when power ON) *6 |
+| Dimensions (W×D×H) | 255mm × 192mm × 32.6mm (excluding protrusions) |
+| Weight (with battery) | Approx. 1.45kg |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-S21EJ8 | MMXテクノロジ Pentium 233MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
-| CF-S21EJ81 | MMXテクノロジ Pentium 233MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
-| CF-S21J8 | MMXテクノロジ Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
-| CF-S21J8-N | MMXテクノロジ Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
-| CF-S21J5 | MMXテクノロジ Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
+| CF-S21EJ8 | MMX Technology Pentium 233MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
+| CF-S21EJ81 | MMX Technology Pentium 233MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
+| CF-S21J8 | MMX Technology Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
+| CF-S21J8-N | MMX Technology Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
+| CF-S21J5 | MMX Technology Pentium 200MHz | 96MB EDO | 3.2GB | 1.45 kg | 5.0 h |
 
 <details>
 <summary>CF-S21EJ8: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 233MHz |
-| Energy efficiency | スタンバイモード時 : 約0.9W ※4 |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) IME 98、 / NIFTY Manager for Windows ◆、 / Mouse Ware、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定、LCDバックライト省電力時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 233MHz |
+| Energy efficiency | In standby mode: approx. 0.9W *4 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) IME 98, / NIFTY Manager for Windows ◆, / Mouse Ware, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set and the LCD backlight is in power-saving state. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 98. / ● Some software and peripheral devices generally labeled for Windows 98 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21EJ8_spec.html>
 
@@ -81,10 +81,10 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21EJ8_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 233MHz |
-| Energy efficiency | スタンバイモード時 : 約0.9W ※4 |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) IME 98、 / Microsoft(R) Excel 97 for Windows ◆、 / Microsoft(R) Word 98 for Windows ◆、 / Microsoft(R) Outlook(TM) 98 for Windows ◆、 / Microsoft(R)/Shogakukan Bookshelf(R) Basic ◆※7、 / NIFTY Manager for Windows ◆、 / Mouse Ware、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定、LCDバックライト省電力時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ※7 CD-ROM添付のみ。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 233MHz |
+| Energy efficiency | In standby mode: approx. 0.9W *4 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) IME 98, / Microsoft(R) Excel 97 for Windows ◆, / Microsoft(R) Word 98 for Windows ◆, / Microsoft(R) Outlook(TM) 98 for Windows ◆, / Microsoft(R)/Shogakukan Bookshelf(R) Basic ◆*7, / NIFTY Manager for Windows ◆, / Mouse Ware, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set and the LCD backlight is in power-saving state. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ※7 CD-ROM attachment only. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 98. / ● Some software and peripheral devices generally labeled for Windows 98 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21EJ81_spec.html>
 
@@ -95,10 +95,10 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21EJ81_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 200MHz |
-| Energy efficiency | スタンバイモード時 : 約0.9W ※4 |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) IME 98、 / NIFTY Manager for Windows ◆、 / Mouse Ware、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定、LCDバックライト省電力時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 200MHz |
+| Energy efficiency | In standby mode: approx. 0.9W *4 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) IME 98, / NIFTY Manager for Windows ◆, / Mouse Ware, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set and the LCD backlight is in power-saving state. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 98. / ● Some software and peripheral devices generally labeled for Windows 98 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J8_spec.html>
 
@@ -109,10 +109,10 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J8_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 200MHz |
-| Energy efficiency | スタンバイモード時 : 約0.9W ※4 |
-| Software | Microsoft(R) Windows(R) 98、 / Microsoft(R) IME 98、 / NIFTY Manager for Windows ◆、 / Mouse Ware、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定、LCDバックライト省電力時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 200MHz |
+| Energy efficiency | In standby mode: approx. 0.9W *4 |
+| Software | Microsoft(R) Windows(R) 98, / Microsoft(R) IME 98, / NIFTY Manager for Windows ◆, / Mouse Ware, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set and the LCD backlight is in power-saving state. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 98. / ● Some software and peripheral devices generally labeled for Windows 98 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J8-N_spec.html>
 
@@ -123,10 +123,10 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J8-N_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 200MHz |
-| Energy efficiency | スタンバイモード時 : 約4W ※4 |
-| Software | Microsoft(R) Windows(R) 95、 / Microsoft(R) Internet Explorer 4.01、 / Microsoft(R) IME97、 / NIFTY Manager for Windows ◆、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定、LCDバックライト省電力時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 95 以外では動作保証しておりません。 / ●一般的にWindows 95用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 200MHz |
+| Energy efficiency | In standby mode: approx. 4W *4 |
+| Software | Microsoft(R) Windows(R) 95, / Microsoft(R) Internet Explorer 4.01, / Microsoft(R) IME97, / NIFTY Manager for Windows ◆, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Signup Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set and the LCD backlight is in power-saving state. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 95. / ● Some software and peripheral devices generally labeled for Windows 95 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J5_spec.html>
 
@@ -149,4 +149,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-S21J5_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

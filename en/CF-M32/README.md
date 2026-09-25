@@ -19,52 +19,52 @@
 
 | Item | Value |
 | :-- | :-- |
-| CPU | Intel(R) MMX(R)テクノロジ Pentium(R) プロセッサ 166MHz |
+| CPU | Intel(R) MMX(R) technology Pentium(R) processor 166MHz |
 | Chipset | Intel(R) 430TX PCI set |
-| Memory | 標準 32MB EDO (最大 96MB) |
+| Memory | Standard 32MB EDO (max. 96MB) |
 | L2 cache | 256KB |
 | Video memory | 2MB |
-| Graphics chip | NeoMagic社製NM2160 |
+| Graphics chip | NeoMagic NM2160 |
 | Hard disk | 2.1GB ※1 |
-| Floppy drive (optional) | 外付け 3.5型 3モード対応 (1.44MB /1.2MB /720KB) / (I/Oボックス装着時にFDDコネクターに接続して使用) |
-| Display | SVGA(800×600ドット) 8.4型 TFTカラー液晶 |
-| Display / LCD colors | 800×600ドット 約26万色 |
-| Display / External output | 640×480、800×600ドット:約1600万色、1024×768ドット:65,536色 |
-| Display / Simultaneous display | 本体 800×600ドット:約26万色 / 外部ディスプレイ 800×600ドット:約1600万色 |
-| Audio | PCM音源(Sound Blaster PRO互換)、FM音源、モノラルスピーカー、モノラルマイク内蔵 |
-| PC Card slot | PCカード(TypeII×2 または TypeIII×1スロット)、CardBus対応 ※2、ZV-Port対応 ※2 |
-| Memory expansion slot | 144ピンDIMM専用スロット×1 |
-| Ports / Audio | マイク入力(ミニジャック)、オーディオ出力(ミニジャック) |
-| Ports / USB | 4ピン |
-| Ports / Serial | Dsub 9ピン(I/Oボックス装着時) |
-| Ports / Parallel | Dsub 25ピン(I/Oボックス装着時) |
-| Ports / External display | アナログRGB ミニDsub 15ピン(I/Oボックス装着時) |
-| Ports / Mouse / keyboard | ミニDin 6ピン(I/Oボックス装着時) |
-| Ports / Other | I/Oボックス専用コネクター、 / FDD専用コネクター(I/Oボックス装着時) |
-| Keyboard | OADG準拠キーボード (88キー)、キーピッチ 15mm |
-| Pointing device | 光学式トラックボール(直径16mm) |
-| Power | AC 100V-240V (50Hz/60Hz)(ACコードは100V専用)、 / バッテリーパック(リチウムイオン) |
-| Power consumption | 約26W |
-| Energy efficiency | スタンバイモード時 : 約4W ※4 |
-| Battery | 標準バッテリーパック / 駆動:約2.5時間 ※5 充電:約2.5時間(電源OFF時)、約5時間(電源ON時)※6 / 大容量バッテリーパック<別売> / 駆動:約8時間 ※5 充電:約6.5時間(電源OFF時)、約13時間(電源ON時)※6 |
-| Dimensions (W×D×H) | 225mm × 172mm × 36mm (突起部除く) |
-| Weight (with battery) | 約1.0kg(標準バッテリーパック装着時、I/Oボックス未装着時) |
+| Floppy drive (optional) | External 3.5-inch 3-mode support (1.44MB /1.2MB /720KB) / (used by connecting to the FDD connector when the I/O box is installed) |
+| Display | SVGA (800×600 dots) 8.4-inch TFT color LCD |
+| Display / LCD colors | 800×600 dots approx. 260,000 colors |
+| Display / External output | 640×480, 800×600 dots: approx. 16 million colors, 1024×768 dots: 65,536 colors |
+| Display / Simultaneous display | Main unit 800×600 dots: approx. 260,000 colors / External display 800×600 dots: approx. 16 million colors |
+| Audio | PCM sound source (Sound Blaster PRO compatible), FM sound source, monaural speaker, built-in monaural microphone |
+| PC Card slot | PC card (TypeII×2 or TypeIII×1 slot), CardBus compatible *2, ZV-Port compatible *2 |
+| Memory expansion slot | 144-pin DIMM dedicated slot ×1 |
+| Ports / Audio | Microphone input (mini jack), audio output (mini jack) |
+| Ports / USB | 4-pin |
+| Ports / Serial | Dsub 9-pin (when I/O box installed) |
+| Ports / Parallel | Dsub 25-pin (when I/O box installed) |
+| Ports / External display | Analog RGB mini Dsub 15-pin (with I/O box installed) |
+| Ports / Mouse / keyboard | Mini Din 6-pin (when I/O box is installed) |
+| Ports / Other | I/O box dedicated connector, / FDD dedicated connector (when I/O box installed) |
+| Keyboard | OADG-compliant keyboard (88 keys), key pitch 15mm |
+| Pointing device | Optical trackball (diameter 16mm) |
+| Power | AC 100V-240V (50Hz/60Hz) (AC cord is for 100V only), / Battery pack (lithium-ion) |
+| Power consumption | approx. 26W |
+| Energy efficiency | In standby mode: approx. 4W *4 |
+| Battery | Standard battery pack / Runtime: approx. 2.5 hours *5 Charging: approx. 2.5 hours (power OFF), approx. 5 hours (power ON) *6 / Large capacity battery pack <sold separately> / Runtime: approx. 8 hours *5 Charging: approx. 6.5 hours (power OFF), approx. 13 hours (power ON) *6 |
+| Dimensions (W×D×H) | 225mm × 172mm × 36mm (excluding protrusions) |
+| Weight (with battery) | approx. 1.0kg (when standard battery pack installed, when I/O box not installed) |
 
 ## Differences by part number
 
 | Part number | CPU | Memory | Storage | Weight | Battery life |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| CF-M32J8 | MMXテクノロジ Pentium 166MHz | 32MB EDO | 2.1GB ※1 | 1.0 kg | 2.5 h |
-| CF-M32J5 | MMXテクノロジ Pentium 166MHz | 32MB EDO | 2.1GB ※1 | 1.0 kg | 2.5 h |
+| CF-M32J8 | MMX Technology Pentium 166MHz | 32MB EDO | 2.1GB ※1 | 1.0 kg | 2.5 h |
+| CF-M32J5 | MMX Technology Pentium 166MHz | 32MB EDO | 2.1GB ※1 | 1.0 kg | 2.5 h |
 
 <details>
 <summary>CF-M32J8: all differing specifications</summary>
 
 | Item | Value |
 | :-- | :-- |
-| Ports / Infrared | IrDA V1.1準拠4Mbps／ASK準拠 ※3 |
-| Software | Microsoft(R) Windows(R) 98、 / NIFTY Manager for Windows ◆、 / Mouse Ware、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 98 以外では動作保証しておりません。 / ●一般的にWindows 98用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| Ports / Infrared | IrDA V1.1-compliant 4Mbps / ASK-compliant *3 |
+| Software | Microsoft(R) Windows(R) 98, / NIFTY Manager for Windows ◆, / Mouse Ware, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Sign-up Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 98. / ● Some software and peripheral devices generally labeled for Windows 98 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-M32J8_spec.html>
 
@@ -75,9 +75,9 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-M32J8_spec.html>
 
 | Item | Value |
 | :-- | :-- |
-| Ports / Infrared | IrDA V1.1準拠4Mbps／ASK準拠 |
-| Software | Microsoft(R) Windows(R) 95、 / Microsoft(R) Internet Explorer 4.01、 / Microsoft(R) IME 97、 / NIFTY Manager for Windows ◆、 / Intellisync(TM) for Notebooks ◆、 / Panasonic Hi-HO オンラインサインアップソフト |
-| Notes | ※1 HDD容量は1GB=1,000,000,000バイト表示。 / ※2 2スロット中どちらか1スロットのみ利用可能。 / ※3 赤外線通信ポートの有効距離は20～50cmとなります。 / ※4 省エネ法に基づくエネルギー消費効率。 / ※5 省電力モード設定時。動作環境・システム設定により変動します。 / ※6 完全放電したバッテリーを充電すると時間がかかる場合があります。電源が切れている状態でも電力を消費するので、放置するとバッテリー残量がなくなります。また、電源ONの充電時間は最短の場合です。コンピュータの動作状態により変動します。 / ◆印のソフトウェアの操作に関するサポートは、各ソフトメーカーで行っております。 / ●本パソコンはWindows 95 以外では動作保証しておりません。 / ●一般的にWindows 95用と表記されているソフト及び周辺機器の中には本パソコンで使用できないものがあります。ご購入に関しては、各ソフト及び周辺機器の販売元にご確認ください。 / ●システムの再インストールに必要なCD-ROMドライブは付属しておりません。別途お買い求めいただく必要があります。 |
+| Ports / Infrared | IrDA V1.1-compliant 4Mbps / ASK-compliant |
+| Software | Microsoft(R) Windows(R) 95, / Microsoft(R) Internet Explorer 4.01, / Microsoft(R) IME 97, / NIFTY Manager for Windows ◆, / Intellisync(TM) for Notebooks ◆, / Panasonic Hi-HO Online Signup Software |
+| Notes | ※1 HDD capacity is shown as 1GB=1,000,000,000 bytes. / ※2 Only one of the 2 slots can be used at a time. / ※3 The effective distance of the infrared communication port is 20–50cm. / ※4 Energy consumption efficiency based on the Energy Saving Act. / ※5 When power-saving mode is set. Varies depending on operating environment and system settings. / ※6 Charging a completely discharged battery may take time. Even when the power is off, power is consumed, so if left unused the remaining battery charge will be lost. Also, the charging time when the power is ON is the shortest case. It varies depending on the computer's operating state. / ◆ Support for the operation of software marked with ◆ is provided by each software manufacturer. / ● This computer is guaranteed to operate only with Windows 95. / ● Some software and peripheral devices generally labeled for Windows 95 cannot be used with this computer. For purchases, please check with the seller of each software or peripheral device. / ● A CD-ROM drive necessary for reinstalling the system is not included. It must be purchased separately. |
 
 Official spec sheet: <https://panasonic.jp/pc/p-db/CF-M32J5_spec.html>
 
@@ -90,4 +90,4 @@ Official spec sheet: <https://panasonic.jp/pc/p-db/CF-M32J5_spec.html>
 
 ---
 
-Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp). Spec values are quoted in the original Japanese. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.
+Source: Panasonic's official [discontinued-models list](https://panasonic.jp/pc/support/products/) and spec sheets (panasonic.jp), translated from Japanese; see the official sheets for the authoritative wording. Product images © Panasonic. This is an unofficial compilation, not affiliated with Panasonic.

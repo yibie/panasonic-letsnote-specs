@@ -12,49 +12,49 @@
 
 | 型号（品番） | 发售 | 停产 | 主要规格 |
 | :-- | :-- | :-- | :-- |
-| [CF-XZ6KDCQR](https://panasonic.jp/pc/p-db/CF-XZ6KDCQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-XZ6KFKQR](https://panasonic.jp/pc/p-db/CF-XZ6KFKQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-XZ6CFKQR](https://panasonic.jp/pc/p-db/CF-XZ6CFKQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2019 |
-| [CF-XZ6CDCQR](https://panasonic.jp/pc/p-db/CF-XZ6CDCQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
-| [CF-XZ6DDAPR](https://panasonic.jp/pc/p-db/CF-XZ6DDAPR_spec.html) | 2018-10 | 2019-06 | Windows 10 Home 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-XZ6DFKQR](https://panasonic.jp/pc/p-db/CF-XZ6DFKQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-XZ62DCQR](https://panasonic.jp/pc/p-db/CF-XZ62DCQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-XZ62FKQR](https://panasonic.jp/pc/p-db/CF-XZ62FKQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-XZ6LDAPR](https://panasonic.jp/pc/p-db/CF-XZ6LDAPR_spec.html) | 2018-02 | 2018-10 | Windows 10 Home 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-XZ6LDCQR](https://panasonic.jp/pc/p-db/CF-XZ6LDCQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
-| [CF-XZ6LFKQR](https://panasonic.jp/pc/p-db/CF-XZ6LFKQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business 2016 |
-| [CF-XZ6PDAPR](https://panasonic.jp/pc/p-db/CF-XZ6PDAPR_spec.html) | 2017-10 | 2018-09 | Windows 10 Home 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6PDCQR](https://panasonic.jp/pc/p-db/CF-XZ6PDCQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6PFKQR](https://panasonic.jp/pc/p-db/CF-XZ6PFKQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-XZ6BDAPR](https://panasonic.jp/pc/p-db/CF-XZ6BDAPR_spec.html) | 2017-06 | 2018-01 | Windows 10 Home 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6BDBQR](https://panasonic.jp/pc/p-db/CF-XZ6BDBQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6BFYQR](https://panasonic.jp/pc/p-db/CF-XZ6BFYQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-XZ6HDAPR](https://panasonic.jp/pc/p-db/CF-XZ6HDAPR_spec.html) | 2017-02 | 2017-09 | Windows 10 Home 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6HFAQR](https://panasonic.jp/pc/p-db/CF-XZ6HFAQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：128GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
-| [CF-XZ6HDBQR](https://panasonic.jp/pc/p-db/CF-XZ6HDBQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
-| [CF-XZ6HFBQR](https://panasonic.jp/pc/p-db/CF-XZ6HFBQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64ビット、Intel® CoreTM i5-7200U プロセッサー、メモリー：8GB（拡張スロットなし）、SSD：256GB、LAN、無線LAN 802.11a（W52/W53/W56）/b/g/n/ac、LTE対応ワイヤレスWAN、Microsoft® Office Home and Business Premium |
+| [CF-XZ6KDCQR](https://panasonic.jp/pc/p-db/CF-XZ6KDCQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-XZ6KFKQR](https://panasonic.jp/pc/p-db/CF-XZ6KFKQR_spec.html) | 2019-06 | 2020-01 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-XZ6CFKQR](https://panasonic.jp/pc/p-db/CF-XZ6CFKQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2019 |
+| [CF-XZ6CDCQR](https://panasonic.jp/pc/p-db/CF-XZ6CDCQR_spec.html) | 2019-01 | 2019-10 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2019 |
+| [CF-XZ6DDAPR](https://panasonic.jp/pc/p-db/CF-XZ6DDAPR_spec.html) | 2018-10 | 2019-06 | Windows 10 Home 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
+| [CF-XZ6DFKQR](https://panasonic.jp/pc/p-db/CF-XZ6DFKQR_spec.html) | 2018-10 | 2019-06 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2016 |
+| [CF-XZ62DCQR](https://panasonic.jp/pc/p-db/CF-XZ62DCQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
+| [CF-XZ62FKQR](https://panasonic.jp/pc/p-db/CF-XZ62FKQR_spec.html) | 2018-06 | 2019-02 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2016 |
+| [CF-XZ6LDAPR](https://panasonic.jp/pc/p-db/CF-XZ6LDAPR_spec.html) | 2018-02 | 2018-10 | Windows 10 Home 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
+| [CF-XZ6LDCQR](https://panasonic.jp/pc/p-db/CF-XZ6LDCQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business 2016 |
+| [CF-XZ6LFKQR](https://panasonic.jp/pc/p-db/CF-XZ6LFKQR_spec.html) | 2018-02 | 2018-10 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business 2016 |
+| [CF-XZ6PDAPR](https://panasonic.jp/pc/p-db/CF-XZ6PDAPR_spec.html) | 2017-10 | 2018-09 | Windows 10 Home 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6PDCQR](https://panasonic.jp/pc/p-db/CF-XZ6PDCQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6PFKQR](https://panasonic.jp/pc/p-db/CF-XZ6PFKQR_spec.html) | 2017-10 | 2018-09 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business Premium |
+| [CF-XZ6BDAPR](https://panasonic.jp/pc/p-db/CF-XZ6BDAPR_spec.html) | 2017-06 | 2018-01 | Windows 10 Home 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6BDBQR](https://panasonic.jp/pc/p-db/CF-XZ6BDBQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6BFYQR](https://panasonic.jp/pc/p-db/CF-XZ6BFYQR_spec.html) | 2017-06 | 2018-01 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business Premium |
+| [CF-XZ6HDAPR](https://panasonic.jp/pc/p-db/CF-XZ6HDAPR_spec.html) | 2017-02 | 2017-09 | Windows 10 Home 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6HFAQR](https://panasonic.jp/pc/p-db/CF-XZ6HFAQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：128GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business Premium |
+| [CF-XZ6HDBQR](https://panasonic.jp/pc/p-db/CF-XZ6HDBQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、Microsoft® Office Home and Business Premium |
+| [CF-XZ6HFBQR](https://panasonic.jp/pc/p-db/CF-XZ6HFBQR_spec.html) | 2017-02 | 2017-09 | Windows 10 Pro 64位、Intel® CoreTM i5-7200U 处理器、内存：8GB（无扩展插槽）、SSD：256GB、LAN、无线LAN 802.11a（W52/W53/W56）/b/g/n/ac、支持 LTE 的无线 WAN、Microsoft® Office Home and Business Premium |
 
 ## 通用规格
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 处理器 | インテル Core i5-7200U プロセッサー / インテルスマートキャッシュ3MB、動作周波数2.50GHz（インテル ターボ・ブースト・テクノロジー2.0利用時は最大3.10GHz） |
-| 芯片组 | CPUに内蔵 |
-| 内存 | 8GB LPDDR3 SDRAM（拡張スロットなし） |
-| 显示屏 | 12.0型(3:2)QHD TFTカラー液晶 （2160×1440ドット）、静電タッチパネル、アンチリフレクション保護フィルム付 |
-| 显示屏 / 显卡 | インテル HD グラフィックス620（CPUに内蔵） |
-| 显示屏 / 色彩 | 2160×1440ドット：約1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200、2160×1440ドット：約1677万色 |
-| 无线通信模块 | インテル Dual Band Wireless-AC 8265 |
+| 处理器 | 英特尔 Core i5-7200U 处理器 / 英特尔智能缓存3MB，运行频率2.50GHz（使用英特尔 睿频加速技术2.0时最高3.10GHz） |
+| 芯片组 | 内置于CPU |
+| 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
+| 显示屏 | 12.0英寸(3:2)QHD TFT彩色液晶（2160×1440像素）、静电触摸面板、附防反射保护膜 |
+| 显示屏 / 显卡 | 英特尔 HD 显卡 620（集成于CPU） |
+| 显示屏 / 色彩 | 2160×1440像素：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200、2160×1440点：约1677万色 |
+| 无线通信模块 | 英特尔 Dual Band Wireless-AC 8265 |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
-| 音频 | PCM音源（24ビットステレオ）、インテル High Definition Audio準拠、モノラルスピーカー |
-| 安全芯片 | TPM（TCG V2.0準拠） |
-| 内存扩展槽 | なし |
-| 麦克风 | アレイマイク |
-| 传感器 | 照度センサー / 地磁気センサー / ジャイロセンサー / 加速度センサー |
-| 键盘 | OADG準拠86キー、キーピッチ19mm(横)/16mm(縦)(一部キーを除く） |
-| 功耗 | 最大約45W |
-| 能效 | 2011年度基準 N区分0.023 |
+| 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、单声道扬声器 |
+| 安全芯片 | TPM（符合TCG V2.0） |
+| 内存扩展槽 | 无 |
+| 麦克风 | 阵列麦克风 |
+| 传感器 | 照度传感器 / 地磁传感器 / 陀螺仪传感器 / 加速度传感器 |
+| 键盘 | 符合OADG标准86键、键距19mm（横向）/16mm（纵向）（部分键除外） |
+| 功耗 | 最大约45W |
+| 能效 | 2011年度标准 N分类0.023 |
 | 能效达成率（2011 年度标准） | — |
 
 ## 各型号差异
@@ -88,28 +88,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャック3.5mm（M3）、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22.0mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.56kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔3.5mm（M3）、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22.0mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.56kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6KDCQR_spec.html>
 
@@ -120,28 +120,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠（WPA2-AES/TKIP対応、Wi-Fi準拠） |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャック3.5mm（M3）、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・定格容量5200mAh / タブレット部： / 内蔵バッテリー（L）(交換不可) / 7.6V（リチウムイオン）・定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22.0mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utility |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔3.5mm（M3）、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・额定容量5200mAh / 平板部分： / 内置电池（L）(不可更换) / 7.6V（锂离子）・额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22.0mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6KFKQR_spec.html>
 
@@ -152,28 +152,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・定格容量5200mAh / タブレット部： / 内蔵バッテリー（L）(交換不可) / 7.6V（リチウムイオン）・定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・额定容量5200mAh / 平板部分： / 内置电池（L）(不可更换) / 7.6V（锂离子）・额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6CFKQR_spec.html>
 
@@ -184,28 +184,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4169MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4169MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.56kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.56kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2019 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2019等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2019等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6CDCQR_spec.html>
 
@@ -216,28 +216,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Home 64位（日文版） / 松下推荐 Windows 10 Pro |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.55kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.55kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6DDAPR_spec.html>
 
@@ -248,28 +248,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.2 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・定格容量5200mAh / タブレット部： / 内蔵バッテリー（L）(交換不可) / 7.6V（リチウムイオン）・定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.2 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・额定容量5200mAh / 平板部分： / 内置电池（L）(不可更换) / 7.6V（锂离子）・额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6DFKQR_spec.html>
 
@@ -280,28 +280,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.560kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.560kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ62DCQR_spec.html>
 
@@ -312,28 +312,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・定格容量5200mAh / タブレット部： / 内蔵バッテリー（L）(交換不可) / 7.6V（リチウムイオン）・定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・额定容量5200mAh / 平板部分： / 内置电池（L）(不可更换) / 7.6V（锂离子）・额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ62FKQR_spec.html>
 
@@ -344,28 +344,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Home 64位（日文版） / 松下推荐 Windows 10 Pro |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.550kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.550kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6LDAPR_spec.html>
 
@@ -376,28 +376,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・定格容量2600mAh / タブレット部： / 内蔵バッテリー（S）(交換不可) / 7.6V（リチウムイオン）・定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.029kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.560kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・额定容量2600mAh / 平板部分： / 内置电池（S）(不可更换) / 7.6V（锂离子）・额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.029kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.560kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6LDCQR_spec.html>
 
@@ -408,28 +408,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載されていません |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/著作権保護技術対応/UHS-I・UHS-Ⅱ高速転送対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応カメラ（フロント）、有効画素数：最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0 Type-Aポート×3(うち１つはスマホ充電対応を兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB3.1 Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・定格容量5200mAh / タブレット部： / 内蔵バッテリー（L）(交換不可) / 7.6V（リチウムイオン）・定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | ブラック |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持版权保护技术/支持UHS-I・UHS-Ⅱ高速传输） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的摄像头（前置），有效像素：最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0 Type-A端口×3（其中1个兼作手机充电） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB3.1 Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・额定容量5200mAh / 平板部分： / 内置电池（L）(不可更换) / 7.6V（锂离子）・额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 黑色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business 2016 |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business 2016等 |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business 2016等 |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6LFKQR_spec.html>
 
@@ -440,28 +440,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Home 64位（日文版） / 松下推荐 Windows 10 Pro |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・公称容量2720mAh、定格容量2600mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.550kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・标称容量2720mAh、额定容量2600mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.550kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6PDAPR_spec.html>
 
@@ -472,28 +472,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・公称容量2720mAh、定格容量2600mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.550kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・标称容量2720mAh、额定容量2600mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.550kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6PDCQR_spec.html>
 
@@ -504,28 +504,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） / リアカメラ：最大 3200x2400ピクセル（約800万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル（10フィンガー対応、アクティブペン対応）/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・公称容量5440mAh、定格容量5200mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量3760mAh/定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.224kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.665kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・Panasonic PC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・Panasonic PC 画面共有アシストユーティリティ / ・PC情報ビューアー / ・Panasonic PC リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素）/ 后置摄像头：最大 3200x2400像素（约800万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板（支持10指触控、支持主动笔）/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・标称容量5440mAh、额定容量5200mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量3760mAh/额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约1.224kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.665kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.7 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・Panasonic PC 屏幕共享辅助实用程序 / ・PC 信息查看器 / ・Panasonic PC 恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6PFKQR_spec.html>
 
@@ -536,28 +536,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Home 64位（日文版） / 松下推荐 Windows 10 Pro |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・公称容量2720mAh、定格容量2600mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.550kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・标称容量2720mAh、额定容量2600mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.550kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6BDAPR_spec.html>
 
@@ -568,28 +568,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・公称容量5440mAh、定格容量5200mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約15時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.109kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.550kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・标称容量5440mAh、额定容量5200mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约15小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约1.109kg（安装附带的电池组（L）（约230g）时） / 平板部分：约0.550kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6BDBQR_spec.html>
 
@@ -600,28 +600,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・公称容量5440mAh、定格容量5200mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量3760mAh/定格容量3540mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約18.5時間 / タブレット部：約9時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.214kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.655kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・标称容量5440mAh、额定容量5200mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量3760mAh/额定容量3540mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约18.5小时 / 平板部分：约9小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约1.214kg（安装附赠电池组（L）（约230g）时） / 平板部分：约0.655kg / AC适配器：约175g（不含墙上安装插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、アクティブペン(単6アルカリ電池1本・替え芯1本)、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、主动式触控笔（1节7号碱性电池・1支替换笔芯）、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6BFYQR_spec.html>
 
@@ -632,28 +632,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Home 64ビット（日本語版） / パナソニックはWindows 10 Proをおすすめします |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Home 64位（日文版） / 松下推荐 Windows 10 Pro |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・公称容量2720mAh、定格容量2600mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.019kg（付属バッテリーパック(約140ｇ）装着時） / タブレット部：約0.55kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・标称容量2720mAh、额定容量2600mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.019kg（安装附带电池组（约140g）时） / 平板部分：约0.55kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6HDAPR_spec.html>
 
@@ -664,28 +664,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）128GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（S）：7.6V リチウムイオン・公称容量2720mAh、定格容量2600mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約9時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約2.5時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.059kg（付属バッテリーパック（S）(約140ｇ）装着時） / タブレット部：約0.59kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）128GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（S）：7.6V 锂离子・标称容量2720mAh、额定容量2600mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约9小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约2.5小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑本体：约1.059kg（安装附带电池组（S）（约140g）时） / 平板部分：约0.59kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［S]、ウォールマウントプラグ付きACアダプター、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［S]、带壁挂插头的AC适配器、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6HFAQR_spec.html>
 
@@ -696,28 +696,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | 搭載されていません |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 未配备 |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
 | 卡槽 / 平板部分 | － |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・公称容量5440mAh、定格容量5200mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約15時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.109kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.55kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・标称容量5440mAh、额定容量5200mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约15小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约1.109kg（安装附带的电池组（L）（约230g）时） / 平板部分：约0.55kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6HDBQR_spec.html>
 
@@ -728,28 +728,28 @@
 
 | 项目 | 规格 |
 | :-- | :-- |
-| 操作系统 | Windows 10 Pro 64ビット（日本語版） |
-| 显存 | 最大4170MB (メインメモリーと共用) |
-| 固态硬盘 | フラッシュメモリードライブ（SSD）256GB（Serial ATA）上記容量のうち約15GBをリカバリー領域、約1GBをシステム領域として使用（ユーザー使用不可） |
-| 光驱 | 搭載していません。 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200ドット：約1677万色 / HDMI出力のみ：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
-| 无线网络 | IEEE802.11a（W52/W53/W56）/b/g/n/ac 準拠 |
-| LTE | ワイヤレスWANモジュール内蔵（LTE対応） |
-| 蓝牙 | Bluetooth v4.1 / ■対応プロファイル / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（ClientおよびServer） / ・PAN（User） / ・SPP（DevAおよびDevB） / 【Low Energy】 / ・HOGP（Host） |
-| 卡槽 / 键盘底座 | SDメモリーカード×1スロット（SDHCメモリーカード/SDXCメモリーカード対応/UHS-I・UHS-Ⅱ高速転送対応/著作権保護技術対応） |
-| 卡槽 / 平板部分 | nano SIMカードスロット |
-| 摄像头 | 顔認証対応IRカメラ（フロント）：有効画素数 最大 1920x1080ピクセル（約207万画素） |
-| 接口 / 键盘底座 | ・USB3.0ポート×3(うち1つはUSB充電ポートも兼ねる) / ・LANコネクター（RJ-45） / ・外部ディスプレイコネクター（アナログRGB ミニD-sub 15ピン） / ・HDMI出力端子（4K60p出力対応） |
-| 接口 / 平板部分 | ・USB Type-Cポート / ・ヘッドセット端子（マイク入力＋オーディオ出力（ヘッドセットミニジャックM3、CTIA準拠） |
-| 指点设备 | 静電タッチパネル/ホイールパッド |
-| 电源 | ▼ACアダプター / 入力：AC100V～240V、50Hz/60Hz、出力：DC16V、2.8A、電源コードは100V専用 / ▼バッテリー / キーボードベース： / バッテリーパック（L）：7.6V リチウムイオン・公称容量5440mAh、定格容量5200mAh / タブレット部： / 内蔵バッテリー(交換不可) / 7.6V（リチウムイオン）・公称容量1880mAh/定格容量1770mAh |
-| 续航 / 充电时间 | ▼駆動時間 / （JEITA Ver.2.0） / 本体：約15時間 / タブレット部：約4.5時間 / ▼充電時間 / 本体：約2.5時間（電源OFF時）、約3時間（電源ON時） / タブレット部：約2.5時間（電源OFF時）、約2.5時間（電源ON時） |
-| 尺寸（宽×深×高） | 幅288.5mm×奥行223.7mm×高さ22mm（タブレット部：幅286.5mm×奥行206.2mm×高さ9.5mm） 突起部除く |
-| 颜色 | シルバー |
-| 重量（含电池） | パソコン本体：約1.149kg（付属バッテリーパック（L）(約230ｇ）装着時） / タブレット部：約0.59kg / ACアダプター：約175g（ウォールマウントプラグ（約20g）電源コード（約60g）除く） |
-| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・ネットセレクターLite / ・手書きツール2 / ・インテル® ワイヤレス Bluetooth® / ・マカフィーリブセーフ（60日間 無料体験版） / ・i-フィルター6.0 (30日間無料お試し版) / ・WinZip 20.5日本語版（45日体験版） / ・ディスプレイヘルパー / ・Wireless Manager mobile edition / ・Aptioセットアップユーティリティ / ・PC-Diagnosticユーティリティ / ・パナソニックPC設定ユーティリティ / ・ハードディスクデータ消去ユーティリティ / ・DirectX 12 / ・インテル PROSet/Wireless Software / ・画面共有アシストユーティリティー / ・PC情報ビューアー / ・リカバリーディスク作成ユーティリティ / ・Panasonic PC Camera Utilty / ・ホイールパッド・タッチLite |
+| 操作系统 | Windows 10 Pro 64位（日文版） |
+| 显存 | 最大4170MB（与主内存共享） |
+| 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
+| 光驱 | 未配备。 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
+| LTE | 内置无线WAN模块（支持LTE） |
+| 蓝牙 | Bluetooth v4.1 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
+| 卡槽 / 键盘底座 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I・UHS-Ⅱ高速传输/支持版权保护技术） |
+| 卡槽 / 平板部分 | nano SIM卡插槽 |
+| 摄像头 | 支持人脸识别的IR摄像头（前置）：有效像素 最大 1920x1080像素（约207万像素） |
+| 接口 / 键盘底座 | ・USB3.0端口×3（其中1个兼作USB充电端口） / ・LAN接口（RJ-45） / ・外接显示器接口（模拟RGB 迷你D-sub 15针） / ・HDMI输出端子（支持4K60p输出） |
+| 接口 / 平板部分 | ・USB Type-C端口 / ・耳麦端子（麦克风输入＋音频输出（耳麦迷你插孔M3、CTIA标准）） |
+| 指点设备 | 静电触摸面板/滚轮板 |
+| 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、2.8A，电源线为100V专用 / ▼电池 / 键盘底座： / 电池组（L）：7.6V 锂离子・标称容量5440mAh、额定容量5200mAh / 平板部分： / 内置电池(不可更换) / 7.6V（锂离子）・标称容量1880mAh/额定容量1770mAh |
+| 续航 / 充电时间 | ▼续航时间 / （JEITA Ver.2.0） / 主机：约15小时 / 平板部分：约4.5小时 / ▼充电时间 / 主机：约2.5小时（电源OFF时）、约3小时（电源ON时） / 平板部分：约2.5小时（电源OFF时）、约2.5小时（电源ON时） |
+| 尺寸（宽×深×高） | 宽288.5mm×深223.7mm×高22mm（平板部：宽286.5mm×深206.2mm×高9.5mm） 不含突起部 |
+| 颜色 | 银色 |
+| 重量（含电池） | 电脑主机：约1.149kg（安装附带的电池组（L）（约230g）时） / 平板部分：约0.59kg / AC适配器：约175g（不含壁挂插头（约20g）和电源线（约60g）） |
+| 预装软件 | ・Microsoft® Internet Explorer 11 / ・Microsoft® Edge / ・Microsoft® .NET Framework 4.6 / ・Microsoft® Windows Media Player 12 / ・网络选择器 Lite / ・手写工具 2 / ・英特尔® 无线 Bluetooth® / ・迈克菲 LiveSafe（60天免费试用版） / ・i-Filter 6.0（30天免费试用版） / ・WinZip 20.5 日语版（45天试用版） / ・显示助手 / ・Wireless Manager mobile edition / ・Aptio 设置实用程序 / ・PC-Diagnostic 实用程序 / ・Panasonic PC 设置实用程序 / ・硬盘数据擦除实用程序 / ・DirectX 12 / ・英特尔 PROSet/Wireless Software / ・屏幕共享辅助实用程序 / ・PC 信息查看器 / ・恢复光盘创建实用程序 / ・Panasonic PC Camera Utility / ・滚轮触控板・触控 Lite |
 | Microsoft Office | Microsoft® Office Home and Business Premium |
-| 附件 | キーボードベース用バッテリーパック［L]、ウォールマウントプラグ付きACアダプター、専用布、取扱説明書、Microsoft Office Home & Business Premium |
+| 附件 | 键盘底座用电池组［L]、带壁挂插头的AC适配器、专用布、使用说明书、Microsoft Office Home & Business Premium |
 
 官方规格表: <https://panasonic.jp/pc/p-db/CF-XZ6HFBQR_spec.html>
 
@@ -787,4 +787,4 @@
 
 ---
 
-来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp）。规格数值保留官方日文原文。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
+来源：松下官方[停产产品列表](https://panasonic.jp/pc/support/products/)及各型号规格表（panasonic.jp），由日文翻译，准确措辞以官方规格表为准。产品图片 © Panasonic。本页为非官方整理，与松下公司无关。
