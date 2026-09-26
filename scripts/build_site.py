@@ -336,6 +336,8 @@ def main():
 
     shutil.copy(ASSETS / "site.css", DOCS / "site.css")
     shutil.copy(ASSETS / "shader.js", DOCS / "shader.js")
+    for f in ASSETS.glob("google*.html"):  # Search Console ownership file; must stay online
+        shutil.copy(f, DOCS / f.name)
     (DOCS / ".nojekyll").write_text("")
     (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}sitemap.xml\n")
     entries = []
