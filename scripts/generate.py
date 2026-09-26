@@ -16,6 +16,7 @@ from labels import LABELS, LABELS_ZH
 
 LIST_URL = "https://panasonic.jp/pc/support/products/"
 SPEC_URL = "https://panasonic.jp/pc/p-db/{}_spec.html"
+SITE_URL = "https://yibie.github.io/panasonic-letsnote-specs/"
 
 
 def model_of(row):
@@ -202,6 +203,8 @@ def index_page(models, series_of, first_release, lang, prefix=""):
     switch = " · ".join(f"[{LANG_NAMES[l]}]({'' if prefix else '../'}{l}/)" for l in LANGS)
     lines = [f"# {T['index_title']}", "", switch, "",
              T["index_intro"].format(models=len(models), parts=n_parts), ""]
+    if prefix:  # root README: point to the showcase site
+        lines += [f"Browse them all as a glass cabinet: **[{SITE_URL}]({SITE_URL})**", ""]
     by_series = defaultdict(list)
     for m in models:
         by_series[series_of[m]].append(m)

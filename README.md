@@ -4,6 +4,8 @@
 
 Specifications of every Panasonic Let's note model since 1996: 96 models and 777 part numbers. Each model has its own page with all part numbers, release and discontinuation dates, photos and the full official spec sheet.
 
+Browse them all as a glass cabinet: **[https://yibie.github.io/panasonic-letsnote-specs/](https://yibie.github.io/panasonic-letsnote-specs/)**
+
 | Series | Models (newest first) |
 | :-- | :-- |
 | FC | [CF-FC6](./en/CF-FC6/) (On sale) |

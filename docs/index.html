@@ -1,0 +1,1473 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Let's note Cabinet · every Panasonic Let's note since 1996</title>
+<meta name="description" content="A glass cabinet of every Panasonic Let's note laptop since 1996: 96 models and 777 part numbers, each linking to its full specification page. レッツノート全機種のスペック一覧。松下 Let's note 历代机型规格。">
+<link rel="canonical" href="https://yibie.github.io/panasonic-letsnote-specs/">
+<meta property="og:title" content="Let's note Cabinet">
+<meta property="og:description" content="Every Panasonic Let's note since 1996, one glass case each.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://yibie.github.io/panasonic-letsnote-specs/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Klee+One:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css" rel="stylesheet" media="print" onload="this.media='all'">
+<style>
+  :root {
+    --paper: #f5eedd;
+    --paper-deep: #ede3cb;
+    --rule: rgba(120, 150, 180, 0.13);
+    --margin-line: rgba(196, 92, 82, 0.22);
+    --ink: #3a3128;
+    --ink-soft: #6d5f4f;
+    --ink-faint: #a3927b;
+    --glass: rgba(255, 253, 247, 0.55);
+    --frame: #8c7a62;
+    --tag: #fbf6ea;
+    --hand-latin: "Caveat", "Segoe Print", cursive;
+    --hand: var(--hand-latin);
+    --serif: "Iowan Old Style", "Palatino Linotype", "Hiragino Mincho ProN", "Songti SC", "Noto Serif CJK JP", Georgia, serif;
+  }
+  :lang(ja) { --hand: "Klee One", var(--hand-latin); }
+  :lang(zh) { --hand: "LXGW WenKai", "Kaiti SC", "STKaiti", var(--hand-latin); }
+
+  * { box-sizing: border-box; }
+  html { background: var(--paper); }
+  body {
+    margin: 0;
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.6;
+    background-color: var(--paper);
+    /* Writing paper: faint ruled lines, a red margin, and a slightly darker edge. */
+    background-image:
+      linear-gradient(90deg, transparent 0 calc(min(6vw, 72px) - 1px), var(--margin-line) calc(min(6vw, 72px) - 1px) min(6vw, 72px), transparent min(6vw, 72px)),
+      repeating-linear-gradient(180deg, transparent 0 31px, var(--rule) 31px 32px),
+      radial-gradient(120% 90% at 50% 40%, transparent 60%, var(--paper-deep) 100%);
+    background-attachment: scroll, scroll, fixed;
+    min-height: 100vh;
+  }
+  /* Paper grain */
+  body::before {
+    content: "";
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    opacity: .35; mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .45  0 0 0 0 .38  0 0 0 0 .28  0 0 0 .18 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  }
+  main, header, footer { position: relative; z-index: 1; }
+
+  .hand { font-family: var(--hand); }
+  a { color: inherit; }
+
+  header {
+    max-width: 1180px; margin: 0 auto;
+    padding: clamp(28px, 6vw, 72px) 16px 8px calc(min(6vw, 72px) + 16px);
+  }
+  .lang-switch { display: flex; gap: 14px; justify-content: flex-end; font-family: var(--hand-latin); font-size: 1.25rem; }
+  .lang-switch button {
+    background: none; border: 0; padding: 0 2px; cursor: pointer; color: var(--ink-faint);
+    font: inherit; border-bottom: 1.5px solid transparent;
+  }
+  .lang-switch button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--margin-line); }
+  .lang-switch button:nth-child(2) { font-family: "Klee One", var(--hand-latin); font-size: 1rem; }
+  .lang-switch button:nth-child(3) { font-family: "LXGW WenKai", "Kaiti SC", var(--hand-latin); font-size: 1.05rem; }
+
+  h1 {
+    font-family: var(--hand);
+    font-weight: 700;
+    font-size: clamp(2.6rem, 7vw, 4.6rem);
+    line-height: 1.05;
+    margin: 18px 0 6px;
+    transform: rotate(-1.2deg);
+    transform-origin: left center;
+  }
+  :lang(ja) h1, :lang(zh) h1 { font-weight: 600; font-size: clamp(2.2rem, 6vw, 3.8rem); }
+  .curator {
+    max-width: 38em;
+    font-family: var(--hand);
+    font-size: clamp(1.15rem, 2.4vw, 1.4rem);
+    color: var(--ink-soft);
+    margin: 10px 0 0;
+    line-height: 1.55;
+  }
+  :lang(en) .curator { font-size: clamp(1.35rem, 2.8vw, 1.65rem); line-height: 1.35; }
+  .count { display: inline-block; margin-top: 12px; font-family: var(--hand-latin); font-size: 1.3rem; color: var(--ink-faint); transform: rotate(-.6deg); }
+
+  main { max-width: 1180px; margin: 0 auto; padding: 8px 16px 40px calc(min(6vw, 72px) + 16px); }
+  .shelf { margin-top: 44px; }
+  .shelf h2 {
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px;
+    margin: 0 0 14px; font-weight: 600; letter-spacing: .02em;
+  }
+  .era { font-size: 2.1rem; font-weight: 700; transform: rotate(-1.5deg); }
+  :lang(ja) .era, :lang(zh) .era { font-size: 1.8rem; font-weight: 600; }
+  .shelf h2 .note { font-weight: 400; font-size: 1.2rem; color: var(--ink-soft); transform: rotate(-.8deg); }
+  :lang(en) .shelf h2 .note { font-size: 1.45rem; }
+
+  .row {
+    list-style: none; margin: 0; padding: 0 0 26px;
+    display: grid; gap: 34px 22px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    /* The wooden shelf the cases stand on */
+    background: linear-gradient(180deg, transparent calc(100% - 12px), #b59a74 calc(100% - 12px), #9c8260 calc(100% - 5px), rgba(90, 70, 45, .25) calc(100% - 5px), transparent 100%);
+  }
+  .case { position: relative; }
+  .vitrine {
+    position: relative; display: flex; align-items: center; justify-content: center;
+    aspect-ratio: 4 / 3.3;
+    padding: 14px;
+    border-radius: 3px;
+    background: linear-gradient(180deg, rgba(255,255,255,.75), var(--glass));
+    border: 1px solid rgba(140, 122, 98, .45);
+    box-shadow:
+      inset 0 0 0 4px rgba(255,255,255,.55),
+      inset 0 10px 18px -12px rgba(255,255,255,.9),
+      0 1px 0 rgba(255,255,255,.7),
+      0 10px 18px -12px rgba(70, 50, 30, .45);
+    overflow: hidden;
+    transition: transform .35s ease, box-shadow .35s ease;
+  }
+  .vitrine:hover, .vitrine:focus-visible { transform: translateY(-3px); box-shadow: inset 0 0 0 4px rgba(255,255,255,.6), 0 18px 26px -14px rgba(70, 50, 30, .55); }
+  .vitrine:focus-visible { outline: 2px dashed var(--margin-line); outline-offset: 4px; }
+  /* Glass pane sheen, follows the light like the shader does */
+  .vitrine::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: linear-gradient(115deg, transparent calc(var(--lx, 30%) - 18%), rgba(255,255,255,.38) var(--lx, 30%), transparent calc(var(--lx, 30%) + 9%), transparent calc(var(--lx, 30%) + 16%), rgba(255,255,255,.18) calc(var(--lx, 30%) + 19%), transparent calc(var(--lx, 30%) + 24%));
+    mix-blend-mode: screen;
+  }
+  .vitrine img { display: block; max-width: 100%; max-height: 100%; object-fit: contain; mix-blend-mode: multiply; }
+  .vitrine canvas.glass { position: absolute; pointer-events: none; opacity: 0; filter: drop-shadow(0 8px 8px rgba(60, 45, 30, .22)); }
+  .vitrine.gl img { visibility: hidden; }
+  .vitrine.gl canvas.glass { opacity: 1; }
+  .lost { margin: 0; text-align: center; font-size: 1.35rem; color: var(--ink-soft); transform: rotate(-3deg); padding: 10px; }
+  :lang(en) .lost { font-size: 1.6rem; }
+
+  /* Hand-written price tag hanging from the case */
+  .tag {
+    position: relative;
+    width: max-content; max-width: 100%;
+    margin: 10px auto 0;
+    padding: 4px 14px 6px 22px;
+    background: var(--tag);
+    border: 1px solid rgba(140, 122, 98, .5);
+    border-radius: 2px 10px 10px 2px;
+    box-shadow: 0 3px 6px -3px rgba(70, 50, 30, .35);
+    transform: rotate(var(--tilt, 0deg));
+    text-align: center;
+    line-height: 1.1;
+  }
+  .tag::before { /* the punched hole */
+    content: ""; position: absolute; left: 7px; top: 50%; width: 7px; height: 7px; margin-top: -3.5px;
+    border-radius: 50%; background: var(--paper); box-shadow: inset 0 1px 1px rgba(0,0,0,.25);
+  }
+  .tag > a:first-child { font-family: var(--hand-latin); font-size: 1.55rem; font-weight: 700; text-decoration: none; }
+  .tag .year { font-family: var(--hand-latin); font-size: 1.25rem; color: var(--ink-soft); margin-left: 6px; }
+  .tag .screen { display: block; font-size: 1.05rem; color: var(--ink-soft); line-height: 1.15; }
+  :lang(en) .tag .screen { font-size: 1.15rem; }
+  .tag .langs { display: block; font-family: var(--serif); font-size: .72rem; letter-spacing: .04em; color: var(--ink-faint); }
+  .tag .langs a { text-decoration: none; margin: 0 4px; }
+  .tag .langs a:hover, .tag > a:first-child:hover { text-decoration: underline; text-decoration-color: var(--margin-line); }
+
+  footer {
+    max-width: 1180px; margin: 0 auto; padding: 10px 16px 60px calc(min(6vw, 72px) + 16px);
+    color: var(--ink-soft);
+  }
+  footer .sign { font-family: var(--hand); font-size: 1.3rem; transform: rotate(-1deg); display: inline-block; }
+  :lang(en) footer .sign { font-size: 1.55rem; }
+  footer small { display: block; margin-top: 8px; font-size: .8rem; color: var(--ink-faint); }
+
+  @media (max-width: 520px) {
+    .row { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px 12px; }
+    .vitrine { padding: 8px; }
+    .tag > a:first-child { font-size: 1.3rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .vitrine { transition: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <nav class="lang-switch" aria-label="Language">
+    <button type="button" data-lang="en">English</button>
+    <button type="button" data-lang="ja">日本語</button>
+    <button type="button" data-lang="zh">中文</button>
+  </nav>
+  <h1 data-i18n="title">The Let's note Cabinet</h1>
+  <p class="curator" data-i18n="curator">Every Panasonic Let's note since 1996, each in its own glass case. Open a case to read the model's full spec sheet.</p>
+  <span class="count" data-i18n="count">96 models · 777 part numbers</span>
+</header>
+<main>
+    <section class="shelf">
+      <h2><span class="era hand" data-en="the 2020s" data-ja="2020年代" data-zh="2020 年代">the 2020s</span>
+        <span class="note hand" data-en="15 models" data-ja="15 機種" data-zh="15 个机型">15 models</span></h2>
+      <ul class="row">
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SC6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SC6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SC6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SC6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sc6-cf-sc6admcr.png" alt="Panasonic Let&#x27;s note CF-SC6 (now)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SC6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SC6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SC6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SC6">CF-SC6</a>
+          <span class="year" data-en="now" data-ja="発売中" data-zh="在售">now</span>
+          
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SC6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SC6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SC6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FC6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FC6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FC6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FC6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-fc6-cf-fc6admcr.png" alt="Panasonic Let&#x27;s note CF-FC6 (now)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FC6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FC6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FC6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FC6">CF-FC6</a>
+          <span class="year" data-en="now" data-ja="発売中" data-zh="在售">now</span>
+          
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FC6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FC6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FC6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-fv5-cf-fv5hdncr.png" alt="Panasonic Let&#x27;s note CF-FV5 (2024)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV5">CF-FV5</a>
+          <span class="year">2024</span>
+          <span class="screen hand" data-en="14.0-inch QHD display" data-ja="14.0型 QHD液晶" data-zh="14.0英寸 QHD 屏幕">14.0-inch QHD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sr4-cf-sr4gdmcr.png" alt="Panasonic Let&#x27;s note CF-SR4 (2023)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR4">CF-SR4</a>
+          <span class="year">2023</span>
+          <span class="screen hand" data-en="12.4-inch FHD+ display" data-ja="12.4型 FHD+液晶" data-zh="12.4英寸 FHD+ 屏幕">12.4-inch FHD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QR4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QR4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QR4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QR4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-qr4-cf-qr4fdncr.jpg" alt="Panasonic Let&#x27;s note CF-QR4 (2023)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QR4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QR4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QR4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QR4">CF-QR4</a>
+          <span class="year">2023</span>
+          <span class="screen hand" data-en="12.4-inch FHD+ display" data-ja="12.4型 FHD+液晶" data-zh="12.4英寸 FHD+ 屏幕">12.4-inch FHD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QR4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QR4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QR4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-fv4-cf-fv4ddncr.jpg" alt="Panasonic Let&#x27;s note CF-FV4 (2023)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV4">CF-FV4</a>
+          <span class="year">2023</span>
+          <span class="screen hand" data-en="14.0-inch QHD display" data-ja="14.0型 QHD液晶" data-zh="14.0英寸 QHD 屏幕">14.0-inch QHD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sv2-cf-sv2kfncr.jpg" alt="Panasonic Let&#x27;s note CF-SV2 (2022)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV2">CF-SV2</a>
+          <span class="year">2022</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sr3-cf-sr3kfpcr.jpg" alt="Panasonic Let&#x27;s note CF-SR3 (2022)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR3">CF-SR3</a>
+          <span class="year">2022</span>
+          <span class="screen hand" data-en="12.4-inch FHD+ display" data-ja="12.4型 FHD+液晶" data-zh="12.4英寸 FHD+ 屏幕">12.4-inch FHD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SR3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SR3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SR3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-fv3-cf-fv3kdpcr.jpg" alt="Panasonic Let&#x27;s note CF-FV3 (2022)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV3">CF-FV3</a>
+          <span class="year">2022</span>
+          <span class="screen hand" data-en="14.0-inch QHD display" data-ja="14.0型 QHD液晶" data-zh="14.0英寸 QHD 屏幕">14.0-inch QHD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sv1-cf-sv1kfncr.jpg" alt="Panasonic Let&#x27;s note CF-SV1 (2021)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV1">CF-SV1</a>
+          <span class="year">2021</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-qv1-cf-qv1qfncr.jpg" alt="Panasonic Let&#x27;s note CF-QV1 (2021)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV1">CF-QV1</a>
+          <span class="year">2021</span>
+          <span class="screen hand" data-en="12.0-inch WQXGA＋ display" data-ja="12.0型 WQXGA＋液晶" data-zh="12.0英寸 WQXGA＋ 屏幕">12.0-inch WQXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-fv1-cf-fv1jdscr.jpg" alt="Panasonic Let&#x27;s note CF-FV1 (2021)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV1">CF-FV1</a>
+          <span class="year">2021</span>
+          <span class="screen hand" data-en="14.0-inch QHD display" data-ja="14.0型 QHD液晶" data-zh="14.0英寸 QHD 屏幕">14.0-inch QHD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-FV1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-FV1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-FV1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sv9-cf-sv9hdpqr.jpg" alt="Panasonic Let&#x27;s note CF-SV9 (2020)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV9">CF-SV9</a>
+          <span class="year">2020</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-qv9-cf-qv9cdmqr.jpg" alt="Panasonic Let&#x27;s note CF-QV9 (2020)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV9">CF-QV9</a>
+          <span class="year">2020</span>
+          <span class="screen hand" data-en="12.0-inch WQXGA＋ display" data-ja="12.0型 WQXGA＋液晶" data-zh="12.0英寸 WQXGA＋ 屏幕">12.0-inch WQXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lv9-cf-lv9ddnqr.jpg" alt="Panasonic Let&#x27;s note CF-LV9 (2020)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV9">CF-LV9</a>
+          <span class="year">2020</span>
+          <span class="screen hand" data-en="14.0-inch Full HD display" data-ja="14.0型 Full HD液晶" data-zh="14.0英寸 Full HD 屏幕">14.0-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      </ul>
+    </section>
+    <section class="shelf">
+      <h2><span class="era hand" data-en="the 2010s" data-ja="2010年代" data-zh="2010 年代">the 2010s</span>
+        <span class="note hand" data-en="37 models" data-ja="37 機種" data-zh="37 个机型">37 models</span></h2>
+      <ul class="row">
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sv8-cf-sv8cdfpr.jpg" alt="Panasonic Let&#x27;s note CF-SV8 (2019)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV8">CF-SV8</a>
+          <span class="year">2019</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-rz8-cf-rz8qdeqr.jpg" alt="Panasonic Let&#x27;s note CF-RZ8 (2019)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ8">CF-RZ8</a>
+          <span class="year">2019</span>
+          <span class="screen hand" data-en="10.1-inch WUXGA display" data-ja="10.1型 WUXGA液晶" data-zh="10.1英寸 WUXGA 屏幕">10.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-qv8-cf-qv8ndgqr.jpg" alt="Panasonic Let&#x27;s note CF-QV8 (2019)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV8">CF-QV8</a>
+          <span class="year">2019</span>
+          <span class="screen hand" data-en="12.0-inch WQXGA＋ display" data-ja="12.0型 WQXGA＋液晶" data-zh="12.0英寸 WQXGA＋ 屏幕">12.0-inch WQXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-QV8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-QV8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-QV8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lv8-cf-lv8ndsqr.jpg" alt="Panasonic Let&#x27;s note CF-LV8 (2019)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV8">CF-LV8</a>
+          <span class="year">2019</span>
+          <span class="screen hand" data-en="14.0-inch Full HD display" data-ja="14.0型 Full HD液晶" data-zh="14.0英寸 Full HD 屏幕">14.0-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sv7-cf-sv7hdfpr.jpg" alt="Panasonic Let&#x27;s note CF-SV7 (2018)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV7">CF-SV7</a>
+          <span class="year">2018</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SV7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SV7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SV7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lv7-cf-lv7hdfqr.jpg" alt="Panasonic Let&#x27;s note CF-LV7 (2018)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV7">CF-LV7</a>
+          <span class="year">2018</span>
+          <span class="screen hand" data-en="14.0-inch Full HD display" data-ja="14.0型 Full HD液晶" data-zh="14.0英寸 Full HD 屏幕">14.0-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LV7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LV7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LV7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-XZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-XZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-XZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-XZ6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-xz6-cf-xz6pdapr.jpg" alt="Panasonic Let&#x27;s note CF-XZ6 (2017)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-XZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-XZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-XZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-XZ6">CF-XZ6</a>
+          <span class="year">2017</span>
+          <span class="screen hand" data-en="12.0-inch QHD display" data-ja="12.0型QHD液晶" data-zh="12.0英寸 QHD 屏幕">12.0-inch QHD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-XZ6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-XZ6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-XZ6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sz6-cf-sz6pdkpr.jpg" alt="Panasonic Let&#x27;s note CF-SZ6 (2016)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ6">CF-SZ6</a>
+          <span class="year">2016</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-rz6-cf-rz6ndfqr.jpg" alt="Panasonic Let&#x27;s note CF-RZ6 (2016)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ6">CF-RZ6</a>
+          <span class="year">2016</span>
+          <span class="screen hand" data-en="10.1-inch WUXGA display" data-ja="10.1型 WUXGA液晶" data-zh="10.1英寸 WUXGA 屏幕">10.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lx6-cf-lx6pdaqr.jpg" alt="Panasonic Let&#x27;s note CF-LX6 (2016)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX6">CF-LX6</a>
+          <span class="year">2016</span>
+          <span class="screen hand" data-en="13.3-inch HD/14-inch HD+ display" data-ja="13.3型HD/14型HD+液晶" data-zh="13.3英寸 HD/14英寸 HD+ 屏幕">13.3-inch HD/14-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sz5-cf-sz5hdkpr.jpg" alt="Panasonic Let&#x27;s note CF-SZ5 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ5">CF-SZ5</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="12.1-inch WUXGA display" data-ja="12.1型WUXGA液晶" data-zh="12.1英寸 WUXGA 屏幕">12.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SZ5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SZ5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SZ5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sx4-cf-sx4kftbr.jpg" alt="Panasonic Let&#x27;s note CF-SX4 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX4">CF-SX4</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="12.1-inch HD+ display" data-ja="12.1型HD+液晶" data-zh="12.1英寸 HD+ 屏幕">12.1-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-rz5-cf-rz5gdfpr.jpg" alt="Panasonic Let&#x27;s note CF-RZ5 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ5">CF-RZ5</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="10.1-inch WUXGA display" data-ja="10.1型 WUXGA液晶" data-zh="10.1英寸 WUXGA 屏幕">10.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-mx5-cf-mx5hdgpr.jpg" alt="Panasonic Let&#x27;s note CF-MX5 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX5">CF-MX5</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="12.5-inch Full HD display" data-ja="12.5型 Full HD液晶" data-zh="12.5英寸 Full HD 屏幕">12.5-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-mx4-cf-mx4ddqjr.jpg" alt="Panasonic Let&#x27;s note CF-MX4 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX4">CF-MX4</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="12.5-inch Full HD display" data-ja="12.5型 Full HD液晶" data-zh="12.5英寸 Full HD 屏幕">12.5-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lx5-cf-lx5hdaqr.jpg" alt="Panasonic Let&#x27;s note CF-LX5 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX5">CF-LX5</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="13.3-inch HD/14-inch HD+ display" data-ja="13.3型HD/14型HD+液晶" data-zh="13.3英寸 HD/14英寸 HD+ 屏幕">13.3-inch HD/14-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lx4-cf-lx4ddabr.jpg" alt="Panasonic Let&#x27;s note CF-LX4 (2015)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX4">CF-LX4</a>
+          <span class="year">2015</span>
+          <span class="screen hand" data-en="13.3-inch HD/14-inch HD+ display" data-ja="13.3型HD/14型HD+液晶" data-zh="13.3英寸 HD/14英寸 HD+ 屏幕">13.3-inch HD/14-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-rz4-cf-rz4lddjr.jpg" alt="Panasonic Let&#x27;s note CF-RZ4 (2014)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ4">CF-RZ4</a>
+          <span class="year">2014</span>
+          <span class="screen hand" data-en="10.1-inch WUXGA display" data-ja="10.1型 WUXGA液晶" data-zh="10.1英寸 WUXGA 屏幕">10.1-inch WUXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-RZ4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-RZ4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-RZ4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-mx3-cf-mx3jebjr.jpg" alt="Panasonic Let&#x27;s note CF-MX3 (2014)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX3">CF-MX3</a>
+          <span class="year">2014</span>
+          <span class="screen hand" data-en="12.5-inch Full HD display" data-ja="12.5型 Full HD液晶" data-zh="12.5英寸 Full HD 屏幕">12.5-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-MX3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-MX3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-MX3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sx3-cf-sx3jeajr.jpg" alt="Panasonic Let&#x27;s note CF-SX3 (2013)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX3">CF-SX3</a>
+          <span class="year">2013</span>
+          <span class="screen hand" data-en="12.1-inch HD+ display" data-ja="12.1型HD+液晶" data-zh="12.1英寸 HD+ 屏幕">12.1-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-lx3-cf-lx3jejjr.jpg" alt="Panasonic Let&#x27;s note CF-LX3 (2013)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX3">CF-LX3</a>
+          <span class="year">2013</span>
+          <span class="screen hand" data-en="13.3-inch HD/14-inch HD+ display" data-ja="13.3型HD/14型HD+液晶" data-zh="13.3英寸 HD/14英寸 HD+ 屏幕">13.3-inch HD/14-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-LX3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-LX3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-LX3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-ax3-cf-ax3segjr.jpg" alt="Panasonic Let&#x27;s note CF-AX3 (2013)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX3">CF-AX3</a>
+          <span class="year">2013</span>
+          <span class="screen hand" data-en="11.6-inch Full HD display" data-ja="11.6型Full HD液晶" data-zh="11.6英寸 Full HD 屏幕">11.6-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sx2-cf-sx2beabr.jpg" alt="Panasonic Let&#x27;s note CF-SX2 (2012)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX2">CF-SX2</a>
+          <span class="year">2012</span>
+          <span class="screen hand" data-en="12.1-inch HD+ display" data-ja="12.1型HD+液晶" data-zh="12.1英寸 HD+ 屏幕">12.1-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-sx1-cf-sx1geadr.jpg" alt="Panasonic Let&#x27;s note CF-SX1 (2012)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX1">CF-SX1</a>
+          <span class="year">2012</span>
+          <span class="screen hand" data-en="12.1-inch HD+ display" data-ja="12.1型HD+液晶" data-zh="12.1英寸 HD+ 屏幕">12.1-inch HD+ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-SX1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-SX1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-SX1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B11" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B11" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B11" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B11">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-b11-cf-b11uwabr.jpg" alt="Panasonic Let&#x27;s note CF-B11 (2012)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B11" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B11" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B11" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B11">CF-B11</a>
+          <span class="year">2012</span>
+          <span class="screen hand" data-en="15.6-inch Full HD display" data-ja="15.6型Full HD液晶・光学式ドライブ内蔵" data-zh="15.6英寸 Full HD 屏幕">15.6-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B11" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B11" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B11" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-ax2-cf-ax2teqbr.jpg" alt="Panasonic Let&#x27;s note CF-AX2 (2012)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX2">CF-AX2</a>
+          <span class="year">2012</span>
+          <span class="screen hand" data-en="11.6-inch HD display" data-ja="11.6型HD液晶" data-zh="11.6英寸 HD 屏幕">11.6-inch HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-AX2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-AX2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-AX2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S10">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s10-cf-s10eybdr.jpg" alt="Panasonic Let&#x27;s note CF-S10 (2011)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S10">CF-S10</a>
+          <span class="year">2011</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S10" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S10" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S10" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N10">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-n10-cf-n10eyadr.jpg" alt="Panasonic Let&#x27;s note CF-N10 (2011)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N10">CF-N10</a>
+          <span class="year">2011</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N10" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N10" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N10" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J10">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-j10-cf-j10sybhr.jpg" alt="Panasonic Let&#x27;s note CF-J10 (2011)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J10">CF-J10</a>
+          <span class="year">2011</span>
+          <span class="screen hand" data-en="10.1-inch WXGA display" data-ja="10.1型WXGA液晶" data-zh="10.1英寸 WXGA 屏幕">10.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J10" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J10" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J10" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F10">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-f10-cf-f10aycdr.jpg" alt="Panasonic Let&#x27;s note CF-F10 (2011)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F10">CF-F10</a>
+          <span class="year">2011</span>
+          <span class="screen hand" data-en="14.1-inch WXGA＋ display" data-ja="14.1型WXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 WXGA＋ 屏幕">14.1-inch WXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F10" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F10" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F10" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B10">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-b10-cf-b10cwadr.jpg" alt="Panasonic Let&#x27;s note CF-B10 (2011)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B10" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B10" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B10" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B10">CF-B10</a>
+          <span class="year">2011</span>
+          <span class="screen hand" data-en="15.6-inch Full HD display" data-ja="15.6型Full HD液晶・光学式ドライブ内蔵" data-zh="15.6英寸 Full HD 屏幕">15.6-inch Full HD display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B10" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B10" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B10" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s9-cf-s9lyfedr.jpg" alt="Panasonic Let&#x27;s note CF-S9 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S9">CF-S9</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r9-cf-r9jwacdr.jpg" alt="Panasonic Let&#x27;s note CF-R9 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R9">CF-R9</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-n9-cf-n9lypedr.jpg" alt="Panasonic Let&#x27;s note CF-N9 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N9">CF-N9</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-N9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-N9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-N9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-j9-cf-j9ly1ahr.jpg" alt="Panasonic Let&#x27;s note CF-J9 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J9">CF-J9</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="10.1-inch WXGA display" data-ja="10.1型WXGA液晶" data-zh="10.1英寸 WXGA 屏幕">10.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-J9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-J9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-J9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F9">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-f9-cf-f9lyfgdr.jpg" alt="Panasonic Let&#x27;s note CF-F9 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F9" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F9" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F9" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F9">CF-F9</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="14.1-inch WXGA＋ display" data-ja="14.1型WXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 WXGA＋ 屏幕">14.1-inch WXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F9" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F9" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F9" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-c1-cf-c1beaadr.jpg" alt="Panasonic Let&#x27;s note CF-C1 (2010)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C1">CF-C1</a>
+          <span class="year">2010</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      </ul>
+    </section>
+    <section class="shelf">
+      <h2><span class="era hand" data-en="the 2000s" data-ja="2000年代" data-zh="2000 年代">the 2000s</span>
+        <span class="note hand" data-en="29 models" data-ja="29 機種" data-zh="29 个机型">29 models</span></h2>
+      <ul class="row">
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s8-cf-s8hyeadr.jpg" alt="Panasonic Let&#x27;s note CF-S8 (2009)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S8">CF-S8</a>
+          <span class="year">2009</span>
+          <span class="screen hand" data-en="12.1-inch WXGA display" data-ja="12.1型WXGA液晶" data-zh="12.1英寸 WXGA 屏幕">12.1-inch WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-y8-cf-y8fwmcjr.jpg" alt="Panasonic Let&#x27;s note CF-Y8 (2008)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y8">CF-Y8</a>
+          <span class="year">2008</span>
+          <span class="screen hand" data-en="14.1-inch SXGA＋ display" data-ja="14.1型SXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 SXGA＋ 屏幕">14.1-inch SXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-w8-cf-w8ewnqjr.jpg" alt="Panasonic Let&#x27;s note CF-W8 (2008)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W8">CF-W8</a>
+          <span class="year">2008</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶・光学式ドライブ内蔵" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t8-cf-t8fw1ajr.jpg" alt="Panasonic Let&#x27;s note CF-T8 (2008)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T8">CF-T8</a>
+          <span class="year">2008</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r8-cf-r8hwkcdr.jpg" alt="Panasonic Let&#x27;s note CF-R8 (2008)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R8">CF-R8</a>
+          <span class="year">2008</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F8">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-f8-cf-f8hyrcdr.jpg" alt="Panasonic Let&#x27;s note CF-F8 (2008)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F8" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F8" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F8" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F8">CF-F8</a>
+          <span class="year">2008</span>
+          <span class="screen hand" data-en="14.1-inch WXGA＋/WXGA display" data-ja="14.1型WXGA＋/WXGA液晶・光学式ドライブ内蔵" data-zh="14.1英寸 WXGA＋/WXGA 屏幕">14.1-inch WXGA＋/WXGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-F8" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-F8" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-F8" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-y7-cf-y7dwjajr.jpg" alt="Panasonic Let&#x27;s note CF-Y7 (2007)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y7">CF-Y7</a>
+          <span class="year">2007</span>
+          <span class="screen hand" data-en="14.1-inch SXGA＋ display" data-ja="14.1型SXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 SXGA＋ 屏幕">14.1-inch SXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-w7-cf-w7dwjajr.jpg" alt="Panasonic Let&#x27;s note CF-W7 (2007)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W7">CF-W7</a>
+          <span class="year">2007</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶・光学式ドライブ内蔵" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t7-cf-t7dw6ajr.jpg" alt="Panasonic Let&#x27;s note CF-T7 (2007)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T7">CF-T7</a>
+          <span class="year">2007</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R7">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r7-cf-r7dw6ajr.jpg" alt="Panasonic Let&#x27;s note CF-R7 (2007)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R7" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R7" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R7" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R7">CF-R7</a>
+          <span class="year">2007</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R7" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R7" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R7" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R6">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r6-cf-r6aw1bjr.jpg" alt="Panasonic Let&#x27;s note CF-R6 (2007)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R6" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R6" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R6" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R6">CF-R6</a>
+          <span class="year">2007</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R6" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R6" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R6" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-y5-cf-y5mw8ajr.jpg" alt="Panasonic Let&#x27;s note CF-Y5 (2006)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y5">CF-Y5</a>
+          <span class="year">2006</span>
+          <span class="screen hand" data-en="14.1-inch SXGA＋ display" data-ja="14.1型SXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 SXGA＋ 屏幕">14.1-inch SXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-w5-cf-w5awdbjr.jpg" alt="Panasonic Let&#x27;s note CF-W5 (2006)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W5">CF-W5</a>
+          <span class="year">2006</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶・光学式ドライブ内蔵" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t5-cf-t5aw1bjr.jpg" alt="Panasonic Let&#x27;s note CF-T5 (2006)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T5">CF-T5</a>
+          <span class="year">2006</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r5-cf-r5lw4axr.jpg" alt="Panasonic Let&#x27;s note CF-R5 (2006)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R5">CF-R5</a>
+          <span class="year">2006</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-y4-cf-y4jw8axr.jpg" alt="Panasonic Let&#x27;s note CF-Y4 (2005)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y4">CF-Y4</a>
+          <span class="year">2005</span>
+          <span class="screen hand" data-en="14.1-inch SXGA＋ display" data-ja="14.1型SXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 SXGA＋ 屏幕">14.1-inch SXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-w4-cf-w4hw8axr.jpg" alt="Panasonic Let&#x27;s note CF-W4 (2005)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W4">CF-W4</a>
+          <span class="year">2005</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶・光学式ドライブ内蔵" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T4">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t4-cf-t4hw4axr.jpg" alt="Panasonic Let&#x27;s note CF-T4 (2005)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T4">CF-T4</a>
+          <span class="year">2005</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-y2-cf-y2fw7axr.jpg" alt="Panasonic Let&#x27;s note CF-Y2 (2004)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y2">CF-Y2</a>
+          <span class="year">2004</span>
+          <span class="screen hand" data-en="14.1-inch SXGA＋ display" data-ja="14.1型SXGA＋液晶・光学式ドライブ内蔵" data-zh="14.1英寸 SXGA＋ 屏幕">14.1-inch SXGA＋ display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-Y2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-Y2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-Y2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R3">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r3-cf-r3fw1axr.jpg" alt="Panasonic Let&#x27;s note CF-R3 (2004)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R3">CF-R3</a>
+          <span class="year">2004</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-w2-cf-w2bw1axr.jpg" alt="Panasonic Let&#x27;s note CF-W2 (2003)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W2">CF-W2</a>
+          <span class="year">2003</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶・光学式ドライブ内蔵" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-W2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-W2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-W2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t2-cf-t2bw1axr.jpg" alt="Panasonic Let&#x27;s note CF-T2 (2003)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T2">CF-T2</a>
+          <span class="year">2003</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r2-cf-r2bw1axr.jpg" alt="Panasonic Let&#x27;s note CF-R2 (2003)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R2">CF-R2</a>
+          <span class="year">2003</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-t1-cf-t1pcaxr.jpg" alt="Panasonic Let&#x27;s note CF-T1 (2002)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T1">CF-T1</a>
+          <span class="year">2002</span>
+          <span class="screen hand" data-en="12.1-inch XGA display" data-ja="12.1型XGA液晶" data-zh="12.1英寸 XGA 屏幕">12.1-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-T1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-T1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-T1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-r1-cf-r1mcaxr.jpg" alt="Panasonic Let&#x27;s note CF-R1 (2002)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R1">CF-R1</a>
+          <span class="year">2002</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-R1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-R1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-R1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-l2-cf-l2r4hma.jpg" alt="Panasonic Let&#x27;s note CF-L2 (2001)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L2">CF-L2</a>
+          <span class="year">2001</span>
+          <span class="screen hand" data-en="13.3-inch XGA display" data-ja="13.3型XGA液晶" data-zh="13.3英寸 XGA 屏幕">13.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-a2-cf-a2r4h2.jpg" alt="Panasonic Let&#x27;s note CF-A2 (2001)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A2">CF-A2</a>
+          <span class="year">2001</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M2">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-m2-cf-m2xr2k.jpg" alt="Panasonic Let&#x27;s note CF-M2 (2000)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M2">CF-M2</a>
+          <span class="year">2000</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B5">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-b5-cf-b5fr.jpg" alt="Panasonic Let&#x27;s note CF-B5 (2000)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B5" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B5" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B5" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B5">CF-B5</a>
+          <span class="year">2000</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-B5" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-B5" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-B5" lang="zh">中文</a></span>
+        </div>
+      </li>
+      </ul>
+    </section>
+    <section class="shelf">
+      <h2><span class="era hand" data-en="the 1990s" data-ja="1990年代" data-zh="1990 年代">the 1990s</span>
+        <span class="note hand" data-en="15 models" data-ja="15 機種" data-zh="15 个机型">15 models</span></h2>
+      <ul class="row">
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-m1-cf-m1ev.jpg" alt="Panasonic Let&#x27;s note CF-M1 (1999)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M1">CF-M1</a>
+          <span class="year">1999</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-l1-cf-l1ga.jpg" alt="Panasonic Let&#x27;s note CF-L1 (1999)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L1">CF-L1</a>
+          <span class="year">1999</span>
+          <span class="screen hand" data-en="13.3-inch XGA display" data-ja="13.3型XGA液晶" data-zh="13.3英寸 XGA 屏幕">13.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-L1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-L1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-L1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A77" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A77" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A77" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A77">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-a77-cf-a77j8.jpg" alt="Panasonic Let&#x27;s note CF-A77 (1999)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A77" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A77" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A77" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A77">CF-A77</a>
+          <span class="year">1999</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A77" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A77" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A77" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A1">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-a1-cf-a1er.jpg" alt="Panasonic Let&#x27;s note CF-A1 (1999)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A1">CF-A1</a>
+          <span class="year">1999</span>
+          <span class="screen hand" data-en="10.4-inch XGA display" data-ja="10.4型XGA液晶" data-zh="10.4英寸 XGA 屏幕">10.4-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S51" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S51" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S51" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S51">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s51-cf-s51vxj8.jpg" alt="Panasonic Let&#x27;s note CF-S51 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S51" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S51" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S51" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S51">CF-S51</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S51" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S51" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S51" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S22" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S22" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S22" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S22">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s22-cf-s22j8.jpg" alt="Panasonic Let&#x27;s note CF-S22 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S22" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S22" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S22" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S22">CF-S22</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="10.4-inch SVGA display" data-ja="10.4型SVGA液晶" data-zh="10.4英寸 SVGA 屏幕">10.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S22" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S22" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S22" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S21" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S21" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S21" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S21">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-s21-cf-s21ej8.jpg" alt="Panasonic Let&#x27;s note CF-S21 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S21" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S21" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S21" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S21">CF-S21</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="10.4-inch SVGA display" data-ja="10.4型SVGA液晶" data-zh="10.4英寸 SVGA 屏幕">10.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-S21" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-S21" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-S21" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M32" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M32" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M32" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M32">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-m32-cf-m32j8.jpg" alt="Panasonic Let&#x27;s note CF-M32 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:0.0deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M32" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M32" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M32" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M32">CF-M32</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="8.4-inch SVGA display" data-ja="8.4型SVGA液晶" data-zh="8.4英寸 SVGA 屏幕">8.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-M32" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-M32" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-M32" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C33" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C33" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C33" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C33">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-c33-cf-c33eaj8c.jpg" alt="Panasonic Let&#x27;s note CF-C33 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C33" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C33" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C33" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C33">CF-C33</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="8.4-inch SVGA display" data-ja="8.4型SVGA液晶" data-zh="8.4英寸 SVGA 屏幕">8.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-C33" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-C33" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-C33" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A44" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A44" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A44" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A44">
+          <canvas class="glass" aria-hidden="true"></canvas><img src="thumbs/panasonic-letsnote-cf-a44-cf-a44ej8.jpg" alt="Panasonic Let&#x27;s note CF-A44 (1998)" loading="lazy" decoding="async">
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A44" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A44" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A44" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A44">CF-A44</a>
+          <span class="year">1998</span>
+          <span class="screen hand" data-en="11.3-inch XGA display" data-ja="11.3型XGA液晶" data-zh="11.3英寸 XGA 屏幕">11.3-inch XGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/CF-A44" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/CF-A44" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/CF-A44" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N4">
+          <p class="lost hand" data-i18n="lost"></p>
+        </a>
+        <div class="tag hand" style="--tilt:-1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N4" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N4" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N4" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N4">AL-N4</a>
+          <span class="year">1997</span>
+          <span class="screen hand" data-en="8.4-inch SVGA display" data-ja="8.4型SVGA液晶" data-zh="8.4英寸 SVGA 屏幕">8.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N4" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N4" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N4" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N3">
+          <p class="lost hand" data-i18n="lost"></p>
+        </a>
+        <div class="tag hand" style="--tilt:-2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N3" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N3" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N3" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N3">AL-N3</a>
+          <span class="year">1997</span>
+          <span class="screen hand" data-en="12.1-inch SVGA display" data-ja="12.1型SVGA液晶" data-zh="12.1英寸 SVGA 屏幕">12.1-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N3" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N3" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N3" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N2">
+          <p class="lost hand" data-i18n="lost"></p>
+        </a>
+        <div class="tag hand" style="--tilt:2.4deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N2" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N2" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N2" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N2">AL-N2</a>
+          <span class="year">1997</span>
+          <span class="screen hand" data-en="10.4-inch SVGA display" data-ja="10.4型SVGA液晶" data-zh="10.4英寸 SVGA 屏幕">10.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N2" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N2" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N2" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N1">
+          <p class="lost hand" data-i18n="lost"></p>
+        </a>
+        <div class="tag hand" style="--tilt:1.6deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N1" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N1" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N1" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N1">AL-N1</a>
+          <span class="year">1996</span>
+          <span class="screen hand" data-en="10.4-inch SVGA display" data-ja="10.4型SVGA液晶" data-zh="10.4英寸 SVGA 屏幕">10.4-inch SVGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N1" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N1" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N1" lang="zh">中文</a></span>
+        </div>
+      </li>
+      <li class="case">
+        <a class="vitrine" href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N0" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N0" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N0" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N0">
+          <p class="lost hand" data-i18n="lost"></p>
+        </a>
+        <div class="tag hand" style="--tilt:0.8deg">
+          <a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N0" data-href-en="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N0" data-href-ja="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N0" data-href-zh="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N0">AL-N0</a>
+          <span class="year">1996</span>
+          <span class="screen hand" data-en="7.8-inch VGA display" data-ja="7.8型VGA液晶" data-zh="7.8英寸 VGA 屏幕">7.8-inch VGA display</span>
+          <span class="langs"><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/en/AL-N0" lang="en">EN</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/ja/AL-N0" lang="ja">日本語</a><a href="https://github.com/yibie/panasonic-letsnote-specs/tree/main/zh/AL-N0" lang="zh">中文</a></span>
+        </div>
+      </li>
+      </ul>
+    </section>
+</main>
+<footer>
+  <span class="sign" data-i18n="sign">— arranged by hand from Panasonic's official spec sheets</span>
+  <small><a href="https://github.com/yibie/panasonic-letsnote-specs">https://github.com/yibie/panasonic-letsnote-specs</a> · Product images © Panasonic · Not affiliated with Panasonic.</small>
+</footer>
+<script>
+(() => {
+  const TEXT = {
+    en: {
+      title: "The Let's note Cabinet",
+      curator: "Every Panasonic Let's note since 1996, each in its own glass case. Open a case to read the model's full spec sheet.",
+      count: "96 models · 777 part numbers",
+      lost: "photo lost somewhere back in the '90s…",
+      sign: "— arranged by hand from Panasonic's official spec sheets",
+      doc: "Let's note Cabinet · every Panasonic Let's note since 1996",
+    },
+    ja: {
+      title: "レッツノート陳列棚",
+      curator: "1996年から今日までのレッツノートを、一台ずつガラスケースに並べました。ケースを開けると、その機種の詳しいスペックが読めます。",
+      count: "96 機種 · 777 品番",
+      lost: "写真は90年代のどこかへ…",
+      sign: "— パナソニック公式の仕様表をもとに、手作業で並べました",
+      doc: "レッツノート陳列棚 · 1996年以降の全機種スペック",
+    },
+    zh: {
+      title: "Let's note 陈列柜",
+      curator: "从 1996 年到今天的每一台松下 Let's note，各自住在一格玻璃柜里。打开任意一格，就能读到它的完整规格。",
+      count: "96 个机型 · 777 个型号",
+      lost: "照片遗落在九十年代了……",
+      sign: "—— 依照松下官方规格表，一格一格亲手摆好",
+      doc: "Let's note 陈列柜 · 1996 年以来全部机型规格",
+    },
+  };
+
+  function store(key, value) {
+    try { if (value === undefined) return localStorage.getItem(key); localStorage.setItem(key, value); } catch (e) { return null; }
+  }
+
+  function setLang(lang) {
+    document.documentElement.lang = lang;
+    document.title = TEXT[lang].doc;
+    document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = TEXT[lang][el.dataset.i18n]; });
+    document.querySelectorAll("[data-href-" + lang + "]").forEach(a => { a.href = a.dataset["href" + lang[0].toUpperCase() + lang.slice(1)]; });
+    document.querySelectorAll("[data-en][data-ja][data-zh]").forEach(el => { el.textContent = el.dataset[lang]; });
+    document.querySelectorAll(".lang-switch button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+    store("lang", lang);
+  }
+
+  const saved = store("lang");
+  const nav = (navigator.language || "en").toLowerCase();
+  setLang(TEXT[saved] ? saved : nav.startsWith("ja") ? "ja" : nav.startsWith("zh") ? "zh" : "en");
+  document.querySelector(".lang-switch").addEventListener("click", e => {
+    const b = e.target.closest("button[data-lang]");
+    if (b) setLang(b.dataset.lang);
+  });
+
+  /* ---------- Glass-case reflection shader ----------
+     One shared WebGL canvas renders every visible case, then copies the
+     result into that case's own 2D canvas. The laptop gets a moving specular
+     band and a thin glint; the white/transparent backdrop is masked out. */
+  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const glCanvas = document.createElement("canvas");
+  const gl = glCanvas.getContext("webgl", { premultipliedAlpha: false, alpha: true, antialias: false });
+  const cases = [...document.querySelectorAll(".vitrine")].filter(v => v.querySelector("img"));
+  const pointer = { x: -1, y: -1, t: 0 };
+  addEventListener("pointermove", e => { pointer.x = e.clientX; pointer.y = e.clientY; pointer.t = performance.now(); }, { passive: true });
+
+  function setGlassSheen(now) {
+    // CSS glass sheen on every visible case; also the fallback without WebGL.
+    for (const v of visible) {
+      const r = v.getBoundingClientRect();
+      v.style.setProperty("--lx", (lightFor(r, now).x * 100).toFixed(1) + "%");
+    }
+  }
+
+  function lightFor(r, now) {
+    // Follow the pointer while it moves; otherwise sweep with scroll position.
+    if (now - pointer.t < 2500 && pointer.x >= 0) {
+      return { x: (pointer.x - r.left) / r.width, y: (pointer.y - r.top) / r.height };
+    }
+    const drift = reduceMotion ? 0 : Math.sin(now / 2600 + r.left / 300) * 0.12;
+    return { x: 1.15 - (r.top + r.height / 2) / innerHeight * 1.3 + drift, y: 0.35 };
+  }
+
+  const visible = new Set();
+  const io = new IntersectionObserver(entries => {
+    for (const e of entries) e.isIntersecting ? visible.add(e.target) : visible.delete(e.target);
+  }, { rootMargin: "120px" });
+  document.querySelectorAll(".vitrine").forEach(v => io.observe(v));
+
+  if (!gl) {
+    const loop = now => { setGlassSheen(now); requestAnimationFrame(loop); };
+    requestAnimationFrame(loop);
+    return;
+  }
+
+  const VS = `attribute vec2 p; varying vec2 uv;
+    void main(){ uv = p * .5 + .5; gl_Position = vec4(p, 0., 1.); }`;
+  const FS = `precision mediump float;
+    varying vec2 uv; uniform sampler2D tex; uniform vec2 light; uniform float time;
+    void main(){
+      vec4 c = texture2D(tex, uv);
+      float lum = dot(c.rgb, vec3(.299, .587, .114));
+      // The product, not the white studio backdrop or transparent pixels.
+      float backdrop = smoothstep(.88, .97, min(c.r, min(c.g, c.b)));
+      float mask = c.a * (1. - backdrop);
+      vec2 dir = normalize(vec2(1., -.62));
+      float d = dot(uv - light, dir);
+      float band = exp(-d * d * 60.);
+      float glint = exp(-pow(d + .085, 2.) * 1400.) * .9;
+      float ripple = .04 * sin(uv.y * 40. + time * .6);        // faint waviness of old glass
+      float spec = (band * .26 + glint * .7) * mask * (.5 + .4 * lum) * (1. + ripple);
+      // Brushed-metal feel: brighter surfaces pick up a warmer highlight.
+      vec3 col = c.rgb + spec * vec3(1., .97, .9);
+      // Slight lift on edges facing the light, like a lid catching it.
+      float edge = smoothstep(.0, .6, 1. - abs(d) * 1.4) * mask * .05;
+      // Key out the white studio backdrop so the laptop stands in the case.
+      float keyed = c.a * (1. - smoothstep(.975, .998, min(c.r, min(c.g, c.b))));
+      gl_FragColor = vec4(min(col + edge, 1.), keyed);
+    }`;
+  function shader(type, src) {
+    const s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s);
+    if (!gl.getShaderParameter(s, gl.COMPILE_STATUS)) throw new Error(gl.getShaderInfoLog(s));
+    return s;
+  }
+  const prog = gl.createProgram();
+  gl.attachShader(prog, shader(gl.VERTEX_SHADER, VS));
+  gl.attachShader(prog, shader(gl.FRAGMENT_SHADER, FS));
+  gl.linkProgram(prog); gl.useProgram(prog);
+  const buf = gl.createBuffer();
+  gl.bindBuffer(gl.ARRAY_BUFFER, buf);
+  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 1, -1, -1, 1, 1, 1]), gl.STATIC_DRAW);
+  const loc = gl.getAttribLocation(prog, "p");
+  gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
+  const uLight = gl.getUniformLocation(prog, "light");
+  const uTime = gl.getUniformLocation(prog, "time");
+  gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, true);
+  gl.clearColor(0, 0, 0, 0);
+
+  const state = new Map(); // vitrine -> {img, canvas, ctx, tex}
+  function prepare(v) {
+    let s = state.get(v);
+    if (s) return s;
+    const img = v.querySelector("img");
+    if (!img.complete || !img.naturalWidth) return null;
+    const canvas = v.querySelector("canvas.glass");
+    const tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    try { gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, img); }
+    catch (e) { return null; }
+    s = { img, canvas, ctx: canvas.getContext("2d"), tex };
+    state.set(v, s);
+    v.classList.add("gl");
+    return s;
+  }
+
+  function render(now) {
+    setGlassSheen(now);
+    const dpr = Math.min(devicePixelRatio || 1, 1.5);
+    for (const v of visible) {
+      const s = prepare(v);
+      if (!s) continue;
+      // Place the canvas exactly over the (hidden) image.
+      const w = s.img.offsetWidth, h = s.img.offsetHeight;
+      if (!w || !h) continue;
+      Object.assign(s.canvas.style, { left: s.img.offsetLeft + "px", top: s.img.offsetTop + "px", width: w + "px", height: h + "px" });
+      const pw = Math.round(w * dpr), ph = Math.round(h * dpr);
+      if (s.canvas.width !== pw || s.canvas.height !== ph) { s.canvas.width = pw; s.canvas.height = ph; }
+      if (glCanvas.width < pw || glCanvas.height < ph) { glCanvas.width = Math.max(glCanvas.width, pw); glCanvas.height = Math.max(glCanvas.height, ph); }
+
+      const r = s.img.getBoundingClientRect();
+      const l = lightFor(r, now);
+      gl.viewport(0, 0, pw, ph);
+      gl.clear(gl.COLOR_BUFFER_BIT);
+      gl.bindTexture(gl.TEXTURE_2D, s.tex);
+      gl.uniform2f(uLight, l.x, 1 - l.y);
+      gl.uniform1f(uTime, reduceMotion ? 0 : now / 1000);
+      gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
+      s.ctx.clearRect(0, 0, pw, ph);
+      s.ctx.drawImage(glCanvas, 0, glCanvas.height - ph, pw, ph, 0, 0, pw, ph);
+    }
+    requestAnimationFrame(render);
+  }
+  requestAnimationFrame(render);
+})();
+</script>
+</body>
+</html>
