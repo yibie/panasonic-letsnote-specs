@@ -4,7 +4,7 @@
 
 Specifications of every Panasonic Let's note model since 1996: 96 models and 777 part numbers. Each model has its own page with all part numbers, release and discontinuation dates, photos and the full official spec sheet.
 
-Browse them all as a glass cabinet: **[https://www.gtdstudy.com/panasonic-letsnote-specs/](https://www.gtdstudy.com/panasonic-letsnote-specs/)**
+Browse them all as a glass cabinet: **[https://letsnote-specs.github.io/](https://letsnote-specs.github.io/)**
 
 | Series | Models (newest first) |
 | :-- | :-- |

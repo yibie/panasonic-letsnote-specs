@@ -16,7 +16,7 @@ from labels import LABELS, LABELS_ZH
 
 LIST_URL = "https://panasonic.jp/pc/support/products/"
 SPEC_URL = "https://panasonic.jp/pc/p-db/{}_spec.html"
-SITE_URL = "https://www.gtdstudy.com/panasonic-letsnote-specs/"
+SITE_URL = "https://letsnote-specs.github.io/"
 
 
 def model_of(row):
