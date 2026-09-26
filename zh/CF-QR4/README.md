@@ -2,6 +2,8 @@
 
 [English](../../en/CF-QR4/) · [日本語](../../ja/CF-QR4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-QR4/)中查看此机型
+
 **CF-QR4** 是松下 Let's note 笔记本电脑，属于 QR 系列，配备 12.4英寸 FHD+ 屏幕。本页收录其全部 7 个型号（2023-06 – 2025-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-QR4 12.4 英寸笔记本电脑，黑色，2023 年](../../images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4fdncr.jpg "松下 Let's note CF-QR4 规格参数")

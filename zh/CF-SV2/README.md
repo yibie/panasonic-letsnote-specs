@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV2/) · [日本語](../../ja/CF-SV2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SV2/)中查看此机型
+
 **CF-SV2** 是松下 Let's note 笔记本电脑，属于 SV 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 12 个型号（2022-01 – 2023-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SV2 12.1 英寸笔记本电脑，黑色，2022 年](../../images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2kfncr.jpg "松下 Let's note CF-SV2 规格参数")

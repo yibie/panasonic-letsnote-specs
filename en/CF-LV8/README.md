@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LV8/) · [中文](../../zh/CF-LV8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LV8/).
+
 **CF-LV8** is a Panasonic Let's note laptop in the LV series with a 14.0-inch Full HD display. This page lists all 11 part numbers, released 2019-06 – 2020-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LV8 14.0-inch laptop, silver, 2019](../../images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8ndsqr.jpg "Panasonic Let's note CF-LV8 specifications")

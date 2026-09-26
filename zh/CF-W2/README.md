@@ -2,6 +2,8 @@
 
 [English](../../en/CF-W2/) · [日本語](../../ja/CF-W2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-W2/)中查看此机型
+
 **CF-W2** 是松下 Let's note 笔记本电脑，属于 W2 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 10 个型号（2003-06 – 2005-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-W2 12.1 英寸笔记本电脑，2003 年](../../images/CF-W2/panasonic-letsnote-cf-w2-cf-w2bw1axr.jpg "松下 Let's note CF-W2 规格参数")

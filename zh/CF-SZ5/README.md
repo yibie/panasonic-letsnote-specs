@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SZ5/) · [日本語](../../ja/CF-SZ5/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SZ5/)中查看此机型
+
 **CF-SZ5** 是松下 Let's note 笔记本电脑，属于 SZ 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 14 个型号（2015-11 – 2016-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SZ5 12.1 英寸笔记本电脑，银色，2015 年](../../images/CF-SZ5/panasonic-letsnote-cf-sz5-cf-sz5hdkpr.jpg "松下 Let's note CF-SZ5 规格参数")

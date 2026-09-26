@@ -2,6 +2,8 @@
 
 [English](../../en/CF-QV9/) · [日本語](../../ja/CF-QV9/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-QV9/)中查看此机型
+
 **CF-QV9** 是松下 Let's note 笔记本电脑，属于 QV 系列，配备 12.0英寸 WQXGA＋ 屏幕。本页收录其全部 9 个型号（2020-06 – 2021-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-QV9 12.0 英寸笔记本电脑，黑银，2020 年](../../images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9cdmqr.jpg "松下 Let's note CF-QV9 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX5/) · **日本語** · [中文](../../zh/CF-MX5/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-MX5/)でこの機種を見る
+
 パナソニック レッツノート **CF-MX5**（MXシリーズ・12.5型 Full HD液晶）の全8品番（2015-10 – 2016-10発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-MX5（12.5型ノートパソコン、シルバー、2015年発売）](../../images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5hdgpr.jpg "レッツノート CF-MX5 スペック")

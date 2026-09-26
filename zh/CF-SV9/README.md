@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV9/) · [日本語](../../ja/CF-SV9/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SV9/)中查看此机型
+
 **CF-SV9** 是松下 Let's note 笔记本电脑，属于 SV 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 16 个型号（2020-01 – 2020-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SV9 12.1 英寸笔记本电脑，金银，2020 年，型号 CF-SV9HDPQR](../../images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9hdpqr.jpg "松下 Let's note CF-SV9 规格参数")

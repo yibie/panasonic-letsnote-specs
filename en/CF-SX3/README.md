@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SX3/) · [中文](../../zh/CF-SX3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SX3/).
+
 **CF-SX3** is a Panasonic Let's note laptop in the SX series with a 12.1-inch HD+ display. This page lists all 23 part numbers, released 2013-09 – 2014-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SX3 12.1-inch laptop, silver, 2013](../../images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3jeajr.jpg "Panasonic Let's note CF-SX3 specifications")

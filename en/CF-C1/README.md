@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-C1/) · [中文](../../zh/CF-C1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-C1/).
+
 **CF-C1** is a Panasonic Let's note laptop in the C1 series with a 12.1-inch WXGA display. This page lists all 2 part numbers, released 2010-06 – 2011-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-C1 12.1-inch laptop, 2010, part number CF-C1BEAADR](../../images/CF-C1/panasonic-letsnote-cf-c1-cf-c1beaadr.jpg "Panasonic Let's note CF-C1 specifications")

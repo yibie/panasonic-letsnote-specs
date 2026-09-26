@@ -2,6 +2,8 @@
 
 [English](../../en/CF-T2/) · [日本語](../../ja/CF-T2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-T2/)中查看此机型
+
 **CF-T2** 是松下 Let's note 笔记本电脑，属于 T2 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 7 个型号（2003-05 – 2005-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-T2 12.1 英寸笔记本电脑，2003 年](../../images/CF-T2/panasonic-letsnote-cf-t2-cf-t2bw1axr.jpg "松下 Let's note CF-T2 规格参数")

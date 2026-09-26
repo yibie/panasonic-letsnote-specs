@@ -2,6 +2,8 @@
 
 [English](../../en/AL-N2/) · [日本語](../../ja/AL-N2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/AL-N2/)中查看此机型
+
 **AL-N2** 是松下 Let's note 笔记本电脑，属于 N2 系列，配备 10.4英寸 SVGA 屏幕。本页收录其全部 3 个型号（1997-06 – 1998-03 发售）的规格参数。
 
 ## 型号列表

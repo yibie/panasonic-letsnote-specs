@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SC6/) · [日本語](../../ja/CF-SC6/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SC6/)中查看此机型
+
 **CF-SC6** 是松下 Let's note 笔记本电脑。本页收录其全部 3 个型号的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SC6 笔记本电脑，灰色](../../images/CF-SC6/panasonic-letsnote-cf-sc6-cf-sc6admcr.png "松下 Let's note CF-SC6 规格参数")

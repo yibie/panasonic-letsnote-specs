@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX4/) · **日本語** · [中文](../../zh/CF-MX4/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-MX4/)でこの機種を見る
+
 パナソニック レッツノート **CF-MX4**（MXシリーズ・12.5型 Full HD液晶）の全8品番（2015-01 – 2015-06発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-MX4（12.5型ノートパソコン、シルバー、2015年発売）](../../images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4ddqjr.jpg "レッツノート CF-MX4 スペック")

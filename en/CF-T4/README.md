@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T4/) · [中文](../../zh/CF-T4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T4/).
+
 **CF-T4** is a Panasonic Let's note laptop in the T4 series with a 12.1-inch XGA display. This page lists all 3 part numbers, released 2005-05 – 2006-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T4 12.1-inch laptop, 2005](../../images/CF-T4/panasonic-letsnote-cf-t4-cf-t4hw4axr.jpg "Panasonic Let's note CF-T4 specifications")

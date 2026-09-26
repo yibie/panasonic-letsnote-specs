@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T1/) · [中文](../../zh/CF-T1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T1/).
+
 **CF-T1** is a Panasonic Let's note laptop in the T1 series with a 12.1-inch XGA display. This page lists all 6 part numbers, released 2002-11 – 2003-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T1 12.1-inch laptop, 2002](../../images/CF-T1/panasonic-letsnote-cf-t1-cf-t1pcaxr.jpg "Panasonic Let's note CF-T1 specifications")

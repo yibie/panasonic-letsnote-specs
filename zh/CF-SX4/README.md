@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SX4/) · [日本語](../../ja/CF-SX4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SX4/)中查看此机型
+
 **CF-SX4** 是松下 Let's note 笔记本电脑，属于 SX 系列，配备 12.1英寸 HD+ 屏幕。本页收录其全部 10 个型号（2015-01 – 2015-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SX4 12.1 英寸笔记本电脑，黑色，2015 年](../../images/CF-SX4/panasonic-letsnote-cf-sx4-cf-sx4kftbr.jpg "松下 Let's note CF-SX4 规格参数")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-B10/) · [中文](../../zh/CF-B10/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-B10/).
+
 **CF-B10** is a Panasonic Let's note laptop in the B10 series with a 15.6-inch Full HD display. This page lists all 8 part numbers, released 2011-03 – 2012-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-B10 15.6-inch laptop, 2011](../../images/CF-B10/panasonic-letsnote-cf-b10-cf-b10cwadr.jpg "Panasonic Let's note CF-B10 specifications")

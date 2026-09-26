@@ -2,6 +2,8 @@
 
 [English](../../en/CF-Y5/) · [日本語](../../ja/CF-Y5/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-Y5/)中查看此机型
+
 **CF-Y5** 是松下 Let's note 笔记本电脑，属于 Y5 系列，配备 14.1英寸 SXGA＋ 屏幕。本页收录其全部 3 个型号（2006-05 – 2007-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-Y5 14.1 英寸笔记本电脑，2006 年，型号 CF-Y5MW8AJR](../../images/CF-Y5/panasonic-letsnote-cf-y5-cf-y5mw8ajr.jpg "松下 Let's note CF-Y5 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-FV3/) · [日本語](../../ja/CF-FV3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-FV3/)中查看此机型
+
 **CF-FV3** 是松下 Let's note 笔记本电脑，属于 FV 系列，配备 14.0英寸 QHD 屏幕。本页收录其全部 10 个型号（2022-06 – 2023-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-FV3 14.0 英寸笔记本电脑，黑色，2022 年](../../images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3kdpcr.jpg "松下 Let's note CF-FV3 规格参数")

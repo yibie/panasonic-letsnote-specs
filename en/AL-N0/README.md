@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/AL-N0/) · [中文](../../zh/AL-N0/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/AL-N0/).
+
 **AL-N0** is a Panasonic Let's note laptop in the mini N0 series with a 7.8-inch VGA display. This page lists all 2 part numbers, released 1996-09.
 
 ## Part numbers

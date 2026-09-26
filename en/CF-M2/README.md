@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-M2/) · [中文](../../zh/CF-M2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-M2/).
+
 **CF-M2** is a Panasonic Let's note laptop in the M2 series with a 11.3-inch XGA display. This page lists all 6 part numbers, released 2000-06 – 2001-03. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-M2 11.3-inch laptop, 2000](../../images/CF-M2/panasonic-letsnote-cf-m2-cf-m2xr2k.jpg "Panasonic Let's note CF-M2 specifications")

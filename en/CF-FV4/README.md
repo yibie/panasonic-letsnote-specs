@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-FV4/) · [中文](../../zh/CF-FV4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-FV4/).
+
 **CF-FV4** is a Panasonic Let's note laptop in the FV series with a 14.0-inch QHD display. This page lists all 7 part numbers, released 2023-06 – 2024-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-FV4 14.0-inch laptop, black, 2023](../../images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4ddncr.jpg "Panasonic Let's note CF-FV4 specifications")

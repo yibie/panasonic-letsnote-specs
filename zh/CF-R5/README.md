@@ -2,6 +2,8 @@
 
 [English](../../en/CF-R5/) · [日本語](../../ja/CF-R5/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-R5/)中查看此机型
+
 **CF-R5** 是松下 Let's note 笔记本电脑，属于 R5 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 2 个型号（2006-05 – 2006-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-R5 10.4 英寸笔记本电脑，2006 年，型号 CF-R5LW4AXR](../../images/CF-R5/panasonic-letsnote-cf-r5-cf-r5lw4axr.jpg "松下 Let's note CF-R5 规格参数")

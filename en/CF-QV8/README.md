@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-QV8/) · [中文](../../zh/CF-QV8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-QV8/).
+
 **CF-QV8** is a Panasonic Let's note laptop in the QV series with a 12.0-inch WQXGA＋ display. This page lists all 7 part numbers, released 2019-10 – 2020-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-QV8 12.0-inch laptop, silver, 2019](../../images/CF-QV8/panasonic-letsnote-cf-qv8-cf-qv8ndgqr.jpg "Panasonic Let's note CF-QV8 specifications")

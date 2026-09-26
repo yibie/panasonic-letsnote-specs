@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX3/) · [日本語](../../ja/CF-MX3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-MX3/)中查看此机型
+
 **CF-MX3** 是松下 Let's note 笔记本电脑，属于 MX 系列，配备 12.5英寸 Full HD 屏幕。本页收录其全部 11 个型号（2014-01 – 2014-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-MX3 12.5 英寸笔记本电脑，银色，2014 年](../../images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3jebjr.jpg "松下 Let's note CF-MX3 规格参数")

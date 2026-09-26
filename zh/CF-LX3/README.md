@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LX3/) · [日本語](../../ja/CF-LX3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-LX3/)中查看此机型
+
 **CF-LX3** 是松下 Let's note 笔记本电脑，属于 LX 系列，配备 13.3英寸 HD/14英寸 HD+ 屏幕。本页收录其全部 19 个型号（2013-09 – 2014-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-LX3 13.3 英寸笔记本电脑，银色，2013 年](../../images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3jejjr.jpg "松下 Let's note CF-LX3 规格参数")

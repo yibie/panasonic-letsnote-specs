@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-AX3/) · [中文](../../zh/CF-AX3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-AX3/).
+
 **CF-AX3** is a Panasonic Let's note laptop in the AX series with a 11.6-inch Full HD display. This page lists all 13 part numbers, released 2013-06 – 2014-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-AX3 11.6-inch laptop, silver, 2013](../../images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3segjr.jpg "Panasonic Let's note CF-AX3 specifications")

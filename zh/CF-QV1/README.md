@@ -2,6 +2,8 @@
 
 [English](../../en/CF-QV1/) · [日本語](../../ja/CF-QV1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-QV1/)中查看此机型
+
 **CF-QV1** 是松下 Let's note 笔记本电脑，属于 QV 系列，配备 12.0英寸 WQXGA＋ 屏幕。本页收录其全部 13 个型号（2021-06 – 2023-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-QV1 12.0 英寸笔记本电脑，黑色，2021 年](../../images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1qfncr.jpg "松下 Let's note CF-QV1 规格参数")

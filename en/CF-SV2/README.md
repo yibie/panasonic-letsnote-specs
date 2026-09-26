@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SV2/) · [中文](../../zh/CF-SV2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SV2/).
+
 **CF-SV2** is a Panasonic Let's note laptop in the SV series with a 12.1-inch WUXGA display. This page lists all 12 part numbers, released 2022-01 – 2023-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SV2 12.1-inch laptop, black, 2022](../../images/CF-SV2/panasonic-letsnote-cf-sv2-cf-sv2kfncr.jpg "Panasonic Let's note CF-SV2 specifications")

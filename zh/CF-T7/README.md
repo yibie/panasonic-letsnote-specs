@@ -2,6 +2,8 @@
 
 [English](../../en/CF-T7/) · [日本語](../../ja/CF-T7/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-T7/)中查看此机型
+
 **CF-T7** 是松下 Let's note 笔记本电脑，属于 T7 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 6 个型号（2007-10 – 2008-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-T7 12.1 英寸笔记本电脑，2007 年](../../images/CF-T7/panasonic-letsnote-cf-t7-cf-t7dw6ajr.jpg "松下 Let's note CF-T7 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX3/) · **日本語** · [中文](../../zh/CF-MX3/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-MX3/)でこの機種を見る
+
 パナソニック レッツノート **CF-MX3**（MXシリーズ・12.5型 Full HD液晶）の全11品番（2014-01 – 2014-10発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-MX3（12.5型ノートパソコン、シルバー、2014年発売）](../../images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3jebjr.jpg "レッツノート CF-MX3 スペック")

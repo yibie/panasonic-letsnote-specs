@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S51/) · [中文](../../zh/CF-S51/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S51/).
+
 **CF-S51** is a Panasonic Let's note laptop in the S51 series with a 11.3-inch XGA display. This page lists all 5 part numbers, released 1998-11 – 1999-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S51 11.3-inch laptop, 1998](../../images/CF-S51/panasonic-letsnote-cf-s51-cf-s51vxj8.jpg "Panasonic Let's note CF-S51 specifications")

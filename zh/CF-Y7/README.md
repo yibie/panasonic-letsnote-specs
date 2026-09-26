@@ -2,6 +2,8 @@
 
 [English](../../en/CF-Y7/) · [日本語](../../ja/CF-Y7/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-Y7/)中查看此机型
+
 **CF-Y7** 是松下 Let's note 笔记本电脑，属于 Y7 系列，配备 14.1英寸 SXGA＋ 屏幕。本页收录其全部 8 个型号（2007-05 – 2008-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-Y7 14.1 英寸笔记本电脑，2007 年](../../images/CF-Y7/panasonic-letsnote-cf-y7-cf-y7dwjajr.jpg "松下 Let's note CF-Y7 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LV9/) · **日本語** · [中文](../../zh/CF-LV9/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-LV9/)でこの機種を見る
+
 パナソニック レッツノート **CF-LV9**（LVシリーズ・14.0型 Full HD液晶）の全9品番（2020-06 – 2021-01発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-LV9（14.0型ノートパソコン、ブラック、2020年発売）](../../images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9ddnqr.jpg "レッツノート CF-LV9 スペック")

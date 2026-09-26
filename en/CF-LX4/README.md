@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LX4/) · [中文](../../zh/CF-LX4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LX4/).
+
 **CF-LX4** is a Panasonic Let's note laptop in the LX series with a 13.3-inch HD/14-inch HD+ display. This page lists all 6 part numbers, released 2015-01 – 2015-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LX4 13.3-inch laptop, silver, 2015](../../images/CF-LX4/panasonic-letsnote-cf-lx4-cf-lx4ddabr.jpg "Panasonic Let's note CF-LX4 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R8/) · [中文](../../zh/CF-R8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R8/).
+
 **CF-R8** is a Panasonic Let's note laptop in the LIGHT R8 series with a 10.4-inch XGA display. This page lists all 12 part numbers, released 2008-10 – 2009-12. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R8 10.4-inch laptop, 2008](../../images/CF-R8/panasonic-letsnote-cf-r8-cf-r8hwkcdr.jpg "Panasonic Let's note CF-R8 specifications")

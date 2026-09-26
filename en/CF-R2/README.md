@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R2/) · [中文](../../zh/CF-R2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R2/).
+
 **CF-R2** is a Panasonic Let's note laptop in the R2 series with a 10.4-inch XGA display. This page lists all 3 part numbers, released 2003-05 – 2004-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R2 10.4-inch laptop, 2003](../../images/CF-R2/panasonic-letsnote-cf-r2-cf-r2bw1axr.jpg "Panasonic Let's note CF-R2 specifications")

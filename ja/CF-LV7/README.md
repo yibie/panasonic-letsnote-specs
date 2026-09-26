@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LV7/) · **日本語** · [中文](../../zh/CF-LV7/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-LV7/)でこの機種を見る
+
 パナソニック レッツノート **CF-LV7**（LVシリーズ・14.0型 Full HD液晶）の全10品番（2018-06 – 2019-01発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-LV7（14.0型ノートパソコン、シルバー、2018年発売）](../../images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7hdfqr.jpg "レッツノート CF-LV7 スペック")

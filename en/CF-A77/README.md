@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-A77/) · [中文](../../zh/CF-A77/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-A77/).
+
 **CF-A77** is a Panasonic Let's note laptop in the ace A77/A44 series with a 11.3-inch XGA display. This page lists all 2 part numbers, released 1999-06 – 1999-07. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-A77 11.3-inch laptop, 1999, part number CF-A77J8](../../images/CF-A77/panasonic-letsnote-cf-a77-cf-a77j8.jpg "Panasonic Let's note CF-A77 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/AL-N2/) · [中文](../../zh/AL-N2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/AL-N2/).
+
 **AL-N2** is a Panasonic Let's note laptop in the N2 series with a 10.4-inch SVGA display. This page lists all 3 part numbers, released 1997-06 – 1998-03.
 
 ## Part numbers

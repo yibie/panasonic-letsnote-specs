@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-N10/) · [中文](../../zh/CF-N10/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-N10/).
+
 **CF-N10** is a Panasonic Let's note laptop in the N10 series with a 12.1-inch WXGA display. This page lists all 3 part numbers, released 2011-02 – 2011-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-N10 12.1-inch laptop, 2011, part number CF-N10EYADR](../../images/CF-N10/panasonic-letsnote-cf-n10-cf-n10eyadr.jpg "Panasonic Let's note CF-N10 specifications")

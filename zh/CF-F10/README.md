@@ -2,6 +2,8 @@
 
 [English](../../en/CF-F10/) · [日本語](../../ja/CF-F10/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-F10/)中查看此机型
+
 **CF-F10** 是松下 Let's note 笔记本电脑，属于 F10 系列，配备 14.1英寸 WXGA＋ 屏幕。本页收录其全部 2 个型号（2011-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-F10 14.1 英寸笔记本电脑，2011 年](../../images/CF-F10/panasonic-letsnote-cf-f10-cf-f10aycdr.jpg "松下 Let's note CF-F10 规格参数")

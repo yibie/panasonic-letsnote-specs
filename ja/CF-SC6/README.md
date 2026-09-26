@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SC6/) · **日本語** · [中文](../../zh/CF-SC6/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-SC6/)でこの機種を見る
+
 パナソニック レッツノート **CF-SC6**の全3品番のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-SC6（ノートパソコン、カームグレイ）](../../images/CF-SC6/panasonic-letsnote-cf-sc6-cf-sc6admcr.png "レッツノート CF-SC6 スペック")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-Y8/) · [中文](../../zh/CF-Y8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-Y8/).
+
 **CF-Y8** is a Panasonic Let's note laptop in the Y8 series with a 14.1-inch SXGA＋ display. This page lists all 4 part numbers, released 2008-10 – 2009-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-Y8 14.1-inch laptop, 2008](../../images/CF-Y8/panasonic-letsnote-cf-y8-cf-y8fwmcjr.jpg "Panasonic Let's note CF-Y8 specifications")

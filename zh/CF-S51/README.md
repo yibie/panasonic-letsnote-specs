@@ -2,6 +2,8 @@
 
 [English](../../en/CF-S51/) · [日本語](../../ja/CF-S51/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-S51/)中查看此机型
+
 **CF-S51** 是松下 Let's note 笔记本电脑，属于 S51 系列，配备 11.3英寸 XGA 屏幕。本页收录其全部 5 个型号（1998-11 – 1999-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-S51 11.3 英寸笔记本电脑，1998 年](../../images/CF-S51/panasonic-letsnote-cf-s51-cf-s51vxj8.jpg "松下 Let's note CF-S51 规格参数")

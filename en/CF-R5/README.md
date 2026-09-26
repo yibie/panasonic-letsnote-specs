@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R5/) · [中文](../../zh/CF-R5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R5/).
+
 **CF-R5** is a Panasonic Let's note laptop in the R5 series with a 10.4-inch XGA display. This page lists all 2 part numbers, released 2006-05 – 2006-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R5 10.4-inch laptop, 2006, part number CF-R5LW4AXR](../../images/CF-R5/panasonic-letsnote-cf-r5-cf-r5lw4axr.jpg "Panasonic Let's note CF-R5 specifications")

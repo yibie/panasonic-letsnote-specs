@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-MX5/) · [中文](../../zh/CF-MX5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-MX5/).
+
 **CF-MX5** is a Panasonic Let's note laptop in the MX series with a 12.5-inch Full HD display. This page lists all 8 part numbers, released 2015-10 – 2016-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-MX5 12.5-inch laptop, silver, 2015](../../images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5hdgpr.jpg "Panasonic Let's note CF-MX5 specifications")

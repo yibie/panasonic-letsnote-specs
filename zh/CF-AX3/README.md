@@ -2,6 +2,8 @@
 
 [English](../../en/CF-AX3/) · [日本語](../../ja/CF-AX3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-AX3/)中查看此机型
+
 **CF-AX3** 是松下 Let's note 笔记本电脑，属于 AX 系列，配备 11.6英寸 Full HD 屏幕。本页收录其全部 13 个型号（2013-06 – 2014-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-AX3 11.6 英寸笔记本电脑，银色，2013 年](../../images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3segjr.jpg "松下 Let's note CF-AX3 规格参数")

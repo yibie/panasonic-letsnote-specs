@@ -2,6 +2,8 @@
 
 [English](../../en/AL-N4/) · [日本語](../../ja/AL-N4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/AL-N4/)中查看此机型
+
 **AL-N4** 是松下 Let's note 笔记本电脑，属于 mini M32/N4 系列，配备 8.4英寸 SVGA 屏幕。本页收录其全部 1 个型号（1997-11 发售）的规格参数。
 
 ## 型号列表

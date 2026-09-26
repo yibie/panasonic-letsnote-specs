@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R6/) · [中文](../../zh/CF-R6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R6/).
+
 **CF-R6** is a Panasonic Let's note laptop in the R6 series with a 10.4-inch XGA display. This page lists all 3 part numbers, released 2007-03 – 2007-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R6 10.4-inch laptop, 2007](../../images/CF-R6/panasonic-letsnote-cf-r6-cf-r6aw1bjr.jpg "Panasonic Let's note CF-R6 specifications")

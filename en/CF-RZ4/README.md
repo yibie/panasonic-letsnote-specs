@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-RZ4/) · [中文](../../zh/CF-RZ4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-RZ4/).
+
 **CF-RZ4** is a Panasonic Let's note laptop in the RZ series with a 10.1-inch WUXGA display. This page lists all 16 part numbers, released 2014-10 – 2015-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-RZ4 10.1-inch laptop, silver, 2014](../../images/CF-RZ4/panasonic-letsnote-cf-rz4-cf-rz4lddjr.jpg "Panasonic Let's note CF-RZ4 specifications")

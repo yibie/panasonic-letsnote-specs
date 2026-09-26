@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R3/) · [中文](../../zh/CF-R3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R3/).
+
 **CF-R3** is a Panasonic Let's note laptop in the R3 series with a 10.4-inch XGA display. This page lists all 3 part numbers, released 2004-05 – 2005-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R3 10.4-inch laptop, 2004](../../images/CF-R3/panasonic-letsnote-cf-r3-cf-r3fw1axr.jpg "Panasonic Let's note CF-R3 specifications")

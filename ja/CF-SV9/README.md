@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV9/) · **日本語** · [中文](../../zh/CF-SV9/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-SV9/)でこの機種を見る
+
 パナソニック レッツノート **CF-SV9**（SVシリーズ・12.1型WUXGA液晶）の全16品番（2020-01 – 2020-10発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-SV9（12.1型ノートパソコン、ゴールド&シルバー、2020年発売）、品番 CF-SV9HDPQR](../../images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9hdpqr.jpg "レッツノート CF-SV9 スペック")

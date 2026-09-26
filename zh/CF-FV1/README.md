@@ -2,6 +2,8 @@
 
 [English](../../en/CF-FV1/) · [日本語](../../ja/CF-FV1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-FV1/)中查看此机型
+
 **CF-FV1** 是松下 Let's note 笔记本电脑，属于 FV 系列，配备 14.0英寸 QHD 屏幕。本页收录其全部 15 个型号（2021-06 – 2022-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-FV1 14.0 英寸笔记本电脑，银色，2021 年](../../images/CF-FV1/panasonic-letsnote-cf-fv1-cf-fv1jdscr.jpg "松下 Let's note CF-FV1 规格参数")

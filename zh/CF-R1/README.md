@@ -2,6 +2,8 @@
 
 [English](../../en/CF-R1/) · [日本語](../../ja/CF-R1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-R1/)中查看此机型
+
 **CF-R1** 是松下 Let's note 笔记本电脑，属于 R1 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 4 个型号（2002-03 – 2003-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-R1 10.4 英寸笔记本电脑，2002 年](../../images/CF-R1/panasonic-letsnote-cf-r1-cf-r1mcaxr.jpg "松下 Let's note CF-R1 规格参数")

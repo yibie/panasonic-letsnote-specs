@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-F10/) · [中文](../../zh/CF-F10/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-F10/).
+
 **CF-F10** is a Panasonic Let's note laptop in the F10 series with a 14.1-inch WXGA＋ display. This page lists all 2 part numbers, released 2011-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-F10 14.1-inch laptop, 2011](../../images/CF-F10/panasonic-letsnote-cf-f10-cf-f10aycdr.jpg "Panasonic Let's note CF-F10 specifications")

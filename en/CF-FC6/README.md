@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-FC6/) · [中文](../../zh/CF-FC6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-FC6/).
+
 **CF-FC6** is a Panasonic Let's note laptop. This page lists all 3 part numbers. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-FC6  laptop, calm gray](../../images/CF-FC6/panasonic-letsnote-cf-fc6-cf-fc6admcr.png "Panasonic Let's note CF-FC6 specifications")

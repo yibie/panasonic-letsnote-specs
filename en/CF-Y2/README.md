@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-Y2/) · [中文](../../zh/CF-Y2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-Y2/).
+
 **CF-Y2** is a Panasonic Let's note laptop in the Y2 series with a 14.1-inch SXGA＋ display. This page lists all 6 part numbers, released 2004-02 – 2005-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-Y2 14.1-inch laptop, 2004](../../images/CF-Y2/panasonic-letsnote-cf-y2-cf-y2fw7axr.jpg "Panasonic Let's note CF-Y2 specifications")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV8/) · [日本語](../../ja/CF-SV8/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SV8/)中查看此机型
+
 **CF-SV8** 是松下 Let's note 笔记本电脑，属于 SV 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 19 个型号（2019-01 – 2019-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SV8 12.1 英寸笔记本电脑，银色，2019 年](../../images/CF-SV8/panasonic-letsnote-cf-sv8-cf-sv8cdfpr.jpg "松下 Let's note CF-SV8 规格参数")

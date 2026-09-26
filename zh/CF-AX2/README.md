@@ -2,6 +2,8 @@
 
 [English](../../en/CF-AX2/) · [日本語](../../ja/CF-AX2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-AX2/)中查看此机型
+
 **CF-AX2** 是松下 Let's note 笔记本电脑，属于 AX 系列，配备 11.6英寸 HD 屏幕。本页收录其全部 13 个型号（2012-10 – 2013-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-AX2 11.6 英寸笔记本电脑，银色，2012 年](../../images/CF-AX2/panasonic-letsnote-cf-ax2-cf-ax2teqbr.jpg "松下 Let's note CF-AX2 规格参数")

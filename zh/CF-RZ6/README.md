@@ -2,6 +2,8 @@
 
 [English](../../en/CF-RZ6/) · [日本語](../../ja/CF-RZ6/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-RZ6/)中查看此机型
+
 **CF-RZ6** 是松下 Let's note 笔记本电脑，属于 RZ 系列，配备 10.1英寸 WUXGA 屏幕。本页收录其全部 18 个型号（2016-10 – 2018-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-RZ6 10.1 英寸笔记本电脑，银色，2016 年](../../images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6ndfqr.jpg "松下 Let's note CF-RZ6 规格参数")

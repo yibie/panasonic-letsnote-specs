@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-L2/) · [中文](../../zh/CF-L2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-L2/).
+
 **CF-L2** is a Panasonic Let's note laptop in the L2 series with a 13.3-inch XGA display. This page lists all 1 part numbers, released 2001-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-L2 13.3-inch laptop, 2001, part number CF-L2R4HMA](../../images/CF-L2/panasonic-letsnote-cf-l2-cf-l2r4hma.jpg "Panasonic Let's note CF-L2 specifications")

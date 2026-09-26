@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-QV1/) · [中文](../../zh/CF-QV1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-QV1/).
+
 **CF-QV1** is a Panasonic Let's note laptop in the QV series with a 12.0-inch WQXGA＋ display. This page lists all 13 part numbers, released 2021-06 – 2023-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-QV1 12.0-inch laptop, black, 2021](../../images/CF-QV1/panasonic-letsnote-cf-qv1-cf-qv1qfncr.jpg "Panasonic Let's note CF-QV1 specifications")

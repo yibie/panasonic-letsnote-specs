@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-W4/) · [中文](../../zh/CF-W4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-W4/).
+
 **CF-W4** is a Panasonic Let's note laptop in the W4 series with a 12.1-inch XGA display. This page lists all 6 part numbers, released 2005-05 – 2006-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-W4 12.1-inch laptop, 2005](../../images/CF-W4/panasonic-letsnote-cf-w4-cf-w4hw8axr.jpg "Panasonic Let's note CF-W4 specifications")

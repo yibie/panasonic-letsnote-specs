@@ -2,6 +2,8 @@
 
 [English](../../en/CF-N9/) · [日本語](../../ja/CF-N9/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-N9/)中查看此机型
+
 **CF-N9** 是松下 Let's note 笔记本电脑，属于 N9 系列，配备 12.1英寸 WXGA 屏幕。本页收录其全部 3 个型号（2010-02 – 2010-09 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-N9 12.1 英寸笔记本电脑，2010 年，型号 CF-N9LYPEDR](../../images/CF-N9/panasonic-letsnote-cf-n9-cf-n9lypedr.jpg "松下 Let's note CF-N9 规格参数")

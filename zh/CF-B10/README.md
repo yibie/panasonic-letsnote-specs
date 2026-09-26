@@ -2,6 +2,8 @@
 
 [English](../../en/CF-B10/) · [日本語](../../ja/CF-B10/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-B10/)中查看此机型
+
 **CF-B10** 是松下 Let's note 笔记本电脑，属于 B10 系列，配备 15.6英寸 Full HD 屏幕。本页收录其全部 8 个型号（2011-03 – 2012-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-B10 15.6 英寸笔记本电脑，2011 年](../../images/CF-B10/panasonic-letsnote-cf-b10-cf-b10cwadr.jpg "松下 Let's note CF-B10 规格参数")

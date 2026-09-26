@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S9/) · [中文](../../zh/CF-S9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S9/).
+
 **CF-S9** is a Panasonic Let's note laptop in the S9 series with a 12.1-inch WXGA display. This page lists all 9 part numbers, released 2010-02 – 2010-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S9 12.1-inch laptop, 2010](../../images/CF-S9/panasonic-letsnote-cf-s9-cf-s9lyfedr.jpg "Panasonic Let's note CF-S9 specifications")

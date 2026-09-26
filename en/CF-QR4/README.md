@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-QR4/) · [中文](../../zh/CF-QR4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-QR4/).
+
 **CF-QR4** is a Panasonic Let's note laptop in the QR series with a 12.4-inch FHD+ display. This page lists all 7 part numbers, released 2023-06 – 2025-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-QR4 12.4-inch laptop, black, 2023](../../images/CF-QR4/panasonic-letsnote-cf-qr4-cf-qr4fdncr.jpg "Panasonic Let's note CF-QR4 specifications")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SX3/) · [日本語](../../ja/CF-SX3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SX3/)中查看此机型
+
 **CF-SX3** 是松下 Let's note 笔记本电脑，属于 SX 系列，配备 12.1英寸 HD+ 屏幕。本页收录其全部 23 个型号（2013-09 – 2014-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SX3 12.1 英寸笔记本电脑，银色，2013 年](../../images/CF-SX3/panasonic-letsnote-cf-sx3-cf-sx3jeajr.jpg "松下 Let's note CF-SX3 规格参数")

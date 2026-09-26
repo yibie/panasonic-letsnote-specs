@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SZ6/) · [中文](../../zh/CF-SZ6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SZ6/).
+
 **CF-SZ6** is a Panasonic Let's note laptop in the SZ series with a 12.1-inch WUXGA display. This page lists all 20 part numbers, released 2016-10 – 2017-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SZ6 12.1-inch laptop, silver, 2016](../../images/CF-SZ6/panasonic-letsnote-cf-sz6-cf-sz6pdkpr.jpg "Panasonic Let's note CF-SZ6 specifications")

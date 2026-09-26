@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T5/) · [中文](../../zh/CF-T5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T5/).
+
 **CF-T5** is a Panasonic Let's note laptop in the T5 series with a 12.1-inch XGA display. This page lists all 5 part numbers, released 2006-05 – 2007-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T5 12.1-inch laptop, 2006](../../images/CF-T5/panasonic-letsnote-cf-t5-cf-t5aw1bjr.jpg "Panasonic Let's note CF-T5 specifications")

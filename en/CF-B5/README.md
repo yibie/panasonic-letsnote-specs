@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-B5/) · [中文](../../zh/CF-B5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-B5/).
+
 **CF-B5** is a Panasonic Let's note laptop in the B5 series with a 10.4-inch XGA display. This page lists all 4 part numbers, released 2000-06 – 2001-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-B5 10.4-inch laptop, 2000](../../images/CF-B5/panasonic-letsnote-cf-b5-cf-b5fr.jpg "Panasonic Let's note CF-B5 specifications")

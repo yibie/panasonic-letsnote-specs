@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV7/) · [日本語](../../ja/CF-SV7/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SV7/)中查看此机型
+
 **CF-SV7** 是松下 Let's note 笔记本电脑，属于 SV 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 19 个型号（2018-02 – 2018-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SV7 12.1 英寸笔记本电脑，银色，2018 年](../../images/CF-SV7/panasonic-letsnote-cf-sv7-cf-sv7hdfpr.jpg "松下 Let's note CF-SV7 规格参数")

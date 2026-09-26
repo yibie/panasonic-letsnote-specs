@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SV9/) · [中文](../../zh/CF-SV9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SV9/).
+
 **CF-SV9** is a Panasonic Let's note laptop in the SV series with a 12.1-inch WUXGA display. This page lists all 16 part numbers, released 2020-01 – 2020-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SV9 12.1-inch laptop, gold & silver, 2020, part number CF-SV9HDPQR](../../images/CF-SV9/panasonic-letsnote-cf-sv9-cf-sv9hdpqr.jpg "Panasonic Let's note CF-SV9 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-M32/) · [中文](../../zh/CF-M32/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-M32/).
+
 **CF-M32** is a Panasonic Let's note laptop in the mini M32/N4 series with a 8.4-inch SVGA display. This page lists all 2 part numbers, released 1998-06 – 1998-07. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-M32 8.4-inch laptop, 1998](../../images/CF-M32/panasonic-letsnote-cf-m32-cf-m32j8.jpg "Panasonic Let's note CF-M32 specifications")

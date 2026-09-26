@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LV9/) · [中文](../../zh/CF-LV9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LV9/).
+
 **CF-LV9** is a Panasonic Let's note laptop in the LV series with a 14.0-inch Full HD display. This page lists all 9 part numbers, released 2020-06 – 2021-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LV9 14.0-inch laptop, black, 2020](../../images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9ddnqr.jpg "Panasonic Let's note CF-LV9 specifications")

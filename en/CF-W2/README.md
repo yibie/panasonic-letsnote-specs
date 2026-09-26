@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-W2/) · [中文](../../zh/CF-W2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-W2/).
+
 **CF-W2** is a Panasonic Let's note laptop in the W2 series with a 12.1-inch XGA display. This page lists all 10 part numbers, released 2003-06 – 2005-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-W2 12.1-inch laptop, 2003](../../images/CF-W2/panasonic-letsnote-cf-w2-cf-w2bw1axr.jpg "Panasonic Let's note CF-W2 specifications")

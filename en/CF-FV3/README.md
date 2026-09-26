@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-FV3/) · [中文](../../zh/CF-FV3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-FV3/).
+
 **CF-FV3** is a Panasonic Let's note laptop in the FV series with a 14.0-inch QHD display. This page lists all 10 part numbers, released 2022-06 – 2023-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-FV3 14.0-inch laptop, black, 2022](../../images/CF-FV3/panasonic-letsnote-cf-fv3-cf-fv3kdpcr.jpg "Panasonic Let's note CF-FV3 specifications")

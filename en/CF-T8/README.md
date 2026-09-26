@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T8/) · [中文](../../zh/CF-T8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T8/).
+
 **CF-T8** is a Panasonic Let's note laptop in the T8 series with a 12.1-inch XGA display. This page lists all 5 part numbers, released 2008-10 – 2009-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T8 12.1-inch laptop, 2008](../../images/CF-T8/panasonic-letsnote-cf-t8-cf-t8fw1ajr.jpg "Panasonic Let's note CF-T8 specifications")

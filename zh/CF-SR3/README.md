@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SR3/) · [日本語](../../ja/CF-SR3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SR3/)中查看此机型
+
 **CF-SR3** 是松下 Let's note 笔记本电脑，属于 SR 系列，配备 12.4英寸 FHD+ 屏幕。本页收录其全部 8 个型号（2022-11 – 2023-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SR3 12.4 英寸笔记本电脑，黑色，2022 年](../../images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3kfpcr.jpg "松下 Let's note CF-SR3 规格参数")

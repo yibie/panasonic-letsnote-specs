@@ -2,6 +2,8 @@
 
 [English](../../en/CF-J9/) · [日本語](../../ja/CF-J9/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-J9/)中查看此机型
+
 **CF-J9** 是松下 Let's note 笔记本电脑，属于 J9 系列，配备 10.1英寸 WXGA 屏幕。本页收录其全部 4 个型号（2010-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-J9 10.1 英寸笔记本电脑，2010 年](../../images/CF-J9/panasonic-letsnote-cf-j9-cf-j9ly1ahr.jpg "松下 Let's note CF-J9 规格参数")

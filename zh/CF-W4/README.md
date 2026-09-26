@@ -2,6 +2,8 @@
 
 [English](../../en/CF-W4/) · [日本語](../../ja/CF-W4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-W4/)中查看此机型
+
 **CF-W4** 是松下 Let's note 笔记本电脑，属于 W4 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 6 个型号（2005-05 – 2006-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-W4 12.1 英寸笔记本电脑，2005 年](../../images/CF-W4/panasonic-letsnote-cf-w4-cf-w4hw8axr.jpg "松下 Let's note CF-W4 规格参数")

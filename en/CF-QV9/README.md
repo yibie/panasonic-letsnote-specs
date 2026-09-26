@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-QV9/) · [中文](../../zh/CF-QV9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-QV9/).
+
 **CF-QV9** is a Panasonic Let's note laptop in the QV series with a 12.0-inch WQXGA＋ display. This page lists all 9 part numbers, released 2020-06 – 2021-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-QV9 12.0-inch laptop, black & silver, 2020](../../images/CF-QV9/panasonic-letsnote-cf-qv9-cf-qv9cdmqr.jpg "Panasonic Let's note CF-QV9 specifications")

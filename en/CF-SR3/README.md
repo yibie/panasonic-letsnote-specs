@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SR3/) · [中文](../../zh/CF-SR3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SR3/).
+
 **CF-SR3** is a Panasonic Let's note laptop in the SR series with a 12.4-inch FHD+ display. This page lists all 8 part numbers, released 2022-11 – 2023-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SR3 12.4-inch laptop, black, 2022](../../images/CF-SR3/panasonic-letsnote-cf-sr3-cf-sr3kfpcr.jpg "Panasonic Let's note CF-SR3 specifications")

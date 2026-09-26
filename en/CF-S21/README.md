@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S21/) · [中文](../../zh/CF-S21/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S21/).
+
 **CF-S21** is a Panasonic Let's note laptop in the S22/S21 series with a 10.4-inch SVGA display. This page lists all 5 part numbers, released 1998-06 – 1998-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S21 10.4-inch laptop, 1998](../../images/CF-S21/panasonic-letsnote-cf-s21-cf-s21ej8.jpg "Panasonic Let's note CF-S21 specifications")

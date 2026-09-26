@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S8/) · [中文](../../zh/CF-S8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S8/).
+
 **CF-S8** is a Panasonic Let's note laptop in the S8 series with a 12.1-inch WXGA display. This page lists all 3 part numbers, released 2009-10 – 2009-11. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S8 12.1-inch laptop, 2009](../../images/CF-S8/panasonic-letsnote-cf-s8-cf-s8hyeadr.jpg "Panasonic Let's note CF-S8 specifications")

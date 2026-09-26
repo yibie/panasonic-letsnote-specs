@@ -2,6 +2,8 @@
 
 [English](../../en/CF-M32/) · [日本語](../../ja/CF-M32/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-M32/)中查看此机型
+
 **CF-M32** 是松下 Let's note 笔记本电脑，属于 mini M32/N4 系列，配备 8.4英寸 SVGA 屏幕。本页收录其全部 2 个型号（1998-06 – 1998-07 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-M32 8.4 英寸笔记本电脑，1998 年](../../images/CF-M32/panasonic-letsnote-cf-m32-cf-m32j8.jpg "松下 Let's note CF-M32 规格参数")

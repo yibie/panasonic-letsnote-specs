@@ -2,6 +2,8 @@
 
 [English](../../en/CF-Y2/) · [日本語](../../ja/CF-Y2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-Y2/)中查看此机型
+
 **CF-Y2** 是松下 Let's note 笔记本电脑，属于 Y2 系列，配备 14.1英寸 SXGA＋ 屏幕。本页收录其全部 6 个型号（2004-02 – 2005-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-Y2 14.1 英寸笔记本电脑，2004 年](../../images/CF-Y2/panasonic-letsnote-cf-y2-cf-y2fw7axr.jpg "松下 Let's note CF-Y2 规格参数")

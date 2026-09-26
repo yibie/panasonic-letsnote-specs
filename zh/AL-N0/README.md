@@ -2,6 +2,8 @@
 
 [English](../../en/AL-N0/) · [日本語](../../ja/AL-N0/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/AL-N0/)中查看此机型
+
 **AL-N0** 是松下 Let's note 笔记本电脑，属于 mini N0 系列，配备 7.8英寸 VGA 屏幕。本页收录其全部 2 个型号（1996-09 发售）的规格参数。
 
 ## 型号列表

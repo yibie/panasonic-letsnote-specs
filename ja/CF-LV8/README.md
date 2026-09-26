@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LV8/) · **日本語** · [中文](../../zh/CF-LV8/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-LV8/)でこの機種を見る
+
 パナソニック レッツノート **CF-LV8**（LVシリーズ・14.0型 Full HD液晶）の全11品番（2019-06 – 2020-01発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-LV8（14.0型ノートパソコン、シルバー、2019年発売）](../../images/CF-LV8/panasonic-letsnote-cf-lv8-cf-lv8ndsqr.jpg "レッツノート CF-LV8 スペック")

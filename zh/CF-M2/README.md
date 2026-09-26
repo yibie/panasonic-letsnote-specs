@@ -2,6 +2,8 @@
 
 [English](../../en/CF-M2/) · [日本語](../../ja/CF-M2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-M2/)中查看此机型
+
 **CF-M2** 是松下 Let's note 笔记本电脑，属于 M2 系列，配备 11.3英寸 XGA 屏幕。本页收录其全部 6 个型号（2000-06 – 2001-03 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-M2 11.3 英寸笔记本电脑，2000 年](../../images/CF-M2/panasonic-letsnote-cf-m2-cf-m2xr2k.jpg "松下 Let's note CF-M2 规格参数")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-W7/) · [中文](../../zh/CF-W7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-W7/).
+
 **CF-W7** is a Panasonic Let's note laptop in the W7 series with a 12.1-inch XGA display. This page lists all 7 part numbers, released 2007-11 – 2008-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-W7 12.1-inch laptop, 2007](../../images/CF-W7/panasonic-letsnote-cf-w7-cf-w7dwjajr.jpg "Panasonic Let's note CF-W7 specifications")

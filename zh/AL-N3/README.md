@@ -2,6 +2,8 @@
 
 [English](../../en/AL-N3/) · [日本語](../../ja/AL-N3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/AL-N3/)中查看此机型
+
 **AL-N3** 是松下 Let's note 笔记本电脑，属于 ace N3 系列，配备 12.1英寸 SVGA 屏幕。本页收录其全部 3 个型号（1997-07 – 1998-06 发售）的规格参数。
 
 ## 型号列表

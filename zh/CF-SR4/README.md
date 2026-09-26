@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SR4/) · [日本語](../../ja/CF-SR4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SR4/)中查看此机型
+
 **CF-SR4** 是松下 Let's note 笔记本电脑，属于 SR 系列，配备 12.4英寸 FHD+ 屏幕。本页收录其全部 13 个型号（2023-06 – 2025-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SR4 12.4 英寸笔记本电脑，灰色，2023 年](../../images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4gdmcr.png "松下 Let's note CF-SR4 规格参数")

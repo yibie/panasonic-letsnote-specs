@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/AL-N3/) · [中文](../../zh/AL-N3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/AL-N3/).
+
 **AL-N3** is a Panasonic Let's note laptop in the ace N3 series with a 12.1-inch SVGA display. This page lists all 3 part numbers, released 1997-07 – 1998-06.
 
 ## Part numbers

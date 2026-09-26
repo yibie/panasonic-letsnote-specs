@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-B11/) · [中文](../../zh/CF-B11/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-B11/).
+
 **CF-B11** is a Panasonic Let's note laptop in the B11 series with a 15.6-inch Full HD display. This page lists all 8 part numbers, released 2012-05 – 2013-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-B11 15.6-inch laptop, silver, 2012](../../images/CF-B11/panasonic-letsnote-cf-b11-cf-b11uwabr.jpg "Panasonic Let's note CF-B11 specifications")

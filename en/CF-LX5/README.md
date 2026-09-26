@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LX5/) · [中文](../../zh/CF-LX5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LX5/).
+
 **CF-LX5** is a Panasonic Let's note laptop in the LX series with a 13.3-inch HD/14-inch HD+ display. This page lists all 6 part numbers, released 2015-10 – 2016-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LX5 13.3-inch laptop, silver, 2015](../../images/CF-LX5/panasonic-letsnote-cf-lx5-cf-lx5hdaqr.jpg "Panasonic Let's note CF-LX5 specifications")

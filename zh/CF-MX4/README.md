@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX4/) · [日本語](../../ja/CF-MX4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-MX4/)中查看此机型
+
 **CF-MX4** 是松下 Let's note 笔记本电脑，属于 MX 系列，配备 12.5英寸 Full HD 屏幕。本页收录其全部 8 个型号（2015-01 – 2015-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-MX4 12.5 英寸笔记本电脑，银色，2015 年](../../images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4ddqjr.jpg "松下 Let's note CF-MX4 规格参数")

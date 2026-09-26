@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SV7/) · [中文](../../zh/CF-SV7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SV7/).
+
 **CF-SV7** is a Panasonic Let's note laptop in the SV series with a 12.1-inch WUXGA display. This page lists all 19 part numbers, released 2018-02 – 2018-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SV7 12.1-inch laptop, silver, 2018](../../images/CF-SV7/panasonic-letsnote-cf-sv7-cf-sv7hdfpr.jpg "Panasonic Let's note CF-SV7 specifications")

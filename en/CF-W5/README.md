@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-W5/) · [中文](../../zh/CF-W5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-W5/).
+
 **CF-W5** is a Panasonic Let's note laptop in the W5 series with a 12.1-inch XGA display. This page lists all 8 part numbers, released 2006-05 – 2007-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-W5 12.1-inch laptop, 2006](../../images/CF-W5/panasonic-letsnote-cf-w5-cf-w5awdbjr.jpg "Panasonic Let's note CF-W5 specifications")

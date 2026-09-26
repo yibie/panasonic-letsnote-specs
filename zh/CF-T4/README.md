@@ -2,6 +2,8 @@
 
 [English](../../en/CF-T4/) · [日本語](../../ja/CF-T4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-T4/)中查看此机型
+
 **CF-T4** 是松下 Let's note 笔记本电脑，属于 T4 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 3 个型号（2005-05 – 2006-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-T4 12.1 英寸笔记本电脑，2005 年](../../images/CF-T4/panasonic-letsnote-cf-t4-cf-t4hw4axr.jpg "松下 Let's note CF-T4 规格参数")

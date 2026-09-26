@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T2/) · [中文](../../zh/CF-T2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T2/).
+
 **CF-T2** is a Panasonic Let's note laptop in the T2 series with a 12.1-inch XGA display. This page lists all 7 part numbers, released 2003-05 – 2005-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T2 12.1-inch laptop, 2003](../../images/CF-T2/panasonic-letsnote-cf-t2-cf-t2bw1axr.jpg "Panasonic Let's note CF-T2 specifications")

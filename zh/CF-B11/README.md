@@ -2,6 +2,8 @@
 
 [English](../../en/CF-B11/) · [日本語](../../ja/CF-B11/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-B11/)中查看此机型
+
 **CF-B11** 是松下 Let's note 笔记本电脑，属于 B11 系列，配备 15.6英寸 Full HD 屏幕。本页收录其全部 8 个型号（2012-05 – 2013-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-B11 15.6 英寸笔记本电脑，银色，2012 年](../../images/CF-B11/panasonic-letsnote-cf-b11-cf-b11uwabr.jpg "松下 Let's note CF-B11 规格参数")

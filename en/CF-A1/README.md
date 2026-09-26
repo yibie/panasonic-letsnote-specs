@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-A1/) · [中文](../../zh/CF-A1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-A1/).
+
 **CF-A1** is a Panasonic Let's note laptop in the A1 series with a 10.4-inch XGA display. This page lists all 4 part numbers, released 1999-09 – 2000-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-A1 10.4-inch laptop, 1999](../../images/CF-A1/panasonic-letsnote-cf-a1-cf-a1er.jpg "Panasonic Let's note CF-A1 specifications")

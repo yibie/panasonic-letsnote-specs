@@ -2,6 +2,8 @@
 
 [English](../../en/CF-RZ4/) · [日本語](../../ja/CF-RZ4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-RZ4/)中查看此机型
+
 **CF-RZ4** 是松下 Let's note 笔记本电脑，属于 RZ 系列，配备 10.1英寸 WUXGA 屏幕。本页收录其全部 16 个型号（2014-10 – 2015-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-RZ4 10.1 英寸笔记本电脑，银色，2014 年](../../images/CF-RZ4/panasonic-letsnote-cf-rz4-cf-rz4lddjr.jpg "松下 Let's note CF-RZ4 规格参数")

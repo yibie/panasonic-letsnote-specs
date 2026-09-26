@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-Y7/) · [中文](../../zh/CF-Y7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-Y7/).
+
 **CF-Y7** is a Panasonic Let's note laptop in the Y7 series with a 14.1-inch SXGA＋ display. This page lists all 8 part numbers, released 2007-05 – 2008-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-Y7 14.1-inch laptop, 2007](../../images/CF-Y7/panasonic-letsnote-cf-y7-cf-y7dwjajr.jpg "Panasonic Let's note CF-Y7 specifications")

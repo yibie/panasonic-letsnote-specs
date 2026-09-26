@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-RZ6/) · [中文](../../zh/CF-RZ6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-RZ6/).
+
 **CF-RZ6** is a Panasonic Let's note laptop in the RZ series with a 10.1-inch WUXGA display. This page lists all 18 part numbers, released 2016-10 – 2018-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-RZ6 10.1-inch laptop, silver, 2016](../../images/CF-RZ6/panasonic-letsnote-cf-rz6-cf-rz6ndfqr.jpg "Panasonic Let's note CF-RZ6 specifications")

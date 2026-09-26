@@ -2,6 +2,8 @@
 
 [English](../../en/CF-J10/) · [日本語](../../ja/CF-J10/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-J10/)中查看此机型
+
 **CF-J10** 是松下 Let's note 笔记本电脑，属于 J10 系列，配备 10.1英寸 WXGA 屏幕。本页收录其全部 20 个型号（2011-02 – 2012-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-J10 10.1 英寸笔记本电脑，2011 年](../../images/CF-J10/panasonic-letsnote-cf-j10-cf-j10sybhr.jpg "松下 Let's note CF-J10 规格参数")

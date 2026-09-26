@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SX4/) · [中文](../../zh/CF-SX4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SX4/).
+
 **CF-SX4** is a Panasonic Let's note laptop in the SX series with a 12.1-inch HD+ display. This page lists all 10 part numbers, released 2015-01 – 2015-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SX4 12.1-inch laptop, black, 2015](../../images/CF-SX4/panasonic-letsnote-cf-sx4-cf-sx4kftbr.jpg "Panasonic Let's note CF-SX4 specifications")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SX1/) · [日本語](../../ja/CF-SX1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SX1/)中查看此机型
+
 **CF-SX1** 是松下 Let's note 笔记本电脑，属于 SX 系列，配备 12.1英寸 HD+ 屏幕。本页收录其全部 13 个型号（2012-02 – 2012-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SX1 12.1 英寸笔记本电脑，2012 年](../../images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1geadr.jpg "松下 Let's note CF-SX1 规格参数")

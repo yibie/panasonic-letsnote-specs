@@ -2,6 +2,8 @@
 
 [English](../../en/CF-Y4/) · [日本語](../../ja/CF-Y4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-Y4/)中查看此机型
+
 **CF-Y4** 是松下 Let's note 笔记本电脑，属于 Y4 系列，配备 14.1英寸 SXGA＋ 屏幕。本页收录其全部 3 个型号（2005-05 – 2006-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-Y4 14.1 英寸笔记本电脑，2005 年，型号 CF-Y4JW8AXR](../../images/CF-Y4/panasonic-letsnote-cf-y4-cf-y4jw8axr.jpg "松下 Let's note CF-Y4 规格参数")

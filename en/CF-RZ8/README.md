@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-RZ8/) · [中文](../../zh/CF-RZ8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-RZ8/).
+
 **CF-RZ8** is a Panasonic Let's note laptop in the RZ series with a 10.1-inch WUXGA display. This page lists all 14 part numbers, released 2019-01 – 2021-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-RZ8 10.1-inch laptop, silver, 2019](../../images/CF-RZ8/panasonic-letsnote-cf-rz8-cf-rz8qdeqr.jpg "Panasonic Let's note CF-RZ8 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R7/) · [中文](../../zh/CF-R7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R7/).
+
 **CF-R7** is a Panasonic Let's note laptop in the R7 series with a 10.4-inch XGA display. This page lists all 6 part numbers, released 2007-10 – 2008-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R7 10.4-inch laptop, 2007](../../images/CF-R7/panasonic-letsnote-cf-r7-cf-r7dw6ajr.jpg "Panasonic Let's note CF-R7 specifications")

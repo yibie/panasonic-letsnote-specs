@@ -2,6 +2,8 @@
 
 [English](../../en/CF-MX5/) · [日本語](../../ja/CF-MX5/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-MX5/)中查看此机型
+
 **CF-MX5** 是松下 Let's note 笔记本电脑，属于 MX 系列，配备 12.5英寸 Full HD 屏幕。本页收录其全部 8 个型号（2015-10 – 2016-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-MX5 12.5 英寸笔记本电脑，银色，2015 年](../../images/CF-MX5/panasonic-letsnote-cf-mx5-cf-mx5hdgpr.jpg "松下 Let's note CF-MX5 规格参数")

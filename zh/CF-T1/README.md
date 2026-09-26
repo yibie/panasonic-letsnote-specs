@@ -2,6 +2,8 @@
 
 [English](../../en/CF-T1/) · [日本語](../../ja/CF-T1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-T1/)中查看此机型
+
 **CF-T1** 是松下 Let's note 笔记本电脑，属于 T1 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 6 个型号（2002-11 – 2003-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-T1 12.1 英寸笔记本电脑，2002 年](../../images/CF-T1/panasonic-letsnote-cf-t1-cf-t1pcaxr.jpg "松下 Let's note CF-T1 规格参数")

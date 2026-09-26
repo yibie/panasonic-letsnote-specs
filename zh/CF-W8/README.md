@@ -2,6 +2,8 @@
 
 [English](../../en/CF-W8/) · [日本語](../../ja/CF-W8/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-W8/)中查看此机型
+
 **CF-W8** 是松下 Let's note 笔记本电脑，属于 W8 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 9 个型号（2008-10 – 2009-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-W8 12.1 英寸笔记本电脑，2008 年](../../images/CF-W8/panasonic-letsnote-cf-w8-cf-w8ewnqjr.jpg "松下 Let's note CF-W8 规格参数")

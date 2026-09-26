@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R1/) · [中文](../../zh/CF-R1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R1/).
+
 **CF-R1** is a Panasonic Let's note laptop in the R1 series with a 10.4-inch XGA display. This page lists all 4 part numbers, released 2002-03 – 2003-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R1 10.4-inch laptop, 2002](../../images/CF-R1/panasonic-letsnote-cf-r1-cf-r1mcaxr.jpg "Panasonic Let's note CF-R1 specifications")

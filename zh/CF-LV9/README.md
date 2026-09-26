@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LV9/) · [日本語](../../ja/CF-LV9/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-LV9/)中查看此机型
+
 **CF-LV9** 是松下 Let's note 笔记本电脑，属于 LV 系列，配备 14.0英寸 Full HD 屏幕。本页收录其全部 9 个型号（2020-06 – 2021-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-LV9 14.0 英寸笔记本电脑，黑色，2020 年](../../images/CF-LV9/panasonic-letsnote-cf-lv9-cf-lv9ddnqr.jpg "松下 Let's note CF-LV9 规格参数")

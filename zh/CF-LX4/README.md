@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LX4/) · [日本語](../../ja/CF-LX4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-LX4/)中查看此机型
+
 **CF-LX4** 是松下 Let's note 笔记本电脑，属于 LX 系列，配备 13.3英寸 HD/14英寸 HD+ 屏幕。本页收录其全部 6 个型号（2015-01 – 2015-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-LX4 13.3 英寸笔记本电脑，银色，2015 年](../../images/CF-LX4/panasonic-letsnote-cf-lx4-cf-lx4ddabr.jpg "松下 Let's note CF-LX4 规格参数")

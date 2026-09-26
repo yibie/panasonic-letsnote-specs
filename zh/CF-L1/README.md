@@ -2,6 +2,8 @@
 
 [English](../../en/CF-L1/) · [日本語](../../ja/CF-L1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-L1/)中查看此机型
+
 **CF-L1** 是松下 Let's note 笔记本电脑，属于 L1 系列，配备 13.3英寸 XGA 屏幕。本页收录其全部 7 个型号（1999-11 – 2000-09 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-L1 13.3 英寸笔记本电脑，1999 年](../../images/CF-L1/panasonic-letsnote-cf-l1-cf-l1ga.jpg "松下 Let's note CF-L1 规格参数")

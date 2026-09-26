@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-T7/) · [中文](../../zh/CF-T7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-T7/).
+
 **CF-T7** is a Panasonic Let's note laptop in the T7 series with a 12.1-inch XGA display. This page lists all 6 part numbers, released 2007-10 – 2008-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-T7 12.1-inch laptop, 2007](../../images/CF-T7/panasonic-letsnote-cf-t7-cf-t7dw6ajr.jpg "Panasonic Let's note CF-T7 specifications")

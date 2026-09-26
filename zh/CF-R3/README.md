@@ -2,6 +2,8 @@
 
 [English](../../en/CF-R3/) · [日本語](../../ja/CF-R3/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-R3/)中查看此机型
+
 **CF-R3** 是松下 Let's note 笔记本电脑，属于 R3 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 3 个型号（2004-05 – 2005-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-R3 10.4 英寸笔记本电脑，2004 年](../../images/CF-R3/panasonic-letsnote-cf-r3-cf-r3fw1axr.jpg "松下 Let's note CF-R3 规格参数")

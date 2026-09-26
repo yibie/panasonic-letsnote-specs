@@ -2,6 +2,8 @@
 
 [English](../../en/CF-T8/) · [日本語](../../ja/CF-T8/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-T8/)中查看此机型
+
 **CF-T8** 是松下 Let's note 笔记本电脑，属于 T8 系列，配备 12.1英寸 XGA 屏幕。本页收录其全部 5 个型号（2008-10 – 2009-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-T8 12.1 英寸笔记本电脑，2008 年](../../images/CF-T8/panasonic-letsnote-cf-t8-cf-t8fw1ajr.jpg "松下 Let's note CF-T8 规格参数")

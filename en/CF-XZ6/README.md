@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-XZ6/) · [中文](../../zh/CF-XZ6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-XZ6/).
+
 **CF-XZ6** is a Panasonic Let's note laptop in the XZ series with a 12.0-inch QHD display. This page lists all 21 part numbers, released 2017-02 – 2019-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-XZ6 12.0-inch laptop, silver, 2017](../../images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6pdapr.jpg "Panasonic Let's note CF-XZ6 specifications")

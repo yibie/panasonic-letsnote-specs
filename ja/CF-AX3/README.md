@@ -2,6 +2,8 @@
 
 [English](../../en/CF-AX3/) · **日本語** · [中文](../../zh/CF-AX3/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-AX3/)でこの機種を見る
+
 パナソニック レッツノート **CF-AX3**（AXシリーズ・11.6型Full HD液晶）の全13品番（2013-06 – 2014-01発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-AX3（11.6型ノートパソコン、シルバー、2013年発売）](../../images/CF-AX3/panasonic-letsnote-cf-ax3-cf-ax3segjr.jpg "レッツノート CF-AX3 スペック")

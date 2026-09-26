@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/AL-N1/) · [中文](../../zh/AL-N1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/AL-N1/).
+
 **AL-N1** is a Panasonic Let's note laptop in the N1 series with a 10.4-inch SVGA display. This page lists all 5 part numbers, released 1996-06 – 1997-02.
 
 ## Part numbers

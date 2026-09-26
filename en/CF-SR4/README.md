@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SR4/) · [中文](../../zh/CF-SR4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SR4/).
+
 **CF-SR4** is a Panasonic Let's note laptop in the SR series with a 12.4-inch FHD+ display. This page lists all 13 part numbers, released 2023-06 – 2025-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SR4 12.4-inch laptop, calm gray, 2023](../../images/CF-SR4/panasonic-letsnote-cf-sr4-cf-sr4gdmcr.png "Panasonic Let's note CF-SR4 specifications")

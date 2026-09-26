@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-A2/) · [中文](../../zh/CF-A2/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-A2/).
+
 **CF-A2** is a Panasonic Let's note laptop in the A2 series with a 11.3-inch XGA display. This page lists all 1 part numbers, released 2001-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-A2 11.3-inch laptop, 2001, part number CF-A2R4H2](../../images/CF-A2/panasonic-letsnote-cf-a2-cf-a2r4h2.jpg "Panasonic Let's note CF-A2 specifications")

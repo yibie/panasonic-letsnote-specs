@@ -2,6 +2,8 @@
 
 [English](../../en/CF-QV8/) · [日本語](../../ja/CF-QV8/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-QV8/)中查看此机型
+
 **CF-QV8** 是松下 Let's note 笔记本电脑，属于 QV 系列，配备 12.0英寸 WQXGA＋ 屏幕。本页收录其全部 7 个型号（2019-10 – 2020-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-QV8 12.0 英寸笔记本电脑，银色，2019 年](../../images/CF-QV8/panasonic-letsnote-cf-qv8-cf-qv8ndgqr.jpg "松下 Let's note CF-QV8 规格参数")

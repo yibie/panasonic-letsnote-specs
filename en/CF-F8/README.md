@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-F8/) · [中文](../../zh/CF-F8/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-F8/).
+
 **CF-F8** is a Panasonic Let's note laptop in the F8 series with a 14.1-inch WXGA＋/WXGA display. This page lists all 6 part numbers, released 2008-10 – 2009-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-F8 14.1-inch laptop, 2008](../../images/CF-F8/panasonic-letsnote-cf-f8-cf-f8hyrcdr.jpg "Panasonic Let's note CF-F8 specifications")

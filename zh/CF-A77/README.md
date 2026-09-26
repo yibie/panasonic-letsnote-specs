@@ -2,6 +2,8 @@
 
 [English](../../en/CF-A77/) · [日本語](../../ja/CF-A77/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-A77/)中查看此机型
+
 **CF-A77** 是松下 Let's note 笔记本电脑，属于 ace A77/A44 系列，配备 11.3英寸 XGA 屏幕。本页收录其全部 2 个型号（1999-06 – 1999-07 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-A77 11.3 英寸笔记本电脑，1999 年，型号 CF-A77J8](../../images/CF-A77/panasonic-letsnote-cf-a77-cf-a77j8.jpg "松下 Let's note CF-A77 规格参数")

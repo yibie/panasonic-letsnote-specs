@@ -2,6 +2,8 @@
 
 [English](../../en/CF-SV1/) · [日本語](../../ja/CF-SV1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-SV1/)中查看此机型
+
 **CF-SV1** 是松下 Let's note 笔记本电脑，属于 SV 系列，配备 12.1英寸 WUXGA 屏幕。本页收录其全部 13 个型号（2021-01 – 2021-11 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-SV1 12.1 英寸笔记本电脑，黑色，2021 年](../../images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1kfncr.jpg "松下 Let's note CF-SV1 规格参数")

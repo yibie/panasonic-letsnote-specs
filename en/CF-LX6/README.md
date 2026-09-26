@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LX6/) · [中文](../../zh/CF-LX6/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LX6/).
+
 **CF-LX6** is a Panasonic Let's note laptop in the LX series with a 13.3-inch HD/14-inch HD+ display. This page lists all 12 part numbers, released 2016-10 – 2018-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LX6 13.3-inch laptop, silver, 2016](../../images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6pdaqr.jpg "Panasonic Let's note CF-LX6 specifications")

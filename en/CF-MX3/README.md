@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-MX3/) · [中文](../../zh/CF-MX3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-MX3/).
+
 **CF-MX3** is a Panasonic Let's note laptop in the MX series with a 12.5-inch Full HD display. This page lists all 11 part numbers, released 2014-01 – 2014-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-MX3 12.5-inch laptop, silver, 2014](../../images/CF-MX3/panasonic-letsnote-cf-mx3-cf-mx3jebjr.jpg "Panasonic Let's note CF-MX3 specifications")

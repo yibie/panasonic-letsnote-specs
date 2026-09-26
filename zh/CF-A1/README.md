@@ -2,6 +2,8 @@
 
 [English](../../en/CF-A1/) · [日本語](../../ja/CF-A1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-A1/)中查看此机型
+
 **CF-A1** 是松下 Let's note 笔记本电脑，属于 A1 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 4 个型号（1999-09 – 2000-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-A1 10.4 英寸笔记本电脑，1999 年](../../images/CF-A1/panasonic-letsnote-cf-a1-cf-a1er.jpg "松下 Let's note CF-A1 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-A44/) · [日本語](../../ja/CF-A44/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-A44/)中查看此机型
+
 **CF-A44** 是松下 Let's note 笔记本电脑，属于 ace A77/A44 系列，配备 11.3英寸 XGA 屏幕。本页收录其全部 3 个型号（1998-12 – 1999-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-A44 11.3 英寸笔记本电脑，1998 年](../../images/CF-A44/panasonic-letsnote-cf-a44-cf-a44ej8.jpg "松下 Let's note CF-A44 规格参数")

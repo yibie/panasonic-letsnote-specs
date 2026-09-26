@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LX3/) · [中文](../../zh/CF-LX3/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LX3/).
+
 **CF-LX3** is a Panasonic Let's note laptop in the LX series with a 13.3-inch HD/14-inch HD+ display. This page lists all 19 part numbers, released 2013-09 – 2014-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LX3 13.3-inch laptop, silver, 2013](../../images/CF-LX3/panasonic-letsnote-cf-lx3-cf-lx3jejjr.jpg "Panasonic Let's note CF-LX3 specifications")

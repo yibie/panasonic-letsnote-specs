@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SV1/) · [中文](../../zh/CF-SV1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SV1/).
+
 **CF-SV1** is a Panasonic Let's note laptop in the SV series with a 12.1-inch WUXGA display. This page lists all 13 part numbers, released 2021-01 – 2021-11. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SV1 12.1-inch laptop, black, 2021](../../images/CF-SV1/panasonic-letsnote-cf-sv1-cf-sv1kfncr.jpg "Panasonic Let's note CF-SV1 specifications")

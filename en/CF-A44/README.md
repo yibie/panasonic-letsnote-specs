@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-A44/) · [中文](../../zh/CF-A44/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-A44/).
+
 **CF-A44** is a Panasonic Let's note laptop in the ace A77/A44 series with a 11.3-inch XGA display. This page lists all 3 part numbers, released 1998-12 – 1999-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-A44 11.3-inch laptop, 1998](../../images/CF-A44/panasonic-letsnote-cf-a44-cf-a44ej8.jpg "Panasonic Let's note CF-A44 specifications")

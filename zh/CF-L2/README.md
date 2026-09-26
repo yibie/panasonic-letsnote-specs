@@ -2,6 +2,8 @@
 
 [English](../../en/CF-L2/) · [日本語](../../ja/CF-L2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-L2/)中查看此机型
+
 **CF-L2** 是松下 Let's note 笔记本电脑，属于 L2 系列，配备 13.3英寸 XGA 屏幕。本页收录其全部 1 个型号（2001-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-L2 13.3 英寸笔记本电脑，2001 年，型号 CF-L2R4HMA](../../images/CF-L2/panasonic-letsnote-cf-l2-cf-l2r4hma.jpg "松下 Let's note CF-L2 规格参数")

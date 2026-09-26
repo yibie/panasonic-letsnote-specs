@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-M1/) · [中文](../../zh/CF-M1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-M1/).
+
 **CF-M1** is a Panasonic Let's note laptop in the M1 series with a 11.3-inch XGA display. This page lists all 5 part numbers, released 1999-09 – 2000-03. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-M1 11.3-inch laptop, 1999](../../images/CF-M1/panasonic-letsnote-cf-m1-cf-m1ev.jpg "Panasonic Let's note CF-M1 specifications")

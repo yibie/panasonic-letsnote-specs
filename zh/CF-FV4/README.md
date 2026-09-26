@@ -2,6 +2,8 @@
 
 [English](../../en/CF-FV4/) · [日本語](../../ja/CF-FV4/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-FV4/)中查看此机型
+
 **CF-FV4** 是松下 Let's note 笔记本电脑，属于 FV 系列，配备 14.0英寸 QHD 屏幕。本页收录其全部 7 个型号（2023-06 – 2024-01 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-FV4 14.0 英寸笔记本电脑，黑色，2023 年](../../images/CF-FV4/panasonic-letsnote-cf-fv4-cf-fv4ddncr.jpg "松下 Let's note CF-FV4 规格参数")

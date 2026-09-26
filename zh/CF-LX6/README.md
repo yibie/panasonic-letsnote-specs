@@ -2,6 +2,8 @@
 
 [English](../../en/CF-LX6/) · [日本語](../../ja/CF-LX6/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-LX6/)中查看此机型
+
 **CF-LX6** 是松下 Let's note 笔记本电脑，属于 LX 系列，配备 13.3英寸 HD/14英寸 HD+ 屏幕。本页收录其全部 12 个型号（2016-10 – 2018-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-LX6 13.3 英寸笔记本电脑，银色，2016 年](../../images/CF-LX6/panasonic-letsnote-cf-lx6-cf-lx6pdaqr.jpg "松下 Let's note CF-LX6 规格参数")

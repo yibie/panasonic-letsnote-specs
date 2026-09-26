@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-LV7/) · [中文](../../zh/CF-LV7/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-LV7/).
+
 **CF-LV7** is a Panasonic Let's note laptop in the LV series with a 14.0-inch Full HD display. This page lists all 10 part numbers, released 2018-06 – 2019-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-LV7 14.0-inch laptop, silver, 2018](../../images/CF-LV7/panasonic-letsnote-cf-lv7-cf-lv7hdfqr.jpg "Panasonic Let's note CF-LV7 specifications")

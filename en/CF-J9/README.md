@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-J9/) · [中文](../../zh/CF-J9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-J9/).
+
 **CF-J9** is a Panasonic Let's note laptop in the J9 series with a 10.1-inch WXGA display. This page lists all 4 part numbers, released 2010-10. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-J9 10.1-inch laptop, 2010](../../images/CF-J9/panasonic-letsnote-cf-j9-cf-j9ly1ahr.jpg "Panasonic Let's note CF-J9 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-Y5/) · [中文](../../zh/CF-Y5/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-Y5/).
+
 **CF-Y5** is a Panasonic Let's note laptop in the Y5 series with a 14.1-inch SXGA＋ display. This page lists all 3 part numbers, released 2006-05 – 2007-01. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-Y5 14.1-inch laptop, 2006, part number CF-Y5MW8AJR](../../images/CF-Y5/panasonic-letsnote-cf-y5-cf-y5mw8ajr.jpg "Panasonic Let's note CF-Y5 specifications")

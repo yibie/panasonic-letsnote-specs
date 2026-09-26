@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-J10/) · [中文](../../zh/CF-J10/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-J10/).
+
 **CF-J10** is a Panasonic Let's note laptop in the J10 series with a 10.1-inch WXGA display. This page lists all 20 part numbers, released 2011-02 – 2012-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-J10 10.1-inch laptop, 2011](../../images/CF-J10/panasonic-letsnote-cf-j10-cf-j10sybhr.jpg "Panasonic Let's note CF-J10 specifications")

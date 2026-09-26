@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/AL-N4/) · [中文](../../zh/AL-N4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/AL-N4/).
+
 **AL-N4** is a Panasonic Let's note laptop in the mini M32/N4 series with a 8.4-inch SVGA display. This page lists all 1 part numbers, released 1997-11.
 
 ## Part numbers

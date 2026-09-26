@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S22/) · [中文](../../zh/CF-S22/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S22/).
+
 **CF-S22** is a Panasonic Let's note laptop in the S22/S21 series with a 10.4-inch SVGA display. This page lists all 1 part numbers, released 1998-11. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S22 10.4-inch laptop, 1998, part number CF-S22J8](../../images/CF-S22/panasonic-letsnote-cf-s22-cf-s22j8.jpg "Panasonic Let's note CF-S22 specifications")

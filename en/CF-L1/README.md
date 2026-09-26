@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-L1/) · [中文](../../zh/CF-L1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-L1/).
+
 **CF-L1** is a Panasonic Let's note laptop in the L1 series with a 13.3-inch XGA display. This page lists all 7 part numbers, released 1999-11 – 2000-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-L1 13.3-inch laptop, 1999](../../images/CF-L1/panasonic-letsnote-cf-l1-cf-l1ga.jpg "Panasonic Let's note CF-L1 specifications")

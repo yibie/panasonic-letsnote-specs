@@ -2,6 +2,8 @@
 
 [English](../../en/CF-R7/) · [日本語](../../ja/CF-R7/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-R7/)中查看此机型
+
 **CF-R7** 是松下 Let's note 笔记本电脑，属于 R7 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 6 个型号（2007-10 – 2008-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-R7 10.4 英寸笔记本电脑，2007 年](../../images/CF-R7/panasonic-letsnote-cf-r7-cf-r7dw6ajr.jpg "松下 Let's note CF-R7 规格参数")

@@ -2,6 +2,8 @@
 
 [English](../../en/CF-A2/) · [日本語](../../ja/CF-A2/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-A2/)中查看此机型
+
 **CF-A2** 是松下 Let's note 笔记本电脑，属于 A2 系列，配备 11.3英寸 XGA 屏幕。本页收录其全部 1 个型号（2001-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-A2 11.3 英寸笔记本电脑，2001 年，型号 CF-A2R4H2](../../images/CF-A2/panasonic-letsnote-cf-a2-cf-a2r4h2.jpg "松下 Let's note CF-A2 规格参数")

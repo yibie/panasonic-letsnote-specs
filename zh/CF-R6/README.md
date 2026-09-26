@@ -2,6 +2,8 @@
 
 [English](../../en/CF-R6/) · [日本語](../../ja/CF-R6/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-R6/)中查看此机型
+
 **CF-R6** 是松下 Let's note 笔记本电脑，属于 R6 系列，配备 10.4英寸 XGA 屏幕。本页收录其全部 3 个型号（2007-03 – 2007-05 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-R6 10.4 英寸笔记本电脑，2007 年](../../images/CF-R6/panasonic-letsnote-cf-r6-cf-r6aw1bjr.jpg "松下 Let's note CF-R6 规格参数")

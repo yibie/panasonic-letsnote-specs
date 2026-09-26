@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-N9/) · [中文](../../zh/CF-N9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-N9/).
+
 **CF-N9** is a Panasonic Let's note laptop in the N9 series with a 12.1-inch WXGA display. This page lists all 3 part numbers, released 2010-02 – 2010-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-N9 12.1-inch laptop, 2010, part number CF-N9LYPEDR](../../images/CF-N9/panasonic-letsnote-cf-n9-cf-n9lypedr.jpg "Panasonic Let's note CF-N9 specifications")

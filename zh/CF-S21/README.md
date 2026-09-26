@@ -2,6 +2,8 @@
 
 [English](../../en/CF-S21/) · [日本語](../../ja/CF-S21/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-S21/)中查看此机型
+
 **CF-S21** 是松下 Let's note 笔记本电脑，属于 S22/S21 系列，配备 10.4英寸 SVGA 屏幕。本页收录其全部 5 个型号（1998-06 – 1998-09 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-S21 10.4 英寸笔记本电脑，1998 年](../../images/CF-S21/panasonic-letsnote-cf-s21-cf-s21ej8.jpg "松下 Let's note CF-S21 规格参数")

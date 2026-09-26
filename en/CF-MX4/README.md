@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-MX4/) · [中文](../../zh/CF-MX4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-MX4/).
+
 **CF-MX4** is a Panasonic Let's note laptop in the MX series with a 12.5-inch Full HD display. This page lists all 8 part numbers, released 2015-01 – 2015-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-MX4 12.5-inch laptop, silver, 2015](../../images/CF-MX4/panasonic-letsnote-cf-mx4-cf-mx4ddqjr.jpg "Panasonic Let's note CF-MX4 specifications")

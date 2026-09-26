@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-S10/) · [中文](../../zh/CF-S10/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-S10/).
+
 **CF-S10** is a Panasonic Let's note laptop in the S10 series with a 12.1-inch WXGA display. This page lists all 12 part numbers, released 2011-02 – 2011-09. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-S10 12.1-inch laptop, 2011](../../images/CF-S10/panasonic-letsnote-cf-s10-cf-s10eybdr.jpg "Panasonic Let's note CF-S10 specifications")

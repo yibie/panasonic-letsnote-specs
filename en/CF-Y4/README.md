@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-Y4/) · [中文](../../zh/CF-Y4/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-Y4/).
+
 **CF-Y4** is a Panasonic Let's note laptop in the Y4 series with a 14.1-inch SXGA＋ display. This page lists all 3 part numbers, released 2005-05 – 2006-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-Y4 14.1-inch laptop, 2005, part number CF-Y4JW8AXR](../../images/CF-Y4/panasonic-letsnote-cf-y4-cf-y4jw8axr.jpg "Panasonic Let's note CF-Y4 specifications")

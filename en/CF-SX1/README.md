@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-SX1/) · [中文](../../zh/CF-SX1/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-SX1/).
+
 **CF-SX1** is a Panasonic Let's note laptop in the SX series with a 12.1-inch HD+ display. This page lists all 13 part numbers, released 2012-02 – 2012-06. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-SX1 12.1-inch laptop, 2012](../../images/CF-SX1/panasonic-letsnote-cf-sx1-cf-sx1geadr.jpg "Panasonic Let's note CF-SX1 specifications")

@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-R9/) · [中文](../../zh/CF-R9/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-R9/).
+
 **CF-R9** is a Panasonic Let's note laptop in the R9 series with a 10.4-inch XGA display. This page lists all 4 part numbers, released 2010-02 – 2010-05. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-R9 10.4-inch laptop, 2010](../../images/CF-R9/panasonic-letsnote-cf-r9-cf-r9jwacdr.jpg "Panasonic Let's note CF-R9 specifications")

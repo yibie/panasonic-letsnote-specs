@@ -2,6 +2,8 @@
 
 [English](../../en/CF-C33/) · [日本語](../../ja/CF-C33/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-C33/)中查看此机型
+
 **CF-C33** 是松下 Let's note 笔记本电脑，属于 comm C33 系列，配备 8.4英寸 SVGA 屏幕。本页收录其全部 5 个型号（1998-10 – 1999-02 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-C33 8.4 英寸笔记本电脑，1998 年](../../images/CF-C33/panasonic-letsnote-cf-c33-cf-c33eaj8c.jpg "松下 Let's note CF-C33 规格参数")

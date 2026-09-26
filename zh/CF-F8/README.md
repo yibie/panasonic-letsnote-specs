@@ -2,6 +2,8 @@
 
 [English](../../en/CF-F8/) · [日本語](../../ja/CF-F8/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-F8/)中查看此机型
+
 **CF-F8** 是松下 Let's note 笔记本电脑，属于 F8 系列，配备 14.1英寸 WXGA＋/WXGA 屏幕。本页收录其全部 6 个型号（2008-10 – 2009-10 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-F8 14.1 英寸笔记本电脑，2008 年](../../images/CF-F8/panasonic-letsnote-cf-f8-cf-f8hyrcdr.jpg "松下 Let's note CF-F8 规格参数")

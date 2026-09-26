@@ -2,6 +2,8 @@
 
 **English** · [日本語](../../ja/CF-C33/) · [中文](../../zh/CF-C33/)
 
+🗄️ See this model in the [Let's note Cabinet](https://letsnote-specs.github.io/en/CF-C33/).
+
 **CF-C33** is a Panasonic Let's note laptop in the comm C33 series with a 8.4-inch SVGA display. This page lists all 5 part numbers, released 1998-10 – 1999-02. Each part number links to its official spec sheet.
 
 ![Panasonic Let's note CF-C33 8.4-inch laptop, 1998](../../images/CF-C33/panasonic-letsnote-cf-c33-cf-c33eaj8c.jpg "Panasonic Let's note CF-C33 specifications")

@@ -2,6 +2,8 @@
 
 [English](../../en/AL-N1/) · [日本語](../../ja/AL-N1/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/AL-N1/)中查看此机型
+
 **AL-N1** 是松下 Let's note 笔记本电脑，属于 N1 系列，配备 10.4英寸 SVGA 屏幕。本页收录其全部 5 个型号（1996-06 – 1997-02 发售）的规格参数。
 
 ## 型号列表

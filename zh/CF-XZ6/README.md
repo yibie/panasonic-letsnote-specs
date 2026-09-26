@@ -2,6 +2,8 @@
 
 [English](../../en/CF-XZ6/) · [日本語](../../ja/CF-XZ6/) · **中文**
 
+🗄️ 在 [Let's note 陈列柜](https://letsnote-specs.github.io/zh/CF-XZ6/)中查看此机型
+
 **CF-XZ6** 是松下 Let's note 笔记本电脑，属于 XZ 系列，配备 12.0英寸 QHD 屏幕。本页收录其全部 21 个型号（2017-02 – 2019-06 发售）的规格参数。每个型号均附官方规格表链接。
 
 ![松下 Let's note CF-XZ6 12.0 英寸笔记本电脑，银色，2017 年](../../images/CF-XZ6/panasonic-letsnote-cf-xz6-cf-xz6pdapr.jpg "松下 Let's note CF-XZ6 规格参数")

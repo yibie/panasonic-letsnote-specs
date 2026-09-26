@@ -42,6 +42,8 @@ STRINGS = {
                        "{parts} part numbers. Each model has its own page with all part numbers, release and "
                        "discontinuation dates, photos and the full official spec sheet.",
         "index_series": "Series", "index_models": "Models (newest first)",
+        "on_site": "🗄️ See this model in the [Let's note Cabinet]({url}).",
+        "on_github": "Data and source: [GitHub]({url}).",
     },
     "ja": {
         "title": "レッツノート {model} スペック・仕様一覧",
@@ -76,6 +78,8 @@ STRINGS = {
         "index_intro": "1996年以降のパナソニック レッツノート全{models}機種・{parts}品番のスペックを機種ごとにまとめています。"
                        "各機種のページに品番一覧、発売日・生産終了日、写真、公式仕様表を掲載しています。",
         "index_series": "シリーズ", "index_models": "機種（新しい順）",
+        "on_site": "🗄️ [レッツノート陳列棚]({url})でこの機種を見る",
+        "on_github": "データとソース：[GitHub]({url})",
     },
     "zh": {
         "title": "松下 Let's note {model} 规格参数",
@@ -110,6 +114,8 @@ STRINGS = {
         "index_intro": "收录 1996 年以来松下 Let's note 全部 {models} 个机型、{parts} 个型号的规格。"
                        "每个机型一页，包含型号列表、发售与停产日期、图片和完整的官方规格表。",
         "index_series": "系列", "index_models": "机型（从新到旧）",
+        "on_site": "🗄️ 在 [Let's note 陈列柜]({url})中查看此机型",
+        "on_github": "数据与源文件：[GitHub]({url})",
     },
 }
 

@@ -17,6 +17,7 @@ from labels import LABELS, LABELS_ZH
 LIST_URL = "https://panasonic.jp/pc/support/products/"
 SPEC_URL = "https://panasonic.jp/pc/p-db/{}_spec.html"
 SITE_URL = "https://letsnote-specs.github.io/"
+REPO_URL = "https://github.com/yibie/panasonic-letsnote-specs"
 
 
 def model_of(row):
@@ -111,7 +112,9 @@ def image_block(model, img, T, lang, screen_text, color_text, year, rel):
     return [f'![{alt}]({rel}{img["file"]} "{T["img_title"].format(model=model)}")', "", f"*{caption}*", ""]
 
 
-def model_page(model, parts, specs, images, prev_m, next_m, lang):
+def model_page(model, parts, specs, images, prev_m, next_m, lang, target="repo"):
+    """Markdown for one model. target="repo" links to the website page,
+    target="site" (rendered to HTML by build_site.py) links back to GitHub."""
     T = STRINGS[lang]
     series = next((p["series"] for p in parts if p["series"]), None)
     screen_ja = next((p["screen"] for p in parts if p["screen"]), None)
@@ -121,7 +124,10 @@ def model_page(model, parts, specs, images, prev_m, next_m, lang):
     rel = "../../"  # from <lang>/<model>/ back to the repo root
 
     switch = " · ".join(f"**{LANG_NAMES[l]}**" if l == lang else f"[{LANG_NAMES[l]}](../../{l}/{model}/)" for l in LANGS)
-    lines = [f"# {T['title'].format(model=model)}", "", switch, ""]
+    lines = [f"# {T['title'].format(model=model)}", ""]
+    if target == "repo":
+        lines += [switch, ""]
+        lines += [T["on_site"].format(url=f"{SITE_URL}{lang}/{model}/"), ""]
     intro = T["intro"].format(
         model=model, n=len(parts),
         series=T["series"].format(series=series) if series else "",
@@ -194,6 +200,8 @@ def model_page(model, parts, specs, images, prev_m, next_m, lang):
     if prev_m:
         lines.append(f"- {T['older']}: [{prev_m}](../{prev_m}/)")
     lines += [f"- [{T['all']}](../)", "", "---", "", T["source"].format(list=LIST_URL), ""]
+    if target == "site":
+        lines += [T["on_github"].format(url=f"{REPO_URL}/tree/main/{lang}/{model}"), ""]
     return "\n".join(lines)
 
 
@@ -219,7 +227,10 @@ def index_page(models, series_of, first_release, lang, prefix=""):
     return "\n".join(lines)
 
 
-def main():
+def collect():
+    """Load the data and group it by model. Returns a dict with
+    models {model: [part rows, newest first]}, specs, images, series_of,
+    first_release and neighbours {model: (older, newer)} within each series."""
     rows = json.loads((DATA / "list.json").read_text())
     specs = json.loads((DATA / "specs.json").read_text()) if (DATA / "specs.json").exists() else {}
     images = json.loads((DATA / "images.json").read_text()) if (DATA / "images.json").exists() else {}
@@ -240,22 +251,31 @@ def main():
     by_series = defaultdict(list)
     for m in models:
         by_series[series_of[m]].append(m)
+    neighbours = {}
+    for ms in by_series.values():
+        ms.sort(key=lambda m: first_release[m] or "9999")
+        for i, m in enumerate(ms):
+            neighbours[m] = (ms[i - 1] if i > 0 else None, ms[i + 1] if i + 1 < len(ms) else None)
+    return {"models": models, "specs": specs, "images": images, "series_of": series_of,
+            "first_release": first_release, "neighbours": neighbours}
+
+
+def main():
+    d = collect()
+    models, specs, images = d["models"], d["specs"], d["images"]
     for lang in LANGS:
         base = ROOT / lang
         base.mkdir(exist_ok=True)
-        for d in base.iterdir():
-            if d.is_dir() and d.name not in models:
-                shutil.rmtree(d)
-        for s, ms in by_series.items():
-            ms.sort(key=lambda m: first_release[m] or "9999")
-            for i, m in enumerate(ms):
-                prev_m = ms[i - 1] if i > 0 else None
-                next_m = ms[i + 1] if i + 1 < len(ms) else None
-                (base / m).mkdir(exist_ok=True)
-                (base / m / "README.md").write_text(model_page(m, models[m], specs, images, prev_m, next_m, lang))
-        (base / "README.md").write_text(index_page(models, series_of, first_release, lang))
+        for sub in base.iterdir():
+            if sub.is_dir() and sub.name not in models:
+                shutil.rmtree(sub)
+        for m in models:
+            prev_m, next_m = d["neighbours"][m]
+            (base / m).mkdir(exist_ok=True)
+            (base / m / "README.md").write_text(model_page(m, models[m], specs, images, prev_m, next_m, lang))
+        (base / "README.md").write_text(index_page(models, d["series_of"], d["first_release"], lang))
 
-    (ROOT / "README.md").write_text(index_page(models, series_of, first_release, "en", prefix="en/"))
+    (ROOT / "README.md").write_text(index_page(models, d["series_of"], d["first_release"], "en", prefix="en/"))
     print(f"generated {len(models)} models x {len(LANGS)} languages; "
           f"{sum(p['part'] in specs for ps in models.values() for p in ps)} parts with full specs, "
           f"{sum(m in images for m in models)} models with images")

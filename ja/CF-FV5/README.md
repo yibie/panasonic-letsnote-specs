@@ -2,6 +2,8 @@
 
 [English](../../en/CF-FV5/) · **日本語** · [中文](../../zh/CF-FV5/)
 
+🗄️ [レッツノート陳列棚](https://letsnote-specs.github.io/ja/CF-FV5/)でこの機種を見る
+
 パナソニック レッツノート **CF-FV5**（FVシリーズ・14.0型 QHD液晶）の全6品番（2024-07 – 2025-01発売）のスペック・仕様をまとめたページです。各品番の公式仕様表へのリンクも掲載しています。
 
 ![パナソニック レッツノート CF-FV5（14.0型ノートパソコン、ブラック、2024年発売）、品番 CF-FV5HDNCR](../../images/CF-FV5/panasonic-letsnote-cf-fv5-cf-fv5hdncr.png "レッツノート CF-FV5 スペック")
