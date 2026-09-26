@@ -27,8 +27,8 @@
 | 芯片组 | 内置于CPU |
 | 内存 | 8GB LPDDR3 SDRAM（无扩展插槽） |
 | 显示屏 / 显卡 | 英特尔 HD 图形520（内置于CPU） |
-| 显示屏 / 色彩 | 1920×1080点：约1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080点：约1677万色 |
+| 显示屏 / 色彩 | 1920×1080像素：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1680×1050、1920×1080像素：约1677万色 |
 | 无线通信模块 | 英特尔 Dual Band Wireless-AC 8260 |
 | 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac |
 | LTE | 无 |
@@ -72,8 +72,8 @@
 | 光驱速度 / 写入 | DVD-RAM 改写：最高5倍速 / DVD-R 写入：最高8倍速 / DVD-R DL 写入：最高6倍速 / DVD-RW 改写：最高6倍速 / +R 写入：最高8倍速 / +R DL 写入：最高6倍速 / +RW 改写：最高4倍速 / HighSpeed +RW 改写：最高8倍速 / CD-R 写入：最高24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW 改写：10倍速 / Ultra-Speed CD-RW 改写：最高16倍速 |
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（ 支持XA ） / Photo CD（ 支持多区段 ） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏（1920 x 1080 点）、防眩光 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏（1920 x 1080像素）、防眩光 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵向・横向）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量3550mAh、额定容量3400mAh |
@@ -99,8 +99,8 @@
 | 光驱速度 / 写入 | BD-R写入：最大6倍速 / BD-R DL写入：最大6倍速 / BD-R LTH 写入：最大4倍速 / BD-R XL写入：最大4倍速 / BD-RE改写：2倍速 / BD-RE DL改写：2倍速 / BD-RE XL 改写：2倍速 / DVD-RAM改写：最大5倍速 / DVD-R 写入：最大8倍速 / DVD-R DL写入：最大6倍速 / DVD-RW改写：最大6倍速 / +R 写入：最大8倍速 / +R DL写入：最大6倍速 / +RW 改写：最大4倍速 / HighSpeed +RW改写：最大8倍速 / CD-R 写入：最大24倍速 / CD-RW 改写：4倍速 / High-Speed CD-RW改写：10倍速 / Ultra-Speed CD-RW改写：最大16倍速 |
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
-| 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏（1920 x 1080 点）、防眩光 |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏（1920 x 1080像素）、防眩光 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵横）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量7100mAh、额定容量6800mAh |
@@ -129,7 +129,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（ 支持XA ） / Photo CD（ 支持多区段 ） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏 （1920 x 1080 像素） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200像素：约1677万色 |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵向・横向）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量3550mAh、额定容量3400mAh |
 | 能效 | 2011年度标准 N分类0.023 |
@@ -155,7 +155,7 @@
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏 （1920 x 1080 像素） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200像素：约1677万色 |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵横）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量7100mAh、额定容量6800mAh |
 | 能效 | 2011年度标准 N分类0.020 |
@@ -183,7 +183,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / HighSpeed +RW（ 4.7GB ） / CD-Audio / CD-ROM（ 支持XA ） / Photo CD（ 支持多区段 ） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏 （1920 x 1080 像素） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200像素：约1677万色 |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵向・横向）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量3550mAh、额定容量3400mAh |
 | 能效 | 2011年度标准 N分类0.023 |
@@ -209,7 +209,7 @@
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / HighSpeed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 | 14英寸宽屏(16:9)Full HD TFT彩色液晶屏 （1920 x 1080 像素） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050 、1920×1080、1920×1200像素：约1677万色 |
 | 键盘 | 符合OADG标准的87键、键距19mm（纵横）（部分按键除外） |
 | 电源 | ▼AC适配器 / 输入：AC100V～240V、50Hz/60Hz，输出：DC16V、4.06A，电源线为100V专用 / ▼电池组 / 10.8V 锂离子・标称容量7100mAh、额定容量6800mAh |
 | 能效 | 2011年度标准 N分类0.020 |

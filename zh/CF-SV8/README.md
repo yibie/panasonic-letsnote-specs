@@ -38,8 +38,8 @@
 | :-- | :-- |
 | 芯片组 | 内置于CPU |
 | 显示屏 | 12.1英寸(16:10)WUXGA TFT彩色液晶（1920 x 1200像素）、防眩光 |
-| 显示屏 / 色彩 | 1920×1200点：约1677万色 |
-| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 |
+| 显示屏 / 色彩 | 1920×1200像素：约1677万色 |
+| 显示屏 / 同时显示 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 |
 | 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n/ac（支持WPA2-AES/TKIP、符合Wi-Fi） |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
 | 蓝牙 | Bluetooth v5.0 / ■支持配置文件 / 【Classic】 / ・A2DP（Source） / ・AVRCP（Target） / ・HCRP（Client） / ・HFP（AG） / ・HID（Host） / ・OPP（Client和Server） / ・PAN（User） / ・SPP（DevA和DevB） / 【Low Energy】 / ・HOGP（Host） |
@@ -94,7 +94,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔®UHD 显卡620（CPU内置） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔® Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
@@ -130,7 +130,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔®UHD 显卡620（CPU内置） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔® Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
@@ -166,7 +166,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔®UHD 显卡620（CPU内置） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔® Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
@@ -202,7 +202,7 @@
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔®UHD 显卡620（CPU内置） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔® Wireless-AC 9560 |
 | LTE | 内置无线WAN模块（支持LTE） |
 | 音频 | PCM音源（24位立体声）、英特尔® High Definition Audio标准、立体声扬声器 |
@@ -239,7 +239,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -271,7 +271,7 @@
 | 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
 | 光驱 | 未配备 |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -306,7 +306,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -341,7 +341,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -376,7 +376,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -411,7 +411,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -446,7 +446,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -481,7 +481,7 @@
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 内置无线WAN模块（支持LTE） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -513,7 +513,7 @@
 | 固态硬盘 | 闪存驱动器（SSD）256GB（Serial ATA）上述容量中约15GB用作恢复区域、约1GB用作系统区域（用户不可使用） |
 | 光驱 | 未配备 |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -548,7 +548,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560×1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -583,7 +583,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -618,7 +618,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 内置无线WAN模块（支持LTE） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -654,7 +654,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 内置无线WAN模块（支持LTE） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -690,7 +690,7 @@
 | 支持光盘 / 读取 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（ 1.4GB、2.8GB、3.95GB、4.7GB ） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB ） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB ） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（ 1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（ 8.5GB ） / DVD-RW（ Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB ） / +R DL（ 8.5GB ） / +RW（ 4.7GB ） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 未配备 |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |
@@ -725,7 +725,7 @@
 | 支持光盘 / 读取 | BD-ROM / BD-R（Ver.1.1/1.2/1.3、25GB） / BD-R DL（Ver.1.1/1.2/1.3、50GB） / BD-R LTH（Ver.1.2/1.3、25GB） / BD-R XL（Ver.2.0、100GB） / BD-RE（Ver. 2.1、25GB） / BD-RE DL（Ver.2.1、50GB） / BD-RE XL（Ver.3.0、100GB） / DVD-RAM（ 1.4GB、2.8GB、4.7GB、9.4GB ） / DVD-ROM（单层、双层） / DVD-Video（单层、双层） / DVD-R（1.4GB、2.8GB、3.95GB、4.7GB） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（4.7GB） / +R DL（8.5GB） / +RW（4.7GB） / High Speed +RW（4.7GB） / CD-Audio / CD-ROM（支持XA） / Photo CD（支持多区段） / Video CD / CD EXTRA / CD-TEXT / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 支持光盘 / 写入 | BD-R（25GB） / BD-R DL（50GB） / BD-R LTH（25GB） / BD-R XL（100GB） / BD-RE（25GB） / BD-RE DL（50GB） / BD-RE XL（100GB） / DVD-RAM（1.4GB、2.8GB、4.7GB、9.4GB） / DVD-R（1.4GB、2.8 GB、4.7GB for General） / DVD-R DL（8.5GB） / DVD-RW（Ver.1.1/1.2 1.4GB、2.8GB、4.7GB、9.4GB） / +R（ 4.7GB） / +R DL（8.5GB） / +RW（ 4.7GB） / High Speed +RW（ 4.7GB） / CD-R / CD-RW / High-Speed CD-RW / Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔UHD 显卡620（内置于CPU） |
-| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200点：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
+| 显示屏 / 外接显示输出 | 1024×768、1280×768、1280×1024、1360×768、1366×768、1400×1050、1600×900、1600×1200、1680×1050、1920×1080、1920×1200像素：约1677万色 / 仅HDMI输出：2560Ｘ1440、3840×2160（30 Hz/60 Hz）、4096×2160（30 Hz/60 Hz） |
 | 无线通信模块 | 英特尔 Wireless-AC 9560 |
 | LTE | 内置无线WAN模块（支持LTE） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio标准、立体声扬声器 |

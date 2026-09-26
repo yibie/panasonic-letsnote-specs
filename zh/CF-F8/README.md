@@ -14,10 +14,10 @@
 | :-- | :-- | :-- | :-- |
 | [CF-F8HYRCDR](https://panasonic.jp/pc/p-db/CF-F8HYRCDR_spec.html) | 2009-10 | 2010-01 | Windows®7 Professional 正版、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：标准2GB（最大4GB）、HDD：250GB、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
 | [CF-F8HYRNDR](https://panasonic.jp/pc/p-db/CF-F8HYRNDR_spec.html) | 2009-10 | 2010-01 | Windows®7 Professional 正版、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：标准2GB（最大4GB）、HDD：250GB、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007＜数量限定＞ |
-| [CF-F8GWQCJR](https://panasonic.jp/pc/p-db/CF-F8GWQCJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA（1280×800点）液晶、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-F8GWQQJR](https://panasonic.jp/pc/p-db/CF-F8GWQQJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA（1280×800点）液晶、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜数量限定＞ |
-| [CF-F8FWMQJR](https://panasonic.jp/pc/p-db/CF-F8FWMQJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SP9300（2.26GHz）、内存：1GB＋1GB（最大3GB）、HDD：250GB、WXGA＋（1440×900点）液晶、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
-| [CF-F8EWJJJR](https://panasonic.jp/pc/p-db/CF-F8EWJJJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SP9300（2.26GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA＋（1440×900点）液晶、Super Multi Drive、LAN、无线LAN 802.11a(J52/W52/W53/W56)/b/g/n |
+| [CF-F8GWQCJR](https://panasonic.jp/pc/p-db/CF-F8GWQCJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA（1280×800像素）液晶、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-F8GWQQJR](https://panasonic.jp/pc/p-db/CF-F8GWQQJR_spec.html) | 2009-05 | 2009-09 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SU9400（1.40GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA（1280×800像素）液晶、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n、Office Personal 2007 ＜数量限定＞ |
+| [CF-F8FWMQJR](https://panasonic.jp/pc/p-db/CF-F8FWMQJR_spec.html) | 2009-02 | 2009-05 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SP9300（2.26GHz）、内存：1GB＋1GB（最大3GB）、HDD：250GB、WXGA＋（1440×900像素）液晶、Super Multi Drive、LAN、无线LAN 802.11a(W52/W53/W56)/b/g/n |
+| [CF-F8EWJJJR](https://panasonic.jp/pc/p-db/CF-F8EWJJJR_spec.html) | 2008-10 | 2009-01 | Windows Vista® Business with SP1 正版 、英特尔® CoreTM2 Duo SP9300（2.26GHz）、内存：1GB＋1GB（最大3GB）、HDD：160GB、WXGA＋（1440×900像素）液晶、Super Multi Drive、LAN、无线LAN 802.11a(J52/W52/W53/W56)/b/g/n |
 
 ## 通用规格
 
@@ -58,7 +58,7 @@
 | 显示屏 | 14.1英寸TFT彩色液晶屏 WXGA (1280×800像素) |
 | 显示屏 / 色彩 | 1280×800像素：约1677万色 |
 | 显示屏 / 外接显示输出 | 1280×800、800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800像素：约1677万色 |
 | 无线通信模块 | 英特尔(R) WiMAX/WiFi Link5150 |
 | 无线网络 | 支持WPA2-AES/TKIP、符合Wi-Fi IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0 |
 | 移动 WiMAX | 内置（接收最大13Mbps、发送最大3Mbps） |
@@ -101,7 +101,7 @@
 | 显示屏 | 14.1英寸TFT彩色液晶屏 WXGA (1280×800像素) |
 | 显示屏 / 色彩 | 1280×800像素：约1677万色 |
 | 显示屏 / 外接显示输出 | 1280×800、800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800像素：约1677万色 |
 | 无线通信模块 | 英特尔(R) WiMAX/WiFi Link5150 |
 | 无线网络 | 支持WPA2-AES/TKIP、符合Wi-Fi IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0 |
 | 移动 WiMAX | 内置（接收最大13Mbps、发送最大3Mbps） |
@@ -141,10 +141,10 @@
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、＋R、+R DL、＋RW、CD-Audio、CD-R、CD-ROM（支持XA）、 / PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、＋R、＋RW、CD-R、CD-RW |
 | 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
-| 显示屏 | WXGA(1280×800点)14.1英寸TFT彩色液晶 |
+| 显示屏 | WXGA(1280×800像素)14.1英寸TFT彩色液晶 |
 | 显示屏 / 色彩 | 1280×800像素：约1677万色 |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×800、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×800、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800像素：约1677万色 |
 | 无线网络 | 英特尔（R） WiFi Link 5100AGN、符合IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0、（支持WPA-AES/TKIP、符合Wi-Fi） |
 | 有线网络 | 1000BASE-T/100BASE-TX / 10BASE-T |
 | 音频 | PCM音源（24位立体声）、英特尔（R） High Definition Audio 标准、立体声扬声器 |
@@ -182,10 +182,10 @@
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、＋R、+R DL、＋RW、CD-Audio、CD-R、CD-ROM（支持XA）、 / PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、＋R、＋RW、CD-R、CD-RW |
 | 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
-| 显示屏 | WXGA(1280×800点)14.1英寸TFT彩色液晶 |
+| 显示屏 | WXGA(1280×800像素)14.1英寸TFT彩色液晶 |
 | 显示屏 / 色彩 | 1280×800像素：约1677万色 |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×800、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×800、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1280×800像素：约1677万色 |
 | 无线网络 | 英特尔（R） WiFi Link 5100AGN、符合IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0、（支持WPA-AES/TKIP、符合Wi-Fi） |
 | 有线网络 | 1000BASE-T/100BASE-TX / 10BASE-T |
 | 音频 | PCM音源（24位立体声）、英特尔（R） High Definition Audio 标准、立体声扬声器 |
@@ -223,10 +223,10 @@
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、＋R、+R DL、＋RW、CD-Audio、CD-R、CD-ROM（支持XA）、 / PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、＋R、＋RW、CD-R、CD-RW |
 | 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
-| 显示屏 | WXGA+(1440×900点)14.1英寸TFT彩色液晶 |
+| 显示屏 | WXGA+(1440×900像素)14.1英寸TFT彩色液晶 |
 | 显示屏 / 色彩 | 1440×900像素：约1677万色 |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1400×1050、1440×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1440×900点：约1677万色 |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1400×1050、1440×900、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1440×900像素：约1677万色 |
 | 无线网络 | 英特尔（R） WiFi Link 5100AGN、符合IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0、（支持WPA-AES/TKIP、符合Wi-Fi） |
 | 有线网络 | 1000BASE-T/100BASE-TX / 10BASE-T |
 | 音频 | PCM音源（24位立体声）、英特尔（R） High Definition Audio 标准、立体声扬声器 |
@@ -265,10 +265,10 @@
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、＋R、+R DL、＋RW、CD-Audio、CD-R、CD-ROM（支持XA）、 / PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、＋R、＋RW、CD-R、CD-RW |
 | 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
-| 显示屏 | WXGA+(1440×900点)14.1英寸TFT彩色液晶 |
+| 显示屏 | WXGA+(1440×900像素)14.1英寸TFT彩色液晶 |
 | 显示屏 / 色彩 | 1440×900像素：约1677万色 |
-| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1400×1050、1440×900、1680×1050、1600×1200、1920×1080、1920×1200点：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1440×900点：约1677万色 |
+| 显示屏 / 外接显示输出 | 800×600、1024×768、1280×768、1280×1024、1400×1050、1440×900、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×768、1440×900像素：约1677万色 |
 | 无线网络 | 英特尔（R） WiFi Link 5100AGN、符合IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0、（支持WPA-AES/TKIP、符合Wi-Fi） |
 | 有线网络 | 1000BASE-T/100BASE-TX / 10BASE-T |
 | 音频 | PCM音源（24位立体声）、英特尔（R） High Definition Audio 标准、立体声扬声器 |

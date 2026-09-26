@@ -31,10 +31,10 @@
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、＋R、+R DL、＋RW、CD-Audio、CD-R、CD-ROM（支持XA）、 / PhotoCD（支持多区段）、VideoCD、CD-EXTRA、CD-TEXT、CD-RW |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、＋R、＋RW、CD-R、CD-RW |
 | 软驱（选配） | USB连接外置3.5英寸3模式对应（1.44MB/1.2MB/720KB） |
-| 显示屏 | XGA (1024×768点) 12.1英寸TFT彩色液晶 |
+| 显示屏 | XGA (1024×768像素) 12.1英寸TFT彩色液晶 |
 | 显示屏 / 色彩 | 1024×768像素：约1677万色 |
 | 显示屏 / 外接显示输出 | 800x600、1024x768、1280x768、1280x1024、1400x1050、1440x900、1680x1050、1600x1200、1920x1080、1920x1200像素：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768像素：约1677万色 |
 | 无线网络 | 英特尔（R） WiFi Link 5100AGN、符合IEEE802.11a（W52/W53/W56）/b/g、符合IEEE802.11n draft 2.0、（支持WPA-AES/TKIP、符合Wi-Fi） |
 | 调制解调器 | 数据：56kbps（V.90） FAX：14.4kbps /不支持语音 |
 | 有线网络 | 1000BASE-T / 100BASE-TX / 10BASE-T |

@@ -27,9 +27,9 @@
 | :-- | :-- |
 | 显存 | 最大1696MB（与主内存共用） |
 | 光驱速度 / 写入 | DVD-RAM 最高5倍速[4.7GB]、DVD-R 最高8倍速、DVD-RW 最高6倍速、+R 最高8倍速、+RW 最高4倍速、CD-R 最高24倍速、CD-RW 4倍速、High Speed CD-RW 10倍速、DVD-R DL 最高6倍速、+R DL 最高6倍速、High Speed +RW 最高8倍速、Ultra Speed CD-RW 最高24倍速 |
-| 显示屏 / 色彩 | 1920×1080点：约1677万色 |
+| 显示屏 / 色彩 | 1920×1080像素：约1677万色 |
 | 显示屏 / 外接显示输出 | 1280×720、1360×768、1366×768、1600×900、800×600、1024×768、1280×768、1280×1024、1400×1050、1680×1050、1600×1200、1920×1080、1920×1200像素：约1677万色 |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×1024、1360X768、1366X768、1400Ｘ1050、1600Ｘ900、1680Ｘ1050、1600X1200、1920Ｘ1080点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×1024、1360X768、1366X768、1400Ｘ1050、1600Ｘ900、1680Ｘ1050、1600X1200、1920Ｘ1080像素：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N 6205 |
 | 无线网络 | 符合IEEE802.11a（W52/W53/W56）/b/g/n |
 | 有线网络 | 1000BASE-T/100BASE-TX/10BASE-T |
@@ -67,7 +67,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 显示屏 / 显卡 | 配备英特尔 HD 图形3000（内置于英特尔 Core i7-2675QM处理器） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
@@ -98,7 +98,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 显示屏 / 显卡 | 配备英特尔 HD 图形3000（内置于英特尔 Core i7-2675QM处理器） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
@@ -130,7 +130,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 显示屏 / 显卡 | 配备英特尔 HD 图形3000（内置于英特尔 Core i5-2540M vPro处理器） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
@@ -161,7 +161,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 显示屏 / 显卡 | 配备英特尔 HD 图形3000（内置于英特尔 Core i5-2540M vPro处理器） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
@@ -192,7 +192,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
 | 接口 | LAN接口（RJ-45）、外接显示器接口（模拟RGB 迷你Dsub 15针）、HDMI输出端子、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3）、USB2.0端口×3 |
@@ -221,7 +221,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R、最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、DVD-RAM、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM (支持XA)、CD-R、PhotoCD(支持多区段)、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、High Speed +RW、CD-R、CD-RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra-Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) Full HD TFT彩色液晶屏（1920 x 1080像素） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/支持UHS-I高速传输/支持版权保护技术） |
 | 接口 | LAN接口（RJ-45）、外接显示器接口（模拟RGB 迷你Dsub 15针）、HDMI输出端子、麦克风输入端子（立体声迷你插孔M3（支持插入式电源））、音频输出端子（立体声迷你插孔M3）、USB2.0端口×3 |
@@ -251,7 +251,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM（支持XA）、CD-R、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、CD-R、CD-RW、High Speed +RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) 全高清 TFT彩色液晶屏（1920x1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) 全高清 TFT彩色液晶屏（1920x1080像素） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/版权保护技术/支持UHS-I高速传输） |
 | 接口 | LAN接口（RJ-45）、外接显示器接口（模拟RGB 迷你Dsub 15针）、HDMI输出端子、麦克风输入（立体声迷你插孔M3（支持插入式电源））、音频输出（立体声迷你插孔M3）、USB端口×3（USB2.0） |
@@ -280,7 +280,7 @@
 | 光驱速度 / 读取 | DVD-RAM 最大5倍速[4.7GB]、DVD-R 最大8倍速、DVD-RW 最大8倍速、DVD-R DL 最大8倍速、DVD-ROM 最大8倍速、+R 最大8倍速、+R DL 最大8倍速、+RW 最大8倍速、High Speed +RW 最大8倍速、CD-ROM 最大24倍速、CD-R 最大24倍速、CD-RW 最大24倍速、High-Speed CD-RW 最大24倍速、Ultra-Speed CD-RW 最大24倍速 |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-RW、DVD-R DL、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-ROM（支持XA）、CD-R、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW、CD-TEXT |
 | 支持光盘 / 写入 | DVD-RAM、DVD-R、DVD-RW、+R、+RW、CD-R、CD-RW、High Speed +RW、High-Speed CD-RW、DVD-R DL、+R DL、Ultra Speed CD-RW |
-| 显示屏 | 15.6英寸宽屏(16:9) 全高清 TFT彩色液晶屏（1920x1080点） |
+| 显示屏 | 15.6英寸宽屏(16:9) 全高清 TFT彩色液晶屏（1920x1080像素） |
 | 安全芯片 | TPM（符合TCG V1.2） |
 | 卡槽 / SD 卡 | SD存储卡×1插槽（支持SDHC存储卡/SDXC存储卡/版权保护技术/支持UHS-I高速传输） |
 | 接口 | LAN接口（RJ-45）、外接显示器接口（模拟RGB 迷你Dsub 15针）、HDMI输出端子、麦克风输入（立体声迷你插孔M3（支持插入式电源））、音频输出（立体声迷你插孔M3）、USB端口×3（USB2.0） |

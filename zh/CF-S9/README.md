@@ -66,7 +66,7 @@
 | 光驱 | 内置超级多功能驱动器 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡 / （集成于英特尔 Core i5-560M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N + WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源(24位立体声)、符合英特尔 High Definition Audio标准、单声道扬声器 |
@@ -101,7 +101,7 @@
 | 光驱 | 内置超级多功能驱动器 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡 / （集成于英特尔 Core i5-560M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N + WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源(24位立体声)、符合英特尔 High Definition Audio标准、单声道扬声器 |
@@ -137,7 +137,7 @@
 | 光驱 | 内置超级多功能驱动器 配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡 / （集成于英特尔 Core i5-560M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N + WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源(24位立体声)、符合英特尔 High Definition Audio标准、单声道扬声器 |
@@ -172,7 +172,7 @@
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡（集成于英特尔 Core i5-520M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
@@ -208,7 +208,7 @@
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡（集成于英特尔 Core i5-520M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
@@ -243,7 +243,7 @@
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、Ultra-Speed CD-RW |
 | 显示屏 / 显卡 | 英特尔 HD 显卡（集成于英特尔 Core i5-520M vPro 处理器） |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
@@ -278,7 +278,7 @@
 | 硬盘 | 250GB（Serial ATA）※在左述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、 / Ultra-Speed CD-RW |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
@@ -312,7 +312,7 @@
 | 硬盘 | 250GB（Serial ATA）※在左述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、 / Ultra-Speed CD-RW |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
@@ -346,7 +346,7 @@
 | 硬盘 | 250GB（Serial ATA）※在左述容量中，约12GB用作恢复区域，约300MB用作系统区域（用户不可使用） |
 | 光驱 | 内置超级多功能驱动器、配备缓冲区欠载错误防止功能（SmoothLink） |
 | 支持光盘 / 读取 | DVD-RAM、DVD-ROM、DVD-Video、DVD-R、DVD-R DL、DVD-RW、+R、+R DL、+RW、High Speed +RW、CD-Audio、CD-R、CD-ROM（支持XA）、PhotoCD（支持多区段）、VideoCD、CD EXTRA、CD-TEXT、CD-RW、High-Speed CD-RW、 / Ultra-Speed CD-RW |
-| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800点 / ：约1677万色 |
+| 显示屏 / 同时显示 | 800×600、1024×768、1280×720、1280×768、1280×800像素 / ：约1677万色 |
 | 无线通信模块 | 英特尔 Centrino Advanced-N+WiMAX 6250 |
 | 移动 WiMAX | 符合IEEE802.16e-2005（接收最大20Mbps、发送最大6Mbps） |
 | 音频 | PCM音源（24位立体声）、英特尔 High Definition Audio 标准、单声道扬声器 |
