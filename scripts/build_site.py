@@ -16,7 +16,7 @@ from generate import model_of
 from i18n import screen
 
 REPO = "https://github.com/yibie/panasonic-letsnote-specs"
-SITE = "https://yibie.github.io/panasonic-letsnote-specs/"
+SITE = "https://www.gtdstudy.com/panasonic-letsnote-specs/"
 DOCS = ROOT / "docs"
 THUMB_WIDTH = 480
 
